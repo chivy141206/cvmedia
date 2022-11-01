@@ -42,7 +42,7 @@ http://live-sg.cvacetv.ga/RTLII
 #EXTINF:-1 group-title="🇩🇪 | ĐỨC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/ProSieben_Logo_2015.svg/1200px-ProSieben_Logo_2015.svg.png",ProSieben
 http://live-sg.cvacetv.ga/ProSieben
 #EXTINF:-1 group-title="🇩🇪 | ĐỨC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/ProSieben_MAXX_Logo.svg/1280px-ProSieben_MAXX_Logo.svg.png",Pro7 MAXX
-
+http://live-sg.cvacetv.ga/Pro7
 #EXTINF:-1 group-title="🇩🇪 | ĐỨC" tvg-logo="https://upload.wikimedia.org/wikipedia/en/a/a3/SAT.1_logo_2016.png",SAT.1
 
 #EXTINF:-1 group-title="🇩🇪 | ĐỨC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Sat.1_Gold_HD_Logo_2019.svg/1200px-Sat.1_Gold_HD_Logo_2019.svg.png",SAT.1 Gold
@@ -86,7 +86,7 @@ http://live-sg.cvacetv.ga/RaiNews24
 #EXTINF:-1 group-title="🇹🇷 | THỔ NHĨ KỲ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/TRT_1_logo_%282021-%29.svg/640px-TRT_1_logo_%282021-%29.svg.png",TRT1
 http://live-sg.cvacetv.ga/TRT1
 #EXTINF:-1 group-title="🇹🇷 | THỔ NHĨ KỲ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/TRT_2_logo.svg/1200px-TRT_2_logo.svg.png",TRT2
-
+http://live-sg.cvacetv.ga/TRT2
 #EXTINF:-1 group-title="🇹🇷 | THỔ NHĨ KỲ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/TRT_Haber_Eyl%C3%BCl_2020_Logo.svg/1200px-TRT_Haber_Eyl%C3%BCl_2020_Logo.svg.png",TRT Haber
 http://live-sg.cvacetv.ga/TRT_Haber
 #EXTINF:-1 group-title="🇹🇷 | THỔ NHĨ KỲ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/TRT_T%C3%BCrk_logo.svg/2560px-TRT_T%C3%BCrk_logo.svg.png",TRT Turk
@@ -150,9 +150,9 @@ http://live-sg.cvacetv.ga/ABC
 #EXTINF:-1 group-title="🇺🇸 | MỸ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/FOX_wordmark-red_2.svg/1200px-FOX_wordmark-red_2.svg.png",FOX
 http://live-sg.cvacetv.ga/FOX
 #EXTINF:-1 group-title="🇺🇸 | MỸ" tvg-logo="https://st1.uvnimg.com/dims4/default/c7fd409/2147483647/thumbnail/1240x698/quality/75/?url=http%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2F57%2F9a%2F2ef55e7f4057beb6024842c8fdef%2Funiversal.jpg",Unimas
-
+http://live-sg.cvacetv.ga/Unimas
 #EXTINF:-1 group-title="🇺🇸 | MỸ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Logo_Univision_2019.svg/1024px-Logo_Univision_2019.svg.png",Univision
-
+http://live-sg.cvacetv.ga/Univision
 
 #----------------Australia-----------------
 #EXTINF:-1 group-title="🇦🇺 | ÚC" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/86/Network_10_logo_2018.svg/1200px-Network_10_logo_2018.svg.png",10 (Network Ten)

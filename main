@@ -1,0 +1,177 @@
+#EXTM3U url-tvg="http://live-sg.cvacetv.ga:8080/xmltv/channels,http://live3.cvacetv.ga:8080/xmltv/channels,http://live-vn.cvacetv.ga:8880/xmltv/channels,https://iptv-org.github.io/epg/guides/ru/tv.yandex.ru.epg.xml.gz,https://iptv-org.github.io/epg/guides/pl/programtv.onet.pl.epg.xml.gz,https://iptv-org.github.io/epg/guides/hr/maxtv.hrvatskitelekom.hr.epg.xml.gz,https://iptv-org.github.io/epg/guides/bg/tv.dir.bg.epg.xml.gz,https://iptv-org.github.io/epg/guides/us/directv.com.epg.xml.gz,https://trada.info/epg.xml"
+#EXTINF:-1 group-title="THIẾT YẾU - 50fps" tvg-id="vtv1hd" tvg-logo="https://cdn.hqth.me/logo/1.png",VTV1 HD
+http://live-vn.cvacetv.ga:8080/vtv1
+#EXTINF:-1 group-title="THIẾT YẾU - 50fps" tvg-id="vtv2hd" tvg-logo="https://cdn.hqth.me/logo/2.png",VTV2 HD
+http://live-vn.cvacetv.ga:8080/vtv2
+#EXTINF:-1 group-title="THIẾT YẾU - 50fps" tvg-id="vtv3hd" tvg-logo="https://cdn.hqth.me/logo/3.png",VTV3 HD
+http://live-vn.cvacetv.ga:8080/vtv3
+#EXTINF:-1 group-title="THIẾT YẾU - 50fps" tvg-id="vtv5hd" tvg-logo="https://cdn.hqth.me/logo/5.png",VTV5 HD
+http://live-vn.cvacetv.ga:8080/vtv5
+#EXTINF:-1 group-title="THIẾT YẾU - 50fps" tvg-id="htv2hd" tvg-logo="https://cdn.hqth.me/logo/50.png",HTV2 HD
+http://live-vn.cvacetv.ga:8080/htv2
+#EXTINF:-1 group-title="THIẾT YẾU - 50fps" tvg-id="htvthethaohd" tvg-logo="https://cdn.hqth.me/logo/56.png",HTV Thể thao HD
+http://live-vn.cvacetv.ga:8080/htvtt
+#EXTINF:-1 group-title="LIVE EVENTS" tvg-logo="https://cdn.hqth.me/cvmedia.png" tvg-id="",CVmedia Live 4K
+http://live-vn.cvacetv.ga:8080/4KUHD
+#EXTINF:-1 group-title="LIVE EVENTS" tvg-logo="https://cdn.hqth.me/cvmedia.png" tvg-id="",CVmedia Live 1
+http://live-vn.cvacetv.ga:8080/live1
+#EXTINF:-1 group-title="LIVE EVENTS" tvg-logo="https://cdn.hqth.me/cvmedia.png" tvg-id="",CVmedia Live 2
+http://live-vn.cvacetv.ga:8080/live2
+#EXTINF:-1 group-title="SETANTA SPORTS",Setanta Sports UA
+http://live-sg.cvacetv.ga:8080/stream/channelid/1268394914
+#EXTINF:-1 group-title="SETANTA SPORTS",Setanta Sports UA Plus
+http://live-sg.cvacetv.ga:8080/stream/channelid/1149052188
+#EXTINF:-1 group-title="STAR SPORTS - ẤN ĐỘ",Star Sports Select 1
+http://live-vn.cvacetv.ga:8880/stream/channelid/1650652848
+#EXTINF:-1 group-title="STAR SPORTS - ẤN ĐỘ",Star Sports Select 2
+http://live-vn.cvacetv.ga:8880/stream/channelid/2021115150
+#EXTINF:-1 group-title="CANAL+ SPORT - CH SÉC",Canal+ Sport CZ
+http://live3.cvacetv.ga:8080/stream/channelid/1513217624
+#EXTINF:-1 group-title="CANAL+ SPORT - CH SÉC",Canal+ Sport 2 CZ
+http://live3.cvacetv.ga:8080/stream/channelid/140459395
+#EXTINF:-1 group-title="MATCH TV - NGA" tvg-id="Match.ru",Маtch ТV
+http://live-sg.cvacetv.ga:8080/stream/channelid/301731277
+#EXTINF:-1 group-title="MATCH TV - NGA" tvg-id="MatchFutbol1.ru",Маtch Futbol 1
+http://live-sg.cvacetv.ga:8080/stream/channelid/1472356433
+#EXTINF:-1 group-title="MATCH TV - NGA" tvg-id="MatchFutbol2.ru",Маtch Futbol 2
+http://live-sg.cvacetv.ga:8080/stream/channelid/571322026
+#EXTINF:-1 group-title="MATCH TV - NGA" tvg-id="MatchFutbol3.ru",Маtch Futbol 3
+http://live-sg.cvacetv.ga:8080/stream/channelid/1017563489
+#EXTINF:-1 group-title="MATCH TV - NGA",Маtch Premier
+http://live-sg.cvacetv.ga:8080/stream/channelid/647006126
+#EXTINF:-1 group-title="ELEVEN SPORT - BA LAN",Eleven Sports 1
+http://live-sg.cvacetv.ga:8080/stream/channelid/299897060
+#EXTINF:-1 group-title="ELEVEN SPORT - BA LAN",Eleven Sports 2
+http://live-sg.cvacetv.ga:8080/stream/channelid/1078788079
+#EXTINF:-1 group-title="ELEVEN SPORT - BA LAN",Eleven Sports 3
+http://live-sg.cvacetv.ga:8080/stream/channelid/1450997750
+#EXTINF:-1 group-title="ELEVEN SPORT - BA LAN",Eleven Sports 4
+http://live-sg.cvacetv.ga:8080/stream/channelid/2075446000
+#EXTINF:-1 group-title="CANAL SPORT - BA LAN",Canal+ Sport 1
+http://live-sg.cvacetv.ga:8080/stream/channelid/1343237403
+#EXTINF:-1 group-title="CANAL SPORT - BA LAN",Canal+ Sport 2
+http://live-sg.cvacetv.ga:8080/stream/channelid/1187390163
+#EXTINF:-1 group-title="CANAL SPORT - BA LAN",Canal+ Sport 5
+http://live-sg.cvacetv.ga:8080/stream/channelid/1139937268
+#EXTINF:-1 group-title="CANAL SPORT - BA LAN",Canal+ Premium
+http://live-sg.cvacetv.ga:8080/stream/channelid/1688052141
+#EXTINF:-1 group-title="CANAL SPORT - BA LAN",Canal+ Family
+http://live-sg.cvacetv.ga:8080/stream/channelid/1947371474
+#EXTINF:-1 group-title="ZIGGO SPORT - HÀ LAN",Ziggo Sport Select
+http://live-sg.cvacetv.ga:8080/stream/channelid/506668637
+#EXTINF:-1 group-title="ZIGGO SPORT - HÀ LAN",Ziggo Sport Voetbal
+http://live-sg.cvacetv.ga:8080/stream/channelid/662775560
+#EXTINF:-1 group-title="ZIGGO SPORT - HÀ LAN",Ziggo Sport Tennis
+http://live-sg.cvacetv.ga:8080/stream/channelid/1142956792
+#EXTINF:-1 group-title="ZIGGO SPORT - HÀ LAN",Ziggo Sport Golf
+http://live-sg.cvacetv.ga:8080/stream/channelid/393249276
+#EXTINF:-1 group-title="ZIGGO SPORT - HÀ LAN",Ziggo Sport Docu
+http://live-sg.cvacetv.ga:8080/stream/channelid/426150340
+#EXTINF:-1 group-title="ZIGGO SPORT - HÀ LAN",Ziggo Sport Racing
+http://live-sg.cvacetv.ga:8080/stream/channelid/237052313
+#EXTINF:-1 group-title="POLSAT SPORT - BA LAN" tvg-id="PolsatSportPremium1.pl",Polsat Sport Premium 1
+http://live-vn.cvacetv.ga:8080/PolsatPre1
+#EXTINF:-1 group-title="POLSAT SPORT - BA LAN" tvg-id="PolsatSportPremium2.pl",Polsat Sport Premium 2
+http://live-vn.cvacetv.ga:8080/PolsatPre2
+#EXTINF:-1 group-title="POLSAT SPORT - BA LAN" tvg-id="PolsatSportPremium3PPV.pl",Polsat Sport Premium 3
+http://live-vn.cvacetv.ga:8080/PPV3
+#EXTINF:-1 group-title="POLSAT SPORT - BA LAN" tvg-id="PolsatSportPremium4PPV.pl",Polsat Sport Premium 4
+http://live-vn.cvacetv.ga:8080/PPV4
+#EXTINF:-1 group-title="POLSAT SPORT - BA LAN" tvg-id="PolsatSportPremium5PPV.pl",Polsat Sport Premium 5
+http://live-vn.cvacetv.ga:8080/PPV5
+#EXTINF:-1 group-title="POLSAT SPORT - BA LAN" tvg-id="PolsatSportPremium6PPV.pl",Polsat Sport Premium 6
+http://live-vn.cvacetv.ga:8080/PPV6
+#EXTINF:-1 group-title="POLSAT SPORT - BA LAN" tvg-id="PolsatSport.pl",Polsat Sport
+http://live-sg.cvacetv.ga:8080/stream/channelid/139858583
+#EXTINF:-1 group-title="POLSAT SPORT - BA LAN",Polsat Sport Extra
+http://live-sg.cvacetv.ga:8080/stream/channelid/530202586
+#EXTINF:-1 group-title="POLSAT SPORT - BA LAN",Polsat Sport News
+http://live-sg.cvacetv.ga:8080/stream/channelid/2042110647
+#EXTINF:-1 group-title="SPORT TV - BỒ ĐÀO NHA",Sport TV 1
+http://live-sg.cvacetv.ga:8080/stream/channelid/1642444086
+#EXTINF:-1 group-title="SPORT TV - BỒ ĐÀO NHA",Sport TV 2
+http://live-vn.cvacetv.ga:8880/stream/channelid/1990641538
+#EXTINF:-1 group-title="SPORT TV - BỒ ĐÀO NHA",Sport TV 3
+http://live-vn.cvacetv.ga:8880/stream/channelid/1597536732
+#EXTINF:-1 group-title="EUROSPORT" tvg-id="Eurosport1Poland.pl",Eurosport 1
+http://live-sg.cvacetv.ga:8080/stream/channelid/374522740
+#EXTINF:-1 group-title="EUROSPORT" tvg-id="Eurosport2Poland.pl",Eurosport 2
+http://live-sg.cvacetv.ga:8080/stream/channelid/675423042
+#EXTINF:-1 group-title="DIEMA SPORT",Diema Sport
+http://live-vn.cvacetv.ga:8880/stream/channelid/2011491260
+#EXTINF:-1 group-title="DIEMA SPORT" tvg-id="DiemaSport2.bg",Diema Sport 2
+http://live-vn.cvacetv.ga:8880/stream/channelid/1451071581
+#EXTINF:-1 group-title="MAX SPORT - BULGARIA",MAX Sport 1
+http://live-vn.cvacetv.ga:8880/stream/channelid/78844952
+#EXTINF:-1 group-title="MAX SPORT - BULGARIA",MAX Sport 2
+http://live-vn.cvacetv.ga:8880/stream/channelid/546626316
+#EXTINF:-1 group-title="MAX SPORT - BULGARIA" tvg-id="MaxSport3.bg",MAX Sport 3
+http://live-vn.cvacetv.ga:8880/stream/channelid/651398353
+#EXTINF:-1 group-title="SPORT KLUB" tvg-id="SportKlub1Croatia.hr",Sport Klub 1
+http://live-vn.cvacetv.ga:8880/stream/channelid/505085128
+#EXTINF:-1 group-title="SPORT KLUB" tvg-id="SportKlub2Serbia.rs",Sport Klub 2
+http://live-vn.cvacetv.ga:8880/stream/channelid/2127436116
+#EXTINF:-1 group-title="SPORT KLUB",Sport Klub 3
+http://live-vn.cvacetv.ga:8880/stream/channelid/1597892582
+#EXTINF:-1 group-title="SPORT KLUB" tvg-id="SportKlub4.rs",Sport Klub 4
+http://live-vn.cvacetv.ga:8880/stream/channelid/346963988
+#EXTINF:-1 group-title="SPORT KLUB" tvg-id="SportKlub5.rs",Sport Klub 5
+http://live-vn.cvacetv.ga:8880/stream/channelid/271301652
+#EXTINF:-1 group-title="SPORT KLUB" tvg-id="SportKlub6.rs",Sport Klub 6
+http://live-vn.cvacetv.ga:8880/stream/channelid/393979445
+#EXTINF:-1 group-title="THỂ THAO MỸ - CANADA" tvg-id="ESPN.us",ESPN US
+http://live-sg.cvacetv.ga/ESPN
+#EXTINF:-1 group-title="THỂ THAO MỸ - CANADA" tvg-id="ESPN2.us",ESPN2 US
+http://live-sg.cvacetv.ga/ESPN2
+#EXTINF:-1 group-title="THỂ THAO MỸ - CANADA" tvg-id="USANetworkEast.us",USA Network
+http://live-vn.cvacetv.ga:8080/USA
+#EXTINF:-1 group-title="THỂ THAO MỸ - CANADA" tvg-id="GolfChannel.us",NBC Golf
+http://live-vn.cvacetv.ga:8080/golf
+#EXTINF:-1 group-title="THỂ THAO MỸ - CANADA" tvg-id="FoxSports1.us",FS1
+http://live-sg.cvacetv.ga/FS1
+#EXTINF:-1 group-title="THỂ THAO MỸ - CANADA" tvg-id="FoxSports2.us",FS2
+http://live-sg.cvacetv.ga/FS2
+#EXTINF:-1 group-title="THỂ THAO MỸ - CANADA"tvg-id="TNTEast.us",TNT HD
+http://live-vn.cvacetv.ga:8080/TNT
+#EXTINF:-1 group-title="ESPN NAM MỸ",ESPN Mexico
+http://live-vn.cvacetv.ga:8880/stream/channelid/1685833075
+#EXTINF:-1 group-title="ESPN NAM MỸ",ESPN2 Mexico
+http://live-vn.cvacetv.ga:8880/stream/channelid/999113581
+#EXTINF:-1 group-title="ESPN NAM MỸ",ESPN3 Mexico
+http://live-vn.cvacetv.ga:8880/stream/channelid/2099117513
+#EXTINF:-1 group-title="ESPN NAM MỸ",ESPN Extra
+http://live-vn.cvacetv.ga:8880/stream/channelid/1592146672
+#EXTINF:-1 group-title="KÊNH QUẢNG BÁ - ANH",BBC One
+http://live-sg.cvacetv.ga/BBC1
+#EXTINF:-1 group-title="KÊNH QUẢNG BÁ - ANH",BBC Two
+http://live-sg.cvacetv.ga/BBC2
+#EXTINF:-1 group-title="KÊNH QUẢNG BÁ - ANH",BBC Red Button
+http://live-sg.cvacetv.ga/BBCRB1
+#EXTINF:-1 group-title="KÊNH QUẢNG BÁ - ANH",ITV
+http://live-sg.cvacetv.ga/ITV
+#EXTINF:-1 group-title="KÊNH QUẢNG BÁ - ANH",FreeSports
+http://live-sg.cvacetv.ga:8080/stream/channelid/136281050
+#EXTINF:-1 group-title="KÊNH QUẢNG BÁ - ÚC",10 HD
+http://live-vn.cvacetv.ga:8880/stream/channelid/105708463
+#EXTINF:-1 group-title="KÊNH QUẢNG BÁ - ÚC",10 Bold
+http://live-vn.cvacetv.ga:8880/stream/channelid/1297522816
+#EXTINF:-1 group-title="KÊNH QUẢNG BÁ - ÚC",7 HD
+http://live-vn.cvacetv.ga:8880/stream/channelid/1671914353
+#EXTINF:-1 group-title="KÊNH QUẢNG BÁ - ÚC",9 HD
+http://live-vn.cvacetv.ga:8880/stream/channelid/658935006
+#EXTINF:-1 group-title="KÊNH QUẢNG BÁ - ÚC",9Gem HD
+http://live-vn.cvacetv.ga:8880/stream/channelid/1263890078
+#EXTINF:-1 group-title="KÊNH QUẢNG BÁ - ÚC",SBS One
+http://live-vn.cvacetv.ga:8880/stream/channelid/1189153990
+#EXTINF:-1 group-title="KÊNH QUẢNG BÁ - ĐỨC",Das Erste
+http://live-vn.cvacetv.ga:8880/stream/channelid/6585554
+#EXTINF:-1 group-title="KÊNH QUẢNG BÁ - ĐỨC",ZDF HD
+http://live-vn.cvacetv.ga:8880/stream/channelid/1474320966
+#EXTINF:-1 group-title="KÊNH QUẢNG BÁ - ĐỨC",RTL HD
+http://live-vn.cvacetv.ga:8880/stream/channelid/1477644081
+#EXTINF:-1 group-title="THỂ THAO KHÁC",bTV Action
+http://live-sg.cvacetv.ga:8080/stream/channelid/1218263110
+#EXTINF:-1 group-title="THỂ THAO KHÁC",Canal 11
+http://live-sg.cvacetv.ga:8080/stream/channelid/264345559
+#EXTINF:-1 group-title="THỂ THAO KHÁC",TVP Sport
+http://live-sg.cvacetv.ga:8080/stream/channelid/1343010492

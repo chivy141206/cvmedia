@@ -153,8 +153,6 @@ http://live-sg.cvacetv.ga/BBC2
 http://live-sg.cvacetv.ga/BBCRB1
 #EXTINF:-1 group-title="KÊNH QUẢNG BÁ - ANH",ITV
 http://live-sg.cvacetv.ga/ITV
-#EXTINF:-1 group-title="KÊNH QUẢNG BÁ - ANH",FreeSports
-http://live-sg.cvacetv.ga:8080/stream/channelid/136281050
 #EXTINF:-1 group-title="KÊNH QUẢNG BÁ - ÚC",10 HD
 http://live-vn.cvacetv.ga:8880/stream/channelid/105708463
 #EXTINF:-1 group-title="KÊNH QUẢNG BÁ - ÚC",10 Bold

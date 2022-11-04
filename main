@@ -70,13 +70,13 @@ http://live-sg.cvacetv.ga:8080/stream/channelid/426150340
 #EXTINF:-1 group-title="ZIGGO SPORT - HÀ LAN",Ziggo Sport Racing
 http://live-sg.cvacetv.ga:8080/stream/channelid/237052313
 #EXTINF:-1 group-title="ESPN HÀ LAN",ESPN NL
-http://0.tcp.ngrok.io:19970/espn
+http://live3.cvacetv.ga:8080/stream/channelid/942291892
 #EXTINF:-1 group-title="ESPN HÀ LAN",ESPN2 NL
-http://0.tcp.ngrok.io:19970/espn2
+http://live3.cvacetv.ga:8080/stream/channelid/497161327
 #EXTINF:-1 group-title="ESPN HÀ LAN",ESPN3 NL
-http://0.tcp.ngrok.io:19970/espn3
+http://live3.cvacetv.ga:8080/stream/channelid/937847507
 #EXTINF:-1 group-title="ESPN HÀ LAN",ESPN4 NL
-http://0.tcp.ngrok.io:19970/espn4
+http://live3.cvacetv.ga:8080/stream/channelid/1917699858
 #EXTINF:-1 group-title="POLSAT SPORT - BA LAN" tvg-id="PolsatSportPremium1.pl",Polsat Sport Premium 1
 http://live-vn.cvacetv.ga:8080/PolsatPre1
 #EXTINF:-1 group-title="POLSAT SPORT - BA LAN" tvg-id="PolsatSportPremium2.pl",Polsat Sport Premium 2

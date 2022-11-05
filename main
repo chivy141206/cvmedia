@@ -17,6 +17,10 @@ http://live-vn.cvacetv.ga:8080/4KUHD
 http://live-vn.cvacetv.ga:8080/live1
 #EXTINF:-1 group-title="LIVE EVENTS" tvg-logo="https://cdn.hqth.me/cvmedia.png" tvg-id="",CVmedia Live 2
 http://live-vn.cvacetv.ga:8080/live2
+#EXTINF:-1 group-title="SETANTA SPORTS",Setanta Sports 1
+http://live-sg.cvacetv.ga:8080/stream/channelid/1120636137
+#EXTINF:-1 group-title="SETANTA SPORTS",Setanta Sports 2
+http://live-sg.cvacetv.ga:8080/stream/channelid/2129388128
 #EXTINF:-1 group-title="SETANTA SPORTS",Setanta Sports UA
 http://live-sg.cvacetv.ga:8080/stream/channelid/1268394914
 #EXTINF:-1 group-title="SETANTA SPORTS",Setanta Sports UA Plus

@@ -119,6 +119,12 @@ http://live-vn.cvacetv.ga:8880/stream/channelid/78844952
 http://live-vn.cvacetv.ga:8880/stream/channelid/546626316
 #EXTINF:-1 group-title="MAX SPORT - BULGARIA" tvg-id="MaxSport3.bg",MAX Sport 3
 http://live-vn.cvacetv.ga:8880/stream/channelid/651398353
+#EXTINF:-1 group-title="SONY SPORTS - ẤN ĐỘ",Sony Sports 1
+http://live-vn.cvacetv.ga:8880/stream/channelid/703160174
+#EXTINF:-1 group-title="SONY SPORTS - ẤN ĐỘ",Sony Sports 2
+http://live-vn.cvacetv.ga:8880/stream/channelid/2094381400
+#EXTINF:-1 group-title="SONY SPORTS - ẤN ĐỘ",Sony Sports 5
+http://live-vn.cvacetv.ga:8880/stream/channelid/482995845
 #EXTINF:-1 group-title="SPORT KLUB" tvg-id="SportKlub1Croatia.hr",Sport Klub 1
 http://live-vn.cvacetv.ga:8880/stream/channelid/505085128
 #EXTINF:-1 group-title="SPORT KLUB" tvg-id="SportKlub2Serbia.rs",Sport Klub 2

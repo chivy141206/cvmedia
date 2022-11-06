@@ -17,6 +17,8 @@ http://live-vn.cvacetv.ga:8080/4KUHD
 http://live-vn.cvacetv.ga:8080/live1
 #EXTINF:-1 group-title="LIVE EVENTS" tvg-logo="https://cdn.hqth.me/cvmedia.png" tvg-id="",CVmedia Live 2
 http://live-vn.cvacetv.ga:8080/live2
+#EXTINF:-1 group-title="TEST",Sky Sport Top Event
+http://live-sg.cvacetv.ga:8080/stream/channelid/2137345979
 #EXTINF:-1 group-title="SETANTA SPORTS",Setanta Sports 1
 http://live-sg.cvacetv.ga:8080/stream/channelid/1120636137
 #EXTINF:-1 group-title="SETANTA SPORTS",Setanta Sports 2
@@ -103,8 +105,6 @@ http://live-sg.cvacetv.ga:8080/stream/channelid/2042110647
 http://live3.cvacetv.ga:8080/stream/channelid/1229260875
 #EXTINF:-1 group-title="DIGI SPORT - ROMANIA",Digi Sport 2
 http://live3.cvacetv.ga:8080/stream/channelid/1466833630
-#EXTINF:-1 group-title="SPORT TV - BỒ ĐÀO NHA",Sport TV 1
-http://live-sg.cvacetv.ga:8080/stream/channelid/1642444086
 #EXTINF:-1 group-title="SPORT TV - BỒ ĐÀO NHA",Sport TV 2
 http://live-vn.cvacetv.ga:8880/stream/channelid/1990641538
 #EXTINF:-1 group-title="SPORT TV - BỒ ĐÀO NHA",Sport TV 3

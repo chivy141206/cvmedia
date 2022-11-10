@@ -17,14 +17,6 @@ http://live-vn.cvacetv.ga:8080/4KUHD
 http://live-vn.cvacetv.ga:8080/live1
 #EXTINF:-1 group-title="LIVE EVENTS" tvg-logo="https://cdn.hqth.me/cvmedia.png" tvg-id="",CVmedia Live 2
 http://live-vn.cvacetv.ga:8080/live2
-#EXTINF:-1 group-title="SETANTA SPORTS",Setanta Sports 1
-http://live3.cvacetv.ga:8080/stream/channelid/1070026740
-#EXTINF:-1 group-title="SETANTA SPORTS",Setanta Sports 2
-http://live3.cvacetv.ga:8080/stream/channelid/228861698
-#EXTINF:-1 group-title="SETANTA SPORTS",Setanta Sports UA
-http://live3.cvacetv.ga:8080/stream/channelid/328257137
-#EXTINF:-1 group-title="SETANTA SPORTS",Setanta Sports UA Plus
-http://live3.cvacetv.ga:8080/stream/channelid/1672635209
 #EXTINF:-1 group-title="STAR SPORTS - ẤN ĐỘ",Star Sports Select 1
 http://live-vn.cvacetv.ga:8880/stream/channelid/1650652848
 #EXTINF:-1 group-title="STAR SPORTS - ẤN ĐỘ",Star Sports Select 2
@@ -43,6 +35,14 @@ http://live3.cvacetv.ga:8080/stream/channelid/273211888
 http://live3.cvacetv.ga:8080/stream/channelid/1245579723
 #EXTINF:-1 group-title="MATCH TV - NGA",Маtch Premier
 http://live3.cvacetv.ga:8080/stream/channelid/1011319346
+#EXTINF:-1 group-title="MOVISTAR - TÂY BAN NHA (TEST)",Movistar LC
+http://live3.cvacetv.ga:8080/stream/channelid/1712804443
+#EXTINF:-1 group-title="MOVISTAR - TÂY BAN NHA (TEST)",Movistar LC2
+http://live3.cvacetv.ga:8080/stream/channelid/1480432687
+#EXTINF:-1 group-title="MOVISTAR - TÂY BAN NHA (TEST)",Movistar Deportes
+http://live3.cvacetv.ga:8080/stream/channelid/1756982388
+#EXTINF:-1 group-title="MOVISTAR - TÂY BAN NHA (TEST)",DAZN F1
+http://live3.cvacetv.ga:8080/stream/channelid/1064269715
 #EXTINF:-1 group-title="ELEVEN SPORT - BA LAN",Eleven Sports 1
 http://live3.cvacetv.ga:8080/stream/channelid/836061641
 #EXTINF:-1 group-title="ELEVEN SPORT - BA LAN",Eleven Sports 2

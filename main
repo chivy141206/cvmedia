@@ -73,18 +73,6 @@ http://live3.cvacetv.ga:8080/stream/channelid/1127618614
 http://live3.cvacetv.ga:8080/stream/channelid/1403710339
 #EXTINF:-1 group-title="ZIGGO SPORT - HÀ LAN",Ziggo Sport Racing
 http://live3.cvacetv.ga:8080/stream/channelid/891465161
-#EXTINF:-1 group-title="POLSAT SPORT - BA LAN" tvg-id="PolsatSportPremium1.pl",Polsat Sport Premium 1
-http://live-vn.cvacetv.ga:8080/PolsatPre1
-#EXTINF:-1 group-title="POLSAT SPORT - BA LAN" tvg-id="PolsatSportPremium2.pl",Polsat Sport Premium 2
-http://live-vn.cvacetv.ga:8080/PolsatPre2
-#EXTINF:-1 group-title="POLSAT SPORT - BA LAN" tvg-id="PolsatSportPremium3PPV.pl",Polsat Sport Premium 3
-http://live-vn.cvacetv.ga:8080/PPV3
-#EXTINF:-1 group-title="POLSAT SPORT - BA LAN" tvg-id="PolsatSportPremium4PPV.pl",Polsat Sport Premium 4
-http://live-vn.cvacetv.ga:8080/PPV4
-#EXTINF:-1 group-title="POLSAT SPORT - BA LAN" tvg-id="PolsatSportPremium5PPV.pl",Polsat Sport Premium 5
-http://live-vn.cvacetv.ga:8080/PPV5
-#EXTINF:-1 group-title="POLSAT SPORT - BA LAN" tvg-id="PolsatSportPremium6PPV.pl",Polsat Sport Premium 6
-http://live-vn.cvacetv.ga:8080/PPV6
 #EXTINF:-1 group-title="POLSAT SPORT - BA LAN" tvg-id="PolsatSport.pl",Polsat Sport
 http://live3.cvacetv.ga:8080/stream/channelid/701074256
 #EXTINF:-1 group-title="POLSAT SPORT - BA LAN",Polsat Sport Extra
@@ -167,12 +155,6 @@ http://live-vn.cvacetv.ga:8880/stream/channelid/658935006
 http://live-vn.cvacetv.ga:8880/stream/channelid/1263890078
 #EXTINF:-1 group-title="KÊNH QUẢNG BÁ - ÚC",SBS One
 http://live-vn.cvacetv.ga:8880/stream/channelid/1189153990
-#EXTINF:-1 group-title="KÊNH QUẢNG BÁ - ĐỨC",Das Erste
-http://live-vn.cvacetv.ga:8880/stream/channelid/6585554
-#EXTINF:-1 group-title="KÊNH QUẢNG BÁ - ĐỨC",ZDF HD
-http://live-vn.cvacetv.ga:8880/stream/channelid/1474320966
-#EXTINF:-1 group-title="KÊNH QUẢNG BÁ - ĐỨC",RTL HD
-http://live-vn.cvacetv.ga:8880/stream/channelid/1477644081
 #EXTINF:-1 group-title="THỂ THAO KHÁC",bTV Action
 http://live3.cvacetv.ga:8080/stream/channelid/665399328
 #EXTINF:-1 group-title="THỂ THAO KHÁC",Canal 11

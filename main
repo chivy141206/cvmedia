@@ -126,17 +126,17 @@ http://live-vn.cvacetv.ga:8880/stream/channelid/271301652
 #EXTINF:-1 group-title="SPORT KLUB" tvg-id="SportKlub6.rs",Sport Klub 6
 http://live-vn.cvacetv.ga:8880/stream/channelid/393979445
 #EXTINF:-1 group-title="THỂ THAO MỸ - CANADA" tvg-id="ESPN.us",ESPN US
-http://live3.cvacetv.ga/ESPN
+http://live-vn.cvacetv.ga:8080/ESPN
 #EXTINF:-1 group-title="THỂ THAO MỸ - CANADA" tvg-id="ESPN2.us",ESPN2 US
-http://live3.cvacetv.ga/ESPN2
+http://live-vn.cvacetv.ga:8080/ESPN2
 #EXTINF:-1 group-title="THỂ THAO MỸ - CANADA" tvg-id="USANetworkEast.us",USA Network
 http://live-vn.cvacetv.ga:8080/USA
 #EXTINF:-1 group-title="THỂ THAO MỸ - CANADA" tvg-id="GolfChannel.us",NBC Golf
 http://live-vn.cvacetv.ga:8080/golf
 #EXTINF:-1 group-title="THỂ THAO MỸ - CANADA" tvg-id="FoxSports1.us",FS1
-http://live3.cvacetv.ga/FS1
+http://live-vn.cvacetv.ga:8080/FS1
 #EXTINF:-1 group-title="THỂ THAO MỸ - CANADA" tvg-id="FoxSports2.us",FS2
-http://live3.cvacetv.ga/FS2
+http://live-vn.cvacetv.ga:8080/FS2
 #EXTINF:-1 group-title="THỂ THAO MỸ - CANADA"tvg-id="TNTEast.us",TNT HD
 http://live-vn.cvacetv.ga:8080/TNT
 #EXTINF:-1 group-title="ESPN NAM MỸ",ESPN Mexico

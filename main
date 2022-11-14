@@ -117,8 +117,6 @@ http://vn1.cvacetv.ga:8880/stream/channelid/1247244408
 http://vn1.cvacetv.ga:8880/stream/channelid/1545598529
 #EXTINF:-1 group-title="KÊNH QUẢNG BÁ - ÚC",SBS One
 http://vn1.cvacetv.ga:8880/stream/channelid/654604013
-#EXTINF:-1 group-title="THỂ THAO KHÁC",bTV Action
-http://sg.cvacetv.ga:8080/stream/channelid/665399328
 #EXTINF:-1 group-title="THỂ THAO KHÁC",Canal 11
 http://sg.cvacetv.ga:8080/stream/channelid/2103119835
 #EXTINF:-1 group-title="THỂ THAO KHÁC",TVP Sport

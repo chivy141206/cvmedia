@@ -1,4 +1,4 @@
-#EXTM3U url-tvg="http://sg.cvacetv.ga:8080/xmltv/channels,http://vn1.cvacetv.ga:8880/xmltv/channels,https://iptv-org.github.io/epg/guides/ru/tv.yandex.ru.epg.xml.gz,https://iptv-org.github.io/epg/guides/pl/programtv.onet.pl.epg.xml.gz,https://iptv-org.github.io/epg/guides/hr/maxtv.hrvatskitelekom.hr.epg.xml.gz,https://iptv-org.github.io/epg/guides/bg/tv.dir.bg.epg.xml.gz,https://iptv-org.github.io/epg/guides/us/directv.com.epg.xml.gz,https://trada.info/epg.xml"
+#EXTM3U url-tvg="http://sg.cvacetv.ga:8080/xmltv/channels,http://vn1.cvacetv.ga:8880/xmltv/channels,https://iptv-org.github.io/epg/guides/ru/tv.yandex.ru.epg.xml.gz,https://iptv-org.github.io/epg/guides/pl/programtv.onet.pl.epg.xml.gz,https://iptv-org.github.io/epg/guides/hr/maxtv.hrvatskitelekom.hr.epg.xml.gz,https://iptv-org.github.io/epg/guides/bg/tv.dir.bg.epg.xml.gz,https://iptv-org.github.io/epg/guides/us/directv.com.epg.xml.gz,https://iptv-org.github.io/epg/guides/uk.xml,https://trada.info/epg.xml"
 #EXTINF:-1 group-title="THIẾT YẾU - 50fps" tvg-id="vtv1hd" tvg-logo="https://cdn.hqth.me/logo/1.png",VTV1 HD
 http://vn1.cvacetv.ga:8080/vtv1
 #EXTINF:-1 group-title="THIẾT YẾU - 50fps" tvg-id="vtv2hd" tvg-logo="https://cdn.hqth.me/logo/2.png",VTV2 HD
@@ -17,6 +17,14 @@ http://vn1.cvacetv.ga:8080/4KUHD
 http://vn1.cvacetv.ga:8080/live1
 #EXTINF:-1 group-title="LIVE EVENTS" tvg-logo="https://cdn.hqth.me/cvmedia.png" tvg-id="",CVmedia Live 2
 http://vn1.cvacetv.ga:8080/live2
+#EXTINF:-1 group-title="KÊNH QUẢNG BÁ - ANH" tvg-id="BBCOneHD.uk",BBC One
+http://sg.cvacetv.ga/BBC1
+#EXTINF:-1 group-title="KÊNH QUẢNG BÁ - ANH" tvg-id="BBCTwoHD.uk",BBC Two
+http://sg.cvacetv.ga/BBC2
+#EXTINF:-1 group-title="KÊNH QUẢNG BÁ - ANH" tvg-id="BBCRedButton1.uk",BBC Red Button
+http://sg.cvacetv.ga/BBCRB1
+#EXTINF:-1 group-title="KÊNH QUẢNG BÁ - ANH" tvg-id="ITV.uk",ITV
+http://sg.cvacetv.ga/ITV
 #EXTINF:-1 group-title="MATCH TV - NGA" tvg-id="Match.ru",Маtch ТV
 http://sg.cvacetv.ga:8080/stream/channelid/1218027869
 #EXTINF:-1 group-title="MATCH TV - NGA" tvg-id="MatchFutbol1.ru",Маtch Futbol 1
@@ -97,14 +105,6 @@ http://vn1.cvacetv.ga:8080/FS1
 http://vn1.cvacetv.ga:8080/FS2
 #EXTINF:-1 group-title="THỂ THAO MỸ - CANADA"tvg-id="TNTEast.us",TNT HD
 http://vn1.cvacetv.ga:8080/TNT
-#EXTINF:-1 group-title="KÊNH QUẢNG BÁ - ANH",BBC One
-http://sg.cvacetv.ga/BBC1
-#EXTINF:-1 group-title="KÊNH QUẢNG BÁ - ANH",BBC Two
-http://sg.cvacetv.ga/BBC2
-#EXTINF:-1 group-title="KÊNH QUẢNG BÁ - ANH",BBC Red Button
-http://sg.cvacetv.ga/BBCRB1
-#EXTINF:-1 group-title="KÊNH QUẢNG BÁ - ANH",ITV
-http://sg.cvacetv.ga/ITV
 #EXTINF:-1 group-title="KÊNH QUẢNG BÁ - ÚC",10 HD
 http://vn1.cvacetv.ga:8880/stream/channelid/2068134694
 #EXTINF:-1 group-title="KÊNH QUẢNG BÁ - ÚC",10 Bold

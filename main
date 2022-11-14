@@ -64,25 +64,25 @@ http://sg.cvacetv.ga:8080/stream/channelid/842661572
 #EXTINF:-1 group-title="POLSAT SPORT - BA LAN",Polsat Sport News
 http://sg.cvacetv.ga:8080/stream/channelid/1209045940
 #EXTINF:-1 group-title="SPORT TV - BỒ ĐÀO NHA",Sport TV 2
-http://vn1.cvacetv.ga:8880/stream/channelid/1990641538
+http://vn1.cvacetv.ga:8880/stream/channelid/49994801
 #EXTINF:-1 group-title="SPORT TV - BỒ ĐÀO NHA",Sport TV 3
-http://vn1.cvacetv.ga:8880/stream/channelid/1597536732
+http://vn1.cvacetv.ga:8880/stream/channelid/599677544
 #EXTINF:-1 group-title="EUROSPORT" tvg-id="Eurosport1Poland.pl",Eurosport 1
 http://sg.cvacetv.ga:8080/stream/channelid/1437693007
 #EXTINF:-1 group-title="EUROSPORT" tvg-id="Eurosport2Poland.pl",Eurosport 2
 http://sg.cvacetv.ga:8080/stream/channelid/714002887
 #EXTINF:-1 group-title="SPORT KLUB" tvg-id="SportKlub1Croatia.hr",Sport Klub 1
-http://vn1.cvacetv.ga:8880/stream/channelid/505085128
+http://vn1.cvacetv.ga:8880/stream/channelid/694277486
 #EXTINF:-1 group-title="SPORT KLUB" tvg-id="SportKlub2Serbia.rs",Sport Klub 2
-http://vn1.cvacetv.ga:8880/stream/channelid/2127436116
+http://vn1.cvacetv.ga:8880/stream/channelid/1911842429
 #EXTINF:-1 group-title="SPORT KLUB",Sport Klub 3
-http://vn1.cvacetv.ga:8880/stream/channelid/1597892582
+http://vn1.cvacetv.ga:8880/stream/channelid/1505308510
 #EXTINF:-1 group-title="SPORT KLUB" tvg-id="SportKlub4.rs",Sport Klub 4
-http://vn1.cvacetv.ga:8880/stream/channelid/346963988
+http://vn1.cvacetv.ga:8880/stream/channelid/1802040370
 #EXTINF:-1 group-title="SPORT KLUB" tvg-id="SportKlub5.rs",Sport Klub 5
-http://vn1.cvacetv.ga:8880/stream/channelid/271301652
+http://vn1.cvacetv.ga:8880/stream/channelid/637218869
 #EXTINF:-1 group-title="SPORT KLUB" tvg-id="SportKlub6.rs",Sport Klub 6
-http://vn1.cvacetv.ga:8880/stream/channelid/393979445
+http://vn1.cvacetv.ga:8880/stream/channelid/1098593197
 #EXTINF:-1 group-title="THỂ THAO MỸ - CANADA" tvg-id="ESPN.us",ESPN US
 http://vn1.cvacetv.ga:8080/ESPN
 #EXTINF:-1 group-title="THỂ THAO MỸ - CANADA" tvg-id="ESPN2.us",ESPN2 US
@@ -106,17 +106,17 @@ http://sg.cvacetv.ga/BBCRB1
 #EXTINF:-1 group-title="KÊNH QUẢNG BÁ - ANH",ITV
 http://sg.cvacetv.ga/ITV
 #EXTINF:-1 group-title="KÊNH QUẢNG BÁ - ÚC",10 HD
-http://vn1.cvacetv.ga:8880/stream/channelid/105708463
+http://vn1.cvacetv.ga:8880/stream/channelid/2068134694
 #EXTINF:-1 group-title="KÊNH QUẢNG BÁ - ÚC",10 Bold
-http://vn1.cvacetv.ga:8880/stream/channelid/1297522816
+http://vn1.cvacetv.ga:8880/stream/channelid/1408260350
 #EXTINF:-1 group-title="KÊNH QUẢNG BÁ - ÚC",7 HD
-http://vn1.cvacetv.ga:8880/stream/channelid/1671914353
+http://vn1.cvacetv.ga:8880/stream/channelid/1949641268
 #EXTINF:-1 group-title="KÊNH QUẢNG BÁ - ÚC",9 HD
-http://vn1.cvacetv.ga:8880/stream/channelid/658935006
+http://vn1.cvacetv.ga:8880/stream/channelid/1247244408
 #EXTINF:-1 group-title="KÊNH QUẢNG BÁ - ÚC",9Gem HD
-http://vn1.cvacetv.ga:8880/stream/channelid/1263890078
+http://vn1.cvacetv.ga:8880/stream/channelid/1545598529
 #EXTINF:-1 group-title="KÊNH QUẢNG BÁ - ÚC",SBS One
-http://vn1.cvacetv.ga:8880/stream/channelid/1189153990
+http://vn1.cvacetv.ga:8880/stream/channelid/654604013
 #EXTINF:-1 group-title="THỂ THAO KHÁC",bTV Action
 http://sg.cvacetv.ga:8080/stream/channelid/665399328
 #EXTINF:-1 group-title="THỂ THAO KHÁC",Canal 11

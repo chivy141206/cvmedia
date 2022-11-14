@@ -17,10 +17,6 @@ http://live-vn.cvacetv.ga:8080/4KUHD
 http://live-vn.cvacetv.ga:8080/live1
 #EXTINF:-1 group-title="LIVE EVENTS" tvg-logo="https://cdn.hqth.me/cvmedia.png" tvg-id="",CVmedia Live 2
 http://live-vn.cvacetv.ga:8080/live2
-#EXTINF:-1 group-title="STAR SPORTS - ẤN ĐỘ",Star Sports Select 1
-http://live3.cvacetv.ga:8080/stream/channelid/892537098
-#EXTINF:-1 group-title="STAR SPORTS - ẤN ĐỘ",Star Sports Select 2
-http://live3.cvacetv.ga:8080/stream/channelid/118393712
 #EXTINF:-1 group-title="CANAL+ SPORT - CH SÉC",Canal+ Sport CZ
 http://live3.cvacetv.ga:8080/stream/channelid/1513217624
 #EXTINF:-1 group-title="CANAL+ SPORT - CH SÉC",Canal+ Sport 2 CZ
@@ -79,10 +75,6 @@ http://live3.cvacetv.ga:8080/stream/channelid/701074256
 http://live3.cvacetv.ga:8080/stream/channelid/842661572
 #EXTINF:-1 group-title="POLSAT SPORT - BA LAN",Polsat Sport News
 http://live3.cvacetv.ga:8080/stream/channelid/1209045940
-#EXTINF:-1 group-title="DIGI SPORT - ROMANIA",Digi Sport 1
-http://live3.cvacetv.ga:8080/stream/channelid/1229260875
-#EXTINF:-1 group-title="DIGI SPORT - ROMANIA",Digi Sport 2
-http://live3.cvacetv.ga:8080/stream/channelid/1466833630
 #EXTINF:-1 group-title="SPORT TV - BỒ ĐÀO NHA",Sport TV 2
 http://live-vn.cvacetv.ga:8880/stream/channelid/1990641538
 #EXTINF:-1 group-title="SPORT TV - BỒ ĐÀO NHA",Sport TV 3
@@ -95,12 +87,6 @@ http://live3.cvacetv.ga:8080/stream/channelid/714002887
 http://live-vn.cvacetv.ga:8880/stream/channelid/2011491260
 #EXTINF:-1 group-title="DIEMA SPORT" tvg-id="DiemaSport2.bg",Diema Sport 2
 http://live-vn.cvacetv.ga:8880/stream/channelid/1451071581
-#EXTINF:-1 group-title="MAX SPORT - BULGARIA",MAX Sport 1
-http://live-vn.cvacetv.ga:8880/stream/channelid/78844952
-#EXTINF:-1 group-title="MAX SPORT - BULGARIA",MAX Sport 2
-http://live-vn.cvacetv.ga:8880/stream/channelid/546626316
-#EXTINF:-1 group-title="MAX SPORT - BULGARIA" tvg-id="MaxSport3.bg",MAX Sport 3
-http://live-vn.cvacetv.ga:8880/stream/channelid/651398353
 #EXTINF:-1 group-title="SPORT KLUB" tvg-id="SportKlub1Croatia.hr",Sport Klub 1
 http://live-vn.cvacetv.ga:8880/stream/channelid/505085128
 #EXTINF:-1 group-title="SPORT KLUB" tvg-id="SportKlub2Serbia.rs",Sport Klub 2

@@ -25,6 +25,10 @@ http://sg.cvacetv.ga/BBC2
 http://sg.cvacetv.ga/BBCRB1
 #EXTINF:-1 group-title="KÊNH QUẢNG BÁ - ANH" tvg-id="ITV.uk",ITV
 http://sg.cvacetv.ga/ITV
+#EXTINF:-1 group-title="SKY SPORT - ĐỨC",Sky Sport Tennis
+http://sg.cvacetv.ga:8080/stream/channelid/1273348011
+#EXTINF:-1 group-title="SKY SPORT - ĐỨC",Sky Sport F1
+http://sg.cvacetv.ga:8080/stream/channelid/1163928052
 #EXTINF:-1 group-title="MATCH TV - NGA" tvg-id="Match.ru",Маtch ТV
 http://sg.cvacetv.ga:8080/stream/channelid/1218027869
 #EXTINF:-1 group-title="MATCH TV - NGA" tvg-id="MatchFutbol1.ru",Маtch Futbol 1

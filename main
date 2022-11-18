@@ -17,14 +17,20 @@ http://vn1.cvacetv.ga:8080/4KUHD
 http://vn1.cvacetv.ga:8080/live1
 #EXTINF:-1 group-title="LIVE EVENTS" tvg-logo="https://cdn.hqth.me/cvmedia.png" tvg-id="",CVmedia Live 2
 http://vn1.cvacetv.ga:8080/live2
-#EXTINF:-1 group-title="KÊNH QUẢNG BÁ - ANH" tvg-id="BBCOneHD.uk",BBC One
-http://sg.cvacetv.ga/BBC1
-#EXTINF:-1 group-title="KÊNH QUẢNG BÁ - ANH" tvg-id="BBCTwoHD.uk",BBC Two
-http://sg.cvacetv.ga/BBC2
-#EXTINF:-1 group-title="KÊNH QUẢNG BÁ - ANH" tvg-id="BBCRedButton1.uk",BBC Red Button
-http://sg.cvacetv.ga/BBCRB1
-#EXTINF:-1 group-title="KÊNH QUẢNG BÁ - ANH" tvg-id="ITV.uk",ITV
-http://sg.cvacetv.ga/ITV
+#EXTINF:-1 group-title="FIFA WORLD CUP 2022" tvg-id="BBCOneHD.uk",BBC One
+http://vn2.cvacetv.ga/BBC1
+#EXTINF:-1 group-title="FIFA WORLD CUP 2022" tvg-id="BBCTwoHD.uk",BBC Two
+http://vn2.cvacetv.ga/BBC2
+#EXTINF:-1 group-title="FIFA WORLD CUP 2022" tvg-id="ITV.uk",ITV
+http://vn2.cvacetv.ga/ITV
+#EXTINF:-1 group-title="FIFA WORLD CUP 2022",SBS One
+http://vn1.cvacetv.ga:8880/stream/channelid/654604013
+#EXTINF:-1 group-title="FIFA WORLD CUP 2022",SBS Viceland
+http://vn1.cvacetv.ga:8880/stream/channelid/1289127708
+#EXTINF:-1 group-title="FIFA WORLD CUP 2022",FOX
+http://vn2.cvacetv.ga/FOX
+#EXTINF:-1 group-title="FIFA WORLD CUP 2022",TVP Sport
+http://vn2.cvacetv.ga/TVP_Sport
 #EXTINF:-1 group-title="SKY SPORT - ĐỨC",Sky Sport Tennis
 http://sg.cvacetv.ga:8080/stream/channelid/1273348011
 #EXTINF:-1 group-title="SKY SPORT - ĐỨC",Sky Sport F1
@@ -43,20 +49,12 @@ http://sg.cvacetv.ga:8080/stream/channelid/1011319346
 http://sg.cvacetv.ga:8080/stream/channelid/836061641
 #EXTINF:-1 group-title="ELEVEN SPORT - BA LAN",Eleven Sports 2
 http://sg.cvacetv.ga:8080/stream/channelid/1604309142
-#EXTINF:-1 group-title="ELEVEN SPORT - BA LAN",Eleven Sports 3
-http://sg.cvacetv.ga:8080/stream/channelid/1655748057
-#EXTINF:-1 group-title="ELEVEN SPORT - BA LAN",Eleven Sports 4
-http://sg.cvacetv.ga:8080/stream/channelid/1958327260
 #EXTINF:-1 group-title="CANAL SPORT - BA LAN",Canal+ Sport 1
 http://sg.cvacetv.ga:8080/stream/channelid/684151253
 #EXTINF:-1 group-title="CANAL SPORT - BA LAN",Canal+ Sport 2
 http://sg.cvacetv.ga:8080/stream/channelid/1705267767
 #EXTINF:-1 group-title="CANAL SPORT - BA LAN",Canal+ Sport 5
 http://sg.cvacetv.ga:8080/stream/channelid/1048689498
-#EXTINF:-1 group-title="CANAL SPORT - BA LAN",Canal+ Premium
-http://sg.cvacetv.ga:8080/stream/channelid/881008572
-#EXTINF:-1 group-title="CANAL SPORT - BA LAN",Canal+ Family
-http://sg.cvacetv.ga:8080/stream/channelid/1732441088
 #EXTINF:-1 group-title="ZIGGO SPORT - HÀ LAN",Ziggo Sport Select
 http://sg.cvacetv.ga:8080/stream/channelid/1500720339
 #EXTINF:-1 group-title="ZIGGO SPORT - HÀ LAN",Ziggo Sport Voetbal
@@ -109,19 +107,5 @@ http://vn1.cvacetv.ga:8080/FS1
 http://vn1.cvacetv.ga:8080/FS2
 #EXTINF:-1 group-title="THỂ THAO MỸ - CANADA"tvg-id="TNTEast.us",TNT HD
 http://vn1.cvacetv.ga:8080/TNT
-#EXTINF:-1 group-title="KÊNH QUẢNG BÁ - ÚC",10 HD
-http://vn1.cvacetv.ga:8880/stream/channelid/2068134694
-#EXTINF:-1 group-title="KÊNH QUẢNG BÁ - ÚC",10 Bold
-http://vn1.cvacetv.ga:8880/stream/channelid/1408260350
-#EXTINF:-1 group-title="KÊNH QUẢNG BÁ - ÚC",7 HD
-http://vn1.cvacetv.ga:8880/stream/channelid/1949641268
-#EXTINF:-1 group-title="KÊNH QUẢNG BÁ - ÚC",9 HD
-http://vn1.cvacetv.ga:8880/stream/channelid/1247244408
-#EXTINF:-1 group-title="KÊNH QUẢNG BÁ - ÚC",9Gem HD
-http://vn1.cvacetv.ga:8880/stream/channelid/1545598529
-#EXTINF:-1 group-title="KÊNH QUẢNG BÁ - ÚC",SBS One
-http://vn1.cvacetv.ga:8880/stream/channelid/654604013
 #EXTINF:-1 group-title="THỂ THAO KHÁC",Canal 11
 http://sg.cvacetv.ga:8080/stream/channelid/2103119835
-#EXTINF:-1 group-title="THỂ THAO KHÁC",TVP Sport
-http://sg.cvacetv.ga:8080/stream/channelid/1560768115

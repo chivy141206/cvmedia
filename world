@@ -225,21 +225,21 @@ http://sg.cvacetv.ga/NTV
 
 #----------------Netherlands-----------------
 #EXTINF:-1 group-title="🇳🇱 | HÀ LAN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/NPO_1_logo_2014.svg/1200px-NPO_1_logo_2014.svg.png",NPO1
-
+http://vn2.cvacetv.ga/NPO1
 #EXTINF:-1 group-title="🇳🇱 | HÀ LAN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/NPO_2_logo_2014.svg/1200px-NPO_2_logo_2014.svg.png",NPO2
-
+http://eu.cvacetv.ga/NPO2
 #EXTINF:-1 group-title="🇳🇱 | HÀ LAN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/NPO_3_logo_2014.svg/1200px-NPO_3_logo_2014.svg.png",NPO3
-
+http://eu.cvacetv.ga/NPO3
 #EXTINF:-1 group-title="🇳🇱 | HÀ LAN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4c/RTL4_Logo_2016.png",RTL4
-
+http://eu.cvacetv.ga/RTL4
 #EXTINF:-1 group-title="🇳🇱 | HÀ LAN" tvg-logo="https://upload.wikimedia.org/wikipedia/en/9/99/RTL_5_logo_2017.png",RTL5
-
+http://eu.cvacetv.ga/RTL5
 #EXTINF:-1 group-title="🇳🇱 | HÀ LAN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/SBS6-logo-2018.png/800px-SBS6-logo-2018.png",SBS6
-
+http://eu.cvacetv.ga/SBS6
 #EXTINF:-1 group-title="🇳🇱 | HÀ LAN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/RTL_7_Logo.svg/1920px-RTL_7_Logo.svg.png",RTL7
-
+http://eu.cvacetv.ga/RTL7
 #EXTINF:-1 group-title="🇳🇱 | HÀ LAN" tvg-logo="https://upload.wikimedia.org/wikipedia/en/9/92/RTL_8_logo_2017.png",RTL8
-
+http://eu.cvacetv.ga/RTL8
 
 #----------------Malaysia-----------------
 #EXTINF:-1 group-title="🇲🇾 | MALAYSIA" tvg-logo="https://i.imgur.com/wSyPmiY.png",TV1

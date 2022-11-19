@@ -69,9 +69,9 @@ http://sg.cvacetv.ga:8080/stream/channelid/273211888
 http://sg.cvacetv.ga:8080/stream/channelid/1245579723
 #EXTINF:-1 group-title="MATCH TV - NGA" tvg-id="MatchPremier.ru" tvg-logo="https://ntvplus.tv/files/image/02/31/08/sd0.png",Маtch Premier
 http://sg.cvacetv.ga:8080/stream/channelid/1011319346
-#EXTINF:-1 group-title="ELEVEN SPORT - BA LAN" tvg-id="https://ocdn.eu/ptv2-images/logo-migrated/eleven-sports-1-hd.png",Eleven Sports 1
+#EXTINF:-1 group-title="ELEVEN SPORT - BA LAN" tvg-logo="https://ocdn.eu/ptv2-images/logo-migrated/eleven-sports-1-hd.png",Eleven Sports 1
 http://sg.cvacetv.ga:8080/stream/channelid/836061641
-#EXTINF:-1 group-title="ELEVEN SPORT - BA LAN" tvg-id="https://ocdn.eu/ptv2-images/logo-migrated/eleven-sports-2.png",Eleven Sports 2
+#EXTINF:-1 group-title="ELEVEN SPORT - BA LAN" tvg-logo="https://ocdn.eu/ptv2-images/logo-migrated/eleven-sports-2.png",Eleven Sports 2
 http://sg.cvacetv.ga:8080/stream/channelid/1604309142
 #EXTINF:-1 group-title="CANAL SPORT - BA LAN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1a/Canal%2B_Sport_2015.png",Canal+ Sport 1
 http://sg.cvacetv.ga:8080/stream/channelid/684151253
@@ -79,9 +79,9 @@ http://sg.cvacetv.ga:8080/stream/channelid/684151253
 http://sg.cvacetv.ga:8080/stream/channelid/1705267767
 #EXTINF:-1 group-title="CANAL SPORT - BA LAN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/CANAL%2B_Sport_5.png/800px-CANAL%2B_Sport_5.png",Canal+ Sport 5
 http://sg.cvacetv.ga:8080/stream/channelid/1048689498
-#EXTINF:-1 group-title="ZIGGO SPORT - HÀ LAN" tvg-id="https://i.goalzz.com/?i=logo_sport%2Fziggo_sport_select.jpg",Ziggo Sport Select
+#EXTINF:-1 group-title="ZIGGO SPORT - HÀ LAN" tvg-logo="https://i.goalzz.com/?i=logo_sport%2Fziggo_sport_select.jpg",Ziggo Sport Select
 http://sg.cvacetv.ga:8080/stream/channelid/1500720339
-#EXTINF:-1 group-title="ZIGGO SPORT - HÀ LAN" tvg-id="https://i.goalzz.com/?i=logo_sport%2Fziggo_sport_voetball.jpg",Ziggo Sport Voetbal
+#EXTINF:-1 group-title="ZIGGO SPORT - HÀ LAN" tvg-logo="https://i.goalzz.com/?i=logo_sport%2Fziggo_sport_voetball.jpg",Ziggo Sport Voetbal
 http://sg.cvacetv.ga:8080/stream/channelid/414989288
 #EXTINF:-1 group-title="ZIGGO SPORT - HÀ LAN" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-ziggo-sport-tennis-2625.png",Ziggo Sport Tennis
 http://sg.cvacetv.ga:8080/stream/channelid/1547463735

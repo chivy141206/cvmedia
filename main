@@ -58,7 +58,7 @@ http://sg.cvacetv.ga:8080/stream/channelid/1273348011
 #EXTINF:-1 group-title="SKY SPORT - ĐỨC",Sky Sport F1
 http://sg.cvacetv.ga:8080/stream/channelid/1163928052
 #EXTINF:-1 group-title="MATCH TV - NGA" tvg-id="Match.ru" tvg-logo="https://ntvplus.tv/files/image/10/60/28/3d1.png",Маtch ТV
-http://sg.cvacetv.ga:8080/stream/channelid/1218027869
+http://vn2.cvacetv.ga/matchtv
 #EXTINF:-1 group-title="MATCH TV - NGA" tvg-id="MatchFutbol1.ru" tvg-logo="https://ntvplus.tv/files/image/01/17/29/mqs.png",Маtch Futbol 1
 http://sg.cvacetv.ga:8080/stream/channelid/1423012514
 #EXTINF:-1 group-title="MATCH TV - NGA" tvg-id="MatchFutbol2.ru" tvg-logo="https://ntvplus.tv/files/image/01/17/30/olz.png",Маtch Futbol 2

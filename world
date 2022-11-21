@@ -194,13 +194,13 @@ https://freelive.inwstream.com:1936/freelive-edge/mono29/playlist.m3u8
 
 #----------------Korea-----------------
 #EXTINF:-1 group-title="🇰🇷 | HÀN QUỐC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/SBS_Korea_Logo_%28Word_Only%29.svg/1200px-SBS_Korea_Logo_%28Word_Only%29.svg.png",SBS
-http://vn2.cvacetv.ga/SBS
+http://sg.cvacetv.ga/SBS
 #EXTINF:-1 group-title="🇰🇷 | HÀN QUỐC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/KBS_1_logo.svg/440px-KBS_1_logo.svg.png",KBS1
-http://vn2.cvacetv.ga/KBS1
+http://sg.cvacetv.ga/KBS1
 #EXTINF:-1 group-title="🇰🇷 | HÀN QUỐC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/KBS_2_logo.svg/1200px-KBS_2_logo.svg.png",KBS2
-http://vn2.cvacetv.ga/KBS2
+http://sg.cvacetv.ga/KBS2
 #EXTINF:-1 group-title="🇰🇷 | HÀN QUỐC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Munhwa_Broadcasting_Company.svg/2560px-Munhwa_Broadcasting_Company.svg.png",MBC
-http://vn2.cvacetv.ga/MBC
+http://sg.cvacetv.ga/MBC
 #EXTINF:-1 group-title="🇰🇷 | HÀN QUỐC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/EBS_1TV_Logo.svg/1200px-EBS_1TV_Logo.svg.png",EBS1
 https://ebsonair.ebs.co.kr/groundwavefamilypc/familypc1m/playlist.m3u8
 #EXTINF:-1 group-title="🇰🇷 | HÀN QUỐC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/EBS_2_logo.svg/2560px-EBS_2_logo.svg.png",EBS2

@@ -1,4 +1,4 @@
-#EXTM3U url-tvg="https://iptv-org.github.io/epg/guides/uk.xml,https://iptv-org.github.io/epg/guides/de.xml,https://iptv-org.github.io/epg/guides/fr.xml,https://iptv-org.github.io/epg/guides/it.xml,https://iptv-org.github.io/epg/guides/tr.xml,https://iptv-org.github.io/epg/guides/pt.xml,http://vn1.cvacetv.ga:8080/xmltv/channels"
+#EXTM3U url-tvg="https://iptv-org.github.io/epg/guides/uk.xml,https://iptv-org.github.io/epg/guides/de.xml,https://iptv-org.github.io/epg/guides/fr.xml,https://iptv-org.github.io/epg/guides/it.xml,https://iptv-org.github.io/epg/guides/tr.xml,https://iptv-org.github.io/epg/guides/pt.xml,https://iptv-org.github.io/epg/guides/pl.xml,https://iptv-org.github.io/epg/guides/us.xml,http://vn1.cvacetv.ga:8080/xmltv/channels"
 #----CÁC KÊNH ĐÁNH DẤU DRM CHỈ XEM ĐƯỢC TRÊN TIVIMATE, OTT NAVIGATOR----#
 #----------------UK-----------------
 #EXTINF:-1 group-title="🇬🇧 | ANH" tvg-id="BBCOneLondon.uk" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/BBC_One_logo_2021.svg/800px-BBC_One_logo_2021.svg.png",BBC One
@@ -117,17 +117,17 @@ http://sg.cvacetv.ga/SIC
 
 
 #----------------Poland-----------------
-#EXTINF:-1 group-title="🇵🇱 | BA LAN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/TVP1_2021_box-1.svg/1920px-TVP1_2021_box-1.svg.png",TVP 1
+#EXTINF:-1 group-title="🇵🇱 | BA LAN" tvg-id="TVP1.pl" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/TVP1_2021_box-1.svg/1920px-TVP1_2021_box-1.svg.png",TVP 1
 http://vn2.cvacetv.ga/TVP1
-#EXTINF:-1 group-title="🇵🇱 | BA LAN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/TVP2_2021_box-1.svg/800px-TVP2_2021_box-1.svg.png",TVP 2
+#EXTINF:-1 group-title="🇵🇱 | BA LAN" tvg-id="TVP2.pl" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/TVP2_2021_box-1.svg/800px-TVP2_2021_box-1.svg.png",TVP 2
 http://sg.cvacetv.ga/TVP2
-#EXTINF:-1 group-title="🇵🇱 | BA LAN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0a/TVP3_logo_2016.png",TVP 3
+#EXTINF:-1 group-title="🇵🇱 | BA LAN" tvg-id="TVP3Warszawa.pl" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0a/TVP3_logo_2016.png",TVP 3
 http://sg.cvacetv.ga/TVP3
-#EXTINF:-1 group-title="🇵🇱 | BA LAN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/TVP_HD_logo.svg/2560px-TVP_HD_logo.svg.png",TVP HD
+#EXTINF:-1 group-title="🇵🇱 | BA LAN" tvg-id="TVPHD.pl" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/TVP_HD_logo.svg/2560px-TVP_HD_logo.svg.png",TVP HD
 http://sg.cvacetv.ga/TVPHD
 #EXTINF:-1 group-title="🇵🇱 | BA LAN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/TVP_logo.svg/1280px-TVP_logo.svg.png",TVP Dokument
 
-#EXTINF:-1 group-title="🇵🇱 | BA LAN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/TVP_logo.svg/1280px-TVP_logo.svg.png",TVP Info
+#EXTINF:-1 group-title="🇵🇱 | BA LAN" tvg-id="TVPInfo.pl" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/TVP_logo.svg/1280px-TVP_logo.svg.png",TVP Info
 http://sg.cvacetv.ga/TVPInfo
 #EXTINF:-1 group-title="🇵🇱 | BA LAN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/TVP_logo.svg/1280px-TVP_logo.svg.png",TVP Kultura
 
@@ -137,21 +137,21 @@ http://sg.cvacetv.ga/TVPInfo
 
 #EXTINF:-1 group-title="🇵🇱 | BA LAN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Polsat_2_2021_gradient.svg/1200px-Polsat_2_2021_gradient.svg.png",Polsat 2
 
-#EXTINF:-1 group-title="🇵🇱 | BA LAN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Polsat_News_2021_gradient.svg/800px-Polsat_News_2021_gradient.svg.png",Polsat News
+#EXTINF:-1 group-title="🇵🇱 | BA LAN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Polsat_News_2021_gradient.svg/800px-Polsat_News_2021_gradient.svg.png" tvg-id="PolsatNews.pl",Polsat News
 http://sg.cvacetv.ga/PolsatNews
 
 #----------------USA-----------------
-#EXTINF:-1 group-title="🇺🇸 | MỸ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/NBC_logo.svg/800px-NBC_logo.svg.png",NBC
+#EXTINF:-1 group-title="🇺🇸 | MỸ" tvg-id="NBCEast.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/NBC_logo.svg/800px-NBC_logo.svg.png",NBC
 http://sg.cvacetv.ga/NBC
-#EXTINF:-1 group-title="🇺🇸 | MỸ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/CBS_logo.svg/2560px-CBS_logo.svg.png",CBS
+#EXTINF:-1 group-title="🇺🇸 | MỸ" tvg-id="CBSEast.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/CBS_logo.svg/2560px-CBS_logo.svg.png",CBS
 http://sg.cvacetv.ga/CBS
-#EXTINF:-1 group-title="🇺🇸 | MỸ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/ABC_%282013%29_Dark_Grey.svg/1200px-ABC_%282013%29_Dark_Grey.svg.png",ABC
+#EXTINF:-1 group-title="🇺🇸 | MỸ" tvg-id="ABCEast.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/ABC_%282013%29_Dark_Grey.svg/1200px-ABC_%282013%29_Dark_Grey.svg.png",ABC
 http://sg.cvacetv.ga/ABC
-#EXTINF:-1 group-title="🇺🇸 | MỸ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/FOX_wordmark-red_2.svg/1200px-FOX_wordmark-red_2.svg.png",FOX
+#EXTINF:-1 group-title="🇺🇸 | MỸ" tvg-id="FoxEast.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/FOX_wordmark-red_2.svg/1200px-FOX_wordmark-red_2.svg.png",FOX
 http://vn2.cvacetv.ga/FOX
-#EXTINF:-1 group-title="🇺🇸 | MỸ" tvg-logo="https://st1.uvnimg.com/dims4/default/c7fd409/2147483647/thumbnail/1240x698/quality/75/?url=http%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2F57%2F9a%2F2ef55e7f4057beb6024842c8fdef%2Funiversal.jpg",Unimas
+#EXTINF:-1 group-title="🇺🇸 | MỸ" tvg-id="UniMasEast.us" tvg-logo="https://st1.uvnimg.com/dims4/default/c7fd409/2147483647/thumbnail/1240x698/quality/75/?url=http%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2F57%2F9a%2F2ef55e7f4057beb6024842c8fdef%2Funiversal.jpg",Unimas
 http://sg.cvacetv.ga/Unimas
-#EXTINF:-1 group-title="🇺🇸 | MỸ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Logo_Univision_2019.svg/1024px-Logo_Univision_2019.svg.png",Univision
+#EXTINF:-1 group-title="🇺🇸 | MỸ" tvg-id="UnivisionEast.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Logo_Univision_2019.svg/1024px-Logo_Univision_2019.svg.png",Univision
 http://sg.cvacetv.ga/Univision
 
 #----------------Australia-----------------

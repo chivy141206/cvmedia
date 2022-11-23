@@ -4,13 +4,19 @@ http://vn2.cvacetv.ga/vtv1
 #EXTINF:-1 group-title="THIẾT YẾU - 50fps" tvg-id="vtv2hd" tvg-logo="https://cdn.hqth.me/logo/2.png",VTV2 HD
 http://vn1.cvacetv.ga/vtv2
 #EXTINF:-1 group-title="THIẾT YẾU - 50fps" tvg-id="vtv2hd" tvg-logo="https://cdn.hqth.me/logo/2.png",VTV2 HD
+http://vn2.cvacetv.ga/vtv2
+#EXTINF:-1 group-title="THIẾT YẾU - 50fps" tvg-id="vtv2hd" tvg-logo="https://cdn.hqth.me/logo/2.png",VTV2 HD
 http://sg.cvacetv.ga/vtv2
 #EXTINF:-1 group-title="THIẾT YẾU - 50fps" tvg-id="vtv3hd" tvg-logo="https://cdn.hqth.me/logo/3.png",VTV3 HD
 http://vn1.cvacetv.ga/vtv3
 #EXTINF:-1 group-title="THIẾT YẾU - 50fps" tvg-id="vtv3hd" tvg-logo="https://cdn.hqth.me/logo/3.png",VTV3 HD
+http://vn2.cvacetv.ga/vtv3
+#EXTINF:-1 group-title="THIẾT YẾU - 50fps" tvg-id="vtv3hd" tvg-logo="https://cdn.hqth.me/logo/3.png",VTV3 HD
 http://sg.cvacetv.ga/vtv3
 #EXTINF:-1 group-title="THIẾT YẾU - 50fps" tvg-id="vtv5hd" tvg-logo="https://cdn.hqth.me/logo/5.png",VTV5 HD
 http://vn1.cvacetv.ga/vtv5
+#EXTINF:-1 group-title="THIẾT YẾU - 50fps" tvg-id="vtv5hd" tvg-logo="https://cdn.hqth.me/logo/5.png",VTV5 HD
+http://vn2.cvacetv.ga/vtv5
 #EXTINF:-1 group-title="THIẾT YẾU - 50fps" tvg-id="vtv5hd" tvg-logo="https://cdn.hqth.me/logo/5.png",VTV5 HD
 http://sg.cvacetv.ga/vtv5
 #EXTINF:-1 group-title="LIVE EVENTS" tvg-logo="https://cdn.hqth.me/cvmedia.png",CVmedia Live 4K
@@ -29,10 +35,6 @@ http://vn2.cvacetv.ga/BBC1
 http://vn2.cvacetv.ga/BBC2
 #EXTINF:-1 group-title="FIFA WORLD CUP 2022" tvg-id="ITV.uk" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/9/92/ITV_logo_2013.svg/1200px-ITV_logo_2013.svg.png",ITV
 http://vn2.cvacetv.ga/ITV
-#EXTINF:-1 group-title="FIFA WORLD CUP 2022" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/83/SBS_Australia_Logo_%282019%29.svg/800px-SBS_Australia_Logo_%282019%29.svg.png",SBS One
-http://vn1.cvacetv.ga:8080/stream/channelid/654604013
-#EXTINF:-1 group-title="FIFA WORLD CUP 2022" tvg-logo="https://upload.wikimedia.org/wikipedia/en/6/6a/SBS_Viceland_logo_2016.png",SBS Viceland
-http://vn1.cvacetv.ga:8080/stream/channelid/1289127708
 #EXTINF:-1 group-title="FIFA WORLD CUP 2022" tvg-id="FoxEast.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Fox_Broadcasting_Company_logo_%282019%29.svg/1200px-Fox_Broadcasting_Company_logo_%282019%29.svg.png",FOX
 http://vn2.cvacetv.ga/FOX
 #EXTINF:-1 group-title="FIFA WORLD CUP 2022" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Logo_TVP_Sport.jpg/640px-Logo_TVP_Sport.jpg",TVP Sport

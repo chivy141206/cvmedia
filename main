@@ -20,7 +20,7 @@ http://vn2.cvacetv.ga/vtv5
 #EXTINF:-1 group-title="THIẾT YẾU - 50fps" tvg-id="vtv5hd" tvg-logo="https://cdn.hqth.me/logo/5.png",VTV5 HD
 http://sg.cvacetv.ga/vtv5
 #EXTINF:-1 group-title="LIVE EVENTS" tvg-logo="https://cdn.hqth.me/cvmedia.png",CVmedia Live 4K
-http://sg.cvacetv.ga/4KUHD
+http://vn1.cvacetv.ga/4KUHD
 #EXTINF:-1 group-title="LIVE EVENTS" tvg-logo="https://cdn.hqth.me/cvmedia.png",CVmedia Live 1
 http://vn1.cvacetv.ga/live1
 #EXTINF:-1 group-title="LIVE EVENTS" tvg-logo="https://cdn.hqth.me/cvmedia.png",CVmedia Live 2

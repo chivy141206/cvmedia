@@ -148,7 +148,7 @@ http://0.tcp.ngrok.io:19970/CBS
 #EXTINF:-1 group-title="🇺🇸 | MỸ" tvg-id="ABCEast.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/ABC_%282013%29_Dark_Grey.svg/1200px-ABC_%282013%29_Dark_Grey.svg.png",ABC
 http://0.tcp.ngrok.io:19970/ABC
 #EXTINF:-1 group-title="🇺🇸 | MỸ" tvg-id="FoxEast.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/FOX_wordmark-red_2.svg/1200px-FOX_wordmark-red_2.svg.png",FOX
-http://0.tcp.ngrok.io:19970/FOX
+http://vn1.cvacetv.ga/FOX
 #EXTINF:-1 group-title="🇺🇸 | MỸ" tvg-id="UniMasEast.us" tvg-logo="https://st1.uvnimg.com/dims4/default/c7fd409/2147483647/thumbnail/1240x698/quality/75/?url=http%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2F57%2F9a%2F2ef55e7f4057beb6024842c8fdef%2Funiversal.jpg",Unimas
 
 #EXTINF:-1 group-title="🇺🇸 | MỸ" tvg-id="UnivisionEast.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Logo_Univision_2019.svg/1024px-Logo_Univision_2019.svg.png",Univision

@@ -16,9 +16,9 @@ http://sg.cvacetv.ga/vtv5
 #EXTINF:-1 group-title="LIVE EVENTS" tvg-logo="https://cdn.hqth.me/cvmedia.png",CVmedia Live 4K
 http://vn3.cvacetv.ga/4K/mpegts
 #EXTINF:-1 group-title="LIVE EVENTS" tvg-logo="https://cdn.hqth.me/cvmedia.png",CVmedia Live 1
-http://vn1.cvacetv.ga/live1
+
 #EXTINF:-1 group-title="LIVE EVENTS" tvg-logo="https://cdn.hqth.me/cvmedia.png",CVmedia Live 2
-http://vn1.cvacetv.ga/live2
+
 #EXTINF:-1 group-title="FIFA WORLD CUP 2022" tvg-logo="https://raw.githubusercontent.com/chivy141206/cvmedia/main/wc1.png",CVmedia Live World Cup 1
 http://vn2.cvacetv.ga/WC1/mpegts
 #EXTINF:-1 group-title="FIFA WORLD CUP 2022" tvg-logo="https://raw.githubusercontent.com/chivy141206/cvmedia/main/wc2.png",CVmedia Live World Cup 2
@@ -32,9 +32,9 @@ http://vn2.cvacetv.ga/itv/mpegts
 #EXTINF:-1 group-title="FIFA WORLD CUP 2022" tvg-id="FoxEast.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Fox_Broadcasting_Company_logo_%282019%29.svg/1200px-Fox_Broadcasting_Company_logo_%282019%29.svg.png",FOX
 http://vn2.cvacetv.ga/FOX/mpegts
 #EXTINF:-1 group-title="FIFA WORLD CUP 2022" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/83/SBS_Australia_Logo_%282019%29.svg/800px-SBS_Australia_Logo_%282019%29.svg.png",SBS One
-http://vn1.cvacetv.ga:8080/stream/channelid/1390355282
+http://sg.cvacetv.ga/SBSOne
 #EXTINF:-1 group-title="FIFA WORLD CUP 2022" tvg-logo="https://upload.wikimedia.org/wikipedia/en/6/6a/SBS_Viceland_logo_2016.png",SBS Viceland
-http://vn1.cvacetv.ga:8080/stream/channelid/1499777929
+http://sg.cvacetv.ga/SBSViceland
 #EXTINF:-1 group-title="FIFA WORLD CUP 2022" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Das_Erste-Logo_klein.svg/1200px-Das_Erste-Logo_klein.svg.png",Das Erste
 http://vn2.cvacetv.ga/1de/mpegts
 #EXTINF:-1 group-title="FIFA WORLD CUP 2022" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/ZDF_HD_Logo.svg/2560px-ZDF_HD_Logo.svg.png",ZDF
@@ -88,9 +88,9 @@ http://sg.cvacetv.ga:8080/stream/channelid/842661572
 #EXTINF:-1 group-title="POLSAT SPORT - BA LAN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Polsat_Sport_News_2021_gradient.svg/1280px-Polsat_Sport_News_2021_gradient.svg.png",Polsat Sport News
 http://sg.cvacetv.ga:8080/stream/channelid/1209045940
 #EXTINF:-1 group-title="SPORT TV - BỒ ĐÀO NHA" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-pt-sport-tv-2-451.png",Sport TV 2
-http://vn1.cvacetv.ga:8080/stream/channelid/49994801
+http://sg.cvacetv.ga:8080/stream/channelid/1083599680
 #EXTINF:-1 group-title="SPORT TV - BỒ ĐÀO NHA" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-pt-sport-tv-3-452.png",Sport TV 3
-http://vn1.cvacetv.ga:8080/stream/channelid/599677544
+http://sg.cvacetv.ga:8080/stream/channelid/403378061
 #EXTINF:-1 group-title="THỂ THAO MỸ - CANADA" tvg-id="FoxSports1.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/2015_Fox_Sports_1_logo.svg/1200px-2015_Fox_Sports_1_logo.svg.png",FS1
 http://vn2.cvacetv.ga/FS1/mpegts
 #EXTINF:-1 group-title="THỂ THAO MỸ - CANADA" tvg-id="FoxSports2.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/FS2_logo_2015.svg/1200px-FS2_logo_2015.svg.png",FS2
@@ -109,17 +109,3 @@ http://0.tcp.ngrok.io:19970/TNT
 http://sg.cvacetv.ga:8080/stream/channelid/1437693007
 #EXTINF:-1 group-title="EUROSPORT" tvg-id="Eurosport2Poland.pl" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Eurosport_2_Logo_2015.svg/2560px-Eurosport_2_Logo_2015.svg.png",Eurosport 2
 http://sg.cvacetv.ga:8080/stream/channelid/714002887
-#EXTINF:-1 group-title="SPORT KLUB" tvg-id="SportKlub1Croatia.hr" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/44/Sportklub_1_HD.svg/revision/latest/scale-to-width-down/250?cb=20220305095758",Sport Klub 1
-http://vn1.cvacetv.ga:8080/stream/channelid/694277486
-#EXTINF:-1 group-title="SPORT KLUB" tvg-id="SportKlub2Serbia.rs" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/60/Sportklub_2_HD.svg/revision/latest/scale-to-width-down/250?cb=20220305141404",Sport Klub 2
-http://vn1.cvacetv.ga:8080/stream/channelid/1911842429
-#EXTINF:-1 group-title="SPORT KLUB" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/36/Sportklub_3_HD.svg/revision/latest/scale-to-width-down/250?cb=20220305193613",Sport Klub 3
-http://vn1.cvacetv.ga:8080/stream/channelid/1505308510
-#EXTINF:-1 group-title="SPORT KLUB" tvg-id="SportKlub4.rs" tvg-logo="https://nstatic.net/img/tv/channels/m/sport-klub-4.png",Sport Klub 4
-http://vn1.cvacetv.ga:8080/stream/channelid/1802040370
-#EXTINF:-1 group-title="SPORT KLUB" tvg-id="SportKlub5.rs" tvg-logo="https://nstatic.net/img/tv/channels/m/sport-klub-5.png",Sport Klub 5
-http://vn1.cvacetv.ga:8080/stream/channelid/637218869
-#EXTINF:-1 group-title="SPORT KLUB" tvg-id="SportKlub6.rs" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c9/SK_6.png/revision/latest?cb=20200415224810",Sport Klub 6
-http://vn1.cvacetv.ga:8080/stream/channelid/1098593197
-#EXTINF:-1 group-title="THỂ THAO KHÁC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Logo_Canal_11_FPF.svg/1200px-Logo_Canal_11_FPF.svg.png",Canal 11
-http://sg.cvacetv.ga:8080/stream/channelid/2103119835

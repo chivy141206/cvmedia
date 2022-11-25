@@ -1,20 +1,20 @@
 #EXTM3U url-tvg="http://sg.cvacetv.ga:8080/xmltv/channels,http://vn1.cvacetv.ga:8080/xmltv/channels,https://iptv-org.github.io/epg/guides/ru/tv.yandex.ru.epg.xml.gz,https://iptv-org.github.io/epg/guides/pl/programtv.onet.pl.epg.xml.gz,https://iptv-org.github.io/epg/guides/hr/maxtv.hrvatskitelekom.hr.epg.xml.gz,https://iptv-org.github.io/epg/guides/bg/tv.dir.bg.epg.xml.gz,https://iptv-org.github.io/epg/guides/uk.xml,https://iptv-org.github.io/epg/guides/fr.xml,https://iptv-org.github.io/epg/guides/us.xml,https://trada.info/epg.xml"
 #EXTINF:-1 group-title="THIẾT YẾU - 50fps" tvg-id="vtv1hd" tvg-logo="https://cdn.hqth.me/logo/1.png",VTV1 HD
-http://vn1.cvacetv.ga/vtv1
+http://vn2.cvacetv.ga/vtv1/mpegts
 #EXTINF:-1 group-title="THIẾT YẾU - 50fps" tvg-id="vtv2hd" tvg-logo="https://cdn.hqth.me/logo/2.png",VTV2 HD
-http://vn2.cvacetv.ga/vtv2
+http://vn2.cvacetv.ga/vtv2/mpegts
 #EXTINF:-1 group-title="THIẾT YẾU - 50fps" tvg-id="vtv2hd" tvg-logo="https://cdn.hqth.me/logo/2.png",VTV2 HD
 http://sg.cvacetv.ga/vtv2
 #EXTINF:-1 group-title="THIẾT YẾU - 50fps" tvg-id="vtv2hd" tvg-logo="https://cdn.hqth.me/logo/2.png",VTV2 HD
 http://sg2.cvacetv.ga/vtv2
 #EXTINF:-1 group-title="THIẾT YẾU - 50fps" tvg-id="vtv3hd" tvg-logo="https://cdn.hqth.me/logo/3.png",VTV3 HD
-http://vn2.cvacetv.ga/vtv3
+http://vn2.cvacetv.ga/vtv3/mpegts
 #EXTINF:-1 group-title="THIẾT YẾU - 50fps" tvg-id="vtv3hd" tvg-logo="https://cdn.hqth.me/logo/3.png",VTV3 HD
 http://sg.cvacetv.ga/vtv3
 #EXTINF:-1 group-title="THIẾT YẾU - 50fps" tvg-id="vtv3hd" tvg-logo="https://cdn.hqth.me/logo/3.png",VTV3 HD
 http://sg2.cvacetv.ga/vtv3
 #EXTINF:-1 group-title="THIẾT YẾU - 50fps" tvg-id="vtv5hd" tvg-logo="https://cdn.hqth.me/logo/5.png",VTV5 HD
-http://vn2.cvacetv.ga/vtv5
+http://vn2.cvacetv.ga/vtv5/mpegts
 #EXTINF:-1 group-title="THIẾT YẾU - 50fps" tvg-id="vtv5hd" tvg-logo="https://cdn.hqth.me/logo/5.png",VTV5 HD
 http://sg.cvacetv.ga/vtv5
 #EXTINF:-1 group-title="THIẾT YẾU - 50fps" tvg-id="vtv5hd" tvg-logo="https://cdn.hqth.me/logo/5.png",VTV5 HD
@@ -26,15 +26,15 @@ http://vn1.cvacetv.ga/live1
 #EXTINF:-1 group-title="LIVE EVENTS" tvg-logo="https://cdn.hqth.me/cvmedia.png",CVmedia Live 2
 http://vn1.cvacetv.ga/live2
 #EXTINF:-1 group-title="FIFA WORLD CUP 2022" tvg-logo="https://raw.githubusercontent.com/chivy141206/cvmedia/main/wc1.png",CVmedia Live World Cup 1
-http://vn2.cvacetv.ga/WC1
+http://vn2.cvacetv.ga/WC1/mpegts
 #EXTINF:-1 group-title="FIFA WORLD CUP 2022" tvg-logo="https://raw.githubusercontent.com/chivy141206/cvmedia/main/wc2.png",CVmedia Live World Cup 2
-http://vn2.cvacetv.ga/WC2
+http://vn2.cvacetv.ga/WC2/mpegts
 #EXTINF:-1 group-title="FIFA WORLD CUP 2022" tvg-id="BBCOneLondon.uk" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/BBC_One_logo_2021.svg/1200px-BBC_One_logo_2021.svg.png",BBC One
-http://vn2.cvacetv.ga/BBC1
+http://vn2.cvacetv.ga/bbc1/mpegts
 #EXTINF:-1 group-title="FIFA WORLD CUP 2022" tvg-id="BBCTwoEngland.uk" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/BBC_Two_logo_2021.svg/640px-BBC_Two_logo_2021.svg.png",BBC Two
-http://vn2.cvacetv.ga/BBC2
+http://vn2.cvacetv.ga/bbc2/mpegts
 #EXTINF:-1 group-title="FIFA WORLD CUP 2022" tvg-id="ITV.uk" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/9/92/ITV_logo_2013.svg/1200px-ITV_logo_2013.svg.png",ITV
-http://vn2.cvacetv.ga/ITV
+http://vn2.cvacetv.ga/itv/mpegts
 #EXTINF:-1 group-title="FIFA WORLD CUP 2022" tvg-id="FoxEast.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Fox_Broadcasting_Company_logo_%282019%29.svg/1200px-Fox_Broadcasting_Company_logo_%282019%29.svg.png",FOX
 http://vn1.cvacetv.ga/FOX
 #EXTINF:-1 group-title="FIFA WORLD CUP 2022" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/83/SBS_Australia_Logo_%282019%29.svg/800px-SBS_Australia_Logo_%282019%29.svg.png",SBS One
@@ -44,21 +44,21 @@ http://vn1.cvacetv.ga:8080/stream/channelid/1499777929
 #EXTINF:-1 group-title="FIFA WORLD CUP 2022" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Logo_TVP_Sport.jpg/640px-Logo_TVP_Sport.jpg",TVP Sport
 http://vn2.cvacetv.ga/TVP_Sport
 #EXTINF:-1 group-title="FIFA WORLD CUP 2022" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Das_Erste-Logo_klein.svg/1200px-Das_Erste-Logo_klein.svg.png",Das Erste
-http://vn2.cvacetv.ga/DasErste
+http://vn2.cvacetv.ga/1de/mpegts
 #EXTINF:-1 group-title="FIFA WORLD CUP 2022" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/ZDF_HD_Logo.svg/2560px-ZDF_HD_Logo.svg.png",ZDF
-http://vn2.cvacetv.ga/ZDF
+http://vn2.cvacetv.ga/ZDF/mpegts
 #EXTINF:-1 group-title="FIFA WORLD CUP 2022" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/NPO_1_logo_2014.svg/1200px-NPO_1_logo_2014.svg.png",NPO1
 http://vn2.cvacetv.ga/NPO1
 #EXTINF:-1 group-title="FIFA WORLD CUP 2022" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Rai_1_-_Logo_2016.svg/1200px-Rai_1_-_Logo_2016.svg.png",Rai 1
-http://vn2.cvacetv.ga/Rai1
+http://vn2.cvacetv.ga/Rai1/mpegts
 #EXTINF:-1 group-title="FIFA WORLD CUP 2022" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Rai_2_-_Logo_2016.svg/1200px-Rai_2_-_Logo_2016.svg.png",Rai 2
-http://vn2.cvacetv.ga/Rai2
+http://vn2.cvacetv.ga/Rai2/mpegts
 #EXTINF:-1 group-title="FIFA WORLD CUP 2022" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/KBS_1_logo.svg/440px-KBS_1_logo.svg.png",KBS1
-http://vn2.cvacetv.ga/KBS1
+http://vn2.cvacetv.ga/KBS1/mpegts
 #EXTINF:-1 group-title="FIFA WORLD CUP 2022" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/KBS_2_logo.svg/1200px-KBS_2_logo.svg.png",KBS2
-http://vn2.cvacetv.ga/KBS2
+http://vn2.cvacetv.ga/KBS2/mpegts
 #EXTINF:-1 group-title="MATCH TV - NGA" tvg-id="Match.ru" tvg-logo="https://ntvplus.tv/files/image/10/60/28/3d1.png",Маtch ТV
-http://vn2.cvacetv.ga/matchtv
+http://vn2.cvacetv.ga/matchtv/mpegts
 #EXTINF:-1 group-title="MATCH TV - NGA" tvg-id="MatchFutbol1.ru" tvg-logo="https://ntvplus.tv/files/image/01/17/29/mqs.png",Маtch Futbol 1
 http://vn1.cvacetv.ga/futbol1
 #EXTINF:-1 group-title="MATCH TV - NGA" tvg-id="MatchFutbol2.ru" tvg-logo="https://ntvplus.tv/files/image/01/17/30/olz.png",Маtch Futbol 2

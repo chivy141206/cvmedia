@@ -93,10 +93,12 @@ http://sg.cvacetv.ga:8080/stream/channelid/701074256
 http://sg.cvacetv.ga:8080/stream/channelid/842661572
 #EXTINF:-1 group-title="POLSAT SPORT - BA LAN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Polsat_Sport_News_2021_gradient.svg/1280px-Polsat_Sport_News_2021_gradient.svg.png",Polsat Sport News
 http://sg.cvacetv.ga:8080/stream/channelid/1209045940
-#EXTINF:-1 group-title="SPORT TV - BỒ ĐÀO NHA" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-pt-sport-tv-2-451.png",Sport TV 2
+#EXTINF:-1 group-title="THỂ THAO BỒ ĐÀO NHA" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-pt-sport-tv-2-451.png",Sport TV 2
 http://sg.cvacetv.ga:8080/stream/channelid/1083599680
-#EXTINF:-1 group-title="SPORT TV - BỒ ĐÀO NHA" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-pt-sport-tv-3-452.png",Sport TV 3
+#EXTINF:-1 group-title="THỂ THAO BỒ ĐÀO NHA" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-pt-sport-tv-3-452.png",Sport TV 3
 http://sg.cvacetv.ga:8080/stream/channelid/403378061
+#EXTINF:-1 group-title="THỂ THAO BỒ ĐÀO NHA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Logo_Canal_11_FPF.svg/1200px-Logo_Canal_11_FPF.svg.png",Canal 11
+http://sg.cvacetv.ga:8080/stream/channelid/2103119835
 #EXTINF:-1 group-title="THỂ THAO MỸ - CANADA" tvg-id="FoxSports2.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/FS2_logo_2015.svg/1200px-FS2_logo_2015.svg.png",FS2
 http://0.tcp.ngrok.io:19970/FS2
 #EXTINF:-1 group-title="THỂ THAO MỸ - CANADA" tvg-id="ESPN.us" tvg-logo="https://secure.espncdn.com/watchespn/images/channels/e748f3c0-3f7c-3088-a90a-0ccb2588e0ed.png",ESPN US

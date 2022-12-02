@@ -78,7 +78,7 @@ http://sg.cvacetv.ga/Rai2
 #EXTINF:-1 group-title="🇮🇹 | Ý" tvg-id="Rai3.it" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Rai_3_-_Logo_2016.svg/1200px-Rai_3_-_Logo_2016.svg.png",Rai 3
 http://sg.cvacetv.ga/Rai3
 #EXTINF:-1 group-title="🇮🇹 | Ý" tvg-id="RaiNews24.it" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Rai_News_24_logo_%282022%29.svg/1024px-Rai_News_24_logo_%282022%29.svg.png",Rai News 24
-http://sg.cvacetv.ga/RaiNews24
+
 #EXTINF:-1 group-title="🇮🇹 | Ý" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Canale_5_-_2018_logo.svg/1024px-Canale_5_-_2018_logo.svg.png",Mediaset Canale 5
 
 
@@ -172,25 +172,25 @@ http://sg.cvacetv.ga/SBSViceland
 
 #----------------Thailand-----------------
 #EXTINF:-1 group-title="🇹🇭 | THÁI LAN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d3/Ch3HDLogo.png",CH3
-https://freelive.inwstream.com:1936/freelive-edge/3hd/playlist.m3u8
+
 #EXTINF:-1 group-title="🇹🇭 | THÁI LAN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7e/TATV5_Logo_HD.png",CH5
-https://freelive.inwstream.com:1936/freelive-edge/5hd/playlist.m3u8
+
 #EXTINF:-1 group-title="🇹🇭 | THÁI LAN" tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/f3/BBTV_Channel_7.png",CH7
-https://freelive.inwstream.com:1936/freelive-edge/7hd/playlist.m3u8
+
 #EXTINF:-1 group-title="🇹🇭 | THÁI LAN" tvg-logo="https://cms.dmpcdn.com/livetv/2021/01/23/2c564460-5d75-11eb-9b73-89c5b53fdd5d_original.png",PPTV36
-https://freelive.inwstream.com:1936/freelive-edge/pptvhd/playlist.m3u8
+
 #EXTINF:-1 group-title="🇹🇭 | THÁI LAN" tvg-logo="https://upload.wikimedia.org/wikipedia/en/a/a8/One_31_Logo.png",ONE31
-https://freelive.inwstream.com:1936/freelive-edge/onehd/playlist.m3u8
+
 #EXTINF:-1 group-title="🇹🇭 | THÁI LAN" tvg-logo="https://upload.wikimedia.org/wikipedia/vi/5/52/GMM_25_Logo_dai_truyen_hinh.png",GMM25
-https://freelive.inwstream.com:1936/freelive-edge/onehd/playlist.m3u8
+
 #EXTINF:-1 group-title="🇹🇭 | THÁI LAN" tvg-logo="https://upload.wikimedia.org/wikipedia/en/6/64/Workpoint_TV_Logo.png",Workpoint TV
-https://freelive.inwstream.com:1936/freelive-edge/workpointtv/playlist.m3u8
+
 #EXTINF:-1 group-title="🇹🇭 | THÁI LAN" tvg-logo="https://upload.wikimedia.org/wikipedia/vi/3/30/Logo_kenh_9_mcot_thai_lan.png",MCOT30
-https://freelive.inwstream.com:1936/freelive-edge/mcothd/playlist.m3u8
+
 #EXTINF:-1 group-title="🇹🇭 | THÁI LAN" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/50/Thairath_TV_Logo.svg/1200px-Thairath_TV_Logo.svg.png",Thairath TV
-https://freelive.inwstream.com:1936/freelive-edge/thairahttvhd/playlist.m3u8
+
 #EXTINF:-1 group-title="🇹🇭 | THÁI LAN" tvg-logo="https://cms.dmpcdn.com/livetv/2019/01/10/35a35017-8473-4953-8474-5c58d805b74a.png",MONO29
-https://freelive.inwstream.com:1936/freelive-edge/mono29/playlist.m3u8
+
 
 #----------------Korea-----------------
 #EXTINF:-1 group-title="🇰🇷 | HÀN QUỐC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/SBS_Korea_Logo_%28Word_Only%29.svg/1200px-SBS_Korea_Logo_%28Word_Only%29.svg.png",SBS

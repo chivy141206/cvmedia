@@ -40,9 +40,9 @@ http://sg.cvacetv.ga/RTL
 #EXTINF:-1 group-title="🇩🇪 | ĐỨC" tvg-id="RTLZwei.de" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/RTLZWEI_Logo_2019.svg/800px-RTLZWEI_Logo_2019.svg.png",RTLII
 http://sg.cvacetv.ga/RTLII
 #EXTINF:-1 group-title="🇩🇪 | ĐỨC" tvg-id="ProSieben.de" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/ProSieben_Logo_2015.svg/1200px-ProSieben_Logo_2015.svg.png",ProSieben
-http://sg.cvacetv.ga/ProSieben
+
 #EXTINF:-1 group-title="🇩🇪 | ĐỨC" tvg-id="ProSiebenMaxxGermany.de" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/ProSieben_MAXX_Logo.svg/1280px-ProSieben_MAXX_Logo.svg.png",Pro7 MAXX
-http://sg.cvacetv.ga/Pro7
+
 #EXTINF:-1 group-title="🇩🇪 | ĐỨC" tvg-logo="https://upload.wikimedia.org/wikipedia/en/a/a3/SAT.1_logo_2016.png",SAT.1
 
 #EXTINF:-1 group-title="🇩🇪 | ĐỨC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Sat.1_Gold_HD_Logo_2019.svg/1200px-Sat.1_Gold_HD_Logo_2019.svg.png",SAT.1 Gold
@@ -52,23 +52,23 @@ http://sg.cvacetv.ga/Tag24
 
 #----------------France-----------------
 #EXTINF:-1 group-title="🇫🇷 | PHÁP" tvg-id="TF1.fr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/TF1_logo_2013.png/800px-TF1_logo_2013.png",TF1
-http://sg.cvacetv.ga/TF1
+
 #EXTINF:-1 group-title="🇫🇷 | PHÁP" tvg-id="France2.fr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/France_2_2018.svg/1024px-France_2_2018.svg.png",France 2
 http://sg.cvacetv.ga/France2
 #EXTINF:-1 group-title="🇫🇷 | PHÁP" tvg-id="France3.fr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/France_3_2018.svg/1200px-France_3_2018.svg.png",France 3
-http://sg.cvacetv.ga/France3
+
 #EXTINF:-1 group-title="🇫🇷 | PHÁP" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/France_4_2018.svg/1200px-France_4_2018.svg.png",France 4-Okoo
 
 #EXTINF:-1 group-title="🇫🇷 | PHÁP" tvg-id="France5.fr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/France_5_2018.svg/1200px-France_5_2018.svg.png",France 5
-http://sg.cvacetv.ga/France5
+
 #EXTINF:-1 group-title="🇫🇷 | PHÁP" tvg-id="M6.fr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Logo_M6_%282020%2C_fond_clair%29.svg/1200px-Logo_M6_%282020%2C_fond_clair%29.svg.png",M6
-http://sg.cvacetv.ga/M6
+
 #EXTINF:-1 group-title="🇫🇷 | PHÁP" tvg-id="C8.fr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Logo_C8.svg/1200px-Logo_C8.svg.png",C8
-http://sg.cvacetv.ga/C8
+
 #EXTINF:-1 group-title="🇫🇷 | PHÁP" tvg-id="W9.fr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/W9_2018.svg/1200px-W9_2018.svg.png",W9
-http://sg.cvacetv.ga/W9
+
 #EXTINF:-1 group-title="🇫🇷 | PHÁP" tvg-id="CNews.fr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Canal_News_logo.svg/1920px-Canal_News_logo.svg.png",C News
-http://sg.cvacetv.ga/CNews
+
 
 #----------------Italy-----------------
 #EXTINF:-1 group-title="🇮🇹 | Ý" tvg-id="Rai1.it" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Rai_1_-_Logo_2016.svg/1200px-Rai_1_-_Logo_2016.svg.png",Rai 1
@@ -94,21 +94,21 @@ http://sg.cvacetv.ga/TRT_Turk
 
 #----------------Austria-----------------
 #EXTINF:-1 group-title="🇦🇹 | ÁO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/ORF1_logo.svg/1200px-ORF1_logo.svg.png",ORF 1
-
+http://sg.cvacetv.ga/ORF1
 #EXTINF:-1 group-title="🇦🇹 | ÁO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/ORF2_logo_n.svg/1280px-ORF2_logo_n.svg.png",ORF 2
-
+http://sg.cvacetv.ga/ORF2
 
 #----------------Portugal-----------------
 #EXTINF:-1 group-title="🇵🇹 | BỒ ĐÀO NHA" tvg-id="RTP1.pt" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/RTP1_-_Logo_2016.svg/1920px-RTP1_-_Logo_2016.svg.png",RTP 1
-
+http://sg.cvacetv.ga/RTP1
 #EXTINF:-1 group-title="🇵🇹 | BỒ ĐÀO NHA" tvg-id="RTP2.pt" tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/4d/Rtp2_2016_logo.png",RTP 2
-
+http://sg.cvacetv.ga/RTP2
 #EXTINF:-1 group-title="🇵🇹 | BỒ ĐÀO NHA" tvg-id="RTP3.pt" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Rtp3.png/1920px-Rtp3.png",RTP 3
-
+http://sg.cvacetv.ga/RTP3
 #EXTINF:-1 group-title="🇵🇹 | BỒ ĐÀO NHA" tvg-id="AMCPortugal.pt" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/AMC_logo_2019.svg/1920px-AMC_logo_2019.svg.png",AMC
-
+http://sg.cvacetv.ga/AMC
 #EXTINF:-1 group-title="🇵🇹 | BỒ ĐÀO NHA" tvg-id="SIC.pt" tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/4d/Sociedade_Independente_de_Comunica%C3%A7%C3%A3o_Logo_2018.png",SIC
-
+http://sg.cvacetv.ga/SIC
 #EXTINF:-1 group-title="🇵🇹 | BỒ ĐÀO NHA" tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/4d/Sociedade_Independente_de_Comunica%C3%A7%C3%A3o_Logo_2018.png",SIC Noticias
 
 #EXTINF:-1 group-title="🇵🇹 | BỒ ĐÀO NHA" tvg-logo="https://upload.wikimedia.org/wikipedia/en/c/c4/Sicmulher.png",SIC Mulher

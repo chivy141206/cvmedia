@@ -17,10 +17,8 @@ http://sg2.cvacetv.ga/vtv5
 
 #EXTINF:-1 group-title="FIFA WORLD CUP 2022" tvg-logo="https://raw.githubusercontent.com/chivy141206/cvmedia/main/4k.png",CVmedia Live 4K
 http://live4k.cvacetv.ga/4KUHD
-#EXTINF:-1 group-title="FIFA WORLD CUP 2022" tvg-logo="https://raw.githubusercontent.com/chivy141206/cvmedia/main/4k.png",CVmedia Live 4K
-http://vn3.cvacetv.ga/4K/mpegts
 #EXTINF:-1 group-title="FIFA WORLD CUP 2022" tvg-logo="https://raw.githubusercontent.com/chivy141206/cvmedia/main/wc1.png",CVmedia Live World Cup 1
-http://sg.cvacetv.ga/WC1
+http://live4k.cvacetv.ga/WC1
 #EXTINF:-1 group-title="FIFA WORLD CUP 2022" tvg-logo="https://raw.githubusercontent.com/chivy141206/cvmedia/main/wc2.png",CVmedia Live World Cup 2
 
 #EXTINF:-1 group-title="FIFA WORLD CUP 2022" tvg-id="BBCOneLondon.uk" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/BBC_One_logo_2021.svg/1200px-BBC_One_logo_2021.svg.png",BBC One

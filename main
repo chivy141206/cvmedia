@@ -98,11 +98,11 @@ http://0.tcp.ngrok.io:19970/ESPN
 #EXTINF:-1 group-title="THỂ THAO MỸ - CANADA" tvg-id="ESPN2.us" tvg-logo="https://secure.espncdn.com/watchespn/images/channels/017f41a2-ef4f-39d3-9f45-f680b88cd23b.png",ESPN2 US
 http://0.tcp.ngrok.io:19970/ESPN2
 #EXTINF:-1 group-title="THỂ THAO MỸ - CANADA" tvg-id="USANetworkEast.us" tvg-logo="https://static.wikia.nocookie.net/bourne/images/f/fa/Logo-usa.png/revision/latest?cb=20191122145326",USA Network
-http://0.tcp.ngrok.io:19970/USA
+
 #EXTINF:-1 group-title="THỂ THAO MỸ - CANADA" tvg-id="GolfChannel.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Golf_Channel_Logo.png/1200px-Golf_Channel_Logo.png",NBC Golf
-http://0.tcp.ngrok.io:19970/golf
+
 #EXTINF:-1 group-title="THỂ THAO MỸ - CANADA"tvg-id="TNTEast.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/TNT_%28TV_Channel%29.svg/800px-TNT_%28TV_Channel%29.svg.png",TNT HD
-http://0.tcp.ngrok.io:19970/TNT
+
 #EXTINF:-1 group-title="EUROSPORT" tvg-id="Eurosport1Poland.pl" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Eurosport_1_Logo_2015.svg/2560px-Eurosport_1_Logo_2015.svg.png",Eurosport 1
 
 #EXTINF:-1 group-title="EUROSPORT" tvg-id="Eurosport2Poland.pl" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Eurosport_2_Logo_2015.svg/2560px-Eurosport_2_Logo_2015.svg.png",Eurosport 2

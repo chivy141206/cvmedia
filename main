@@ -10,29 +10,21 @@ http://vn2.cvacetv.ga/vtv5
 #EXTINF:-1 group-title="THIẾT YẾU - 50fps" tvg-id="vtv6hd" tvg-logo="https://cdn.hqth.me/logo/5.png",VTV Cần Thơ HD
 http://vn1.cvacetv.ga/VTVCT
 #EXTINF:-1 group-title="LIVE EVENTS" tvg-logo="https://cdn.hqth.me/cvmedia.png",CVmedia Live 1
-http://vn2.cvacetv.ga/live1
+
 #EXTINF:-1 group-title="FIFA WORLD CUP 2022" tvg-logo="https://raw.githubusercontent.com/chivy141206/cvmedia/main/4k.png",CVmedia Live 4K
 http://vn3.cvacetv.ga/4KUHD
 #EXTINF:-1 group-title="FIFA WORLD CUP 2022" tvg-logo="https://cdn.hqth.me/cvmedia.png",CVmedia Live World Cup FANS
 http://vn1.cvacetv.ga/FANS
 #EXTINF:-1 group-title="FIFA WORLD CUP 2022" tvg-logo="https://raw.githubusercontent.com/chivy141206/cvmedia/main/wc1.png",CVmedia Live World Cup 1
 http://vn1.cvacetv.ga/WC1
-#EXTINF:-1 group-title="FIFA WORLD CUP 2022" tvg-logo="https://raw.githubusercontent.com/chivy141206/cvmedia/main/wc2.png",CVmedia Live World Cup 2
-
 #EXTINF:-1 group-title="FIFA WORLD CUP 2022" tvg-id="BBCOneLondon.uk" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/BBC_One_logo_2021.svg/1200px-BBC_One_logo_2021.svg.png",BBC One
 http://sg.cvacetv.ga/BBC1
-#EXTINF:-1 group-title="FIFA WORLD CUP 2022" tvg-id="BBCTwoEngland.uk" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/BBC_Two_logo_2021.svg/640px-BBC_Two_logo_2021.svg.png",BBC Two
-http://sg.cvacetv.ga/BBC2
 #EXTINF:-1 group-title="FIFA WORLD CUP 2022" tvg-id="ITV.uk" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/9/92/ITV_logo_2013.svg/1200px-ITV_logo_2013.svg.png",ITV
 http://sg.cvacetv.ga/ITV
 #EXTINF:-1 group-title="FIFA WORLD CUP 2022" tvg-id="FoxEast.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Fox_Broadcasting_Company_logo_%282019%29.svg/1200px-Fox_Broadcasting_Company_logo_%282019%29.svg.png",FOX
 http://sg.cvacetv.ga/FOX
-#EXTINF:-1 group-title="FIFA WORLD CUP 2022" tvg-id="FoxSports1.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/2015_Fox_Sports_1_logo.svg/1200px-2015_Fox_Sports_1_logo.svg.png",FS1
-http://sg.cvacetv.ga/FS1
 #EXTINF:-1 group-title="FIFA WORLD CUP 2022" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/83/SBS_Australia_Logo_%282019%29.svg/800px-SBS_Australia_Logo_%282019%29.svg.png",SBS One
 http://sg.cvacetv.ga/SBSOne
-#EXTINF:-1 group-title="FIFA WORLD CUP 2022" tvg-logo="https://upload.wikimedia.org/wikipedia/en/6/6a/SBS_Viceland_logo_2016.png",SBS Viceland
-
 #EXTINF:-1 group-title="FIFA WORLD CUP 2022" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f6/DiemaSport3logo.png",Diema Sport 3
 http://sg.cvacetv.ga/Diema3
 #EXTINF:-1 group-title="FIFA WORLD CUP 2022" tvg-logo="https://play-lh.googleusercontent.com/jBDZq3aBmCXuvtuJHEasqsdYPRxMBGzYmEha4dMlgoIk19Zlh6BGQC08Zt6Ifrmzhg",beIN Sports
@@ -43,6 +35,10 @@ http://sg.cvacetv.ga/TVP_Sport
 http://vn1.cvacetv.ga/DasErste
 #EXTINF:-1 group-title="FIFA WORLD CUP 2022" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/ZDF_HD_Logo.svg/2560px-ZDF_HD_Logo.svg.png",ZDF
 http://vn1.cvacetv.ga/ZDF
+#EXTINF:-1 group-title="FIFA WORLD CUP 2022" tvg-logo="https://upload.wikimedia.org/wikipedia/en/6/63/TVI_logo_2017.png",TVI
+http://sg.cvacetv.ga/TVI
+#EXTINF:-1 group-title="FIFA WORLD CUP 2022" tvg-id="RTP1.pt" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/RTP1_-_Logo_2016.svg/1920px-RTP1_-_Logo_2016.svg.png",RTP 1
+http://sg.cvacetv.ga/RTP1
 #EXTINF:-1 group-title="FIFA WORLD CUP 2022" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/NPO_1_logo_2014.svg/1200px-NPO_1_logo_2014.svg.png",NPO1
 
 #EXTINF:-1 group-title="FIFA WORLD CUP 2022" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Rai_1_-_Logo_2016.svg/1200px-Rai_1_-_Logo_2016.svg.png",Rai 1
@@ -113,6 +109,9 @@ http://vn1.cvacetv.ga/SK6
 
 #EXTINF:-1 group-title="THỂ THAO BỒ ĐÀO NHA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Logo_Canal_11_FPF.svg/1200px-Logo_Canal_11_FPF.svg.png",Canal 11
 http://sg.cvacetv.ga:8080/stream/channelid/2103119835
+
+#EXTINF:-1 group-title="THỂ THAO MỸ - CANADA" tvg-id="FoxSports1.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/2015_Fox_Sports_1_logo.svg/1200px-2015_Fox_Sports_1_logo.svg.png",FS1
+http://0.tcp.ngrok.io:19970/FS1
 #EXTINF:-1 group-title="THỂ THAO MỸ - CANADA" tvg-id="FoxSports2.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/FS2_logo_2015.svg/1200px-FS2_logo_2015.svg.png",FS2
 http://0.tcp.ngrok.io:19970/FS2
 #EXTINF:-1 group-title="THỂ THAO MỸ - CANADA" tvg-id="ESPN.us" tvg-logo="https://secure.espncdn.com/watchespn/images/channels/e748f3c0-3f7c-3088-a90a-0ccb2588e0ed.png",ESPN US

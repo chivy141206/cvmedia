@@ -7,7 +7,7 @@ http://vn2.cvacetv.ga/vtv2
 http://vn2.cvacetv.ga/vtv3
 #EXTINF:-1 group-title="THIẾT YẾU - 50fps" tvg-id="vtv5hd" tvg-logo="https://cdn.hqth.me/logo/5.png",VTV5 HD
 http://vn2.cvacetv.ga/vtv5
-#EXTINF:-1 group-title="THIẾT YẾU - 50fps" tvg-id="vtv6hd" tvg-logo="https://cdn.hqth.me/logo/5.png",VTV Cần Thơ HD
+#EXTINF:-1 group-title="THIẾT YẾU - 50fps" tvg-id="vtv6hd" tvg-logo="https://raw.githubusercontent.com/chivy141206/cvmedia/main/vtvct.png",VTV Cần Thơ HD
 http://vn1.cvacetv.ga/VTVCT
 #EXTINF:-1 group-title="LIVE EVENTS" tvg-logo="https://cdn.hqth.me/cvmedia.png",CVmedia Live 1
 

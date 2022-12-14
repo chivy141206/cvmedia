@@ -13,6 +13,8 @@ http://vn1.cvacetv.ga/VTVCT
 http://vn2.cvacetv.ga/live1
 #EXTINF:-1 group-title="FIFA WORLD CUP 2022" tvg-logo="https://raw.githubusercontent.com/chivy141206/cvmedia/main/4k.png",CVmedia Live 4K
 http://vn3.cvacetv.ga/4KUHD
+#EXTINF:-1 group-title="FIFA WORLD CUP 2022" tvg-logo="https://cdn.hqth.me/cvmedia.png",CVmedia Live World Cup FANS
+http://vn1.cvacetv.ga/FANS
 #EXTINF:-1 group-title="FIFA WORLD CUP 2022" tvg-logo="https://raw.githubusercontent.com/chivy141206/cvmedia/main/wc1.png",CVmedia Live World Cup 1
 http://vn1.cvacetv.ga/WC1
 #EXTINF:-1 group-title="FIFA WORLD CUP 2022" tvg-logo="https://raw.githubusercontent.com/chivy141206/cvmedia/main/wc2.png",CVmedia Live World Cup 2

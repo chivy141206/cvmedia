@@ -72,7 +72,7 @@ http://sg.cvacetv.ga/France2
 
 #----------------Italy-----------------
 #EXTINF:-1 group-title="🇮🇹 | Ý" tvg-id="Rai1.it" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Rai_1_-_Logo_2016.svg/1200px-Rai_1_-_Logo_2016.svg.png",Rai 1
-http://sg.cvacetv.ga/Rai1
+http://vn1.cvacetv.ga/Rai1
 #EXTINF:-1 group-title="🇮🇹 | Ý" tvg-id="Rai2.it" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Rai_2_-_Logo_2016.svg/1200px-Rai_2_-_Logo_2016.svg.png",Rai 2
 http://sg.cvacetv.ga/Rai2
 #EXTINF:-1 group-title="🇮🇹 | Ý" tvg-id="Rai3.it" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Rai_3_-_Logo_2016.svg/1200px-Rai_3_-_Logo_2016.svg.png",Rai 3

@@ -35,8 +35,6 @@ http://sg.cvacetv.ga/TVP_Sport
 http://vn1.cvacetv.ga/DasErste
 #EXTINF:-1 group-title="FIFA WORLD CUP 2022" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/ZDF_HD_Logo.svg/2560px-ZDF_HD_Logo.svg.png",ZDF
 http://vn1.cvacetv.ga/ZDF
-#EXTINF:-1 group-title="FIFA WORLD CUP 2022" tvg-logo="https://upload.wikimedia.org/wikipedia/en/6/63/TVI_logo_2017.png",TVI
-http://sg.cvacetv.ga/TVI
 #EXTINF:-1 group-title="FIFA WORLD CUP 2022" tvg-id="RTP1.pt" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/RTP1_-_Logo_2016.svg/1920px-RTP1_-_Logo_2016.svg.png",RTP 1
 http://sg.cvacetv.ga/RTP1
 #EXTINF:-1 group-title="FIFA WORLD CUP 2022" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/NPO_1_logo_2014.svg/1200px-NPO_1_logo_2014.svg.png",NPO1

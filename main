@@ -78,9 +78,9 @@ http://vn1.cvacetv.ga/SK5
 #EXTINF:-1 group-title="SPORT KLUB" tvg-logo="https://images-web.ug-be.cdn.united.cloud/2022/08/30/10/13/03/s_index.png",Sport Klub 6
 http://vn1.cvacetv.ga/SK6
 #EXTINF:-1 group-title="THỂ THAO BỒ ĐÀO NHA" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-pt-sport-tv-2-451.png",Sport TV 2
-
+http://vn1.cvacetv.ga/SpTV2
 #EXTINF:-1 group-title="THỂ THAO BỒ ĐÀO NHA" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-pt-sport-tv-3-452.png",Sport TV 3
-
+http://vn1.cvacetv.ga/SpTV3
 #EXTINF:-1 group-title="THỂ THAO MỸ - CANADA" tvg-id="FoxSports1.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/2015_Fox_Sports_1_logo.svg/1200px-2015_Fox_Sports_1_logo.svg.png",FS1
 http://sg.cvacetv.ga/FS1
 #EXTINF:-1 group-title="THỂ THAO MỸ - CANADA" tvg-id="FoxSports2.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/FS2_logo_2015.svg/1200px-FS2_logo_2015.svg.png",FS2

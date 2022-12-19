@@ -1,4 +1,4 @@
-#EXTM3U url-tvg="http://sg.cvacetv.ga:8080/xmltv/channels,http://vn1.cvacetv.ga:8080/xmltv/channels,https://iptv-org.github.io/epg/guides/ru/tv.yandex.ru.epg.xml.gz,https://iptv-org.github.io/epg/guides/pl/programtv.onet.pl.epg.xml.gz,https://iptv-org.github.io/epg/guides/hr/maxtv.hrvatskitelekom.hr.epg.xml.gz,https://iptv-org.github.io/epg/guides/bg/tv.dir.bg.epg.xml.gz,https://iptv-org.github.io/epg/guides/uk.xml,https://iptv-org.github.io/epg/guides/fr.xml,https://iptv-org.github.io/epg/guides/us.xml,https://trada.info/epg.xml"
+#EXTM3U url-tvg="http://sg.cvacetv.ga:8080/xmltv/channels,https://iptv-org.github.io/epg/guides/ru/tv.yandex.ru.epg.xml.gz,https://iptv-org.github.io/epg/guides/pl/programtv.onet.pl.epg.xml.gz,https://iptv-org.github.io/epg/guides/hr/maxtv.hrvatskitelekom.hr.epg.xml.gz,https://iptv-org.github.io/epg/guides/bg/tv.dir.bg.epg.xml.gz,https://iptv-org.github.io/epg/guides/uk.xml,https://iptv-org.github.io/epg/guides/fr.xml,https://iptv-org.github.io/epg/guides/us.xml,https://trada.info/epg.xml"
 #EXTINF:-1 group-title="THIẾT YẾU - 50fps" tvg-id="vtv1hd" tvg-logo="https://cdn.hqth.me/logo/1.png",VTV1 HD
 http://vn2.cvacetv.ga/vtv1
 #EXTINF:-1 group-title="THIẾT YẾU - 50fps" tvg-id="vtv2hd" tvg-logo="https://cdn.hqth.me/logo/2.png",VTV2 HD
@@ -11,44 +11,8 @@ http://vn2.cvacetv.ga/vtv5
 http://vn1.cvacetv.ga/VTVCT
 #EXTINF:-1 group-title="LIVE EVENTS" tvg-logo="https://cdn.hqth.me/cvmedia.png",CVmedia Live 1
 http://vn2.cvacetv.ga/live1
-#EXTINF:-1 group-title="FIFA WORLD CUP 2022" tvg-logo="https://raw.githubusercontent.com/chivy141206/cvmedia/main/4k.png",CVmedia Live 4K
+#EXTINF:-1 group-title="LIVE EVENTS" tvg-logo="https://cdn.hqth.me/cvmedia.png",CVmedia Live 4K
 http://vn3.cvacetv.ga/4KUHD
-#EXTINF:-1 group-title="FIFA WORLD CUP 2022" tvg-logo="https://raw.githubusercontent.com/chivy141206/cvmedia/main/wc1.png",CVmedia Live World Cup 1
-http://vn1.cvacetv.ga/WC1
-#EXTINF:-1 group-title="FIFA WORLD CUP 2022" tvg-logo="https://cdn.hqth.me/cvmedia.png",CVmedia Live World Cup FANS
-http://vn1.cvacetv.ga/FANS
-#EXTINF:-1 group-title="FIFA WORLD CUP 2022" tvg-id="BBCOneLondon.uk" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/BBC_One_logo_2021.svg/1200px-BBC_One_logo_2021.svg.png",BBC One
-http://sg.cvacetv.ga/BBC1
-#EXTINF:-1 group-title="FIFA WORLD CUP 2022" tvg-id="ITV.uk" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/9/92/ITV_logo_2013.svg/1200px-ITV_logo_2013.svg.png",ITV
-http://sg.cvacetv.ga/ITV
-#EXTINF:-1 group-title="FIFA WORLD CUP 2022" tvg-id="FoxEast.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Fox_Broadcasting_Company_logo_%282019%29.svg/1200px-Fox_Broadcasting_Company_logo_%282019%29.svg.png",FOX
-http://sg.cvacetv.ga/FOX
-#EXTINF:-1 group-title="FIFA WORLD CUP 2022" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/83/SBS_Australia_Logo_%282019%29.svg/800px-SBS_Australia_Logo_%282019%29.svg.png",SBS One
-http://sg.cvacetv.ga/SBSOne
-#EXTINF:-1 group-title="FIFA WORLD CUP 2022" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f6/DiemaSport3logo.png",Diema Sport 3
-http://sg.cvacetv.ga/Diema3
-#EXTINF:-1 group-title="FIFA WORLD CUP 2022" tvg-logo="https://play-lh.googleusercontent.com/jBDZq3aBmCXuvtuJHEasqsdYPRxMBGzYmEha4dMlgoIk19Zlh6BGQC08Zt6Ifrmzhg",beIN Sports
-http://vn1.cvacetv.ga/beIN
-#EXTINF:-1 group-title="FIFA WORLD CUP 2022" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/6/65/CCTV-1_Logo.png",CCTV1
-http://vn1.cvacetv.ga/cctv1
-#EXTINF:-1 group-title="FIFA WORLD CUP 2022" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d7/Logo_TVP_Sport.jpg",TVP Sport
-http://sg.cvacetv.ga/TVP_Sport
-#EXTINF:-1 group-title="FIFA WORLD CUP 2022" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Das_Erste-Logo_klein.svg/1200px-Das_Erste-Logo_klein.svg.png",Das Erste
-http://vn1.cvacetv.ga/DasErste
-#EXTINF:-1 group-title="FIFA WORLD CUP 2022" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/ZDF_HD_Logo.svg/2560px-ZDF_HD_Logo.svg.png",ZDF
-http://vn1.cvacetv.ga/ZDF
-#EXTINF:-1 group-title="FIFA WORLD CUP 2022" tvg-id="RTP1.pt" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/RTP1_-_Logo_2016.svg/1920px-RTP1_-_Logo_2016.svg.png",RTP 1
-http://sg.cvacetv.ga/RTP1
-#EXTINF:-1 group-title="FIFA WORLD CUP 2022" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/NPO_1_logo_2014.svg/1200px-NPO_1_logo_2014.svg.png",NPO1
-
-#EXTINF:-1 group-title="FIFA WORLD CUP 2022" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Rai_1_-_Logo_2016.svg/1200px-Rai_1_-_Logo_2016.svg.png",Rai 1
-http://vn1.cvacetv.ga/Rai1
-#EXTINF:-1 group-title="FIFA WORLD CUP 2022" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Rai_2_-_Logo_2016.svg/1200px-Rai_2_-_Logo_2016.svg.png",Rai 2
-
-#EXTINF:-1 group-title="FIFA WORLD CUP 2022" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/KBS_1_logo.svg/440px-KBS_1_logo.svg.png",KBS1
-http://sg.cvacetv.ga/KBS1
-#EXTINF:-1 group-title="FIFA WORLD CUP 2022" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/KBS_2_logo.svg/1200px-KBS_2_logo.svg.png",KBS2
-http://sg.cvacetv.ga/KBS2
 #EXTINF:-1 group-title="MATCH TV - NGA" tvg-id="Match.ru" tvg-logo="https://ntvplus.tv/files/image/10/60/28/3d1.png",Маtch ТV
 http://sg.cvacetv.ga/matchtv
 #EXTINF:-1 group-title="MATCH TV - NGA" tvg-id="MatchFutbol1.ru" tvg-logo="https://ntvplus.tv/files/image/01/17/29/mqs.png",Маtch Futbol 1
@@ -63,24 +27,32 @@ http://sg.cvacetv.ga/matchpre
 http://sg.cvacetv.ga:8080/stream/channelid/836061641
 #EXTINF:-1 group-title="ELEVEN SPORT - BA LAN" tvg-logo="https://ocdn.eu/ptv2-images/logo-migrated/eleven-sports-2.png",Eleven Sports 2
 http://sg.cvacetv.ga:8080/stream/channelid/1604309142
+#EXTINF:-1 group-title="ELEVEN SPORT - BA LAN" tvg-logo="https://ocdn.eu/ptv2-images/logo-migrated/eleven-sports-3-hd.png",Eleven Sports 3
+http://sg.cvacetv.ga:8080/stream/channelid/1655748057
+#EXTINF:-1 group-title="ELEVEN SPORT - BA LAN" tvg-logo="https://www.digitaltveurope.com/files/2018/04/Screen-Shot-2018-04-13-at-12.47.22.png",Eleven Sports 4
+http://sg.cvacetv.ga:8080/stream/channelid/1958327260
 #EXTINF:-1 group-title="CANAL SPORT - BA LAN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1a/Canal%2B_Sport_2015.png",Canal+ Sport 1
 http://sg.cvacetv.ga:8080/stream/channelid/684151253
 #EXTINF:-1 group-title="CANAL SPORT - BA LAN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/40/Canal%2B_Sport_2_PL.png",Canal+ Sport 2
 http://sg.cvacetv.ga:8080/stream/channelid/1705267767
 #EXTINF:-1 group-title="CANAL SPORT - BA LAN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/CANAL%2B_Sport_5.png/800px-CANAL%2B_Sport_5.png",Canal+ Sport 5
 http://sg.cvacetv.ga:8080/stream/channelid/1048689498
+#EXTINF:-1 group-title="CANAL SPORT - BA LAN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Canal%2B_Premium.svg/1920px-Canal%2B_Premium.svg.png",Canal+ Premium
+http://sg.cvacetv.ga:8080/stream/channelid/881008572
+#EXTINF:-1 group-title="CANAL SPORT - BA LAN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/30/Canal%2B_Family_PL.png",Canal+ Family
+http://sg.cvacetv.ga:8080/stream/channelid/1732441088
 #EXTINF:-1 group-title="ZIGGO SPORT - HÀ LAN" tvg-logo="https://i.goalzz.com/?i=logo_sport%2Fziggo_sport_select.jpg",Ziggo Sport Select
-
+http://sg.cvacetv.ga:8080/stream/channelid/1500720339
 #EXTINF:-1 group-title="ZIGGO SPORT - HÀ LAN" tvg-logo="https://i.goalzz.com/?i=logo_sport%2Fziggo_sport_voetball.jpg",Ziggo Sport Voetbal
-
+http://sg.cvacetv.ga:8080/stream/channelid/414989288
 #EXTINF:-1 group-title="ZIGGO SPORT - HÀ LAN" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-ziggo-sport-tennis-2625.png",Ziggo Sport Tennis
-
+http://sg.cvacetv.ga:8080/stream/channelid/1547463735
 #EXTINF:-1 group-title="ZIGGO SPORT - HÀ LAN" tvg-logo="https://i.goalzz.com/?i=logo_sport%2fziggo_sport_golf.jpg",Ziggo Sport Golf
-
+http://sg.cvacetv.ga:8080/stream/channelid/1127618614
 #EXTINF:-1 group-title="ZIGGO SPORT - HÀ LAN" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-ziggo-docu-290.png",Ziggo Sport Docu
-
+http://sg.cvacetv.ga:8080/stream/channelid/1403710339
 #EXTINF:-1 group-title="ZIGGO SPORT - HÀ LAN" tvg-logo="https://i.goalzz.com/?i=o%2fh%2f1%2f851%2fziggo-sport-racing-1.png",Ziggo Sport Racing
-
+http://sg.cvacetv.ga:8080/stream/channelid/891465161
 #EXTINF:-1 group-title="POLSAT SPORT - BA LAN" tvg-id="PolsatSport.pl" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Polsat_Sport_2021_gradient.svg/800px-Polsat_Sport_2021_gradient.svg.png",Polsat Sport
 http://sg.cvacetv.ga:8080/stream/channelid/701074256
 #EXTINF:-1 group-title="POLSAT SPORT - BA LAN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Polsat_Sport_Extra_2021_gradient.svg/1280px-Polsat_Sport_Extra_2021_gradient.svg.png",Polsat Sport Extra
@@ -91,6 +63,8 @@ http://sg.cvacetv.ga:8080/stream/channelid/1209045940
 http://vn1.cvacetv.ga/Diema1
 #EXTINF:-1 group-title="DIEMA SPORT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/47/DS2_logo.png",Diema Sport 2
 http://vn1.cvacetv.ga/Diema2
+#EXTINF:-1 group-title="DIEMA SPORT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f6/DiemaSport3logo.png",Diema Sport 3
+http://sg.cvacetv.ga/Diema3
 #EXTINF:-1 group-title="SPORT KLUB" tvg-logo="https://images-web.ug-be.cdn.united.cloud/2020/05/28/13/02/26/sk1hd_logo_16_9_light_160x90_0e2f3e64_327f_4e23_bdc0_1109dec1113a.png",Sport Klub 1
 http://vn1.cvacetv.ga/SK1
 #EXTINF:-1 group-title="SPORT KLUB" tvg-logo="https://images-web.ug-be.cdn.united.cloud/2020/05/28/13/02/52/sk2hd_logo_16_9_light_160x90_b8e00d92_1743_4d96_b9e2_73e09c30fdd2.png",Sport Klub 2
@@ -106,9 +80,6 @@ http://vn1.cvacetv.ga/SK6
 #EXTINF:-1 group-title="THỂ THAO BỒ ĐÀO NHA" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-pt-sport-tv-2-451.png",Sport TV 2
 
 #EXTINF:-1 group-title="THỂ THAO BỒ ĐÀO NHA" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-pt-sport-tv-3-452.png",Sport TV 3
-
-#EXTINF:-1 group-title="THỂ THAO BỒ ĐÀO NHA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Logo_Canal_11_FPF.svg/1200px-Logo_Canal_11_FPF.svg.png",Canal 11
-http://sg.cvacetv.ga:8080/stream/channelid/2103119835
 
 #EXTINF:-1 group-title="THỂ THAO MỸ - CANADA" tvg-id="FoxSports1.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/2015_Fox_Sports_1_logo.svg/1200px-2015_Fox_Sports_1_logo.svg.png",FS1
 http://sg.cvacetv.ga/FS1
@@ -128,3 +99,7 @@ http://sg.cvacetv.ga/ESPN2
 
 #EXTINF:-1 group-title="EUROSPORT" tvg-id="Eurosport2Poland.pl" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Eurosport_2_Logo_2015.svg/2560px-Eurosport_2_Logo_2015.svg.png",Eurosport 2
 
+#EXTINF:-1 group-title="KHÁC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Logo_Canal_11_FPF.svg/1200px-Logo_Canal_11_FPF.svg.png",Canal 11
+http://sg.cvacetv.ga:8080/stream/channelid/2103119835
+#EXTINF:-1 group-title="KHÁC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d7/Logo_TVP_Sport.jpg",TVP Sport
+http://sg.cvacetv.ga/TVP_Sport

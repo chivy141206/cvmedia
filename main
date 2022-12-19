@@ -32,15 +32,15 @@ http://sg.cvacetv.ga:8080/stream/channelid/1655748057
 #EXTINF:-1 group-title="ELEVEN SPORT - BA LAN" tvg-logo="https://www.digitaltveurope.com/files/2018/04/Screen-Shot-2018-04-13-at-12.47.22.png",Eleven Sports 4
 http://sg.cvacetv.ga:8080/stream/channelid/1958327260
 #EXTINF:-1 group-title="CANAL SPORT - BA LAN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1a/Canal%2B_Sport_2015.png",Canal+ Sport 1
-http://sg.cvacetv.ga:8080/stream/channelid/684151253
+http://sg.cvacetv.ga/canalsp1
 #EXTINF:-1 group-title="CANAL SPORT - BA LAN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/40/Canal%2B_Sport_2_PL.png",Canal+ Sport 2
-http://sg.cvacetv.ga:8080/stream/channelid/1705267767
+http://sg.cvacetv.ga/canalsp2
 #EXTINF:-1 group-title="CANAL SPORT - BA LAN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/CANAL%2B_Sport_5.png/800px-CANAL%2B_Sport_5.png",Canal+ Sport 5
-http://sg.cvacetv.ga:8080/stream/channelid/1048689498
+http://sg.cvacetv.ga/canalsp5
 #EXTINF:-1 group-title="CANAL SPORT - BA LAN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Canal%2B_Premium.svg/1920px-Canal%2B_Premium.svg.png",Canal+ Premium
-http://sg.cvacetv.ga:8080/stream/channelid/881008572
+http://sg.cvacetv.ga/canalpre
 #EXTINF:-1 group-title="CANAL SPORT - BA LAN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/30/Canal%2B_Family_PL.png",Canal+ Family
-http://sg.cvacetv.ga:8080/stream/channelid/1732441088
+http://sg.cvacetv.ga/canalfam
 #EXTINF:-1 group-title="ZIGGO SPORT - HÀ LAN" tvg-logo="https://i.goalzz.com/?i=logo_sport%2Fziggo_sport_select.jpg",Ziggo Sport Select
 http://sg.cvacetv.ga:8080/stream/channelid/1500720339
 #EXTINF:-1 group-title="ZIGGO SPORT - HÀ LAN" tvg-logo="https://i.goalzz.com/?i=logo_sport%2Fziggo_sport_voetball.jpg",Ziggo Sport Voetbal
@@ -96,9 +96,9 @@ http://sg.cvacetv.ga/ESPN2
 #EXTINF:-1 group-title="THỂ THAO MỸ - CANADA"tvg-id="TNTEast.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/TNT_%28TV_Channel%29.svg/800px-TNT_%28TV_Channel%29.svg.png",TNT HD
 
 #EXTINF:-1 group-title="EUROSPORT" tvg-id="Eurosport1Poland.pl" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Eurosport_1_Logo_2015.svg/2560px-Eurosport_1_Logo_2015.svg.png",Eurosport 1
-
+http://sg.cvacetv.ga/es1
 #EXTINF:-1 group-title="EUROSPORT" tvg-id="Eurosport2Poland.pl" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Eurosport_2_Logo_2015.svg/2560px-Eurosport_2_Logo_2015.svg.png",Eurosport 2
-
+http://sg.cvacetv.ga/es2
 #EXTINF:-1 group-title="KHÁC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Logo_Canal_11_FPF.svg/1200px-Logo_Canal_11_FPF.svg.png",Canal 11
 http://sg.cvacetv.ga:8080/stream/channelid/2103119835
 #EXTINF:-1 group-title="KHÁC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d7/Logo_TVP_Sport.jpg",TVP Sport

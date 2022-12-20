@@ -11,6 +11,8 @@ http://vn2.cvacetv.ga/vtv5
 http://vn1.cvacetv.ga/VTVCT
 #EXTINF:-1 group-title="LIVE EVENTS" tvg-logo="https://cdn.hqth.me/cvmedia.png",CVmedia Live 1
 http://vn2.cvacetv.ga/live1
+#EXTINF:-1 group-title="LIVE EVENTS" tvg-logo="https://cdn.hqth.me/cvmedia.png",CVmedia Live 2
+http://vn2.cvacetv.ga/live2
 #EXTINF:-1 group-title="LIVE EVENTS" tvg-logo="https://cdn.hqth.me/cvmedia.png",CVmedia Live 4K
 http://vn3.cvacetv.ga/4KUHD
 #EXTINF:-1 group-title="MATCH TV - NGA" tvg-id="Match.ru" tvg-logo="https://ntvplus.tv/files/image/10/60/28/3d1.png",Маtch ТV

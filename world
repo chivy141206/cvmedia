@@ -292,6 +292,8 @@ https://tglmp03.akamaized.net/out/v1/435d5ae6f4734fde963642147a852bfb/manifest.m
 #----------------News-----------------
 #EXTINF:-1 group-title="TIN TỨC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/BBC_World_News_2022_%28Boxed%29.svg/640px-BBC_World_News_2022_%28Boxed%29.svg.png",BBC World News
 http://sg.cvacetv.ga/BBCWN
+#EXTINF:-1 group-title="TIN TỨC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/CNN.svg/1200px-CNN.svg.png",CNN
+http://sg.cvacetv.ga/CNN
 #EXTINF:-1 group-title="TIN TỨC" tvg-logo="https://upload.wikimedia.org/wikipedia/vi/8/83/Aljazeera.svg.png",Al Jazeera English
 http://sg.cvacetv.ga/AlJaEng
 #EXTINF:-1 group-title="TIN TỨC" tvg-logo="https://upload.wikimedia.org/wikipedia/vi/8/83/Aljazeera.svg.png",Al Jazeera Arabic

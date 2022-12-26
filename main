@@ -19,6 +19,10 @@ http://vn3.cvacetv.ga/4KUHD
 http://sg.cvacetv.ga:8080/stream/channelid/892537098
 #EXTINF:-1 group-title="STAR SPORTS - ẤN ĐỘ",Star Sports Select 2
 http://sg.cvacetv.ga:8080/stream/channelid/118393712
+#EXTINF:-1 group-title="DIGI SPORT - ROMANIA",Digi Sport 1
+http://vn2.cvacetv.ga/digi1
+#EXTINF:-1 group-title="DIGI SPORT - ROMANIA",Digi Sport 2
+http://vn2.cvacetv.ga/digi2
 #EXTINF:-1 group-title="MATCH TV - NGA" tvg-id="Match.ru" tvg-logo="https://ntvplus.tv/files/image/10/60/28/3d1.png",Маtch ТV
 http://sg.cvacetv.ga/matchtv
 #EXTINF:-1 group-title="MATCH TV - NGA" tvg-id="MatchFutbol1.ru" tvg-logo="https://ntvplus.tv/files/image/01/17/29/mqs.png",Маtch Futbol 1

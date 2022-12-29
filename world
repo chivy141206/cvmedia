@@ -243,31 +243,19 @@ http://sg.cvacetv.ga/NTV
 
 #----------------Malaysia-----------------
 #EXTINF:-1 group-title="🇲🇾 | MALAYSIA" tvg-logo="https://i.imgur.com/wSyPmiY.png",TV1
-https://d25tgymtnqzu8s.cloudfront.net/smil:tv1/chunklist_b4596000_slENG.m3u8
+
 #EXTINF:-1 group-title="🇲🇾 | MALAYSIA" tvg-logo="https://i.imgur.com/BEV5nZH.png",TV2
-https://d25tgymtnqzu8s.cloudfront.net/smil:tv2/chunklist_b4596000_slENG.m3u8
+
 #EXTINF:-1 group-title="🇲🇾 | MALAYSIA" tvg-logo="https://i.imgur.com/bK8UH9D.png",TV6
-https://d25tgymtnqzu8s.cloudfront.net/smil:tv6/chunklist_b4596000_slENG.m3u8
+
 #EXTINF:-1 group-title="🇲🇾 | MALAYSIA" tvg-logo="https://i.imgur.com/Krh1F8d.png",TV9
 
 #EXTINF:-1 group-title="🇲🇾 | MALAYSIA" tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/b2/Sukan_RTM_1_April.png",Sukan RTM
-https://d25tgymtnqzu8s.cloudfront.net/smil:sukan/chunklist_b4596000_slENG.m3u8
+
 #EXTINF:-1 group-title="🇲🇾 | MALAYSIA" tvg-logo="https://myklikstatic.secureswiftcontent.com/image/TVlogotvokay.jpg",OKEY
-https://d25tgymtnqzu8s.cloudfront.net/smil:okey/chunklist_b4596000_slENG.m3u8
+
 
 #----------------Indonesia-----------------
-#EXTINF:-1 group-title="🇮🇩 | INDONESIA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/TVRILogo2019.svg/1200px-TVRILogo2019.svg.png",TVRI (DRM)
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
-https://liveanevia.mncnow.id/live/eds/PemersatuBangsa/sa_dash_vmx/PemersatuBangsa.mpd
-#EXTINF:-1 group-title="🇮🇩 | INDONESIA" tvg-logo="https://i.postimg.cc/zXLh0rWm/RCTI.png",RCTI (DRM)
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
-https://liveanevia.mncnow.id/live/eds/RCTI-DD/sa_dash_vmx/RCTI-DD.mpd
-#EXTINF:-1 group-title="🇮🇩 | INDONESIA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/06/MNCTV_MNC-Group.png",MNC TV HD (DRM)
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YWY0OTBlZjEtODAyNC0zZTA0LWFhYzMtY2ZmMGE4NjVjZjU1
-https://liveanevia.mncnow.id/live/eds/MNCTV-HD/sa_dash_vmx/MNCTV-HD.mpd
 
 #----------------Singapore-----------------
 #EXTINF:-1 group-title="🇸🇬 | SINGAPORE" tvg-logo="https://poster.starhubgo.com/Linear_channels2/102_1920x1080_HTV.png",Channel 5 (DRM)
@@ -322,41 +310,6 @@ http://sg.cvacetv.ga/MTVLive
 
 #EXTINF:-1 group-title="ÂM NHẠC - GIẢI TRÍ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Trace_Urban_logo_2010.svg/1200px-Trace_Urban_logo_2010.svg.png",Trace Urban
 http://sg.cvacetv.ga/TraceUrban
-
-#EXTINF:-1 group-title="ÂM NHẠC - GIẢI TRÍ" tvg-logo="http://linear-poster.astro.com.my/prod/logo/tvN_2021.png",tvN Asia (DRM)
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
-https://liveanevia.mncnow.id/live/eds/tvN/sa_dash_vmx/tvN.mpd
-
-#EXTINF:-1 group-title="ÂM NHẠC - GIẢI TRÍ" tvg-logo="http://linear-poster.astro.com.my/prod/logo/tvNMovies_2021.png",tvN Movies (DRM)
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
-https://liveanevia.mncnow.id/live/eds/tvNMovies/sa_dash_vmx/tvNMovies.mpd
-
-#EXTINF:-1 group-title="ÂM NHẠC - GIẢI TRÍ" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d2/HBO_Family_Asia_logo.svg/1200px-HBO_Family_Asia_logo.svg.png",HBO Family (DRM)
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
-https://liveanevia.mncnow.id/live/eds/HBOFamily2/sa_dash_vmx/HBOFamily2.mpd
-
-#EXTINF:-1 group-title="ÂM NHẠC - GIẢI TRÍ" tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/fc/HBOHits-ASIA.png",HBO Hits (DRM)
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
-https://liveanevia.mncnow.id/live/eds/HBOHits/sa_dash_vmx/HBOHits.mpd
-
-#EXTINF:-1 group-title="ÂM NHẠC - GIẢI TRÍ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/af/HBO_Signature_Asia.png",HBO Signature (DRM)
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
-https://liveanevia.mncnow.id/live/eds/HBOSignature2/sa_dash_vmx/HBOSignature2.mpd
-
-#EXTINF:0 group-title="ÂM NHẠC - GIẢI TRÍ" tvg-logo="https://static.wikia.nocookie.net/logos/images/1/13/CCM_logo.png/revision/latest/scale-to-width-down/491?cb=20220404094646&path-prefix=vi",Celestial Classic (DRM)
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
-https://liveanevia.mncnow.id/live/eds/CelestialClassic/sa_dash_vmx/CelestialClassic.mpd
-
-#EXTINF:0 group-title="ÂM NHẠC - GIẢI TRÍ" tvg-logo="https://static.wikia.nocookie.net/logos/images/d/dd/Celestial_Movies_logo.png/revision/latest/scale-to-width-down/380?cb=20220330083514&path-prefix=vi",Celestial Movies (DRM)
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
-https://liveanevia.mncnow.id/live/eds/CelestialMovie/sa_dash_vmx/CelestialMovie.mpd
 
 #----------------Kids-----------------
 #EXTINF:-1 group-title="THIẾU NHI" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/2019_Disney_Channel_logo.svg/800px-2019_Disney_Channel_logo.svg.png",Disney Channel

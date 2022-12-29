@@ -48,7 +48,7 @@ http://sg.cvacetv.ga/RTLII
 #EXTINF:-1 group-title="🇩🇪 | ĐỨC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Sat.1_Gold_HD_Logo_2019.svg/1200px-Sat.1_Gold_HD_Logo_2019.svg.png",SAT.1 Gold
 
 #EXTINF:-1 group-title="🇩🇪 | ĐỨC" tvg-id="tagesschau24.de" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Tagesschau24HD.svg/1200px-Tagesschau24HD.svg.png",Tagesschau24
-http://vn2.cvacetv.ga/Tag24
+
 
 #----------------France-----------------
 #EXTINF:-1 group-title="🇫🇷 | PHÁP" tvg-id="TF1.fr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/TF1_logo_2013.png/800px-TF1_logo_2013.png",TF1
@@ -156,15 +156,15 @@ http://sg.cvacetv.ga/FOX
 
 #----------------Australia-----------------
 #EXTINF:-1 group-title="🇦🇺 | ÚC" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/86/Network_10_logo_2018.svg/1200px-Network_10_logo_2018.svg.png",10 (Network Ten)
-
+http://sg.cvacetv.ga/Ten
 #EXTINF:-1 group-title="🇦🇺 | ÚC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/10_Bold_2018.svg/1920px-10_Bold_2018.svg.png",10 Bold (Ten Bold)
-
+http://sg.cvacetv.ga/Bold
 #EXTINF:-1 group-title="🇦🇺 | ÚC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Seven_Network_logo.svg/1200px-Seven_Network_logo.svg.png",7 (Network Seven)
-
+http://sg.cvacetv.ga/Seven
 #EXTINF:-1 group-title="🇦🇺 | ÚC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Nine2008.svg/1200px-Nine2008.svg.png",9 (Network Nine WWOS)
-
+http://sg.cvacetv.ga/Nine
 #EXTINF:-1 group-title="🇦🇺 | ÚC" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d8/9Gem_logo.png",9Gem (Network Nine WWOS)
-
+http://sg.cvacetv.ga/Gem
 #EXTINF:-1 group-title="🇦🇺 | ÚC" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/83/SBS_Australia_Logo_%282019%29.svg/800px-SBS_Australia_Logo_%282019%29.svg.png",SBS One
 http://sg.cvacetv.ga/SBSOne
 #EXTINF:-1 group-title="🇦🇺 | ÚC" tvg-logo="https://upload.wikimedia.org/wikipedia/en/6/6a/SBS_Viceland_logo_2016.png",SBS Viceland

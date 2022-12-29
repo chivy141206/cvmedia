@@ -13,7 +13,7 @@ http://vn2.cvacetv.ga/vtv5
 http://vn2.cvacetv.ga/vtv8
 #EXTINF:-1 group-title="THIẾT YẾU - 50fps" tvg-id="vtc1hd" tvg-logo="https://raw.githubusercontent.com/chivy141206/cvmedia/main/vtc1.png",VTC1 HD
 http://vn2.cvacetv.ga/vtc1
-#EXTINF:-1 group-title="THIẾT YẾU - 50fps" tvg-id="htv7hd" tvg-logo="https://raw.githubusercontent.com/chivy141206/cvmedia/main/htv7.png",VTV5 HD
+#EXTINF:-1 group-title="THIẾT YẾU - 50fps" tvg-id="htv7hd" tvg-logo="https://raw.githubusercontent.com/chivy141206/cvmedia/main/htv7.png",HTV7 HD
 http://vn2.cvacetv.ga/htv7
 #EXTINF:-1 group-title="LIVE EVENTS" tvg-logo="https://cdn.hqth.me/cvmedia.png",CVmedia Live 1
 http://vn2.cvacetv.ga/live1

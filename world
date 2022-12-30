@@ -114,7 +114,7 @@ http://sg.cvacetv.ga/SIC
 #EXTINF:-1 group-title="🇵🇹 | BỒ ĐÀO NHA" tvg-logo="https://upload.wikimedia.org/wikipedia/en/c/c4/Sicmulher.png",SIC Mulher
 
 #EXTINF:-1 group-title="🇵🇹 | BỒ ĐÀO NHA" tvg-logo="https://upload.wikimedia.org/wikipedia/en/6/63/TVI_logo_2017.png",TVI
-http://sg.cvacetv.ga/TVI
+
 
 #----------------Poland-----------------
 #EXTINF:-1 group-title="🇵🇱 | BA LAN" tvg-id="TVP1.pl" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/TVP1_2021_box-1.svg/1920px-TVP1_2021_box-1.svg.png",TVP 1
@@ -165,6 +165,8 @@ http://sg.cvacetv.ga/Seven
 http://sg.cvacetv.ga/Nine
 #EXTINF:-1 group-title="🇦🇺 | ÚC" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d8/9Gem_logo.png",9Gem (Network Nine WWOS)
 http://sg.cvacetv.ga/Gem
+#EXTINF:-1 group-title="🇦🇺 | ÚC" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/7/7e/ABC_TV_logo_2021.svg/200px-ABC_TV_logo_2021.svg.png",ABC Australia
+http://sg.cvacetv.ga/ABC_AU
 #EXTINF:-1 group-title="🇦🇺 | ÚC" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/83/SBS_Australia_Logo_%282019%29.svg/800px-SBS_Australia_Logo_%282019%29.svg.png",SBS One
 http://sg.cvacetv.ga/SBSOne
 #EXTINF:-1 group-title="🇦🇺 | ÚC" tvg-logo="https://upload.wikimedia.org/wikipedia/en/6/6a/SBS_Viceland_logo_2016.png",SBS Viceland

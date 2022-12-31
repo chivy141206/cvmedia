@@ -302,16 +302,16 @@ http://sg.cvacetv.ga/TRTWorld
 http://sg.cvacetv.ga/TRTArab
 
 #----------------Music-----------------
-#EXTINF:-1 group-title="ÂM NHẠC - GIẢI TRÍ" tvg-logo="http://linear-poster.astro.com.my/prod/logo/MTV_v2.png",MTV Poland
+#EXTINF:-1 group-title="ÂM NHẠC" tvg-logo="http://linear-poster.astro.com.my/prod/logo/MTV_v2.png",MTV Poland
 http://sg.cvacetv.ga/MTV
-#EXTINF:-1 group-title="ÂM NHẠC - GIẢI TRÍ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/MTV_Hits_2021.svg/1024px-MTV_Hits_2021.svg.png",MTV Hits
+#EXTINF:-1 group-title="ÂM NHẠC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/MTV_Hits_2021.svg/1024px-MTV_Hits_2021.svg.png",MTV Hits
 http://sg.cvacetv.ga/MTVHits
-#EXTINF:-1 group-title="ÂM NHẠC - GIẢI TRÍ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/MTV_Live_2021_logo.svg/800px-MTV_Live_2021_logo.svg.png",MTV Live
+#EXTINF:-1 group-title="ÂM NHẠC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/MTV_Live_2021_logo.svg/800px-MTV_Live_2021_logo.svg.png",MTV Live
 http://sg.cvacetv.ga/MTVLive
-#EXTINF:-1 group-title="ÂM NHẠC - GIẢI TRÍ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/NickMusic.svg/1200px-NickMusic.svg.png",NickMusic
+#EXTINF:-1 group-title="ÂM NHẠC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/NickMusic.svg/1200px-NickMusic.svg.png",NickMusic
 
-#EXTINF:-1 group-title="ÂM NHẠC - GIẢI TRÍ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Trace_Urban_logo_2010.svg/1200px-Trace_Urban_logo_2010.svg.png",Trace Urban
-http://sg.cvacetv.ga/TraceUrban
+#EXTINF:-1 group-title="ÂM NHẠC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Trace_Urban_logo_2010.svg/1200px-Trace_Urban_logo_2010.svg.png",Trace Urban
+
 
 #----------------Kids-----------------
 #EXTINF:-1 group-title="THIẾU NHI" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/2019_Disney_Channel_logo.svg/800px-2019_Disney_Channel_logo.svg.png",Disney Channel

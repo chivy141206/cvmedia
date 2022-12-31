@@ -22,17 +22,17 @@ http://vn2.cvacetv.ga/live2
 #EXTINF:-1 group-title="LIVE EVENTS" tvg-logo="https://cdn.hqth.me/cvmedia.png",CVmedia Live 4K
 
 #EXTINF:-1 group-title="SETANTA SPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5d/Setanta-logo.jpg",Setanta Sports 1
-http://sg.cvacetv.ga/Setanta1
+http://vn3.cvacetv.ga/Setanta1
 #EXTINF:-1 group-title="SETANTA SPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5d/Setanta-logo.jpg",Setanta Sports 2
-http://sg.cvacetv.ga/Setanta2
+http://vn3.cvacetv.ga/Setanta2
 #EXTINF:-1 group-title="STAR SPORTS - ẤN ĐỘ",Star Sports Select 1
 http://sg.cvacetv.ga:8080/stream/channelid/892537098
 #EXTINF:-1 group-title="STAR SPORTS - ẤN ĐỘ",Star Sports Select 2
 http://sg.cvacetv.ga:8080/stream/channelid/118393712
 #EXTINF:-1 group-title="DIGI SPORT - ROMANIA",Digi Sport 1
-http://vn2.cvacetv.ga/digi1
+http://vn3.cvacetv.ga/digi1
 #EXTINF:-1 group-title="DIGI SPORT - ROMANIA",Digi Sport 2
-http://vn2.cvacetv.ga/digi2
+http://vn3.cvacetv.ga/digi2
 #EXTINF:-1 group-title="MATCH TV - NGA" tvg-id="Match.ru" tvg-logo="https://ntvplus.tv/files/image/10/60/28/3d1.png",Маtch ТV
 http://sg.cvacetv.ga/matchtv
 #EXTINF:-1 group-title="MATCH TV - NGA" tvg-id="MatchFutbol1.ru" tvg-logo="https://ntvplus.tv/files/image/01/17/29/mqs.png",Маtch Futbol 1
@@ -80,27 +80,27 @@ http://sg.cvacetv.ga:8080/stream/channelid/842661572
 #EXTINF:-1 group-title="POLSAT SPORT - BA LAN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Polsat_Sport_News_2021_gradient.svg/1280px-Polsat_Sport_News_2021_gradient.svg.png",Polsat Sport News
 http://sg.cvacetv.ga:8080/stream/channelid/1209045940
 #EXTINF:-1 group-title="DIEMA SPORT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c8/Diema_Sport_HD_logo.png",Diema Sport
-http://vn2.cvacetv.ga/Diema1
+http://vn3.cvacetv.ga/Diema1
 #EXTINF:-1 group-title="DIEMA SPORT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/47/DS2_logo.png",Diema Sport 2
-http://vn2.cvacetv.ga/Diema2
+http://vn3.cvacetv.ga/Diema2
 #EXTINF:-1 group-title="DIEMA SPORT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f6/DiemaSport3logo.png",Diema Sport 3
 
 #EXTINF:-1 group-title="SPORT KLUB" tvg-logo="https://images-web.ug-be.cdn.united.cloud/2020/05/28/13/02/26/sk1hd_logo_16_9_light_160x90_0e2f3e64_327f_4e23_bdc0_1109dec1113a.png",Sport Klub 1
-http://vn2.cvacetv.ga/SK1
+http://vn3.cvacetv.ga/SK1
 #EXTINF:-1 group-title="SPORT KLUB" tvg-logo="https://images-web.ug-be.cdn.united.cloud/2020/05/28/13/02/52/sk2hd_logo_16_9_light_160x90_b8e00d92_1743_4d96_b9e2_73e09c30fdd2.png",Sport Klub 2
-http://vn2.cvacetv.ga/SK2
+http://vn3.cvacetv.ga/SK2
 #EXTINF:-1 group-title="SPORT KLUB" tvg-logo="https://images-web.ug-be.cdn.united.cloud/2020/05/28/13/03/09/sk3hd_logo_16_9_light_160x90_3c16cfd0_678e_485b_99ac_db8f12716810.png",Sport Klub 3
-http://vn2.cvacetv.ga/SK3
+http://vn3.cvacetv.ga/SK3
 #EXTINF:-1 group-title="SPORT KLUB" tvg-logo="https://images-web.ug-be.cdn.united.cloud/2020/08/25/01/23/42/s_light_480x270.png",Sport Klub 4
-http://vn2.cvacetv.ga/SK4
+http://vn3.cvacetv.ga/SK4
 #EXTINF:-1 group-title="SPORT KLUB" tvg-logo="https://images-web.ug-be.cdn.united.cloud/2022/05/20/10/08/09/s_light_480x270.png",Sport Klub 5
-http://vn2.cvacetv.ga/SK5
+http://vn3.cvacetv.ga/SK5
 #EXTINF:-1 group-title="SPORT KLUB" tvg-logo="https://images-web.ug-be.cdn.united.cloud/2022/08/30/10/13/03/s_index.png",Sport Klub 6
-http://vn2.cvacetv.ga/SK6
+http://vn3.cvacetv.ga/SK6
 #EXTINF:-1 group-title="THỂ THAO BỒ ĐÀO NHA" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-pt-sport-tv-2-451.png",Sport TV 2
-http://vn2.cvacetv.ga/SpTV2
+http://vn3.cvacetv.ga/SpTV2
 #EXTINF:-1 group-title="THỂ THAO BỒ ĐÀO NHA" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-pt-sport-tv-3-452.png",Sport TV 3
-http://vn2.cvacetv.ga/SpTV3
+http://vn3.cvacetv.ga/SpTV3
 #EXTINF:-1 group-title="THỂ THAO MỸ - CANADA" tvg-id="FoxSports1.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/2015_Fox_Sports_1_logo.svg/1200px-2015_Fox_Sports_1_logo.svg.png",FS1
 http://sg.cvacetv.ga/FS1
 #EXTINF:-1 group-title="THỂ THAO MỸ - CANADA" tvg-id="FoxSports2.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/FS2_logo_2015.svg/1200px-FS2_logo_2015.svg.png",FS2

@@ -15,12 +15,14 @@ http://vn2.cvacetv.ga/vtv8
 http://vn2.cvacetv.ga/vtc1
 #EXTINF:-1 group-title="THIẾT YẾU - 50fps" tvg-id="htv7hd" tvg-logo="https://raw.githubusercontent.com/chivy141206/cvmedia/main/htv7.png",HTV7 HD
 http://vn2.cvacetv.ga/htv7
+#EXTINF:-1 group-title="LIVE EVENTS" tvg-logo="https://cdn.hqth.me/cvmedia.png",NEW YEAR'S EVE 2023
+http://vn2.cvacetv.ga/NYE
 #EXTINF:-1 group-title="LIVE EVENTS" tvg-logo="https://cdn.hqth.me/cvmedia.png",CVmedia Live 1
 http://vn2.cvacetv.ga/live1
 #EXTINF:-1 group-title="LIVE EVENTS" tvg-logo="https://cdn.hqth.me/cvmedia.png",CVmedia Live 2
 http://vn2.cvacetv.ga/live2
 #EXTINF:-1 group-title="LIVE EVENTS" tvg-logo="https://cdn.hqth.me/cvmedia.png",CVmedia Live 4K
-http://vn3.cvacetv.ga/4KUHD
+
 #EXTINF:-1 group-title="SETANTA SPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5d/Setanta-logo.jpg",Setanta Sports 1
 http://sg.cvacetv.ga/Setanta1
 #EXTINF:-1 group-title="SETANTA SPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5d/Setanta-logo.jpg",Setanta Sports 2

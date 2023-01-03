@@ -54,7 +54,7 @@ http://sg.cvacetv.ga/RTLII
 #EXTINF:-1 group-title="🇫🇷 | PHÁP" tvg-id="TF1.fr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/TF1_logo_2013.png/800px-TF1_logo_2013.png",TF1
 
 #EXTINF:-1 group-title="🇫🇷 | PHÁP" tvg-id="France2.fr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/France_2_2018.svg/1024px-France_2_2018.svg.png",France 2
-http://sg.cvacetv.ga/France2
+
 #EXTINF:-1 group-title="🇫🇷 | PHÁP" tvg-id="France3.fr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/France_3_2018.svg/1200px-France_3_2018.svg.png",France 3
 
 #EXTINF:-1 group-title="🇫🇷 | PHÁP" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/France_4_2018.svg/1200px-France_4_2018.svg.png",France 4-Okoo
@@ -84,13 +84,13 @@ http://sg.cvacetv.ga/Rai3
 
 #----------------Turkey-----------------
 #EXTINF:-1 group-title="🇹🇷 | THỔ NHĨ KỲ" tvg-id="TRT1.tr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/TRT_1_logo_%282021-%29.svg/640px-TRT_1_logo_%282021-%29.svg.png",TRT1
-http://sg.cvacetv.ga/TRT1
+
 #EXTINF:-1 group-title="🇹🇷 | THỔ NHĨ KỲ" tvg-id="TRT2.tr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/TRT_2_logo.svg/1200px-TRT_2_logo.svg.png",TRT2
-http://sg.cvacetv.ga/TRT2
+
 #EXTINF:-1 group-title="🇹🇷 | THỔ NHĨ KỲ" tvg-id="TRTHaber.tr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/TRT_Haber_Eyl%C3%BCl_2020_Logo.svg/1200px-TRT_Haber_Eyl%C3%BCl_2020_Logo.svg.png",TRT Haber
 
 #EXTINF:-1 group-title="🇹🇷 | THỔ NHĨ KỲ" tvg-id="TRTTurk.tr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/TRT_T%C3%BCrk_logo.svg/2560px-TRT_T%C3%BCrk_logo.svg.png",TRT Turk
-http://sg.cvacetv.ga/TRT_Turk
+
 
 #----------------Austria-----------------
 #EXTINF:-1 group-title="🇦🇹 | ÁO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/ORF1_logo.svg/1200px-ORF1_logo.svg.png",ORF 1
@@ -305,7 +305,7 @@ http://sg.cvacetv.ga/TRTArab
 #EXTINF:-1 group-title="ÂM NHẠC" tvg-logo="http://linear-poster.astro.com.my/prod/logo/MTV_v2.png",MTV Poland
 http://sg.cvacetv.ga/MTV
 #EXTINF:-1 group-title="ÂM NHẠC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/MTV_Hits_2021.svg/1024px-MTV_Hits_2021.svg.png",MTV Hits
-http://sg.cvacetv.ga/MTVHits
+
 #EXTINF:-1 group-title="ÂM NHẠC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/MTV_Live_2021_logo.svg/800px-MTV_Live_2021_logo.svg.png",MTV Live
 http://sg.cvacetv.ga/MTVLive
 #EXTINF:-1 group-title="ÂM NHẠC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/NickMusic.svg/1200px-NickMusic.svg.png",NickMusic
@@ -331,10 +331,10 @@ http://sg.cvacetv.ga/TVP_ABC
 #EXTINF:-1 group-title="KHÁC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/25/DMAX_Logo_16_05_2011.jpg",DMAX
 http://sg.cvacetv.ga/DMAX
 #EXTINF:-1 group-title="KHÁC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/History_%282021%29.svg/1200px-History_%282021%29.svg.png",History
-http://sg.cvacetv.ga/History
+
 #EXTINF:-1 group-title="KHÁC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/ab/Viasat_Explore.png",Viasat Explorer
-http://sg.cvacetv.ga/ViaEx
+
 #EXTINF:-1 group-title="KHÁC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/15/Viasat_Nature-2014.png",Viasat Nature
-http://sg.cvacetv.ga/ViaNature
+
 #EXTINF:-1 group-title="KHÁC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7f/Viasat_History-2014.png",Viasat History
-http://sg.cvacetv.ga/ViaHistory
+

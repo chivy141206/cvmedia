@@ -35,6 +35,8 @@ http://sg.cvacetv.ga/Setanta2
 http://sg.cvacetv.ga/StarSL1
 #EXTINF:-1 group-title="PREMIER LEAGUE",Star Sports Select 2
 http://sg.cvacetv.ga/StarSL2
+#EXTINF:-1 group-title="MOVISTAR - TÂY BAN NHA",Movistar LC
+http://sg.cvacetv.ga/M_LC
 #EXTINF:-1 group-title="DIGI SPORT - ROMANIA",Digi Sport 1
 
 #EXTINF:-1 group-title="DIGI SPORT - ROMANIA",Digi Sport 2

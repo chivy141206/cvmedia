@@ -23,10 +23,6 @@ http://vn2.cvacetv.ga/live1
 http://vn2.cvacetv.ga/live2
 #EXTINF:-1 group-title="LIVE EVENTS" tvg-logo="https://cdn.hqth.me/cvmedia.png",CVmedia Live 4K
 http://vn2.cvacetv.ga/4KUHD
-#EXTINF:-1 group-title="FA CUP 2022/23" tvg-id="BBCOneLondon.uk" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/BBC_One_logo_2021.svg/800px-BBC_One_logo_2021.svg.png",BBC One
-http://sg.cvacetv.ga/BBC1
-#EXTINF:-1 group-title="FA CUP 2022/23" tvg-id="ITV1.uk" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/9/92/ITV_logo_2013.svg/1200px-ITV_logo_2013.svg.png",ITV
-http://sg.cvacetv.ga/ITV
 #EXTINF:-1 group-title="PREMIER LEAGUE",Sky Sport Top Event
 
 #EXTINF:-1 group-title="PREMIER LEAGUE",DAZN 1

@@ -1,4 +1,4 @@
-#EXTM3U url-tvg="https://iptv-org.github.io/epg/guides/uk.xml,https://iptv-org.github.io/epg/guides/de.xml,https://iptv-org.github.io/epg/guides/fr.xml,https://iptv-org.github.io/epg/guides/it.xml,https://iptv-org.github.io/epg/guides/tr.xml,https://iptv-org.github.io/epg/guides/pt.xml,https://iptv-org.github.io/epg/guides/pl.xml,https://iptv-org.github.io/epg/guides/us.xml"
+#EXTM3U url-tvg="https://iptv-org.github.io/epg/guides/uk.xml,https://iptv-org.github.io/epg/guides/de.xml,https://iptv-org.github.io/epg/guides/fr.xml,https://iptv-org.github.io/epg/guides/it.xml,https://iptv-org.github.io/epg/guides/tr.xml,https://iptv-org.github.io/epg/guides/pt.xml,https://iptv-org.github.io/epg/guides/pl.xml,https://iptv-org.github.io/epg/guides/us.xml,https://iptv-org.github.io/epg/guides/zh/tv.cctv.com.xml"
 #----CÁC KÊNH ĐÁNH DẤU DRM CHỈ XEM ĐƯỢC TRÊN TIVIMATE, OTT NAVIGATOR----#
 #----------------UK-----------------
 #EXTINF:-1 group-title="🇬🇧 | ANH" tvg-id="BBCOneLondon.uk" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/BBC_One_logo_2021.svg/800px-BBC_One_logo_2021.svg.png",BBC One
@@ -210,6 +210,20 @@ http://ebsonair.ebs.co.kr/ebs2familypc/familypc1m/playlist.m3u8
 #EXTINF:-1 group-title="🇰🇷 | HÀN QUỐC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/TV_Chosun_logo_%28hangul%29.svg/1200px-TV_Chosun_logo_%28hangul%29.svg.png",TV Chosun
 #EXTVLCOPT:http-user-agent=broadcast.tvchosun/19.2.1 (Linux;Android 8.1.0) ExoPlayerLib/2.11.8
 http://onair.cdn.tvchosun.com/origin1/_definst_/tvchosun_s1/playlist.m3u8
+
+#----------------China-----------------
+#EXTINF:-1 group-title="🇨🇳 | TRUNG QUỐC" tvg-logo="https://i.imgur.com/ChfbGqR.png" tvg-id="CCTV1.cn",CCTV-1
+http://sg.cvacetv.ga/CCTV1
+#EXTINF:-1 group-title="🇨🇳 | TRUNG QUỐC" tvg-logo="https://i.imgur.com/tYtUmUR.png" tvg-id="CCTV3.cn",CCTV-3
+http://sg.cvacetv.ga/CCTV3
+#EXTINF:-1 group-title="🇨🇳 | TRUNG QUỐC",CCTV-4
+http://sg.cvacetv.ga/CCTV4
+#EXTINF:-1 group-title="🇨🇳 | TRUNG QUỐC" tvg-logo="https://i.imgur.com/g7nb3L0.png" tvg-id="CCTV7.cn",CCTV-7
+http://sg.cvacetv.ga/CCTV7
+#EXTINF:-1 group-title="🇨🇳 | TRUNG QUỐC" tvg-logo="https://i.imgur.com/GGHckoY.png" tvg-id="CCTV13.cn",CCTV-13
+http://sg.cvacetv.ga/CCTV13
+#EXTINF:-1 group-title="🇨🇳 | TRUNG QUỐC" tvg-logo="https://parco-zh.github.io/demo/HNWS.png" tvg-id="HunanTV.cn",Hunan TV
+http://sg.cvacetv.ga/Hunan
 
 #----------------Russia/Ukraine-----------------
 #EXTINF:-1 group-title="🇷🇺 | NGA" tvg-logo="https://static.wikia.nocookie.net/logos/images/2/25/1tv_Russia_logo.png/revision/latest/scale-to-width-down/512?cb=20220217141930&path-prefix=vi",OPT1

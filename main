@@ -23,6 +23,22 @@ http://vn2.cvacetv.ga/live1
 http://vn2.cvacetv.ga/live2
 #EXTINF:-1 group-title="LIVE EVENTS" tvg-logo="https://cdn.hqth.me/cvmedia.png",CVmedia Live 4K
 http://vn2.cvacetv.ga/4KUHD
+#EXTINF:-1 group-title="AUSTRALIAN OPEN 2023" tvg-id="Eurosport1Poland.pl" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Eurosport_1_Logo_2015.svg/2560px-Eurosport_1_Logo_2015.svg.png",Eurosport 1
+http://sg.cvacetv.ga/es1
+#EXTINF:-1 group-title="AUSTRALIAN OPEN 2023" tvg-id="Eurosport2Poland.pl" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Eurosport_2_Logo_2015.svg/2560px-Eurosport_2_Logo_2015.svg.png",Eurosport 2
+http://sg.cvacetv.ga/es2
+#EXTINF:-1 group-title="AUSTRALIAN OPEN 2023" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Nine2008.svg/1200px-Nine2008.svg.png",9 (Network Nine WWOS)
+http://sg.cvacetv.ga/Nine
+#EXTINF:-1 group-title="AUSTRALIAN OPEN 2023" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d8/9Gem_logo.png",9Gem (Network Nine WWOS)
+http://sg.cvacetv.ga/Gem
+#EXTINF:-1 group-title="AUSTRALIAN OPEN 2023" tvg-id="ESPN.us" tvg-logo="https://secure.espncdn.com/watchespn/images/channels/e748f3c0-3f7c-3088-a90a-0ccb2588e0ed.png",ESPN US
+http://sg.cvacetv.ga/ESPN
+#EXTINF:-1 group-title="AUSTRALIAN OPEN 2023" tvg-id="ESPN2.us" tvg-logo="https://secure.espncdn.com/watchespn/images/channels/017f41a2-ef4f-39d3-9f45-f680b88cd23b.png",ESPN2 US
+http://sg.cvacetv.ga/ESPN2
+#EXTINF:-1 group-title="AUSTRALIAN OPEN 2023" tvg-id="CCTV5.cn" tvg-logo="https://i.imgur.com/EqURkoF.png",CCTV-5
+http://sg.cvacetv.ga/CCTV5
+#EXTINF:-1 group-title="AUSTRALIAN OPEN 2023" tvg-id="CCTV5Plus.cn" tvg-logo="https://i.imgur.com/uW1b1KO.png",CCTV-5+
+http://sg.cvacetv.ga/CCTV5p
 #EXTINF:-1 group-title="PREMIER LEAGUE",Sky Sport Premier League
 
 #EXTINF:-1 group-title="PREMIER LEAGUE",DAZN 1
@@ -85,22 +101,10 @@ http://sg.cvacetv.ga:8080/stream/channelid/701074256
 http://sg.cvacetv.ga:8080/stream/channelid/842661572
 #EXTINF:-1 group-title="POLSAT SPORT - BA LAN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Polsat_Sport_News_2021_gradient.svg/1280px-Polsat_Sport_News_2021_gradient.svg.png",Polsat Sport News
 http://sg.cvacetv.ga:8080/stream/channelid/1209045940
-#EXTINF:-1 group-title="CCTV SPORTS - TRUNG QUỐC" tvg-id="CCTV5.cn" tvg-logo="https://i.imgur.com/EqURkoF.png",CCTV-5
-http://sg.cvacetv.ga/CCTV5
-#EXTINF:-1 group-title="CCTV SPORTS - TRUNG QUỐC" tvg-id="CCTV5Plus.cn" tvg-logo="https://i.imgur.com/uW1b1KO.png",CCTV-5+
-http://sg.cvacetv.ga/CCTV5p
 #EXTINF:-1 group-title="THỂ THAO MỸ - CANADA" tvg-id="FoxSports1.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/2015_Fox_Sports_1_logo.svg/1200px-2015_Fox_Sports_1_logo.svg.png",FS1
-http://sg.cvacetv.ga/FS1
+
 #EXTINF:-1 group-title="THỂ THAO MỸ - CANADA" tvg-id="FoxSports2.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/FS2_logo_2015.svg/1200px-FS2_logo_2015.svg.png",FS2
-http://sg.cvacetv.ga/FS2
-#EXTINF:-1 group-title="THỂ THAO MỸ - CANADA" tvg-id="ESPN.us" tvg-logo="https://secure.espncdn.com/watchespn/images/channels/e748f3c0-3f7c-3088-a90a-0ccb2588e0ed.png",ESPN US
-http://sg.cvacetv.ga/ESPN
-#EXTINF:-1 group-title="THỂ THAO MỸ - CANADA" tvg-id="ESPN2.us" tvg-logo="https://secure.espncdn.com/watchespn/images/channels/017f41a2-ef4f-39d3-9f45-f680b88cd23b.png",ESPN2 US
-http://sg.cvacetv.ga/ESPN2
-#EXTINF:-1 group-title="EUROSPORT" tvg-id="Eurosport1Poland.pl" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Eurosport_1_Logo_2015.svg/2560px-Eurosport_1_Logo_2015.svg.png",Eurosport 1
-http://sg.cvacetv.ga/es1
-#EXTINF:-1 group-title="EUROSPORT" tvg-id="Eurosport2Poland.pl" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Eurosport_2_Logo_2015.svg/2560px-Eurosport_2_Logo_2015.svg.png",Eurosport 2
-http://sg.cvacetv.ga/es2
+
 #EXTINF:-1 group-title="KHÁC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/BTV_Action_Bulgaria_logo.svg/1920px-BTV_Action_Bulgaria_logo.svg.png" tvg-id="bTVAction.bg",bTV Action
 http://sg.cvacetv.ga:8080/stream/channelid/665399328
 #EXTINF:-1 group-title="KHÁC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Logo_Canal_11_FPF.svg/1200px-Logo_Canal_11_FPF.svg.png",Canal 11

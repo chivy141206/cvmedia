@@ -1,4 +1,4 @@
-#EXTM3U url-tvg="https://iptv-org.github.io/epg/guides/en/bt.com.xml,https://iptv-org.github.io/epg/guides/it/raiplay.it.xml,https://iptv-org.github.io/epg/guides/pt/rtp.pt.xml,https://iptv-org.github.io/epg/guides/pl/programtv.onet.pl.xml,https://iptv-org.github.io/epg/guides/en/directv.com.xml,https://iptv-org.github.io/epg/guides/zh/tv.cctv.com.xml"
+#EXTM3U url-tvg="https://iptv-org.github.io/epg/guides/en/bt.com.xml,https://iptv-org.github.io/epg/guides/it/raiplay.it.xml,https://iptv-org.github.io/epg/guides/en/abc.net.au.xml,https://iptv-org.github.io/epg/guides/pt/rtp.pt.xml,https://iptv-org.github.io/epg/guides/pl/programtv.onet.pl.xml,https://iptv-org.github.io/epg/guides/en/directv.com.xml,https://iptv-org.github.io/epg/guides/zh/tv.cctv.com.xml"
 #----CÁC KÊNH ĐÁNH DẤU DRM CHỈ XEM ĐƯỢC TRÊN TIVIMATE, OTT NAVIGATOR----#
 #----------------UK-----------------
 #EXTINF:-1 group-title="🇬🇧 | ANH" tvg-id="BBCOneLondon.uk" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/BBC_One_logo_2021.svg/800px-BBC_One_logo_2021.svg.png",BBC One
@@ -84,11 +84,11 @@ http://sg.cvacetv.ga/Rai3
 
 #----------------Turkey-----------------
 #EXTINF:-1 group-title="🇹🇷 | THỔ NHĨ KỲ" tvg-id="TRT1.tr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/TRT_1_logo_%282021-%29.svg/640px-TRT_1_logo_%282021-%29.svg.png",TRT1
-
+http://sg.cvacetv.ga/TRT1
 #EXTINF:-1 group-title="🇹🇷 | THỔ NHĨ KỲ" tvg-id="TRT2.tr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/TRT_2_logo.svg/1200px-TRT_2_logo.svg.png",TRT2
 
 #EXTINF:-1 group-title="🇹🇷 | THỔ NHĨ KỲ" tvg-id="TRTHaber.tr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/TRT_Haber_Eyl%C3%BCl_2020_Logo.svg/1200px-TRT_Haber_Eyl%C3%BCl_2020_Logo.svg.png",TRT Haber
-
+http://sg.cvacetv.ga/TRT_Haber
 #EXTINF:-1 group-title="🇹🇷 | THỔ NHĨ KỲ" tvg-id="TRTTurk.tr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/TRT_T%C3%BCrk_logo.svg/2560px-TRT_T%C3%BCrk_logo.svg.png",TRT Turk
 
 
@@ -155,21 +155,21 @@ http://sg.cvacetv.ga/FOX
 
 
 #----------------Australia-----------------
-#EXTINF:-1 group-title="🇦🇺 | ÚC" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/86/Network_10_logo_2018.svg/1200px-Network_10_logo_2018.svg.png",10 (Network Ten)
+#EXTINF:-1 group-title="🇦🇺 | ÚC" tvg-id="Channel10.au" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/86/Network_10_logo_2018.svg/1200px-Network_10_logo_2018.svg.png",10 (Network Ten)
 http://sg.cvacetv.ga/Ten
-#EXTINF:-1 group-title="🇦🇺 | ÚC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/10_Bold_2018.svg/1920px-10_Bold_2018.svg.png",10 Bold (Ten Bold)
+#EXTINF:-1 group-title="🇦🇺 | ÚC" tvg-id="10Bold.au" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/10_Bold_2018.svg/1920px-10_Bold_2018.svg.png",10 Bold (Ten Bold)
 http://sg.cvacetv.ga/Bold
-#EXTINF:-1 group-title="🇦🇺 | ÚC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Seven_Network_logo.svg/1200px-Seven_Network_logo.svg.png",7 (Network Seven)
+#EXTINF:-1 group-title="🇦🇺 | ÚC" tvg-id="Channel7.au" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Seven_Network_logo.svg/1200px-Seven_Network_logo.svg.png",7 (Network Seven)
 http://sg.cvacetv.ga/Seven
-#EXTINF:-1 group-title="🇦🇺 | ÚC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Nine2008.svg/1200px-Nine2008.svg.png",9 (Network Nine WWOS)
+#EXTINF:-1 group-title="🇦🇺 | ÚC" tvg-id="Channel9.au" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Nine2008.svg/1200px-Nine2008.svg.png",9 (Network Nine WWOS)
 http://sg.cvacetv.ga/Nine
-#EXTINF:-1 group-title="🇦🇺 | ÚC" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d8/9Gem_logo.png",9Gem (Network Nine WWOS)
+#EXTINF:-1 group-title="🇦🇺 | ÚC" tvg-id="9Gem.au" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d8/9Gem_logo.png",9Gem (Network Nine WWOS)
 http://sg.cvacetv.ga/Gem
-#EXTINF:-1 group-title="🇦🇺 | ÚC" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/7/7e/ABC_TV_logo_2021.svg/200px-ABC_TV_logo_2021.svg.png",ABC Australia
+#EXTINF:-1 group-title="🇦🇺 | ÚC" tvg-id="ABCTV.au" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/7/7e/ABC_TV_logo_2021.svg/200px-ABC_TV_logo_2021.svg.png",ABC TV
 http://sg.cvacetv.ga/ABC_AU
-#EXTINF:-1 group-title="🇦🇺 | ÚC" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/83/SBS_Australia_Logo_%282019%29.svg/800px-SBS_Australia_Logo_%282019%29.svg.png",SBS One
+#EXTINF:-1 group-title="🇦🇺 | ÚC" tvg-id="SBS.au" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/83/SBS_Australia_Logo_%282019%29.svg/800px-SBS_Australia_Logo_%282019%29.svg.png",SBS One
 http://sg.cvacetv.ga/SBSOne
-#EXTINF:-1 group-title="🇦🇺 | ÚC" tvg-logo="https://upload.wikimedia.org/wikipedia/en/6/6a/SBS_Viceland_logo_2016.png",SBS Viceland
+#EXTINF:-1 group-title="🇦🇺 | ÚC" tvg-id="SBSViceland.au" tvg-logo="https://upload.wikimedia.org/wikipedia/en/6/6a/SBS_Viceland_logo_2016.png",SBS Viceland
 http://sg.cvacetv.ga/SBSViceland
 
 #----------------Thailand-----------------
@@ -337,7 +337,7 @@ http://sg.cvacetv.ga/Nick
 #EXTINF:-1 group-title="THIẾU NHI" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6e/Nicktoons.png",NickToons
 http://sg.cvacetv.ga/NickToons
 #EXTINF:-1 group-title="THIẾU NHI" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/TRT_%C3%87ocuk_logo_%282021%29.svg/1280px-TRT_%C3%87ocuk_logo_%282021%29.svg.png",TRT Cocuk
-
+http://sg.cvacetv.ga/TRT_Cocuk
 #EXTINF:-1 group-title="THIẾU NHI" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Logo_TVP_ABC.svg/1200px-Logo_TVP_ABC.svg.png",TVP ABC
 http://sg.cvacetv.ga/TVP_ABC
 

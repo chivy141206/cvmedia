@@ -1,4 +1,4 @@
-#EXTM3U url-tvg="http://sg.cvacetv.ga:8080/xmltv/channels,https://iptv-org.github.io/epg/guides/bg/tv.dir.bg.epg.xml.gz,https://iptv-org.github.io/epg/guides/en/bt.com.xml,https://iptv-org.github.io/epg/guides/en/directv.com.xml,https://iptv-org.github.io/epg/guides/zh/tv.cctv.com.xml,https://iptv-org.github.io/epg/guides/pl/programtv.onet.pl.xml,https://trada.info/epg.xml"
+#EXTM3U url-tvg="http://sg.cvacetv.ga:8080/xmltv/channels,https://iptv-org.github.io/epg/guides/bg/tv.dir.bg.epg.xml.gz,https://iptv-org.github.io/epg/guides/en/bt.com.xml,https://iptv-org.github.io/epg/guides/en/directv.com.xml,https://iptv-org.github.io/epg/guides/zh/tv.cctv.com.xml,https://iptv-org.github.io/epg/guides/pl/programtv.onet.pl.xml,https://iptv-org.github.io/epg/guides/en/abc.net.au.xml,https://trada.info/epg.xml"
 #EXTINF:-1 group-title="THIẾT YẾU - 50fps" tvg-id="vtv1hd" tvg-logo="https://cdn.hqth.me/logo/1.png",VTV1 HD
 http://vn2.cvacetv.ga/vtv1
 #EXTINF:-1 group-title="THIẾT YẾU - 50fps" tvg-id="vtv2hd" tvg-logo="https://cdn.hqth.me/logo/2.png",VTV2 HD
@@ -27,9 +27,9 @@ http://vn2.cvacetv.ga/4KUHD
 http://sg.cvacetv.ga/es1
 #EXTINF:-1 group-title="AUSTRALIAN OPEN 2023" tvg-id="Eurosport2Poland.pl" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Eurosport_2_Logo_2015.svg/2560px-Eurosport_2_Logo_2015.svg.png",Eurosport 2
 http://sg.cvacetv.ga/es2
-#EXTINF:-1 group-title="AUSTRALIAN OPEN 2023" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Nine2008.svg/1200px-Nine2008.svg.png",9 (Network Nine WWOS)
+#EXTINF:-1 group-title="AUSTRALIAN OPEN 2023" tvg-id="Channel9.au" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Nine2008.svg/1200px-Nine2008.svg.png",9 HD
 http://sg.cvacetv.ga/Nine
-#EXTINF:-1 group-title="AUSTRALIAN OPEN 2023" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d8/9Gem_logo.png",9Gem (Network Nine WWOS)
+#EXTINF:-1 group-title="AUSTRALIAN OPEN 2023" tvg-id="9Gem.au" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d8/9Gem_logo.png",9Gem
 http://sg.cvacetv.ga/Gem
 #EXTINF:-1 group-title="AUSTRALIAN OPEN 2023" tvg-id="ESPN.us" tvg-logo="https://secure.espncdn.com/watchespn/images/channels/e748f3c0-3f7c-3088-a90a-0ccb2588e0ed.png",ESPN US
 http://sg.cvacetv.ga/ESPN

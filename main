@@ -1,4 +1,4 @@
-#EXTM3U url-tvg="http://sg.cvacetv.ga:8080/xmltv/channels,https://iptv-org.github.io/epg/guides/ru/tv.yandex.ru.epg.xml.gz,https://iptv-org.github.io/epg/guides/pl/programtv.onet.pl.epg.xml.gz,https://iptv-org.github.io/epg/guides/hr/maxtv.hrvatskitelekom.hr.epg.xml.gz,https://iptv-org.github.io/epg/guides/bg/tv.dir.bg.epg.xml.gz,https://iptv-org.github.io/epg/guides/uk.xml,https://iptv-org.github.io/epg/guides/fr.xml,https://iptv-org.github.io/epg/guides/us.xml,https://trada.info/epg.xml"
+#EXTM3U url-tvg="http://sg.cvacetv.ga:8080/xmltv/channels,https://iptv-org.github.io/epg/guides/bg/tv.dir.bg.epg.xml.gz,https://iptv-org.github.io/epg/guides/en/bt.com.xml,https://iptv-org.github.io/epg/guides/en/directv.com.xml,https://iptv-org.github.io/epg/guides/zh/tv.cctv.com.xml,https://iptv-org.github.io/epg/guides/pl/programtv.onet.pl.xml,https://trada.info/epg.xml"
 #EXTINF:-1 group-title="THIẾT YẾU - 50fps" tvg-id="vtv1hd" tvg-logo="https://cdn.hqth.me/logo/1.png",VTV1 HD
 http://vn2.cvacetv.ga/vtv1
 #EXTINF:-1 group-title="THIẾT YẾU - 50fps" tvg-id="vtv2hd" tvg-logo="https://cdn.hqth.me/logo/2.png",VTV2 HD
@@ -101,6 +101,8 @@ http://sg.cvacetv.ga/ESPN2
 http://sg.cvacetv.ga/es1
 #EXTINF:-1 group-title="EUROSPORT" tvg-id="Eurosport2Poland.pl" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Eurosport_2_Logo_2015.svg/2560px-Eurosport_2_Logo_2015.svg.png",Eurosport 2
 http://sg.cvacetv.ga/es2
+#EXTINF:-1 group-title="KHÁC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/BTV_Action_Bulgaria_logo.svg/1920px-BTV_Action_Bulgaria_logo.svg.png" tvg-id="bTVAction.bg",bTV Action
+http://sg.cvacetv.ga:8080/stream/channelid/665399328
 #EXTINF:-1 group-title="KHÁC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Logo_Canal_11_FPF.svg/1200px-Logo_Canal_11_FPF.svg.png",Canal 11
 http://sg.cvacetv.ga:8080/stream/channelid/2103119835
 #EXTINF:-1 group-title="KHÁC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d7/Logo_TVP_Sport.jpg",TVP Sport

@@ -97,6 +97,12 @@ http://sg.cvacetv.ga:8080/stream/channelid/1127618614
 http://sg.cvacetv.ga:8080/stream/channelid/1403710339
 #EXTINF:-1 group-title="ZIGGO SPORT - HÀ LAN" tvg-logo="https://i.goalzz.com/?i=o%2fh%2f1%2f851%2fziggo-sport-racing-1.png",Ziggo Sport Racing
 http://sg.cvacetv.ga:8080/stream/channelid/891465161
+#EXTINF:-1 group-title="DIEMA SPORT - BULGARIA" tvg-id="DiemaSport.bg" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/DiemaSport-logo.svg/1200px-DiemaSport-logo.svg.png",Diema Sport
+http://vn2.cvacetv.ga/Diema1
+#EXTINF:-1 group-title="DIEMA SPORT - BULGARIA" tvg-id="DiemaSport2.bg" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/47/DS2_logo.png",Diema Sport 2
+http://vn2.cvacetv.ga/Diema2
+#EXTINF:-1 group-title="DIEMA SPORT - BULGARIA" tvg-id="DiemaSport3.bg" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f6/DiemaSport3logo.png",Diema Sport 3
+http://sg.cvacetv.ga/Diema3
 #EXTINF:-1 group-title="POLSAT SPORT - BA LAN" tvg-id="PolsatSport.pl" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Polsat_Sport_2021_gradient.svg/800px-Polsat_Sport_2021_gradient.svg.png",Polsat Sport
 http://sg.cvacetv.ga:8080/stream/channelid/701074256
 #EXTINF:-1 group-title="POLSAT SPORT - BA LAN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Polsat_Sport_Extra_2021_gradient.svg/1280px-Polsat_Sport_Extra_2021_gradient.svg.png",Polsat Sport Extra

@@ -53,8 +53,10 @@ http://sg.cvacetv.ga/Setanta2
 http://sg.cvacetv.ga/StarSL1
 #EXTINF:-1 group-title="PREMIER LEAGUE",Star Sports Select 2
 http://sg.cvacetv.ga/StarSL2
-#EXTINF:-1 group-title="KHÁC",Movistar LC
+#EXTINF:-1 group-title="MOVISTAR - TÂY BAN NHA",Movistar LC
 http://sg.cvacetv.ga/M_LC
+#EXTINF:-1 group-title="MOVISTAR - TÂY BAN NHA",Movistar Deportes
+http://sg.cvacetv.ga/M_DE
 #EXTINF:-1 group-title="MATCH TV - NGA" tvg-id="Match.ru" tvg-logo="https://ntvplus.tv/files/image/10/60/28/3d1.png",Маtch ТV
 http://sg.cvacetv.ga/matchtv
 #EXTINF:-1 group-title="MATCH TV - NGA" tvg-id="MatchFutbol1.ru" tvg-logo="https://ntvplus.tv/files/image/01/17/29/mqs.png",Маtch Futbol 1

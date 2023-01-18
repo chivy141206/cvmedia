@@ -10,7 +10,7 @@ http://sg.cvmedia.vthanhtivi.com/ITV
 #EXTINF:-1 group-title="🇬🇧 | ANH" tvg-id="Channel4.uk" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Channel_4_logo_2015.svg/1200px-Channel_4_logo_2015.svg.png",Channel 4
 http://sg.cvmedia.vthanhtivi.com/channel4
 #EXTINF:-1 group-title="🇬🇧 | ANH" tvg-id="Channel5.uk" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Channel_5_Logo_2016_SVG.svg/1200px-Channel_5_Logo_2016_SVG.svg.png",Channel 5
-
+http://sg.cvmedia.vthanhtivi.com/channel5
 #EXTINF:-1 group-title="🇬🇧 | ANH" tvg-id="CBBC.uk" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/CBBC_%282022%29.svg/1200px-CBBC_%282022%29.svg.png",CBBC
 http://sg.cvmedia.vthanhtivi.com/CBBC
 #EXTINF:-1 group-title="🇬🇧 | ANH" tvg-id="BBCNews.uk" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/BBC_News_2022_%28Alt%2C_boxed%29.svg/1200px-BBC_News_2022_%28Alt%2C_boxed%29.svg.png",BBC News
@@ -216,7 +216,7 @@ http://onair.cdn.tvchosun.com/origin1/_definst_/tvchosun_s1/playlist.m3u8
 http://sg.cvmedia.vthanhtivi.com/CCTV1
 #EXTINF:-1 group-title="🇨🇳 | TRUNG QUỐC" tvg-logo="https://i.imgur.com/tYtUmUR.png" tvg-id="CCTV3.cn",CCTV-3
 http://sg.cvmedia.vthanhtivi.com/CCTV3
-#EXTINF:-1 group-title="🇨🇳 | TRUNG QUỐC",CCTV-4
+#EXTINF:-1 group-title="🇨🇳 | TRUNG QUỐC" tvg-logo="https://raw.githubusercontent.com/chivy141206/cvmedia/main/CCTV-4.png",CCTV-4
 http://sg.cvmedia.vthanhtivi.com/CCTV4
 #EXTINF:-1 group-title="🇨🇳 | TRUNG QUỐC" tvg-logo="https://i.imgur.com/g7nb3L0.png" tvg-id="CCTV7.cn",CCTV-7
 http://sg.cvmedia.vthanhtivi.com/CCTV7
@@ -224,6 +224,8 @@ http://sg.cvmedia.vthanhtivi.com/CCTV7
 http://sg.cvmedia.vthanhtivi.com/CCTV13
 #EXTINF:-1 group-title="🇨🇳 | TRUNG QUỐC" tvg-logo="https://parco-zh.github.io/demo/HNWS.png" tvg-id="HunanTV.cn",Hunan TV
 http://sg.cvmedia.vthanhtivi.com/Hunan
+#EXTINF:-1 group-title="🇨🇳 | TRUNG QUỐC" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/6/66/ZTV_logo.png" tvg-id="ZhejiangTV.cn",Zhejiang TV
+http://sg.cvmedia.vthanhtivi.com/Zhejiang
 
 #----------------Russia/Ukraine-----------------
 #EXTINF:-1 group-title="🇷🇺 | NGA" tvg-logo="https://static.wikia.nocookie.net/logos/images/2/25/1tv_Russia_logo.png/revision/latest/scale-to-width-down/512?cb=20220217141930&path-prefix=vi",OPT1

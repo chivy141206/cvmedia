@@ -18,11 +18,11 @@ http://vn2.vthanhtivi.com/htv7
 #EXTINF:-1 group-title="THIẾT YẾU - 50fps" tvg-id="htvthethaohd" tvg-logo="https://cdn.hqth.me/logo/56.png",HTV Thể thao HD
 http://vn2.vthanhtivi.com/htvtt
 #EXTINF:-1 group-title="LIVE EVENTS" tvg-logo="https://cdn.hqth.me/cvmedia.png",CVmedia Live 1
-http://vn3.vthanhtivi.com/live1
+http://vn2.vthanhtivi.com/live1
 #EXTINF:-1 group-title="LIVE EVENTS" tvg-logo="https://cdn.hqth.me/cvmedia.png",CVmedia Live 2
-http://vn3.vthanhtivi.com/live2
+http://vn2.vthanhtivi.com/live2
 #EXTINF:-1 group-title="LIVE EVENTS" tvg-logo="https://cdn.hqth.me/cvmedia.png",CVmedia Live 4K
-http://vn3.vthanhtivi.com/4KUHD
+http://vn2.vthanhtivi.com/4KUHD
 #EXTINF:-1 group-title="AUSTRALIAN OPEN 2023" tvg-id="Eurosport1Poland.pl" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Eurosport_1_Logo_2015.svg/2560px-Eurosport_1_Logo_2015.svg.png",Eurosport 1
 http://sg.vthanhtivi.com/es1
 #EXTINF:-1 group-title="AUSTRALIAN OPEN 2023" tvg-id="Eurosport2Poland.pl" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Eurosport_2_Logo_2015.svg/2560px-Eurosport_2_Logo_2015.svg.png",Eurosport 2

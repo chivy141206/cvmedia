@@ -52,13 +52,19 @@ http://sg.vthanhtivi.com/Setanta1
 #EXTINF:-1 group-title="PREMIER LEAGUE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5d/Setanta-logo.jpg",Setanta Sports 2
 http://sg.vthanhtivi.com/Setanta2
 #EXTINF:-1 group-title="PREMIER LEAGUE",Star Sports Select 1
-http://sg.vthanhtivi.com/StarSL1
+
 #EXTINF:-1 group-title="PREMIER LEAGUE",Star Sports Select 2
-http://sg.vthanhtivi.com/StarSL2
+
 #EXTINF:-1 group-title="MOVISTAR - TÂY BAN NHA",Movistar LC
 http://sg.vthanhtivi.com/M_LC
 #EXTINF:-1 group-title="MOVISTAR - TÂY BAN NHA",Movistar Deportes
 http://sg.vthanhtivi.com/M_DE
+#EXTINF:-1 group-title="DIEMA SPORT - BULGARIA" tvg-id="DiemaSport.bg" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/DiemaSport-logo.svg/1200px-DiemaSport-logo.svg.png",Diema Sport
+http://sg.vthanhtivi.com/Diema1
+#EXTINF:-1 group-title="DIEMA SPORT - BULGARIA" tvg-id="DiemaSport2.bg" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/47/DS2_logo.png",Diema Sport 2
+http://sg.vthanhtivi.com/Diema2
+#EXTINF:-1 group-title="DIEMA SPORT - BULGARIA" tvg-id="DiemaSport3.bg" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f6/DiemaSport3logo.png",Diema Sport 3
+http://sg.vthanhtivi.com/Diema3
 #EXTINF:-1 group-title="MATCH TV - NGA" tvg-id="Match.ru" tvg-logo="https://ntvplus.tv/files/image/10/60/28/3d1.png",Маtch ТV
 http://sg.vthanhtivi.com/matchtv
 #EXTINF:-1 group-title="MATCH TV - NGA" tvg-id="MatchFutbol1.ru" tvg-logo="https://ntvplus.tv/files/image/01/17/29/mqs.png",Маtch Futbol 1
@@ -103,12 +109,6 @@ http://sg.vthanhtivi.com:8080/stream/channelid/1127618614
 http://sg.vthanhtivi.com:8080/stream/channelid/1403710339
 #EXTINF:-1 group-title="ZIGGO SPORT - HÀ LAN" tvg-logo="https://i.goalzz.com/?i=o%2fh%2f1%2f851%2fziggo-sport-racing-1.png",Ziggo Sport Racing
 http://sg.vthanhtivi.com:8080/stream/channelid/891465161
-#EXTINF:-1 group-title="DIEMA SPORT - BULGARIA" tvg-id="DiemaSport.bg" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/DiemaSport-logo.svg/1200px-DiemaSport-logo.svg.png",Diema Sport
-http://sg.vthanhtivi.com/Diema1
-#EXTINF:-1 group-title="DIEMA SPORT - BULGARIA" tvg-id="DiemaSport2.bg" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/47/DS2_logo.png",Diema Sport 2
-http://sg.vthanhtivi.com/Diema2
-#EXTINF:-1 group-title="DIEMA SPORT - BULGARIA" tvg-id="DiemaSport3.bg" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f6/DiemaSport3logo.png",Diema Sport 3
-http://sg.vthanhtivi.com/Diema3
 #EXTINF:-1 group-title="POLSAT SPORT - BA LAN" tvg-id="PolsatSport.pl" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Polsat_Sport_2021_gradient.svg/800px-Polsat_Sport_2021_gradient.svg.png",Polsat Sport
 http://sg.vthanhtivi.com:8080/stream/channelid/701074256
 #EXTINF:-1 group-title="POLSAT SPORT - BA LAN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Polsat_Sport_Extra_2021_gradient.svg/1280px-Polsat_Sport_Extra_2021_gradient.svg.png",Polsat Sport Extra

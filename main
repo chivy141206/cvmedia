@@ -120,6 +120,6 @@ http://sg.vthanhtivi.com/FS2
 #EXTINF:-1 group-title="KHÁC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/BTV_Action_Bulgaria_logo.svg/1920px-BTV_Action_Bulgaria_logo.svg.png" tvg-id="bTVAction.bg",bTV Action
 http://sg.vthanhtivi.com:8080/stream/channelid/665399328
 #EXTINF:-1 group-title="KHÁC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Logo_Canal_11_FPF.svg/1200px-Logo_Canal_11_FPF.svg.png",Canal 11
-http://sg.vthanhtivi.com:8080/stream/channelid/2103119835
+
 #EXTINF:-1 group-title="KHÁC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d7/Logo_TVP_Sport.jpg",TVP Sport
-http://sg.vthanhtivi.com/TVP_Sport
+http://sg.vthanhtivi.com:8080/stream/channelid/1560768115

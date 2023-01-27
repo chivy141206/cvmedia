@@ -100,15 +100,15 @@ http://sg.vthanhtivi.com/TRT_Turk
 
 #----------------Portugal-----------------
 #EXTINF:-1 group-title="🇵🇹 | BỒ ĐÀO NHA" tvg-id="RTP1.pt" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/RTP1_-_Logo_2016.svg/1920px-RTP1_-_Logo_2016.svg.png",RTP 1
-http://sg.vthanhtivi.com/RTP1
+
 #EXTINF:-1 group-title="🇵🇹 | BỒ ĐÀO NHA" tvg-id="RTP2.pt" tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/4d/Rtp2_2016_logo.png",RTP 2
-http://sg.vthanhtivi.com/RTP2
+
 #EXTINF:-1 group-title="🇵🇹 | BỒ ĐÀO NHA" tvg-id="RTP3.pt" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Rtp3.png/1920px-Rtp3.png",RTP 3
-http://sg.vthanhtivi.com/RTP3
+
 #EXTINF:-1 group-title="🇵🇹 | BỒ ĐÀO NHA" tvg-id="AMCPortugal.pt" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/AMC_logo_2019.svg/1920px-AMC_logo_2019.svg.png",AMC
-http://sg.vthanhtivi.com/AMC
+
 #EXTINF:-1 group-title="🇵🇹 | BỒ ĐÀO NHA" tvg-id="SIC.pt" tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/4d/Sociedade_Independente_de_Comunica%C3%A7%C3%A3o_Logo_2018.png",SIC
-http://sg.vthanhtivi.com/SIC
+
 #EXTINF:-1 group-title="🇵🇹 | BỒ ĐÀO NHA" tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/4d/Sociedade_Independente_de_Comunica%C3%A7%C3%A3o_Logo_2018.png",SIC Noticias
 
 #EXTINF:-1 group-title="🇵🇹 | BỒ ĐÀO NHA" tvg-logo="https://upload.wikimedia.org/wikipedia/en/c/c4/Sicmulher.png",SIC Mulher

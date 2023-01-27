@@ -39,6 +39,8 @@ http://sg.vthanhtivi.com/ESPN2
 http://sg.vthanhtivi.com/CCTV5
 #EXTINF:-1 group-title="AUSTRALIAN OPEN 2023" tvg-id="CCTV5Plus.cn" tvg-logo="https://i.imgur.com/uW1b1KO.png",CCTV-5+
 http://sg.vthanhtivi.com/CCTV5p
+#EXTINF:-1 group-title="AUSTRALIAN OPEN 2023" tvg-id="" tvg-logo="https://bkimg.cdn.bcebos.com/pic/4e4a20a4462309f78625878e750e0cf3d6cad6e7",Great Sports
+http://sg.vthanhtivi.com/WXTY
 #EXTINF:-1 group-title="PREMIER LEAGUE",Sky Sport Premier League
 
 #EXTINF:-1 group-title="PREMIER LEAGUE",DAZN 1

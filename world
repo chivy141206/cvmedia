@@ -218,6 +218,10 @@ http://2.cvmtv.site/CCTV1
 http://2.cvmtv.site/CCTV3
 #EXTINF:-1 group-title="🇨🇳 | TRUNG QUỐC" tvg-logo="https://raw.githubusercontent.com/chivy141206/cvmedia/main/CCTV-4.png",CCTV-4
 http://2.cvmtv.site/CCTV4
+#EXTINF:-1 group-title="🇨🇳 | TRUNG QUỐC" tvg-id="CCTV5.cn" tvg-logo="https://i.imgur.com/EqURkoF.png",CCTV-5
+http://2.cvmtv.site/CCTV5
+#EXTINF:-1 group-title="🇨🇳 | TRUNG QUỐC" tvg-id="CCTV5Plus.cn" tvg-logo="https://i.imgur.com/uW1b1KO.png",CCTV-5+
+http://2.cvmtv.site/CCTV5p
 #EXTINF:-1 group-title="🇨🇳 | TRUNG QUỐC" tvg-logo="https://i.imgur.com/g7nb3L0.png" tvg-id="CCTV7.cn",CCTV-7
 http://2.cvmtv.site/CCTV7
 #EXTINF:-1 group-title="🇨🇳 | TRUNG QUỐC" tvg-logo="https://i.imgur.com/GGHckoY.png" tvg-id="CCTV13.cn",CCTV-13
@@ -226,6 +230,8 @@ http://2.cvmtv.site/CCTV13
 http://2.cvmtv.site/Hunan
 #EXTINF:-1 group-title="🇨🇳 | TRUNG QUỐC" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/6/66/ZTV_logo.png" tvg-id="ZhejiangTV.cn",Zhejiang TV
 http://2.cvmtv.site/Zhejiang
+#EXTINF:-1 group-title="🇨🇳 | TRUNG QUỐC" tvg-id="" tvg-logo="https://bkimg.cdn.bcebos.com/pic/4e4a20a4462309f78625878e750e0cf3d6cad6e7",Great Sports
+http://2.cvmtv.site/WXTY
 
 #----------------Russia/Ukraine-----------------
 #EXTINF:-1 group-title="🇷🇺 | NGA" tvg-logo="https://static.wikia.nocookie.net/logos/images/2/25/1tv_Russia_logo.png/revision/latest/scale-to-width-down/512?cb=20220217141930&path-prefix=vi",OPT1

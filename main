@@ -19,14 +19,10 @@ http://1.cvmtv.site/htv7
 http://1.cvmtv.site/htv9
 #EXTINF:-1 group-title="THIẾT YẾU - 50fps" tvg-id="htvthethaohd" tvg-logo="https://cdn.hqth.me/logo/56.png",HTV Thể thao HD
 http://1.cvmtv.site/htvtt
-#EXTINF:-1 group-title="LIVE EVENTS" tvg-logo="https://cdn.hqth.me/cvmedia.png",CVmedia Live 1
-
-#EXTINF:-1 group-title="LIVE EVENTS" tvg-logo="https://cdn.hqth.me/cvmedia.png",CVmedia Live 2
-
-#EXTINF:-1 group-title="LIVE EVENTS" tvg-logo="https://cdn.hqth.me/cvmedia.png",CVmedia Live 4K
-
-#EXTINF:-1 group-title="PREMIER LEAGUE",Sky Sport Premier League
-
+#EXTINF:-1 group-title="V-LEAGUE 2023" tvg-logo="https://upload.wikimedia.org/wikipedia/vi/thumb/d/d4/Logo_Vleague1_2023.svg/1920px-Logo_Vleague1_2023.svg.png",V-LEAGUE EVENT 1
+http://1.cvmtv.site/live1
+#EXTINF:-1 group-title="V-LEAGUE 2023" tvg-logo="https://upload.wikimedia.org/wikipedia/vi/thumb/d/d4/Logo_Vleague1_2023.svg/1920px-Logo_Vleague1_2023.svg.png",V-LEAGUE EVENT 2
+http://1.cvmtv.site/live2
 #EXTINF:-1 group-title="PREMIER LEAGUE" tvg-id="DiemaSport.bg" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/DiemaSport-logo.svg/1200px-DiemaSport-logo.svg.png",Diema Sport
 http://2.cvmtv.site/Diema1
 #EXTINF:-1 group-title="PREMIER LEAGUE" tvg-id="DiemaSport2.bg" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/47/DS2_logo.png",Diema Sport 2

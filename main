@@ -1,4 +1,4 @@
-#EXTM3U url-tvg="http://51.79.147.180:8080/xmltv/channels,https://iptv-org.github.io/epg/guides/bg/tv.dir.bg.xml,https://iptv-org.github.io/epg/guides/en/bt.com.xml,https://iptv-org.github.io/epg/guides/en/directv.com.xml,https://iptv-org.github.io/epg/guides/zh/tv.cctv.com.xml,https://iptv-org.github.io/epg/guides/pl/programtv.onet.pl.xml,https://iptv-org.github.io/epg/guides/en/abc.net.au.xml,https://trada.info/epg.xml"
+#EXTM3U url-tvg="http://0.vylc.name.vn:8080/xmltv/channels,https://iptv-org.github.io/epg/guides/bg/tv.dir.bg.xml,https://iptv-org.github.io/epg/guides/en/bt.com.xml,https://iptv-org.github.io/epg/guides/en/directv.com.xml,https://iptv-org.github.io/epg/guides/zh/tv.cctv.com.xml,https://iptv-org.github.io/epg/guides/pl/programtv.onet.pl.xml,https://iptv-org.github.io/epg/guides/en/abc.net.au.xml,https://trada.info/epg.xml"
 #EXTINF:-1 group-title="THIẾT YẾU - 50fps" tvg-id="vtv1hd" tvg-logo="https://cdn.hqth.me/logo/1.png",VTV1 HD
 http://171.244.61.233/vtv1
 #EXTINF:-1 group-title="THIẾT YẾU - 50fps" tvg-id="vtv2hd" tvg-logo="https://cdn.hqth.me/logo/2.png",VTV2 HD
@@ -24,86 +24,86 @@ http://171.244.61.233/live2
 #EXTINF:-1 group-title="PREMIER LEAGUE" tvg-logo="https://supersport-cms-prod.azureedge.net/media/icxfej42/premier-league.png?width=500",PREMIER LEAGUE EVENT
 http://171.244.61.233/EPL
 #EXTINF:-1 group-title="PREMIER LEAGUE" tvg-id="DiemaSport.bg" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/DiemaSport-logo.svg/1200px-DiemaSport-logo.svg.png",Diema Sport
-http://51.79.147.180/Diema1
+http://0.vylc.name.vn/Diema1
 #EXTINF:-1 group-title="PREMIER LEAGUE" tvg-id="DiemaSport2.bg" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/47/DS2_logo.png",Diema Sport 2
-http://51.79.147.180/Diema2
+http://0.vylc.name.vn/Diema2
 #EXTINF:-1 group-title="PREMIER LEAGUE" tvg-id="DiemaSport3.bg" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f6/DiemaSport3logo.png",Diema Sport 3
-http://51.79.147.180/Diema3
+http://0.vylc.name.vn/Diema3
 #EXTINF:-1 group-title="PREMIER LEAGUE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5d/Setanta-logo.jpg",Setanta Sports 1
-http://51.79.147.180/Setanta1
+http://0.vylc.name.vn/Setanta1
 #EXTINF:-1 group-title="PREMIER LEAGUE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5d/Setanta-logo.jpg",Setanta Sports 2
-http://51.79.147.180/Setanta2
+http://0.vylc.name.vn/Setanta2
 #EXTINF:-1 group-title="MATCH TV - NGA" tvg-id="Match.ru" tvg-logo="https://ntvplus.tv/files/image/10/60/28/3d1.png",Маtch ТV
-http://51.79.147.180/matchtv
+http://0.vylc.name.vn/matchtv
 #EXTINF:-1 group-title="MATCH TV - NGA" tvg-id="MatchFutbol1.ru" tvg-logo="https://ntvplus.tv/files/image/01/17/29/mqs.png",Маtch Futbol 1
-http://51.79.147.180/futbol1
+http://0.vylc.name.vn/futbol1
 #EXTINF:-1 group-title="MATCH TV - NGA" tvg-id="MatchFutbol2.ru" tvg-logo="https://ntvplus.tv/files/image/01/17/30/olz.png",Маtch Futbol 2
-http://51.79.147.180/futbol2
+http://0.vylc.name.vn/futbol2
 #EXTINF:-1 group-title="MATCH TV - NGA" tvg-id="MatchFutbol3.ru" tvg-logo="https://ntvplus.tv/files/image/01/17/31/u02.png",Маtch Futbol 3
-http://51.79.147.180/futbol3
+http://0.vylc.name.vn/futbol3
 #EXTINF:-1 group-title="MATCH TV - NGA" tvg-id="MatchPremier.ru" tvg-logo="https://ntvplus.tv/files/image/02/31/08/sd0.png",Маtch Premier
 
 #EXTINF:-1 group-title="BEIN SPORTS - PHÁP" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e5/Logo_bein_sports_1.png",BEIN SPORTS 1
-http://51.79.147.180:8080/stream/channelid/1625287896
+http://0.vylc.name.vn:8080/stream/channelid/1625287896
 #EXTINF:-1 group-title="BEIN SPORTS - PHÁP" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Logo_bein_sports_2.png/1200px-Logo_bein_sports_2.png",BEIN SPORTS 2
-http://51.79.147.180:8080/stream/channelid/2047845480
+http://0.vylc.name.vn:8080/stream/channelid/2047845480
 #EXTINF:-1 group-title="ELEVEN SPORT - BA LAN" tvg-logo="https://ocdn.eu/ptv2-images/logo-migrated/eleven-sports-1-hd.png",Eleven Sports 1
-http://51.79.147.180:8080/stream/channelid/836061641
+http://0.vylc.name.vn:8080/stream/channelid/836061641
 #EXTINF:-1 group-title="ELEVEN SPORT - BA LAN" tvg-logo="https://ocdn.eu/ptv2-images/logo-migrated/eleven-sports-2.png",Eleven Sports 2
-http://51.79.147.180:8080/stream/channelid/1604309142
+http://0.vylc.name.vn:8080/stream/channelid/1604309142
 #EXTINF:-1 group-title="ELEVEN SPORT - BA LAN" tvg-logo="https://ocdn.eu/ptv2-images/logo-migrated/eleven-sports-3-hd.png",Eleven Sports 3
-http://51.79.147.180:8080/stream/channelid/1655748057
+http://0.vylc.name.vn:8080/stream/channelid/1655748057
 #EXTINF:-1 group-title="ELEVEN SPORT - BA LAN" tvg-logo="https://www.digitaltveurope.com/files/2018/04/Screen-Shot-2018-04-13-at-12.47.22.png",Eleven Sports 4
-http://51.79.147.180:8080/stream/channelid/1958327260
+http://0.vylc.name.vn:8080/stream/channelid/1958327260
 #EXTINF:-1 group-title="CANAL SPORT - BA LAN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1a/Canal%2B_Sport_2015.png",Canal+ Sport 1
-http://51.79.147.180:8080/stream/channelid/684151253
+http://0.vylc.name.vn:8080/stream/channelid/684151253
 #EXTINF:-1 group-title="CANAL SPORT - BA LAN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/40/Canal%2B_Sport_2_PL.png",Canal+ Sport 2
-http://51.79.147.180:8080/stream/channelid/1705267767
+http://0.vylc.name.vn:8080/stream/channelid/1705267767
 #EXTINF:-1 group-title="CANAL SPORT - BA LAN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/CANAL%2B_Sport_5.png/800px-CANAL%2B_Sport_5.png",Canal+ Sport 5
-http://51.79.147.180:8080/stream/channelid/1048689498
+http://0.vylc.name.vn:8080/stream/channelid/1048689498
 #EXTINF:-1 group-title="CANAL SPORT - BA LAN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Canal%2B_Premium.svg/1920px-Canal%2B_Premium.svg.png",Canal+ Premium
-http://51.79.147.180:8080/stream/channelid/881008572
+http://0.vylc.name.vn:8080/stream/channelid/881008572
 #EXTINF:-1 group-title="CANAL SPORT - BA LAN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/30/Canal%2B_Family_PL.png",Canal+ Family
-http://51.79.147.180:8080/stream/channelid/1732441088
+http://0.vylc.name.vn:8080/stream/channelid/1732441088
 #EXTINF:-1 group-title="ZIGGO SPORT - HÀ LAN" tvg-logo="https://i.goalzz.com/?i=logo_sport%2Fziggo_sport_select.jpg",Ziggo Sport Select
-http://51.79.147.180:8080/stream/channelid/1500720339
+http://0.vylc.name.vn:8080/stream/channelid/1500720339
 #EXTINF:-1 group-title="ZIGGO SPORT - HÀ LAN" tvg-logo="https://i.goalzz.com/?i=logo_sport%2Fziggo_sport_voetball.jpg",Ziggo Sport Voetbal
-http://51.79.147.180:8080/stream/channelid/414989288
+http://0.vylc.name.vn:8080/stream/channelid/414989288
 #EXTINF:-1 group-title="ZIGGO SPORT - HÀ LAN" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-ziggo-sport-tennis-2625.png",Ziggo Sport Tennis
-http://51.79.147.180:8080/stream/channelid/1547463735
+http://0.vylc.name.vn:8080/stream/channelid/1547463735
 #EXTINF:-1 group-title="ZIGGO SPORT - HÀ LAN" tvg-logo="https://i.goalzz.com/?i=logo_sport%2fziggo_sport_golf.jpg",Ziggo Sport Golf
-http://51.79.147.180:8080/stream/channelid/1127618614
+http://0.vylc.name.vn:8080/stream/channelid/1127618614
 #EXTINF:-1 group-title="ZIGGO SPORT - HÀ LAN" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-ziggo-docu-290.png",Ziggo Sport Docu
-http://51.79.147.180:8080/stream/channelid/1403710339
+http://0.vylc.name.vn:8080/stream/channelid/1403710339
 #EXTINF:-1 group-title="ZIGGO SPORT - HÀ LAN" tvg-logo="https://i.goalzz.com/?i=o%2fh%2f1%2f851%2fziggo-sport-racing-1.png",Ziggo Sport Racing
-http://51.79.147.180:8080/stream/channelid/891465161
+http://0.vylc.name.vn:8080/stream/channelid/891465161
 #EXTINF:-1 group-title="POLSAT SPORT - BA LAN" tvg-id="PolsatSport.pl" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Polsat_Sport_2021_gradient.svg/800px-Polsat_Sport_2021_gradient.svg.png",Polsat Sport
-http://51.79.147.180:8080/stream/channelid/701074256
+http://0.vylc.name.vn:8080/stream/channelid/701074256
 #EXTINF:-1 group-title="POLSAT SPORT - BA LAN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Polsat_Sport_Extra_2021_gradient.svg/1280px-Polsat_Sport_Extra_2021_gradient.svg.png",Polsat Sport Extra
-http://51.79.147.180:8080/stream/channelid/842661572
+http://0.vylc.name.vn:8080/stream/channelid/842661572
 #EXTINF:-1 group-title="POLSAT SPORT - BA LAN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Polsat_Sport_News_2021_gradient.svg/1280px-Polsat_Sport_News_2021_gradient.svg.png",Polsat Sport News
-http://51.79.147.180:8080/stream/channelid/1209045940
+http://0.vylc.name.vn:8080/stream/channelid/1209045940
 #EXTINF:-1 group-title="THỂ THAO TRUNG QUỐC" tvg-id="CCTV5.cn" tvg-logo="https://i.imgur.com/EqURkoF.png",CCTV-5
-http://51.79.147.180/CCTV5
+http://0.vylc.name.vn/CCTV5
 #EXTINF:-1 group-title="THỂ THAO TRUNG QUỐC" tvg-id="CCTV5Plus.cn" tvg-logo="https://i.imgur.com/uW1b1KO.png",CCTV-5+
-http://51.79.147.180/CCTV5p
+http://0.vylc.name.vn/CCTV5p
 #EXTINF:-1 group-title="THỂ THAO TRUNG QUỐC" tvg-id="" tvg-logo="https://bkimg.cdn.bcebos.com/pic/4e4a20a4462309f78625878e750e0cf3d6cad6e7",Great Sports
-http://51.79.147.180/WXTY
+http://0.vylc.name.vn/WXTY
 #EXTINF:-1 group-title="EUROSPORT" tvg-id="Eurosport1Poland.pl" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Eurosport_1_Logo_2015.svg/2560px-Eurosport_1_Logo_2015.svg.png",Eurosport 1
-http://51.79.147.180/es1
+http://0.vylc.name.vn/es1
 #EXTINF:-1 group-title="EUROSPORT" tvg-id="Eurosport2Poland.pl" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Eurosport_2_Logo_2015.svg/2560px-Eurosport_2_Logo_2015.svg.png",Eurosport 2
-http://51.79.147.180/es2
+http://0.vylc.name.vn/es2
 #EXTINF:-1 group-title="THỂ THAO MỸ" tvg-id="ESPN.us" tvg-logo="https://secure.espncdn.com/watchespn/images/channels/e748f3c0-3f7c-3088-a90a-0ccb2588e0ed.png",ESPN US
-http://51.79.147.180/ESPN
+http://0.vylc.name.vn/ESPN
 #EXTINF:-1 group-title="THỂ THAO MỸ" tvg-id="ESPN2.us" tvg-logo="https://secure.espncdn.com/watchespn/images/channels/017f41a2-ef4f-39d3-9f45-f680b88cd23b.png",ESPN2 US
-http://51.79.147.180/ESPN2
+http://0.vylc.name.vn/ESPN2
 #EXTINF:-1 group-title="THỂ THAO MỸ" tvg-id="FoxSports1.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/2015_Fox_Sports_1_logo.svg/1200px-2015_Fox_Sports_1_logo.svg.png",FS1
-http://51.79.147.180/FS1
+http://0.vylc.name.vn/FS1
 #EXTINF:-1 group-title="THỂ THAO MỸ" tvg-id="FoxSports2.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/FS2_logo_2015.svg/1200px-FS2_logo_2015.svg.png",FS2
-http://51.79.147.180/FS2
+http://0.vylc.name.vn/FS2
 #EXTINF:-1 group-title="KHÁC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/BTV_Action_Bulgaria_logo.svg/1920px-BTV_Action_Bulgaria_logo.svg.png" tvg-id="bTVAction.bg",bTV Action
-http://51.79.147.180:8080/stream/channelid/665399328
+http://0.vylc.name.vn:8080/stream/channelid/665399328
 #EXTINF:-1 group-title="KHÁC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Logo_Canal_11_FPF.svg/1200px-Logo_Canal_11_FPF.svg.png",Canal 11
 
 #EXTINF:-1 group-title="KHÁC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d7/Logo_TVP_Sport.jpg",TVP Sport
-http://51.79.147.180:8080/stream/channelid/1560768115
+http://0.vylc.name.vn:8080/stream/channelid/1560768115

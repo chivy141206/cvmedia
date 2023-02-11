@@ -1,28 +1,28 @@
 #EXTM3U url-tvg="http://51.79.147.180:8080/xmltv/channels,https://iptv-org.github.io/epg/guides/bg/tv.dir.bg.xml,https://iptv-org.github.io/epg/guides/en/bt.com.xml,https://iptv-org.github.io/epg/guides/en/directv.com.xml,https://iptv-org.github.io/epg/guides/zh/tv.cctv.com.xml,https://iptv-org.github.io/epg/guides/pl/programtv.onet.pl.xml,https://iptv-org.github.io/epg/guides/en/abc.net.au.xml,https://trada.info/epg.xml"
 #EXTINF:-1 group-title="THIẾT YẾU - 50fps" tvg-id="vtv1hd" tvg-logo="https://cdn.hqth.me/logo/1.png",VTV1 HD
-http://171.244.61.23/vtv1
+http://171.244.61.233/vtv1
 #EXTINF:-1 group-title="THIẾT YẾU - 50fps" tvg-id="vtv2hd" tvg-logo="https://cdn.hqth.me/logo/2.png",VTV2 HD
 
 #EXTINF:-1 group-title="THIẾT YẾU - 50fps" tvg-id="vtv3hd" tvg-logo="https://cdn.hqth.me/logo/3.png",VTV3 HD
-http://171.244.61.23/vtv3
+http://171.244.61.233/vtv3
 #EXTINF:-1 group-title="THIẾT YẾU - 50fps" tvg-id="vtv5hd" tvg-logo="https://cdn.hqth.me/logo/5.png",VTV5 HD
-http://171.244.61.23/vtv5
+http://171.244.61.233/vtv5
 #EXTINF:-1 group-title="THIẾT YẾU - 50fps" tvg-id="vtv6hd" tvg-logo="https://raw.githubusercontent.com/chivy141206/cvmedia/main/vtvct.png",VTV Cần Thơ HD
-http://171.244.61.23/vtvct
+http://171.244.61.233/vtvct
 #EXTINF:-1 group-title="THIẾT YẾU - 50fps" tvg-id="vtc1hd" tvg-logo="https://raw.githubusercontent.com/chivy141206/cvmedia/main/vtc1.png",VTC1 HD
-http://171.244.61.23/vtc1
+http://171.244.61.233/vtc1
 #EXTINF:-1 group-title="THIẾT YẾU - 50fps" tvg-id="htv7hd" tvg-logo="https://raw.githubusercontent.com/chivy141206/cvmedia/main/htv7.png",HTV7 HD
-http://171.244.61.23/htv7
+http://171.244.61.233/htv7
 #EXTINF:-1 group-title="THIẾT YẾU - 50fps" tvg-id="htv9hd" tvg-logo="https://raw.githubusercontent.com/chivy141206/cvmedia/main/htv9.png",HTV9 HD
-http://171.244.61.23/htv9
+http://171.244.61.233/htv9
 #EXTINF:-1 group-title="THIẾT YẾU - 50fps" tvg-id="htvthethaohd" tvg-logo="https://cdn.hqth.me/logo/56.png",HTV Thể thao HD
-http://171.244.61.23/htvtt
+http://171.244.61.233/htvtt
 #EXTINF:-1 group-title="V-LEAGUE 2023" tvg-logo="https://upload.wikimedia.org/wikipedia/vi/thumb/d/d4/Logo_Vleague1_2023.svg/1920px-Logo_Vleague1_2023.svg.png",V-LEAGUE EVENT 1
-http://171.244.61.23/live1
+http://171.244.61.233/live1
 #EXTINF:-1 group-title="V-LEAGUE 2023" tvg-logo="https://upload.wikimedia.org/wikipedia/vi/thumb/d/d4/Logo_Vleague1_2023.svg/1920px-Logo_Vleague1_2023.svg.png",V-LEAGUE EVENT 2
-http://171.244.61.23/live2
+http://171.244.61.233/live2
 #EXTINF:-1 group-title="PREMIER LEAGUE" tvg-logo="https://supersport-cms-prod.azureedge.net/media/icxfej42/premier-league.png?width=500",PREMIER LEAGUE EVENT
-http://171.244.61.23/EPL
+http://171.244.61.233/EPL
 #EXTINF:-1 group-title="PREMIER LEAGUE" tvg-id="DiemaSport.bg" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/DiemaSport-logo.svg/1200px-DiemaSport-logo.svg.png",Diema Sport
 http://51.79.147.180/Diema1
 #EXTINF:-1 group-title="PREMIER LEAGUE" tvg-id="DiemaSport2.bg" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/47/DS2_logo.png",Diema Sport 2

@@ -9,8 +9,6 @@ http://1.cvmtv.site/vtv3
 http://1.cvmtv.site/vtv5
 #EXTINF:-1 group-title="THIẾT YẾU - 50fps" tvg-id="vtv6hd" tvg-logo="https://raw.githubusercontent.com/chivy141206/cvmedia/main/vtvct.png",VTV Cần Thơ HD
 http://1.cvmtv.site/vtvct
-#EXTINF:-1 group-title="THIẾT YẾU - 50fps" tvg-id="vtv8hd" tvg-logo="https://raw.githubusercontent.com/chivy141206/cvmedia/main/vtv8.png",VTV8 HD
-
 #EXTINF:-1 group-title="THIẾT YẾU - 50fps" tvg-id="vtc1hd" tvg-logo="https://raw.githubusercontent.com/chivy141206/cvmedia/main/vtc1.png",VTC1 HD
 http://1.cvmtv.site/vtc1
 #EXTINF:-1 group-title="THIẾT YẾU - 50fps" tvg-id="htv7hd" tvg-logo="https://raw.githubusercontent.com/chivy141206/cvmedia/main/htv7.png",HTV7 HD
@@ -23,6 +21,8 @@ http://1.cvmtv.site/htvtt
 http://1.cvmtv.site/live1
 #EXTINF:-1 group-title="V-LEAGUE 2023" tvg-logo="https://upload.wikimedia.org/wikipedia/vi/thumb/d/d4/Logo_Vleague1_2023.svg/1920px-Logo_Vleague1_2023.svg.png",V-LEAGUE EVENT 2
 http://1.cvmtv.site/live2
+#EXTINF:-1 group-title="PREMIER LEAGUE" tvg-logo="https://supersport-cms-prod.azureedge.net/media/icxfej42/premier-league.png?width=500",PREMIER LEAGUE EVENT
+http://1.cvmtv.site/EPL
 #EXTINF:-1 group-title="PREMIER LEAGUE" tvg-id="DiemaSport.bg" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/DiemaSport-logo.svg/1200px-DiemaSport-logo.svg.png",Diema Sport
 http://2.cvmtv.site/Diema1
 #EXTINF:-1 group-title="PREMIER LEAGUE" tvg-id="DiemaSport2.bg" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/47/DS2_logo.png",Diema Sport 2
@@ -33,16 +33,10 @@ http://2.cvmtv.site/Diema3
 http://2.cvmtv.site/Setanta1
 #EXTINF:-1 group-title="PREMIER LEAGUE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5d/Setanta-logo.jpg",Setanta Sports 2
 http://2.cvmtv.site/Setanta2
-#EXTINF:-1 group-title="PREMIER LEAGUE",NewVisionsTV
-
 #EXTINF:-1 group-title="PREMIER LEAGUE",DAZN 1
 http://2.cvmtv.site/DAZN1
 #EXTINF:-1 group-title="PREMIER LEAGUE",DAZN 2
 http://2.cvmtv.site/DAZN2
-#EXTINF:-1 group-title="PREMIER LEAGUE",Star Sports Select 1
-
-#EXTINF:-1 group-title="PREMIER LEAGUE",Star Sports Select 2
-
 #EXTINF:-1 group-title="MOVISTAR - TÂY BAN NHA",Movistar LC
 http://2.cvmtv.site/M_LC
 #EXTINF:-1 group-title="MOVISTAR - TÂY BAN NHA",Movistar Deportes

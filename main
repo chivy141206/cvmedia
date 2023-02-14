@@ -53,8 +53,6 @@ http://0.vylc.name.vn/futbol2
 http://0.vylc.name.vn/futbol3
 #EXTINF:-1 group-title="MATCH TV - NGA" tvg-id="MatchPremier.ru" tvg-logo="https://ntvplus.tv/files/image/02/31/08/sd0.png",Маtch Premier
 
-#EXTINF:-1 group-title="CANAL SPORT - BA LAN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/30/Canal%2B_Family_PL.png",Canal+ Family
-http://0.vylc.name.vn:8080/stream/channelid/1732441088
 #EXTINF:-1 group-title="ZIGGO SPORT - HÀ LAN" tvg-logo="https://i.goalzz.com/?i=logo_sport%2Fziggo_sport_select.jpg",Ziggo Sport Select
 http://0.vylc.name.vn:8080/stream/channelid/1500720339
 #EXTINF:-1 group-title="ZIGGO SPORT - HÀ LAN" tvg-logo="https://i.goalzz.com/?i=logo_sport%2Fziggo_sport_voetball.jpg",Ziggo Sport Voetbal
@@ -83,6 +81,8 @@ http://0.vylc.name.vn:8080/stream/channelid/1705267767
 http://0.vylc.name.vn:8080/stream/channelid/1048689498
 #EXTINF:-1 group-title="CANAL SPORT - BA LAN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Canal%2B_Premium.svg/1920px-Canal%2B_Premium.svg.png",Canal+ Premium
 http://0.vylc.name.vn:8080/stream/channelid/881008572
+#EXTINF:-1 group-title="CANAL SPORT - BA LAN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/30/Canal%2B_Family_PL.png",Canal+ Family
+http://0.vylc.name.vn:8080/stream/channelid/1732441088
 #EXTINF:-1 group-title="POLSAT SPORT - BA LAN" tvg-id="PolsatSport.pl" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Polsat_Sport_2021_gradient.svg/800px-Polsat_Sport_2021_gradient.svg.png",Polsat Sport
 http://0.vylc.name.vn:8080/stream/channelid/701074256
 #EXTINF:-1 group-title="POLSAT SPORT - BA LAN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Polsat_Sport_Extra_2021_gradient.svg/1280px-Polsat_Sport_Extra_2021_gradient.svg.png",Polsat Sport Extra

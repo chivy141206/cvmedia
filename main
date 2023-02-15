@@ -25,6 +25,8 @@ http://171.244.61.233/live2
 http://171.244.61.233/SCTV
 #EXTINF:-1 group-title="UEFA CHAMPIONS LEAGUE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Moji_blue.svg/1200px-Moji_blue.svg.png",mOji
 http://171.244.61.233/MOJI
+#EXTINF:-1 group-title="UEFA CHAMPIONS LEAGUE" tvg-id="CCTV5.cn" tvg-logo="https://i.imgur.com/EqURkoF.png",CCTV-5
+http://0.vylc.name.vn/CCTV5
 #EXTINF:-1 group-title="UEFA CHAMPIONS LEAGUE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e5/Logo_bein_sports_1.png",BEIN SPORTS 1
 http://0.vylc.name.vn:8080/stream/channelid/1625287896
 #EXTINF:-1 group-title="UEFA CHAMPIONS LEAGUE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Logo_bein_sports_2.png/1200px-Logo_bein_sports_2.png",BEIN SPORTS 2
@@ -89,8 +91,6 @@ http://0.vylc.name.vn:8080/stream/channelid/701074256
 http://0.vylc.name.vn:8080/stream/channelid/842661572
 #EXTINF:-1 group-title="POLSAT SPORT - BA LAN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Polsat_Sport_News_2021_gradient.svg/1280px-Polsat_Sport_News_2021_gradient.svg.png",Polsat Sport News
 http://0.vylc.name.vn:8080/stream/channelid/1209045940
-#EXTINF:-1 group-title="THỂ THAO TRUNG QUỐC" tvg-id="CCTV5.cn" tvg-logo="https://i.imgur.com/EqURkoF.png",CCTV-5
-http://0.vylc.name.vn/CCTV5
 #EXTINF:-1 group-title="THỂ THAO TRUNG QUỐC" tvg-id="CCTV5Plus.cn" tvg-logo="https://i.imgur.com/uW1b1KO.png",CCTV-5+
 http://0.vylc.name.vn/CCTV5p
 #EXTINF:-1 group-title="THỂ THAO TRUNG QUỐC" tvg-id="" tvg-logo="https://bkimg.cdn.bcebos.com/pic/4e4a20a4462309f78625878e750e0cf3d6cad6e7",Great Sports

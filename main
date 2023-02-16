@@ -17,24 +17,18 @@ http://171.244.61.233/htv7
 http://171.244.61.233/htv9
 #EXTINF:-1 group-title="THIẾT YẾU - 50fps" tvg-id="htvthethaohd" tvg-logo="https://cdn.hqth.me/logo/56.png",HTV Thể thao HD
 http://171.244.61.233/htvtt
-#EXTINF:-1 group-title="V-LEAGUE 2023" tvg-logo="https://upload.wikimedia.org/wikipedia/vi/thumb/d/d4/Logo_Vleague1_2023.svg/1920px-Logo_Vleague1_2023.svg.png",V-LEAGUE EVENT 1
+#EXTINF:-1 group-title="LIVE EVENTS" tvg-logo="https://upload.wikimedia.org/wikipedia/vi/thumb/d/d4/Logo_Vleague1_2023.svg/1920px-Logo_Vleague1_2023.svg.png",V-LEAGUE EVENT 1
 http://171.244.61.233/live1
-#EXTINF:-1 group-title="V-LEAGUE 2023" tvg-logo="https://upload.wikimedia.org/wikipedia/vi/thumb/d/d4/Logo_Vleague1_2023.svg/1920px-Logo_Vleague1_2023.svg.png",V-LEAGUE EVENT 2
+#EXTINF:-1 group-title="LIVE EVENTS" tvg-logo="https://upload.wikimedia.org/wikipedia/vi/thumb/d/d4/Logo_Vleague1_2023.svg/1920px-Logo_Vleague1_2023.svg.png",V-LEAGUE EVENT 2
 http://171.244.61.233/live2
-#EXTINF:-1 group-title="UEFA CHAMPIONS LEAGUE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/SCTV_Logo.svg/2560px-SCTV_Logo.svg.png",SCTV
+#EXTINF:-1 group-title="LIVE EVENTS" tvg-logo="https://cdn.shopify.com/s/files/1/0553/9099/4629/files/UEFA_Europa_League_Button_d337b311-bcf3-425c-85a3-3862349a2dba_1600x.png",0h45 BARCELONA vs MAN UTD
+http://171.244.61.233/UEL
+#EXTINF:-1 group-title="UEFA EUROPA LEAGUE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/SCTV_Logo.svg/2560px-SCTV_Logo.svg.png",SCTV
 http://171.244.61.233/SCTV
-#EXTINF:-1 group-title="UEFA CHAMPIONS LEAGUE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Moji_blue.svg/1200px-Moji_blue.svg.png",mOji
+#EXTINF:-1 group-title="UEFA EUROPA LEAGUE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Moji_blue.svg/1200px-Moji_blue.svg.png",mOji
 http://171.244.61.233/MOJI
-#EXTINF:-1 group-title="UEFA CHAMPIONS LEAGUE" tvg-id="CCTV5.cn" tvg-logo="https://i.imgur.com/EqURkoF.png",CCTV-5
-http://0.vylc.name.vn/CCTV5
-#EXTINF:-1 group-title="UEFA CHAMPIONS LEAGUE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e5/Logo_bein_sports_1.png",BEIN SPORTS 1
-http://0.vylc.name.vn:8080/stream/channelid/1625287896
-#EXTINF:-1 group-title="UEFA CHAMPIONS LEAGUE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Logo_bein_sports_2.png/1200px-Logo_bein_sports_2.png",BEIN SPORTS 2
-http://0.vylc.name.vn:8080/stream/channelid/2047845480
-#EXTINF:-1 group-title="UEFA CHAMPIONS LEAGUE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/BTV_Action_Bulgaria_logo.svg/1920px-BTV_Action_Bulgaria_logo.svg.png" tvg-id="bTVAction.bg",bTV Action
+#EXTINF:-1 group-title="UEFA EUROPA LEAGUE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/BTV_Action_Bulgaria_logo.svg/1920px-BTV_Action_Bulgaria_logo.svg.png" tvg-id="bTVAction.bg",bTV Action
 http://0.vylc.name.vn:8080/stream/channelid/665399328
-#EXTINF:-1 group-title="PREMIER LEAGUE" tvg-logo="https://supersport-cms-prod.azureedge.net/media/icxfej42/premier-league.png?width=500",PREMIER LEAGUE EVENT
-http://171.244.61.233/EPL
 #EXTINF:-1 group-title="PREMIER LEAGUE" tvg-id="DiemaSport.bg" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/DiemaSport-logo.svg/1200px-DiemaSport-logo.svg.png",Diema Sport
 http://0.vylc.name.vn/Diema1
 #EXTINF:-1 group-title="PREMIER LEAGUE" tvg-id="DiemaSport2.bg" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/47/DS2_logo.png",Diema Sport 2
@@ -55,6 +49,10 @@ http://0.vylc.name.vn/futbol2
 http://0.vylc.name.vn/futbol3
 #EXTINF:-1 group-title="MATCH TV - NGA" tvg-id="MatchPremier.ru" tvg-logo="https://ntvplus.tv/files/image/02/31/08/sd0.png",Маtch Premier
 
+#EXTINF:-1 group-title="BEIN SPORTS - PHÁP" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e5/Logo_bein_sports_1.png",BEIN SPORTS 1
+http://0.vylc.name.vn:8080/stream/channelid/1625287896
+#EXTINF:-1 group-title="BEIN SPORTS - PHÁP" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Logo_bein_sports_2.png/1200px-Logo_bein_sports_2.png",BEIN SPORTS 2
+http://0.vylc.name.vn:8080/stream/channelid/2047845480
 #EXTINF:-1 group-title="ZIGGO SPORT - HÀ LAN" tvg-logo="https://i.goalzz.com/?i=logo_sport%2Fziggo_sport_select.jpg",Ziggo Sport Select
 http://0.vylc.name.vn:8080/stream/channelid/1500720339
 #EXTINF:-1 group-title="ZIGGO SPORT - HÀ LAN" tvg-logo="https://i.goalzz.com/?i=logo_sport%2Fziggo_sport_voetball.jpg",Ziggo Sport Voetbal
@@ -91,6 +89,8 @@ http://0.vylc.name.vn:8080/stream/channelid/701074256
 http://0.vylc.name.vn:8080/stream/channelid/842661572
 #EXTINF:-1 group-title="POLSAT SPORT - BA LAN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Polsat_Sport_News_2021_gradient.svg/1280px-Polsat_Sport_News_2021_gradient.svg.png",Polsat Sport News
 http://0.vylc.name.vn:8080/stream/channelid/1209045940
+#EXTINF:-1 group-title="THỂ THAO TRUNG QUỐC" tvg-id="CCTV5.cn" tvg-logo="https://i.imgur.com/EqURkoF.png",CCTV-5
+http://0.vylc.name.vn/CCTV5
 #EXTINF:-1 group-title="THỂ THAO TRUNG QUỐC" tvg-id="CCTV5Plus.cn" tvg-logo="https://i.imgur.com/uW1b1KO.png",CCTV-5+
 http://0.vylc.name.vn/CCTV5p
 #EXTINF:-1 group-title="THỂ THAO TRUNG QUỐC" tvg-id="" tvg-logo="https://bkimg.cdn.bcebos.com/pic/4e4a20a4462309f78625878e750e0cf3d6cad6e7",Great Sports

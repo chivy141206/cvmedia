@@ -47,9 +47,9 @@ http://0.vylc.name.vn/futbol2
 http://0.vylc.name.vn/futbol3
 #EXTINF:-1 group-title="MATCH TV - NGA" tvg-id="MatchPremier.ru" tvg-logo="https://ntvplus.tv/files/image/02/31/08/sd0.png",Маtch Premier
 
-#EXTINF:-1 group-title="MOVISTAR - TÂY BAN NHA",Movistar LC
+#EXTINF:-1 group-title="MOVISTAR - TÂY BAN NHA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Liga_de_Campeones_por_Movistar_Plus%2B_2022_logo.svg/1200px-Liga_de_Campeones_por_Movistar_Plus%2B_2022_logo.svg.png",Movistar LC
 http://0.vylc.name.vn/M_LC
-#EXTINF:-1 group-title="MOVISTAR - TÂY BAN NHA",Movistar Deportes
+#EXTINF:-1 group-title="MOVISTAR - TÂY BAN NHA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Deportes_por_Movistar_Plus%2B_2022_logo.svg/1200px-Deportes_por_Movistar_Plus%2B_2022_logo.svg.png",Movistar Deportes
 http://0.vylc.name.vn/M_DE
 #EXTINF:-1 group-title="BEIN SPORTS - PHÁP" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e5/Logo_bein_sports_1.png",BEIN SPORTS 1
 http://0.vylc.name.vn:8080/stream/channelid/1625287896

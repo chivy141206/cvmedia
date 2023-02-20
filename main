@@ -47,22 +47,26 @@ http://0.vylc.name.vn/futbol2
 http://0.vylc.name.vn/futbol3
 #EXTINF:-1 group-title="MATCH TV - NGA" tvg-id="MatchPremier.ru" tvg-logo="https://ntvplus.tv/files/image/02/31/08/sd0.png",Маtch Premier
 
+#EXTINF:-1 group-title="MOVISTAR - TÂY BAN NHA",Movistar LC
+http://0.vylc.name.vn/M_LC
+#EXTINF:-1 group-title="MOVISTAR - TÂY BAN NHA",Movistar Deportes
+http://0.vylc.name.vn/M_DE
 #EXTINF:-1 group-title="BEIN SPORTS - PHÁP" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e5/Logo_bein_sports_1.png",BEIN SPORTS 1
 http://0.vylc.name.vn:8080/stream/channelid/1625287896
 #EXTINF:-1 group-title="BEIN SPORTS - PHÁP" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Logo_bein_sports_2.png/1200px-Logo_bein_sports_2.png",BEIN SPORTS 2
 http://0.vylc.name.vn:8080/stream/channelid/2047845480
 #EXTINF:-1 group-title="ZIGGO SPORT - HÀ LAN" tvg-logo="https://i.goalzz.com/?i=logo_sport%2Fziggo_sport_select.jpg",Ziggo Sport Select
-http://0.vylc.name.vn:8080/stream/channelid/1500720339
+
 #EXTINF:-1 group-title="ZIGGO SPORT - HÀ LAN" tvg-logo="https://i.goalzz.com/?i=logo_sport%2Fziggo_sport_voetball.jpg",Ziggo Sport Voetbal
-http://0.vylc.name.vn:8080/stream/channelid/414989288
+
 #EXTINF:-1 group-title="ZIGGO SPORT - HÀ LAN" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-ziggo-sport-tennis-2625.png",Ziggo Sport Tennis
-http://0.vylc.name.vn:8080/stream/channelid/1547463735
+
 #EXTINF:-1 group-title="ZIGGO SPORT - HÀ LAN" tvg-logo="https://i.goalzz.com/?i=logo_sport%2fziggo_sport_golf.jpg",Ziggo Sport Golf
-http://0.vylc.name.vn:8080/stream/channelid/1127618614
+
 #EXTINF:-1 group-title="ZIGGO SPORT - HÀ LAN" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-ziggo-docu-290.png",Ziggo Sport Docu
-http://0.vylc.name.vn:8080/stream/channelid/1403710339
+
 #EXTINF:-1 group-title="ZIGGO SPORT - HÀ LAN" tvg-logo="https://i.goalzz.com/?i=o%2fh%2f1%2f851%2fziggo-sport-racing-1.png",Ziggo Sport Racing
-http://0.vylc.name.vn:8080/stream/channelid/891465161
+
 #EXTINF:-1 group-title="ELEVEN SPORT - BA LAN" tvg-logo="https://ocdn.eu/ptv2-images/logo-migrated/eleven-sports-1-hd.png",Eleven Sports 1
 http://0.vylc.name.vn:8080/stream/channelid/836061641
 #EXTINF:-1 group-title="ELEVEN SPORT - BA LAN" tvg-logo="https://ocdn.eu/ptv2-images/logo-migrated/eleven-sports-2.png",Eleven Sports 2

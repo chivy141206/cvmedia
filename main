@@ -170,7 +170,7 @@ http://0.vylc.name.vn/TRT1
 http://0.vylc.name.vn/TRT_Haber
 #EXTINF:-1 group-title="Quốc tế | Thổ Nhĩ Kỳ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/TRT_T%C3%BCrk_logo.svg/2560px-TRT_T%C3%BCrk_logo.svg.png",TRT Turk
 http://0.vylc.name.vn/TRT_Turk
-#EXTINF:-1 group-title="Quốc tế | Thổ Nhĩ Kỳ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/TRT_T%C3%BCrk_logo.svg/2560px-TRT_T%C3%BCrk_logo.svg.png",TRT Spor
+#EXTINF:-1 group-title="Quốc tế | Thổ Nhĩ Kỳ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/TRT_Spor_logo_%282022%29.svg/2560px-TRT_Spor_logo_%282022%29.svg.png",TRT Spor
 http://0.vylc.name.vn/TRTSpor
 
 #----------------Poland-----------------
@@ -214,15 +214,15 @@ http://0.vylc.name.vn/FS1
 http://0.vylc.name.vn/FS2
 
 #----------------Australia-----------------
-#EXTINF:-1 group-title="Quốc tế | Úc" tvg-id="Channel10.au" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/86/Network_10_logo_2018.svg/1200px-Network_10_logo_2018.svg.png",10 (Network Ten)
+#EXTINF:-1 group-title="Quốc tế | Úc" tvg-id="Channel10.au" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/86/Network_10_logo_2018.svg/1200px-Network_10_logo_2018.svg.png",10 HD
 http://0.vylc.name.vn/Ten
-#EXTINF:-1 group-title="Quốc tế | Úc" tvg-id="10Bold.au" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/10_Bold_2018.svg/1920px-10_Bold_2018.svg.png",10 Bold (Ten Bold)
+#EXTINF:-1 group-title="Quốc tế | Úc" tvg-id="10Bold.au" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/10_Bold_2018.svg/1920px-10_Bold_2018.svg.png",10 Bold
 http://0.vylc.name.vn/Bold
-#EXTINF:-1 group-title="Quốc tế | Úc" tvg-id="Channel7.au" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Seven_Network_logo.svg/1200px-Seven_Network_logo.svg.png",7 (Network Seven)
+#EXTINF:-1 group-title="Quốc tế | Úc" tvg-id="Channel7.au" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Seven_Network_logo.svg/1200px-Seven_Network_logo.svg.png",7 HD
 http://0.vylc.name.vn/Seven
-#EXTINF:-1 group-title="Quốc tế | Úc" tvg-id="Channel9.au" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Nine2008.svg/1200px-Nine2008.svg.png",9 (Network Nine WWOS)
+#EXTINF:-1 group-title="Quốc tế | Úc" tvg-id="Channel9.au" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Nine2008.svg/1200px-Nine2008.svg.png",9 HD
 http://0.vylc.name.vn/Nine
-#EXTINF:-1 group-title="Quốc tế | Úc" tvg-id="9Gem.au" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d8/9Gem_logo.png",9Gem (Network Nine WWOS)
+#EXTINF:-1 group-title="Quốc tế | Úc" tvg-id="9Gem.au" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d8/9Gem_logo.png",9Gem
 http://0.vylc.name.vn/Gem
 #EXTINF:-1 group-title="Quốc tế | Úc" tvg-id="SBS.au" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/83/SBS_Australia_Logo_%282019%29.svg/800px-SBS_Australia_Logo_%282019%29.svg.png",SBS One
 http://0.vylc.name.vn/SBSOne

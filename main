@@ -2,19 +2,23 @@
 
 #------Kênh Thiết yếu Quốc gia------#
 #EXTINF:-1 group-title="Kênh Thiết yếu Quốc gia" tvg-id="vtv1hd" tvg-logo="https://cdn.hqth.me/logo/1.png",VTV1 HD
-http://live.vthanhtivi.pw/vtv1
+#EXTVLCOPT:http-user-agent=cv
+https://livecdn.fptplay.net/hda1/vtv1hd_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:-1 group-title="Kênh Thiết yếu Quốc gia" tvg-id="vtv2hd" tvg-logo="https://cdn.hqth.me/logo/2.png",VTV2 HD
 #EXTVLCOPT:http-user-agent=cv
 https://livecdn.fptplay.net/hda1/vtv2_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:-1 group-title="Kênh Thiết yếu Quốc gia" tvg-id="vtv3hd" tvg-logo="https://cdn.hqth.me/logo/3.png",VTV3 HD
-http://live.vthanhtivi.pw/vtv3
+#EXTVLCOPT:http-user-agent=cv
+https://livecdn.fptplay.net/hda1/vtv3hd_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:-1 group-title="Kênh Thiết yếu Quốc gia" tvg-id="vtv4hd" tvg-logo="https://raw.githubusercontent.com/chivy141206/cvmedia/main/vtv4.png",VTV4 HD
 #EXTVLCOPT:http-user-agent=cv
 https://livecdn.fptplay.net/hda1/vtv4_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:-1 group-title="Kênh Thiết yếu Quốc gia" tvg-id="vtv5hd" tvg-logo="https://cdn.hqth.me/logo/5.png",VTV5 HD
-http://live.vthanhtivi.pw/vtv5
+#EXTVLCOPT:http-user-agent=cv
+https://livecdn.fptplay.net/hda2/vtv5hd_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:-1 group-title="Kênh Thiết yếu Quốc gia" tvg-id="vtv6hd" tvg-logo="https://raw.githubusercontent.com/chivy141206/cvmedia/main/vtvct.png",VTV Cần Thơ HD
-http://live.vthanhtivi.pw/vtvct
+#EXTVLCOPT:http-user-agent=cv
+https://livecdn.fptplay.net/hda1/vtvcantho_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:-1 group-title="Kênh Thiết yếu Quốc gia" tvg-id="vtv7hd" tvg-logo="https://raw.githubusercontent.com/chivy141206/cvmedia/main/vtv7.png",VTV7 HD
 #EXTVLCOPT:http-user-agent=cv
 https://livecdn.fptplay.net/hda3/vtv7hd_vhls.smil/chunklist_b5000000.m3u8

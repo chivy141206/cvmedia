@@ -44,33 +44,33 @@ https://livecdn.fptplay.net/hda1/quochoivn_vhls.smil/chunklist_b5000000.m3u8
 https://livecdn.fptplay.net/hda1/quocphongvnhd_vhls.smil/chunklist_b5000000.m3u8
 
 #------Thể thao tổng hợp------#
-#EXTINF:-1 group-title="Thể thao tổng hợp" tvg-id="DiemaSport.bg" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/DiemaSport-logo.svg/1200px-DiemaSport-logo.svg.png",BG: Diema Sport
+#EXTINF:-1 group-title="Thể thao tổng hợp" tvg-id="DiemaSport.bg" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/DiemaSport-logo.svg/1200px-DiemaSport-logo.svg.png",Diema Sport
 http://0.vylc.name.vn/Diema1
-#EXTINF:-1 group-title="Thể thao tổng hợp" tvg-id="DiemaSport2.bg" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/47/DS2_logo.png",BG: Diema Sport 2
+#EXTINF:-1 group-title="Thể thao tổng hợp" tvg-id="DiemaSport2.bg" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/47/DS2_logo.png",Diema Sport 2
 http://0.vylc.name.vn/Diema2
-#EXTINF:-1 group-title="Thể thao tổng hợp" tvg-id="DiemaSport3.bg" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f6/DiemaSport3logo.png",BG: Diema Sport 3
+#EXTINF:-1 group-title="Thể thao tổng hợp" tvg-id="DiemaSport3.bg" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f6/DiemaSport3logo.png",Diema Sport 3
 http://0.vylc.name.vn/Diema3
 #EXTINF:-1 group-title="Thể thao tổng hợp" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5d/Setanta-logo.jpg",Setanta Sports 1
-http://0.vylc.name.vn/Setanta1
+
 #EXTINF:-1 group-title="Thể thao tổng hợp" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5d/Setanta-logo.jpg",Setanta Sports 2
-http://0.vylc.name.vn/Setanta2
-#EXTINF:-1 group-title="Thể thao tổng hợp" tvg-logo="https://upload.wikimedia.org/wikipedia/hu/thumb/f/fd/M4_logo.png/640px-M4_logo.png",HU: M4 Sport
+
+#EXTINF:-1 group-title="Thể thao tổng hợp" tvg-logo="https://upload.wikimedia.org/wikipedia/hu/thumb/f/fd/M4_logo.png/640px-M4_logo.png",M4 Sport
 http://0.vylc.name.vn/M4
-#EXTINF:-1 group-title="Thể thao tổng hợp" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/SCTV_Logo.svg/2560px-SCTV_Logo.svg.png",ID: SCTV
+#EXTINF:-1 group-title="Thể thao tổng hợp" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/SCTV_Logo.svg/2560px-SCTV_Logo.svg.png",SCTV
 http://0.vylc.name.vn/SCTV
-#EXTINF:-1 group-title="Thể thao tổng hợp" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Moji_blue.svg/1200px-Moji_blue.svg.png",ID: mOji
+#EXTINF:-1 group-title="Thể thao tổng hợp" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Moji_blue.svg/1200px-Moji_blue.svg.png",mOji
 http://0.vylc.name.vn/MOJI
-#EXTINF:-1 group-title="Thể thao tổng hợp" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Liga_de_Campeones_por_Movistar_Plus%2B_2022_logo.svg/1200px-Liga_de_Campeones_por_Movistar_Plus%2B_2022_logo.svg.png",ES: Movistar LC
+#EXTINF:-1 group-title="Thể thao tổng hợp" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Liga_de_Campeones_por_Movistar_Plus%2B_2022_logo.svg/1200px-Liga_de_Campeones_por_Movistar_Plus%2B_2022_logo.svg.png",Movistar LC
 http://0.vylc.name.vn/M_LC
-#EXTINF:-1 group-title="Thể thao tổng hợp" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Deportes_por_Movistar_Plus%2B_2022_logo.svg/1200px-Deportes_por_Movistar_Plus%2B_2022_logo.svg.png",ES: Movistar Deportes
+#EXTINF:-1 group-title="Thể thao tổng hợp" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Deportes_por_Movistar_Plus%2B_2022_logo.svg/1200px-Deportes_por_Movistar_Plus%2B_2022_logo.svg.png",Movistar Deportes
 http://0.vylc.name.vn/M_DE
-#EXTINF:-1 group-title="Thể thao tổng hợp" tvg-logo="https://ntvplus.tv/files/image/10/60/28/3d1.png",RU: Маtch ТV
+#EXTINF:-1 group-title="Thể thao tổng hợp" tvg-logo="https://ntvplus.tv/files/image/10/60/28/3d1.png",Маtch ТV
 http://0.vylc.name.vn/matchtv
-#EXTINF:-1 group-title="Thể thao tổng hợp" tvg-logo="https://ntvplus.tv/files/image/01/17/29/mqs.png",RU: Маtch Futbol 1
+#EXTINF:-1 group-title="Thể thao tổng hợp" tvg-logo="https://ntvplus.tv/files/image/01/17/29/mqs.png",Маtch Futbol 1
 http://0.vylc.name.vn/futbol1
-#EXTINF:-1 group-title="Thể thao tổng hợp" tvg-logo="https://ntvplus.tv/files/image/01/17/30/olz.png",RU: Маtch Futbol 2
+#EXTINF:-1 group-title="Thể thao tổng hợp" tvg-logo="https://ntvplus.tv/files/image/01/17/30/olz.png",Маtch Futbol 2
 http://0.vylc.name.vn/futbol2
-#EXTINF:-1 group-title="Thể thao tổng hợp" tvg-logo="https://ntvplus.tv/files/image/01/17/31/u02.png",RU: Маtch Futbol 3
+#EXTINF:-1 group-title="Thể thao tổng hợp" tvg-logo="https://ntvplus.tv/files/image/01/17/31/u02.png",Маtch Futbol 3
 http://0.vylc.name.vn/futbol3
 #EXTINF:-1 group-title="Thể thao tổng hợp" tvg-logo="https://ocdn.eu/ptv2-images/logo-migrated/eleven-sports-1-hd.png",Eleven Sports 1
 http://0.vylc.name.vn:8080/stream/channelid/836061641

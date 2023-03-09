@@ -278,10 +278,14 @@ http://0.vylc.name.vn/CCTV4
 http://0.vylc.name.vn/CCTV5
 #EXTINF:-1 group-title="Quốc tế | Trung Quốc" tvg-id="CCTV5Plus.cn" tvg-logo="https://i.imgur.com/uW1b1KO.png",CCTV-5+
 http://0.vylc.name.vn/CCTV5p
-#EXTINF:-1 group-title="Quốc tế | Trung Quốc" tvg-logo="https://i.imgur.com/g7nb3L0.png" tvg-id="CCTV7.cn",CCTV-7
-http://0.vylc.name.vn/CCTV7
+#EXTINF:-1 group-title="Quốc tế | Trung Quốc" tvg-logo="https://i.imgur.com/dDqvRHX.png" tvg-id="CCTV6.cn",CCTV-6
+http://0.vylc.name.vn/CCTV6
+#EXTINF:-1 group-title="Quốc tế | Trung Quốc" tvg-logo="https://i.imgur.com/WG8ENnR.png" tvg-id="CCTV8.cn",CCTV-8
+http://0.vylc.name.vn/CCTV8
 #EXTINF:-1 group-title="Quốc tế | Trung Quốc" tvg-logo="https://i.imgur.com/GGHckoY.png" tvg-id="CCTV13.cn",CCTV-13
 http://0.vylc.name.vn/CCTV13
+#EXTINF:-1 group-title="Quốc tế | Trung Quốc" tvg-logo="https://i.imgur.com/m2R60TJ.png" tvg-id="CCTV15.cn",CCTV-15
+http://0.vylc.name.vn/CCTV15
 #EXTINF:-1 group-title="Quốc tế | Trung Quốc" tvg-logo="https://parco-zh.github.io/demo/HNWS.png" tvg-id="HunanTV.cn",Hunan TV
 http://0.vylc.name.vn/Hunan
 #EXTINF:-1 group-title="Quốc tế | Trung Quốc" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/6/66/ZTV_logo.png" tvg-id="ZhejiangTV.cn",Zhejiang TV

@@ -271,29 +271,29 @@ http://0.vylc.name.vn/MBC
 
 #----------------China-----------------
 #EXTINF:-1 group-title="Quốc tế | Trung Quốc" tvg-logo="https://i.imgur.com/ChfbGqR.png" tvg-id="CCTV1.cn",CCTV-1
-http://0.vylc.name.vn/CCTV1
+
 #EXTINF:-1 group-title="Quốc tế | Trung Quốc" tvg-logo="https://i.imgur.com/tYtUmUR.png" tvg-id="CCTV3.cn",CCTV-3
-http://0.vylc.name.vn/CCTV3
+
 #EXTINF:-1 group-title="Quốc tế | Trung Quốc" tvg-logo="https://raw.githubusercontent.com/chivy141206/cvmedia/main/CCTV-4.png",CCTV-4
-http://0.vylc.name.vn/CCTV4
+
 #EXTINF:-1 group-title="Quốc tế | Trung Quốc" tvg-id="CCTV5.cn" tvg-logo="https://i.imgur.com/EqURkoF.png",CCTV-5
-http://0.vylc.name.vn/CCTV5
+
 #EXTINF:-1 group-title="Quốc tế | Trung Quốc" tvg-id="CCTV5Plus.cn" tvg-logo="https://i.imgur.com/uW1b1KO.png",CCTV-5+
-http://0.vylc.name.vn/CCTV5p
+
 #EXTINF:-1 group-title="Quốc tế | Trung Quốc" tvg-logo="https://i.imgur.com/dDqvRHX.png" tvg-id="CCTV6.cn",CCTV-6
-http://0.vylc.name.vn/CCTV6
+
 #EXTINF:-1 group-title="Quốc tế | Trung Quốc" tvg-logo="https://i.imgur.com/WG8ENnR.png" tvg-id="CCTV8.cn",CCTV-8
-http://0.vylc.name.vn/CCTV8
+
 #EXTINF:-1 group-title="Quốc tế | Trung Quốc" tvg-logo="https://i.imgur.com/GGHckoY.png" tvg-id="CCTV13.cn",CCTV-13
-http://0.vylc.name.vn/CCTV13
+
 #EXTINF:-1 group-title="Quốc tế | Trung Quốc" tvg-logo="https://i.imgur.com/m2R60TJ.png" tvg-id="CCTV15.cn",CCTV-15
-http://0.vylc.name.vn/CCTV15
+
 #EXTINF:-1 group-title="Quốc tế | Trung Quốc" tvg-logo="https://parco-zh.github.io/demo/HNWS.png" tvg-id="HunanTV.cn",Hunan TV
-http://0.vylc.name.vn/Hunan
+
 #EXTINF:-1 group-title="Quốc tế | Trung Quốc" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/6/66/ZTV_logo.png" tvg-id="ZhejiangTV.cn",Zhejiang TV
-http://0.vylc.name.vn/Zhejiang
+
 #EXTINF:-1 group-title="Quốc tế | Trung Quốc" tvg-id="" tvg-logo="https://bkimg.cdn.bcebos.com/pic/4e4a20a4462309f78625878e750e0cf3d6cad6e7",Great Sports
-http://0.vylc.name.vn/WXTY
+
 #EXTINF:-1 group-title="Quốc tế | Trung Quốc" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/thumb/3/34/Phoenix_Chinese.svg/1200px-Phoenix_Chinese.svg.png",Phoenix TV
 http://0.vylc.name.vn/phxcn
 #EXTINF:-1 group-title="Quốc tế | Trung Quốc" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/thumb/1/16/Phoenix_InfoNews.svg/1200px-Phoenix_InfoNews.svg.png",Phoenix Info

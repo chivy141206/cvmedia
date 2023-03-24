@@ -80,14 +80,6 @@ http://0.vylc.name.vn/futbol1
 http://0.vylc.name.vn/futbol2
 #EXTINF:-1 group-title="Thể thao tổng hợp" tvg-logo="https://ntvplus.tv/files/image/01/17/31/u02.png",Маtch Futbol 3
 http://0.vylc.name.vn/futbol3
-#EXTINF:-1 group-title="Thể thao tổng hợp" tvg-logo="https://ocdn.eu/ptv2-images/logo-migrated/eleven-sports-1-hd.png",Eleven Sports 1
-http://0.vylc.name.vn:8080/stream/channelid/836061641
-#EXTINF:-1 group-title="Thể thao tổng hợp" tvg-logo="https://ocdn.eu/ptv2-images/logo-migrated/eleven-sports-2.png",Eleven Sports 2
-http://0.vylc.name.vn:8080/stream/channelid/1604309142
-#EXTINF:-1 group-title="Thể thao tổng hợp" tvg-logo="https://ocdn.eu/ptv2-images/logo-migrated/eleven-sports-3-hd.png",Eleven Sports 3
-http://0.vylc.name.vn:8080/stream/channelid/1655748057
-#EXTINF:-1 group-title="Thể thao tổng hợp" tvg-logo="https://www.digitaltveurope.com/files/2018/04/Screen-Shot-2018-04-13-at-12.47.22.png",Eleven Sports 4
-http://0.vylc.name.vn:8080/stream/channelid/1958327260
 #EXTINF:-1 group-title="Thể thao tổng hợp" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1a/Canal%2B_Sport_2015.png",Canal+ Sport 1
 http://0.vylc.name.vn:8080/stream/channelid/684151253
 #EXTINF:-1 group-title="Thể thao tổng hợp" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/40/Canal%2B_Sport_2_PL.png",Canal+ Sport 2
@@ -98,6 +90,24 @@ http://0.vylc.name.vn:8080/stream/channelid/1048689498
 http://0.vylc.name.vn:8080/stream/channelid/881008572
 #EXTINF:-1 group-title="Thể thao tổng hợp" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/30/Canal%2B_Family_PL.png",Canal+ Family
 http://0.vylc.name.vn:8080/stream/channelid/1732441088
+#EXTINF:-1 group-title="Thể thao tổng hợp" tvg-logo="https://i.goalzz.com/?i=amir_ganjvar%2Fsportstv_amir%2Fdigi1hdhu.jpg",Digi Sport 1
+http://0.vylc.name.vn:8080/stream/channelid/1229260875
+#EXTINF:-1 group-title="Thể thao tổng hợp" tvg-logo="https://i.goalzz.com/?i=amir_ganjvar%2Fsportstv_amir%2Fdigi2hdhu.jpg",Digi Sport 2
+http://0.vylc.name.vn:8080/stream/channelid/1466833630
+#EXTINF:-1 group-title="Thể thao tổng hợp" tvg-logo="https://ocdn.eu/ptv2-images/logo-migrated/eleven-sports-1-hd.png",Eleven Sports 1
+http://0.vylc.name.vn:8080/stream/channelid/836061641
+#EXTINF:-1 group-title="Thể thao tổng hợp" tvg-logo="https://ocdn.eu/ptv2-images/logo-migrated/eleven-sports-2.png",Eleven Sports 2
+http://0.vylc.name.vn:8080/stream/channelid/1604309142
+#EXTINF:-1 group-title="Thể thao tổng hợp" tvg-logo="https://ocdn.eu/ptv2-images/logo-migrated/eleven-sports-3-hd.png",Eleven Sports 3
+http://0.vylc.name.vn:8080/stream/channelid/1655748057
+#EXTINF:-1 group-title="Thể thao tổng hợp" tvg-logo="https://www.digitaltveurope.com/files/2018/04/Screen-Shot-2018-04-13-at-12.47.22.png",Eleven Sports 4
+http://0.vylc.name.vn:8080/stream/channelid/1958327260
+#EXTINF:-1 group-title="Thể thao tổng hợp" tvg-id="PolsatSport.pl" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Polsat_Sport_2021_gradient.svg/800px-Polsat_Sport_2021_gradient.svg.png",Polsat Sport
+http://0.vylc.name.vn:8080/stream/channelid/701074256
+#EXTINF:-1 group-title="Thể thao tổng hợp" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Polsat_Sport_Extra_2021_gradient.svg/1280px-Polsat_Sport_Extra_2021_gradient.svg.png",Polsat Sport Extra
+http://0.vylc.name.vn:8080/stream/channelid/842661572
+#EXTINF:-1 group-title="Thể thao tổng hợp" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Polsat_Sport_News_2021_gradient.svg/1280px-Polsat_Sport_News_2021_gradient.svg.png",Polsat Sport News
+http://0.vylc.name.vn:8080/stream/channelid/1209045940
 #EXTINF:-1 group-title="Thể thao tổng hợp" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e5/Logo_bein_sports_1.png",BEIN SPORTS 1
 
 #EXTINF:-1 group-title="Thể thao tổng hợp" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Logo_bein_sports_2.png/1200px-Logo_bein_sports_2.png",BEIN SPORTS 2
@@ -108,6 +118,18 @@ http://0.vylc.name.vn/es1
 http://0.vylc.name.vn/es2
 #EXTINF:-1 group-title="Thể thao tổng hợp" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/BTV_Action_Bulgaria_logo.svg/1920px-BTV_Action_Bulgaria_logo.svg.png",bTV Action
 http://0.vylc.name.vn/bTVAction
+#EXTINF:-1 group-title="Thể thao tổng hợp" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/SPOTV_logo.svg/1200px-SPOTV_logo.svg.png",SPOTV Indonesia
+http://0.vylc.name.vn/spotv
+#EXTINF:-1 group-title="Thể thao tổng hợp" tvg-logo="https://raw.githubusercontent.com/chivy141206/cvmedia/main/spo2.png",SPOTV2 Indonesia
+http://0.vylc.name.vn/spotv2
+#EXTINF:-1 group-title="Thể thao tổng hợp" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/320px-ESPN_wordmark.svg.png",ESPN MX
+http://0.vylc.name.vn:8080/stream/channelid/437648737
+#EXTINF:-1 group-title="Thể thao tổng hợp" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/ESPN2_logo.svg/768px-ESPN2_logo.svg.png",ESPN2 MX
+http://0.vylc.name.vn:8080/stream/channelid/1076749803
+#EXTINF:-1 group-title="Thể thao tổng hợp" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/ESPN3_logo.svg/2560px-ESPN3_logo.svg.png",ESPN3 MX
+http://0.vylc.name.vn:8080/stream/channelid/752143160
+#EXTINF:-1 group-title="Thể thao tổng hợp" tvg-logo="https://raw.githubusercontent.com/chivy141206/cvmedia/main/espn_extra.png",ESPN Extra
+http://0.vylc.name.vn:8080/stream/channelid/927025739
 
 #----------------News-----------------
 #EXTINF:-1 group-title="Tin tức quốc tế" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/BBC_World_News_2022_%28Boxed%29.svg/640px-BBC_World_News_2022_%28Boxed%29.svg.png",BBC World News
@@ -218,12 +240,6 @@ http://0.vylc.name.vn/TVPInfo
 http://0.vylc.name.vn:8080/stream/channelid/1560768115
 #EXTINF:-1 group-title="Quốc tế | Ba Lan" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Polsat_News_2021_gradient.svg/800px-Polsat_News_2021_gradient.svg.png" tvg-id="PolsatNews.pl",Polsat News
 http://0.vylc.name.vn/PolsatNews
-#EXTINF:-1 group-title="Quốc tế | Ba Lan" tvg-id="PolsatSport.pl" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Polsat_Sport_2021_gradient.svg/800px-Polsat_Sport_2021_gradient.svg.png",Polsat Sport
-http://0.vylc.name.vn:8080/stream/channelid/701074256
-#EXTINF:-1 group-title="Quốc tế | Ba Lan" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Polsat_Sport_Extra_2021_gradient.svg/1280px-Polsat_Sport_Extra_2021_gradient.svg.png",Polsat Sport Extra
-http://0.vylc.name.vn:8080/stream/channelid/842661572
-#EXTINF:-1 group-title="Quốc tế | Ba Lan" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Polsat_Sport_News_2021_gradient.svg/1280px-Polsat_Sport_News_2021_gradient.svg.png",Polsat Sport News
-http://0.vylc.name.vn:8080/stream/channelid/1209045940
 
 #----------------USA-----------------
 #EXTINF:-1 group-title="Quốc tế | Mỹ" tvg-id="NBCEast.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/NBC_logo.svg/800px-NBC_logo.svg.png",NBC

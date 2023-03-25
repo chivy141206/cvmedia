@@ -1,4 +1,4 @@
-#EXTM3U url-tvg="http://0.vylc.name.vn:8080/xmltv/channels,https://iptv-org.github.io/epg/guides/zh/tv.cctv.com.xml,https://trada.info/epg.xml"
+#EXTM3U url-tvg="http://0.vylc.name.vn:8080/xmltv/channels,https://iptv-org.github.io/epg/guides/zh/tv.cctv.com.xml,https://iptv-org.github.io/epg/guides/en/ontvtonight.com.xml,https://trada.info/epg.xml"
 
 #------Kênh Thiết yếu Quốc gia------#
 #EXTINF:-1 group-title="Kênh Thiết yếu Quốc gia" tvg-id="vtv1hd" tvg-logo="https://cdn.hqth.me/logo/1.png",VTV1 HD
@@ -136,9 +136,9 @@ http://0.vylc.name.vn:8080/stream/channelid/927025739
 http://0.vylc.name.vn/BBCWN
 #EXTINF:-1 group-title="Tin tức quốc tế" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/CNN.svg/1200px-CNN.svg.png",CNN
 http://0.vylc.name.vn/CNN
-#EXTINF:-1 group-title="Tin tức quốc tế" tvg-logo="https://upload.wikimedia.org/wikipedia/vi/8/83/Aljazeera.svg.png",Al Jazeera English
+#EXTINF:-1 group-title="Tin tức quốc tế" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/f2/Aljazeera_eng.svg/1200px-Aljazeera_eng.svg.png",Al Jazeera English
 http://0.vylc.name.vn/AlJaEng
-#EXTINF:-1 group-title="Tin tức quốc tế" tvg-logo="https://upload.wikimedia.org/wikipedia/vi/8/83/Aljazeera.svg.png",Al Jazeera Arabic
+#EXTINF:-1 group-title="Tin tức quốc tế" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/f2/Aljazeera_eng.svg/1200px-Aljazeera_eng.svg.png",Al Jazeera Arabic
 
 #EXTINF:-1 group-title="Tin tức quốc tế" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Deutsche_Welle_symbol_2012.svg/1920px-Deutsche_Welle_symbol_2012.svg.png",DW English
 http://0.vylc.name.vn/DW
@@ -170,33 +170,35 @@ http://0.vylc.name.vn/Nick
 http://0.vylc.name.vn/NickToons
 
 #------Anh------#
-#EXTINF:-1 group-title="Quốc tế | Anh" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/BBC_One_logo_2021.svg/800px-BBC_One_logo_2021.svg.png",BBC One
+#EXTINF:-1 group-title="Quốc tế | Anh" tvg-id="BBCOneEngland.uk" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/BBC_One_logo_2021.svg/800px-BBC_One_logo_2021.svg.png",BBC One
 http://0.vylc.name.vn/BBC1
-#EXTINF:-1 group-title="Quốc tế | Anh" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/BBC_Two_logo_2021.svg/640px-BBC_Two_logo_2021.svg.png",BBC Two
+#EXTINF:-1 group-title="Quốc tế | Anh" tvg-id="BBCTwoEngland.uk" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/BBC_Two_logo_2021.svg/640px-BBC_Two_logo_2021.svg.png",BBC Two
 http://0.vylc.name.vn/BBC2
-#EXTINF:-1 group-title="Quốc tế | Anh" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/9/92/ITV_logo_2013.svg/1200px-ITV_logo_2013.svg.png",ITV
+#EXTINF:-1 group-title="Quốc tế | Anh" tvg-id="ITV1.uk" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/9/92/ITV_logo_2013.svg/1200px-ITV_logo_2013.svg.png",ITV
 http://0.vylc.name.vn/ITV
-#EXTINF:-1 group-title="Quốc tế | Anh" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Channel_4_logo_2015.svg/1200px-Channel_4_logo_2015.svg.png",Channel 4
+#EXTINF:-1 group-title="Quốc tế | Anh" tvg-id="Channel4.uk" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Channel_4_logo_2015.svg/1200px-Channel_4_logo_2015.svg.png",Channel 4
 http://0.vylc.name.vn/channel4
-#EXTINF:-1 group-title="Quốc tế | Anh" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Channel_5_Logo_2016_SVG.svg/1200px-Channel_5_Logo_2016_SVG.svg.png",Channel 5
+#EXTINF:-1 group-title="Quốc tế | Anh" tvg-id="Channel5.uk" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Channel_5_Logo_2016_SVG.svg/1200px-Channel_5_Logo_2016_SVG.svg.png",Channel 5
 http://0.vylc.name.vn/channel5
-#EXTINF:-1 group-title="Quốc tế | Anh" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/CBBC_%282022%29.svg/1200px-CBBC_%282022%29.svg.png",CBBC
+#EXTINF:-1 group-title="Quốc tế | Anh" tvg-id="CBBC.uk" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/CBBC_%282022%29.svg/1200px-CBBC_%282022%29.svg.png",CBBC
 http://0.vylc.name.vn/CBBC
-#EXTINF:-1 group-title="Quốc tế | Anh" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/BBC_News_2022_%28Alt%2C_boxed%29.svg/1200px-BBC_News_2022_%28Alt%2C_boxed%29.svg.png",BBC News
+#EXTINF:-1 group-title="Quốc tế | Anh" tvg-id="BBCNews.uk" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/BBC_News_2022_%28Alt%2C_boxed%29.svg/1200px-BBC_News_2022_%28Alt%2C_boxed%29.svg.png",BBC News
 http://0.vylc.name.vn/bbcnews
 #EXTINF:-1 group-title="Quốc tế | Anh" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/BBC_RB%2B_Primary_ONE_COLOUR2.svg/1280px-BBC_RB%2B_Primary_ONE_COLOUR2.svg.png",BBC RB 1
 
 #EXTINF:-1 group-title="Quốc tế | Anh" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/BBC_Parliament_Logo.svg/1200px-BBC_Parliament_Logo.svg.png",BBC Parliament
 
-#EXTINF:-1 group-title="Quốc tế | Anh" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/35/ITV2_logo_2015.svg/1920px-ITV2_logo_2015.svg.png",ITV2
+#EXTINF:-1 group-title="Quốc tế | Anh" tvg-id="ITV2.uk" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/35/ITV2_logo_2015.svg/1920px-ITV2_logo_2015.svg.png",ITV2
 http://0.vylc.name.vn/ITV2
-#EXTINF:-1 group-title="Quốc tế | Anh" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/f6/ITV3_logo_2013.svg/1920px-ITV3_logo_2013.svg.png",ITV3
+#EXTINF:-1 group-title="Quốc tế | Anh" tvg-id="ITV3.uk" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/f6/ITV3_logo_2013.svg/1920px-ITV3_logo_2013.svg.png",ITV3
 http://0.vylc.name.vn/ITV3
 #EXTINF:-1 group-title="Quốc tế | Anh" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d3/ITV4_logo_2013.svg/1200px-ITV4_logo_2013.svg.png",ITV4
 
-#EXTINF:-1 group-title="Quốc tế | Anh" tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/87/STV_logo_2014.png",STV
+#EXTINF:-1 group-title="Quốc tế | Anh" tvg-id="STV.uk" tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/87/STV_logo_2014.png",STV
 http://0.vylc.name.vn/STV
-#EXTINF:-1 group-title="Quốc tế | Anh" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Sky-news-logo.png/1200px-Sky-news-logo.png",Sky News
+#EXTINF:-1 group-title="Quốc tế | Anh" tvg-id="S4C.uk" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/S4C_logo_2014.svg/640px-S4C_logo_2014.svg.png",S4C
+http://0.vylc.name.vn/S4C
+#EXTINF:-1 group-title="Quốc tế | Anh" tvg-id="SkyNews.uk" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Sky-news-logo.png/1200px-Sky-news-logo.png",Sky News
 http://0.vylc.name.vn/SkyNews
 
 #------Đức------#

@@ -1,4 +1,4 @@
-#EXTM3U url-tvg="http://0.vylc.name.vn:8080/xmltv/channels,https://iptv-org.github.io/epg/guides/zh/tv.cctv.com.xml,https://iptv-org.github.io/epg/guides/en/ontvtonight.com.xml,https://trada.info/epg.xml"
+#EXTM3U url-tvg="http://0.vylc.name.vn:8080/xmltv/channels,https://trada.info/epg.xml"
 
 #------Kênh Thiết yếu Quốc gia------#
 #EXTINF:-1 group-title="Kênh Thiết yếu Quốc gia" tvg-id="vtv1hd" tvg-logo="https://cdn.hqth.me/logo/1.png",VTV1 HD

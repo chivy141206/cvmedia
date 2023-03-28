@@ -188,12 +188,14 @@ http://0.vylc.name.vn/bbcnews
 
 #EXTINF:-1 group-title="Quốc tế | Anh" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/BBC_Parliament_Logo.svg/1200px-BBC_Parliament_Logo.svg.png",BBC Parliament
 
+#EXTINF:-1 group-title="Quốc tế | Anh" tvg-id="BBCThree.uk" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/BBC_Three_2022.svg/1200px-BBC_Three_2022.svg.png",BBC Three
+http://0.vylc.name.vn/BBC3
 #EXTINF:-1 group-title="Quốc tế | Anh" tvg-id="ITV2.uk" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/35/ITV2_logo_2015.svg/1920px-ITV2_logo_2015.svg.png",ITV2
 http://0.vylc.name.vn/ITV2
 #EXTINF:-1 group-title="Quốc tế | Anh" tvg-id="ITV3.uk" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/f6/ITV3_logo_2013.svg/1920px-ITV3_logo_2013.svg.png",ITV3
 http://0.vylc.name.vn/ITV3
 #EXTINF:-1 group-title="Quốc tế | Anh" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d3/ITV4_logo_2013.svg/1200px-ITV4_logo_2013.svg.png",ITV4
-
+http://0.vylc.name.vn/ITV4
 #EXTINF:-1 group-title="Quốc tế | Anh" tvg-id="STV.uk" tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/87/STV_logo_2014.png",STV
 http://0.vylc.name.vn/STV
 #EXTINF:-1 group-title="Quốc tế | Anh" tvg-id="S4C.uk" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/S4C_logo_2014.svg/640px-S4C_logo_2014.svg.png",S4C

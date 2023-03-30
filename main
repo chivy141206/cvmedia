@@ -150,7 +150,7 @@ http://0.vylc.name.vn/F24Fre
 http://0.vylc.name.vn/Euronews
 #EXTINF:-1 group-title="Tin tức quốc tế" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/TRT_World.svg/2560px-TRT_World.svg.png",TRT World
 http://0.vylc.name.vn/TRTWorld
-#EXTINF:-1 group-title="Tin tức quốc tế" tvg-logo="https://raw.githubusercontent.com/chivy141206/cvmedia/main/CCTV-4.png",CCTV-4
+#EXTINF:-1 group-title="Tin tức quốc tế" tvg-logo="https://raw.githubusercontent.com/chivy141206/cvmedia/main/CCTV-4.png",CCTV-4 Europe
 http://0.vylc.name.vn/CCTV4
 #EXTINF:-1 group-title="Tin tức quốc tế" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/thumb/1/16/Phoenix_InfoNews.svg/1200px-Phoenix_InfoNews.svg.png",Phoenix Info
 http://0.vylc.name.vn/phxinfo

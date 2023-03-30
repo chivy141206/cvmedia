@@ -150,18 +150,32 @@ http://0.vylc.name.vn/F24Fre
 http://0.vylc.name.vn/Euronews
 #EXTINF:-1 group-title="Tin tức quốc tế" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/TRT_World.svg/2560px-TRT_World.svg.png",TRT World
 http://0.vylc.name.vn/TRTWorld
+#EXTINF:-1 group-title="Tin tức quốc tế" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/NHK_World-Japan_TV.svg/2560px-NHK_World-Japan_TV.svg.png",NHK World
+http://0.vylc.name.vn/NHKWorld
 #EXTINF:-1 group-title="Tin tức quốc tế" tvg-logo="https://raw.githubusercontent.com/chivy141206/cvmedia/main/CCTV-4.png",CCTV-4 Europe
 http://0.vylc.name.vn/CCTV4
 #EXTINF:-1 group-title="Tin tức quốc tế" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/thumb/1/16/Phoenix_InfoNews.svg/1200px-Phoenix_InfoNews.svg.png",Phoenix Info
 http://0.vylc.name.vn/phxinfo
 
 #----------------Music-----------------
-#EXTINF:-1 group-title="Âm nhạc quốc tế" tvg-logo="http://linear-poster.astro.com.my/prod/logo/MTV_v2.png",MTV Poland
+#EXTINF:-1 group-title="Âm nhạc - Giải trí - Khám phá" tvg-logo="http://linear-poster.astro.com.my/prod/logo/MTV_v2.png",MTV Poland
 http://0.vylc.name.vn/MTV
-#EXTINF:-1 group-title="Âm nhạc quốc tế" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/MTV_Hits_2021.svg/1024px-MTV_Hits_2021.svg.png",MTV Hits
+#EXTINF:-1 group-title="Âm nhạc - Giải trí - Khám phá" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/MTV_Hits_2021.svg/1024px-MTV_Hits_2021.svg.png",MTV Hits
 http://0.vylc.name.vn/MTVHits
-#EXTINF:-1 group-title="Âm nhạc quốc tế" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/MTV_Live_2021_logo.svg/800px-MTV_Live_2021_logo.svg.png",MTV Live
+#EXTINF:-1 group-title="Âm nhạc - Giải trí - Khám phá" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/MTV_Live_2021_logo.svg/800px-MTV_Live_2021_logo.svg.png",MTV Live
 http://0.vylc.name.vn/MTVLive
+#EXTINF:-1 group-title="Âm nhạc - Giải trí - Khám phá" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/25/DMAX_Logo_16_05_2011.jpg",DMAX
+http://0.vylc.name.vn/DMAX
+#EXTINF:-1 group-title="Âm nhạc - Giải trí - Khám phá" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/History_%282021%29.svg/1200px-History_%282021%29.svg.png",History
+http://0.vylc.name.vn/History
+#EXTINF:-1 group-title="Âm nhạc - Giải trí - Khám phá" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/ab/Viasat_Explore.png",Viasat Explorer
+http://0.vylc.name.vn/ViaEx
+#EXTINF:-1 group-title="Âm nhạc - Giải trí - Khám phá" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/15/Viasat_Nature-2014.png",Viasat Nature
+http://0.vylc.name.vn/ViaHis
+#EXTINF:-1 group-title="Âm nhạc - Giải trí - Khám phá" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7f/Viasat_History-2014.png",Viasat History
+http://0.vylc.name.vn/ViaNat
+#EXTINF:-1 group-title="Âm nhạc - Giải trí - Khám phá" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/NASA_logo.svg/1200px-NASA_logo.svg.png",NASA TV
+http://0.vylc.name.vn/NASA
 
 #----------------Kids-----------------
 #EXTINF:-1 group-title="Hoạt hình" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/2019_Disney_Channel_logo.svg/800px-2019_Disney_Channel_logo.svg.png",Disney Channel

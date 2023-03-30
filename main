@@ -150,6 +150,10 @@ http://0.vylc.name.vn/F24Fre
 http://0.vylc.name.vn/Euronews
 #EXTINF:-1 group-title="Tin tức quốc tế" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/TRT_World.svg/2560px-TRT_World.svg.png",TRT World
 http://0.vylc.name.vn/TRTWorld
+#EXTINF:-1 group-title="Tin tức quốc tế" tvg-logo="https://raw.githubusercontent.com/chivy141206/cvmedia/main/CCTV-4.png",CCTV-4
+http://0.vylc.name.vn/CCTV4
+#EXTINF:-1 group-title="Tin tức quốc tế" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/thumb/1/16/Phoenix_InfoNews.svg/1200px-Phoenix_InfoNews.svg.png",Phoenix Info
+http://0.vylc.name.vn/phxinfo
 
 #----------------Music-----------------
 #EXTINF:-1 group-title="Âm nhạc quốc tế" tvg-logo="http://linear-poster.astro.com.my/prod/logo/MTV_v2.png",MTV Poland
@@ -294,8 +298,6 @@ http://0.vylc.name.vn/MBC
 
 #EXTINF:-1 group-title="Quốc tế | Trung Quốc" tvg-logo="https://i.imgur.com/tYtUmUR.png" tvg-id="CCTV3.cn",CCTV-3
 
-#EXTINF:-1 group-title="Quốc tế | Trung Quốc" tvg-logo="https://raw.githubusercontent.com/chivy141206/cvmedia/main/CCTV-4.png",CCTV-4
-
 #EXTINF:-1 group-title="Quốc tế | Trung Quốc" tvg-id="CCTV5.cn" tvg-logo="https://i.imgur.com/EqURkoF.png",CCTV-5
 
 #EXTINF:-1 group-title="Quốc tế | Trung Quốc" tvg-id="CCTV5Plus.cn" tvg-logo="https://i.imgur.com/uW1b1KO.png",CCTV-5+
@@ -315,9 +317,8 @@ http://0.vylc.name.vn/MBC
 #EXTINF:-1 group-title="Quốc tế | Trung Quốc" tvg-id="" tvg-logo="https://bkimg.cdn.bcebos.com/pic/4e4a20a4462309f78625878e750e0cf3d6cad6e7",Great Sports
 
 #EXTINF:-1 group-title="Quốc tế | Trung Quốc" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/thumb/3/34/Phoenix_Chinese.svg/1200px-Phoenix_Chinese.svg.png",Phoenix TV
-http://0.vylc.name.vn/phxcn
-#EXTINF:-1 group-title="Quốc tế | Trung Quốc" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/thumb/1/16/Phoenix_InfoNews.svg/1200px-Phoenix_InfoNews.svg.png",Phoenix Info
-http://0.vylc.name.vn/phxinfo
+
+
 
 #----------------Singapore-----------------
 #EXTINF:-1 group-title="Quốc tế | Singapore" tvg-logo="https://poster.starhubgo.com/Linear_channels2/102_1920x1080_HTV.png",Channel 5 (DRM)

@@ -297,6 +297,14 @@ http://0.vylc.name.vn/SBSOne
 #EXTINF:-1 group-title="Quốc tế | Úc" tvg-id="SBSViceland.au" tvg-logo="https://upload.wikimedia.org/wikipedia/en/6/6a/SBS_Viceland_logo_2016.png",SBS Viceland
 http://0.vylc.name.vn/SBSViceland
 
+#----------------Russia-----------------
+#EXTINF:-1 group-title="Quốc tế | Nga" tvg-logo="https://static.wikia.nocookie.net/logos/images/2/25/1tv_Russia_logo.png/revision/latest/scale-to-width-down/512?cb=20220217141930&path-prefix=vi",OPT1
+http://0.vylc.name.vn/OPT1
+#EXTINF:-1 group-title="Quốc tế | Nga" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/11-%D0%B9_%D0%BB%D0%BE%D0%B3%D0%BE%D1%82%D0%B8%D0%BF_%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D1%8F-1.svg/1920px-11-%D0%B9_%D0%BB%D0%BE%D0%B3%D0%BE%D1%82%D0%B8%D0%BF_%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D1%8F-1.svg.png",Russia 1
+http://0.vylc.name.vn/Russia1
+#EXTINF:-1 group-title="Quốc tế | Nga" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Rossiya-24_Logo.svg/1024px-Rossiya-24_Logo.svg.png",Russia 24
+http://0.vylc.name.vn/Russia24
+
 #----------------Korea-----------------
 #EXTINF:-1 group-title="Quốc tế | Hàn Quốc" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/SBS_Korea_Logo_%28Word_Only%29.svg/1200px-SBS_Korea_Logo_%28Word_Only%29.svg.png",SBS
 http://0.vylc.name.vn/SBS

@@ -48,14 +48,16 @@ https://livecdn.fptplay.net/hda1/quochoivn_vhls.smil/chunklist_b5000000.m3u8
 https://livecdn.fptplay.net/hda1/quocphongvnhd_vhls.smil/chunklist_b5000000.m3u8
 
 #------Thể thao tổng hợp------#
+#EXTINF:-1 group-title="Thể thao tổng hợp" tvg-logo="https://www.lyngsat.com/logo/tv/ss/sky-sport-de.png",Sky Sport Premier League
+http://0.vylc.name.vn/SkyPL
 #EXTINF:-1 group-title="Thể thao tổng hợp" tvg-id="DiemaSport.bg" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/DiemaSport-logo.svg/1200px-DiemaSport-logo.svg.png",Diema Sport
-http://0.vylc.name.vn/Diema1
+
 #EXTINF:-1 group-title="Thể thao tổng hợp" tvg-id="DiemaSport2.bg" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/47/DS2_logo.png",Diema Sport 2
-http://0.vylc.name.vn/Diema2
+
 #EXTINF:-1 group-title="Thể thao tổng hợp" tvg-id="DiemaSport3.bg" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f6/DiemaSport3logo.png",Diema Sport 3
-http://0.vylc.name.vn/Diema3
+
 #EXTINF:-1 group-title="Thể thao tổng hợp" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f0/NovaSport.png",Nova Sport
-http://0.vylc.name.vn/nova
+
 #EXTINF:-1 group-title="Thể thao tổng hợp" tvg-logo="https://raw.githubusercontent.com/chivy141206/cvmedia/main/sk3.png",Sport Klub 3
 
 #EXTINF:-1 group-title="Thể thao tổng hợp" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5d/Setanta-logo.jpg",Setanta Sports 1
@@ -72,6 +74,10 @@ http://0.vylc.name.vn/M4
 http://0.vylc.name.vn/M_LC
 #EXTINF:-1 group-title="Thể thao tổng hợp" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Deportes_por_Movistar_Plus%2B_2022_logo.svg/1200px-Deportes_por_Movistar_Plus%2B_2022_logo.svg.png",Movistar Deportes
 
+#EXTINF:-1 group-title="Thể thao tổng hợp" tvg-logo="https://www.lyngsat.com/logo/tv/ss/star-sports-select-hd1-hk-in.png",Star Sports Select 1
+http://0.vylc.name.vn:8080/stream/channelid/1521593541
+#EXTINF:-1 group-title="Thể thao tổng hợp" tvg-logo="https://www.lyngsat.com/logo/tv/ss/star-sports-select-hd2-hk-in.png",Star Sports Select 2
+http://0.vylc.name.vn:8080/stream/channelid/298240674
 #EXTINF:-1 group-title="Thể thao tổng hợp" tvg-logo="https://ntvplus.tv/files/image/10/60/28/3d1.png",Маtch ТV
 http://0.vylc.name.vn/matchtv
 #EXTINF:-1 group-title="Thể thao tổng hợp" tvg-logo="https://ntvplus.tv/files/image/01/17/29/mqs.png",Маtch Futbol 1

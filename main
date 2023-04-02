@@ -332,7 +332,7 @@ http://0.vylc.name.vn/MBC
 http://0.vylc.name.vn/CCTV1
 #EXTINF:-1 group-title="Quốc tế | Trung Quốc" tvg-logo="https://i.imgur.com/tYtUmUR.png" tvg-id="CCTV3.cn",CCTV-3
 http://0.vylc.name.vn/CCTV3
-#EXTINF:-1 group-title="Quốc tế | Trung Quốc" tvg-logo="https://raw.githubusercontent.com/chivy141206/cvmedia/main/CCTV-4.png",CCTV-4 Europe
+#EXTINF:-1 group-title="Quốc tế | Trung Quốc" tvg-logo="https://raw.githubusercontent.com/chivy141206/cvmedia/main/CCTV-4.png",CCTV-4
 http://0.vylc.name.vn/CCTV4
 #EXTINF:-1 group-title="Quốc tế | Trung Quốc" tvg-id="CCTV5.cn" tvg-logo="https://i.imgur.com/EqURkoF.png",CCTV-5
 http://0.vylc.name.vn/CCTV5

@@ -305,9 +305,9 @@ http://0.vylc.name.vn/Nine
 #EXTINF:-1 group-title="Quốc tế | Úc" tvg-id="9Gem.au" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d8/9Gem_logo.png",9Gem
 http://0.vylc.name.vn/Gem
 #EXTINF:-1 group-title="Quốc tế | Úc" tvg-id="SBS.au" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/83/SBS_Australia_Logo_%282019%29.svg/800px-SBS_Australia_Logo_%282019%29.svg.png",SBS One
-http://0.vylc.name.vn/SBSOne
+
 #EXTINF:-1 group-title="Quốc tế | Úc" tvg-id="SBSViceland.au" tvg-logo="https://upload.wikimedia.org/wikipedia/en/6/6a/SBS_Viceland_logo_2016.png",SBS Viceland
-http://0.vylc.name.vn/SBSViceland
+
 
 #----------------Russia-----------------
 #EXTINF:-1 group-title="Quốc tế | Nga" tvg-logo="https://static.wikia.nocookie.net/logos/images/2/25/1tv_Russia_logo.png/revision/latest/scale-to-width-down/512?cb=20220217141930&path-prefix=vi",OPT1
@@ -319,13 +319,13 @@ http://0.vylc.name.vn/Russia24
 
 #----------------Korea-----------------
 #EXTINF:-1 group-title="Quốc tế | Hàn Quốc" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/SBS_Korea_Logo_%28Word_Only%29.svg/1200px-SBS_Korea_Logo_%28Word_Only%29.svg.png",SBS
-http://0.vylc.name.vn/SBS
+
 #EXTINF:-1 group-title="Quốc tế | Hàn Quốc" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/KBS_1_logo.svg/440px-KBS_1_logo.svg.png",KBS1
-http://0.vylc.name.vn/KBS1
+
 #EXTINF:-1 group-title="Quốc tế | Hàn Quốc" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/KBS_2_logo.svg/1200px-KBS_2_logo.svg.png",KBS2
-http://0.vylc.name.vn/KBS2
+
 #EXTINF:-1 group-title="Quốc tế | Hàn Quốc" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Munhwa_Broadcasting_Company.svg/2560px-Munhwa_Broadcasting_Company.svg.png",MBC
-http://0.vylc.name.vn/MBC
+
 
 #----------------China-----------------
 #EXTINF:-1 group-title="Quốc tế | Trung Quốc" tvg-logo="https://i.imgur.com/ChfbGqR.png" tvg-id="CCTV1.cn",CCTV-1

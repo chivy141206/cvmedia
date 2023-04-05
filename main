@@ -76,6 +76,8 @@ http://0.vylc.name.vn/Diema2
 
 #EXTINF:-1 group-title="Thể thao tổng hợp" tvg-logo="https://upload.wikimedia.org/wikipedia/hu/thumb/f/fd/M4_logo.png/640px-M4_logo.png",M4 Sport
 http://0.vylc.name.vn/M4
+#EXTINF:-1 group-title="Thể thao tổng hợp" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d2/NBA_TV.svg/1200px-NBA_TV.svg.png",NBA TV
+http://0.vylc.name.vn/NBA
 #EXTINF:-1 group-title="Thể thao tổng hợp" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/SCTV_Logo.svg/2560px-SCTV_Logo.svg.png",SCTV
 
 #EXTINF:-1 group-title="Thể thao tổng hợp" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Moji_blue.svg/1200px-Moji_blue.svg.png",mOji

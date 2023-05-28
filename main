@@ -23,3 +23,17 @@ http://stream.cvmtv.site/CCTV5
 http://stream.cvmtv.site/CCTV5p
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/M4_Sport%2B_logo.png/1200px-M4_Sport%2B_logo.png",M4 Sport
 http://stream.cvmtv.site/M4
+#EXTINF:-1 group-title="CANAL+ SPORT" tvg-logo="https://n-4-3.dcs.redcdn.pl/file/o2/n/edytorEPG/logo/logotype_66245.png",Canal+ Sport 1
+http://stream.cvmtv.site/canal1
+#EXTINF:-1 group-title="CANAL+ SPORT" tvg-logo="https://r.dcs.redcdn.pl/https/o2/n/edytorEPG/logo/logotype_66249.png",Canal+ Sport 2
+http://stream.cvmtv.site/canal2
+#EXTINF:-1 group-title="CANAL+ SPORT" tvg-logo="https://r.dcs.redcdn.pl/http/o2/n/edytorEPG/logo/logotype_815958.png",Canal+ Premium
+http://stream.cvmtv.site/canalpre
+#EXTINF:-1 group-title="ELEVEN SPORTS" tvg-logo="https://r.dcs.redcdn.pl/https/o2/n/edytorEPG/logo/logotype_391293.png",Eleven Sports 1
+http://stream.cvmtv.site/E1
+#EXTINF:-1 group-title="ELEVEN SPORTS" tvg-logo="https://r.dcs.redcdn.pl/https/o2/n/edytorEPG/logo/logotype_391296.png",Eleven Sports 2
+http://stream.cvmtv.site/E2
+#EXTINF:-1 group-title="ELEVEN SPORTS" tvg-logo="https://r.dcs.redcdn.pl/https/o2/n/edytorEPG/logo/logotype_391299.png",Eleven Sports 3
+http://stream.cvmtv.site/E3
+#EXTINF:-1 group-title="ELEVEN SPORTS" tvg-logo="https://r.dcs.redcdn.pl/https/o2/n/edytorEPG/logo/logotype_391302.png",Eleven Sports 4
+http://stream.cvmtv.site/E4

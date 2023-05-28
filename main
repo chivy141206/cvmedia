@@ -37,3 +37,11 @@ http://stream.cvmtv.site/E2
 http://stream.cvmtv.site/E3
 #EXTINF:-1 group-title="ELEVEN SPORTS" tvg-logo="https://r.dcs.redcdn.pl/https/o2/n/edytorEPG/logo/logotype_391302.png",Eleven Sports 4
 http://stream.cvmtv.site/E4
+#EXTINF:-1 group-title="MATCH TV" tvg-logo="https://new.matchtv.ru/assets/2305181729/images/channels/130.jpg",Match TV
+http://stream.cvmtv.site/Match
+#EXTINF:-1 group-title="MATCH TV" tvg-logo="https://new.matchtv.ru/assets/2305181729/images/channels/8.jpg",Match Futbol 1
+http://stream.cvmtv.site/MF1
+#EXTINF:-1 group-title="MATCH TV" tvg-logo="https://new.matchtv.ru/assets/2305181729/images/channels/14.jpg",Match Futbol 2
+http://stream.cvmtv.site/MF2
+#EXTINF:-1 group-title="MATCH TV" tvg-logo="https://new.matchtv.ru/assets/2305181729/images/channels/140.jpg",Match Futbol 3
+http://stream.cvmtv.site/MF3

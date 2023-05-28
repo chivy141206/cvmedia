@@ -1,3 +1,25 @@
-#EXTM3U OFF
-#EXTINF:-1,OFF LIST
-http://0.0.0.0/off
+#EXTM3U
+#EXTINF:-1 group-title="DIEMA SPORT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c8/Diema_Sport_HD_logo.png",Diema Sport 1
+http://stream.cvmtv.site/Diema1
+#EXTINF:-1 group-title="DIEMA SPORT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/47/DS2_logo.png",Diema Sport 2
+http://stream.cvmtv.site/Diema2
+#EXTINF:-1 group-title="DIEMA SPORT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/DiemaSport3logo.png/1200px-DiemaSport3logo.png",Diema Sport 3
+http://stream.cvmtv.site/Diema3
+#EXTINF:-1 group-title="STAR SPORTS" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/37/Star-sports-select-1.png",Star Sports Select 1
+http://stream.cvmtv.site/SL1
+#EXTINF:-1 group-title="STAR SPORTS" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/3b/Star-sports-select-2.png",Star Sports Select 2
+http://stream.cvmtv.site/SL2
+#EXTINF:-1 group-title="EUROSPORT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Eurosport_1_Logo_2015.svg/2560px-Eurosport_1_Logo_2015.svg.png",Eurosport 1
+http://stream.cvmtv.site/ES1
+#EXTINF:-1 group-title="EUROSPORT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Eurosport_2_Logo_2015.svg/2560px-Eurosport_2_Logo_2015.svg.png",Eurosport 2
+http://stream.cvmtv.site/ES2
+#EXTINF:-1 group-title="ZIGGO SPORT" tvg-logo="",Ziggo Sport Select
+http://stream.cvmtv.site/ZiggoS
+#EXTINF:-1 group-title="ZIGGO SPORT" tvg-logo="",Ziggo Sport Voetbal
+http://stream.cvmtv.site/ZiggoV
+#EXTINF:-1 group-title="SPORTS" tvg-logo="",CCTV-5
+http://stream.cvmtv.site/CCTV5
+#EXTINF:-1 group-title="SPORTS" tvg-logo="",CCTV-5+
+http://stream.cvmtv.site/CCTV5p
+#EXTINF:-1 group-title="SPORTS" tvg-logo="",M4 Sport
+http://stream.cvmtv.site/M4

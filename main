@@ -29,7 +29,7 @@ http://stream.cvmtv.site/ZiggoD?token=live
 http://stream.cvmtv.site/CCTV5?token=live
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://p4.img.cctvpic.com/photoAlbum/templet/common/DEPA1606289678173765/2020_0412_index_03.png",CCTV-5+
 http://stream.cvmtv.site/CCTV5p?token=live
-#EXTINF:-1 group-title="SPORTS" tvg-logo="https://p1.img.cctvpic.com/photoAlbum/templet/common/DEPA1532314258547503/cctv-16_180817.png",CCTV-5+
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://p1.img.cctvpic.com/photoAlbum/templet/common/DEPA1532314258547503/cctv-16_180817.png",CCTV-16
 http://stream.cvmtv.site/CCTV16?token=live
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/M4_Sport%2B_logo.png/1200px-M4_Sport%2B_logo.png",M4 Sport
 http://stream.cvmtv.site/M4?token=live

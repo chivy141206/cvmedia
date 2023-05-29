@@ -17,13 +17,13 @@ http://stream.cvmtv.site/ES2?token=live
 http://stream.cvmtv.site/ZiggoS?token=live
 #EXTINF:-1 group-title="ZIGGO SPORT" tvg-logo="https://raw.githubusercontent.com/chivy141206/cvmedia/main/voetbal.png",Ziggo Sport Voetbal
 http://stream.cvmtv.site/ZiggoV?token=live
-#EXTINF:-1 group-title="ZIGGO SPORT" tvg-logo="",Ziggo Sport Tennis
+#EXTINF:-1 group-title="ZIGGO SPORT" tvg-logo="https://raw.githubusercontent.com/chivy141206/cvmedia/main/tennis.png",Ziggo Sport Tennis
 http://stream.cvmtv.site/ZiggoT?token=live
-#EXTINF:-1 group-title="ZIGGO SPORT" tvg-logo="",Ziggo Sport Golf
+#EXTINF:-1 group-title="ZIGGO SPORT" tvg-logo="https://raw.githubusercontent.com/chivy141206/cvmedia/main/golf.png",Ziggo Sport Golf
 http://stream.cvmtv.site/ZiggoG?token=live
-#EXTINF:-1 group-title="ZIGGO SPORT" tvg-logo="",Ziggo Sport Racing
+#EXTINF:-1 group-title="ZIGGO SPORT" tvg-logo="https://raw.githubusercontent.com/chivy141206/cvmedia/main/racing.png",Ziggo Sport Racing
 http://stream.cvmtv.site/ZiggoR?token=live
-#EXTINF:-1 group-title="ZIGGO SPORT" tvg-logo="",Ziggo Sport Docu
+#EXTINF:-1 group-title="ZIGGO SPORT" tvg-logo="https://raw.githubusercontent.com/chivy141206/cvmedia/main/docu.png",Ziggo Sport Docu
 http://stream.cvmtv.site/ZiggoD?token=live
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://p4.img.cctvpic.com/photoAlbum/templet/common/DEPA1606289678173765/2020_0412_index_08.png",CCTV-5
 http://stream.cvmtv.site/CCTV5?token=live

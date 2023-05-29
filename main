@@ -17,10 +17,20 @@ http://stream.cvmtv.site/ES2?token=live
 http://stream.cvmtv.site/ZiggoS?token=live
 #EXTINF:-1 group-title="ZIGGO SPORT" tvg-logo="https://raw.githubusercontent.com/chivy141206/cvmedia/main/voetbal.png",Ziggo Sport Voetbal
 http://stream.cvmtv.site/ZiggoV?token=live
+#EXTINF:-1 group-title="ZIGGO SPORT" tvg-logo="",Ziggo Sport Tennis
+http://stream.cvmtv.site/ZiggoT?token=live
+#EXTINF:-1 group-title="ZIGGO SPORT" tvg-logo="",Ziggo Sport Golf
+http://stream.cvmtv.site/ZiggoG?token=live
+#EXTINF:-1 group-title="ZIGGO SPORT" tvg-logo="",Ziggo Sport Racing
+http://stream.cvmtv.site/ZiggoR?token=live
+#EXTINF:-1 group-title="ZIGGO SPORT" tvg-logo="",Ziggo Sport Docu
+http://stream.cvmtv.site/ZiggoD?token=live
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://p4.img.cctvpic.com/photoAlbum/templet/common/DEPA1606289678173765/2020_0412_index_08.png",CCTV-5
 http://stream.cvmtv.site/CCTV5?token=live
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://p4.img.cctvpic.com/photoAlbum/templet/common/DEPA1606289678173765/2020_0412_index_03.png",CCTV-5+
 http://stream.cvmtv.site/CCTV5p?token=live
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://p1.img.cctvpic.com/photoAlbum/templet/common/DEPA1532314258547503/cctv-16_180817.png",CCTV-5+
+http://stream.cvmtv.site/CCTV16?token=live
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/M4_Sport%2B_logo.png/1200px-M4_Sport%2B_logo.png",M4 Sport
 http://stream.cvmtv.site/M4?token=live
 #EXTINF:-1 group-title="CANAL+ SPORT" tvg-logo="https://n-4-3.dcs.redcdn.pl/file/o2/n/edytorEPG/logo/logotype_66245.png",Canal+ Sport 1
@@ -45,3 +55,34 @@ http://stream.cvmtv.site/MF1?token=live
 http://stream.cvmtv.site/MF2?token=live
 #EXTINF:-1 group-title="MATCH TV" tvg-logo="https://new.matchtv.ru/assets/2305181729/images/channels/140.jpg",Match Futbol 3
 http://stream.cvmtv.site/MF3?token=live
+#EXTINF:-1 group-title="POLSAT SPORT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Polsat_Sport_2021_gradient.svg/1200px-Polsat_Sport_2021_gradient.svg.png",Polsat Sport
+http://stream.cvmtv.site/Polsat?token=live
+#EXTINF:-1 group-title="POLSAT SPORT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Polsat_Sport_Extra_2021_gradient.svg/1280px-Polsat_Sport_Extra_2021_gradient.svg.png",Polsat Sport Extra
+http://stream.cvmtv.site/PolsatE?token=live
+#EXTINF:-1 group-title="POLSAT SPORT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Polsat_Sport_News_2021_horizontal_gradient.svg/1920px-Polsat_Sport_News_2021_horizontal_gradient.svg.png",Polsat Sport News
+http://stream.cvmtv.site/PolsatN?token=live
+
+#EXTINF:-1 group-title="CCTV" tvg-logo="https://p1.img.cctvpic.com/photoAlbum/templet/common/DEPA1532314258547503/cctv-1_180817.png",CCTV-1
+http://stream.cvmtv.site/CCTV1?token=live
+#EXTINF:-1 group-title="CCTV" tvg-logo="https://p1.img.cctvpic.com/photoAlbum/templet/common/DEPA1532314258547503/cctv-3_180817.png",CCTV-3
+http://stream.cvmtv.site/CCTV3?token=live
+#EXTINF:-1 group-title="CCTV" tvg-logo="https://p1.img.cctvpic.com/photoAlbum/templet/common/DEPA1532314258547503/cctv-4_180817.png",CCTV-4
+http://stream.cvmtv.site/CCTV4?token=live
+#EXTINF:-1 group-title="CCTV" tvg-logo="https://p1.img.cctvpic.com/photoAlbum/templet/common/DEPA1532314258547503/cctv-13_180817.png",CCTV-13
+http://stream.cvmtv.site/CCTV13?token=live
+
+#EXTINF:-1 group-title="HONG KONG" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/TVB_Jade_logo.svg/1200px-TVB_Jade_logo.svg.png",TVB Jade
+http://stream.cvmtv.site/Jade?token=live
+#EXTINF:-1 group-title="HONG KONG" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/ViuTV_logo.svg/1920px-ViuTV_logo.svg.png",ViuTV
+http://stream.cvmtv.site/Viu?token=live
+#EXTINF:-1 group-title="HONG KONG" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/ViuTVsix-logo.svg/1024px-ViuTVsix-logo.svg.png",ViuTVsix
+http://stream.cvmtv.site/Viu6?token=live
+
+#EXTINF:-1 group-title="FREEVIEW UK" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/BBC_One_logo_2021.svg/800px-BBC_One_logo_2021.svg.png",BBC One
+http://stream.cvmtv.site/BBC1?token=live
+#EXTINF:-1 group-title="FREEVIEW UK" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/BBC_Two_logo_2021.svg/640px-BBC_Two_logo_2021.svg.png",BBC Two
+http://stream.cvmtv.site/BBC2?token=live
+#EXTINF:-1 group-title="FREEVIEW UK" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/9/92/ITV_logo_2013.svg/1200px-ITV_logo_2013.svg.png",ITV1
+http://stream.cvmtv.site/ITV?token=live
+#EXTINF:-1 group-title="FREEVIEW UK" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/BBC_News_2022_%28Alt%2C_boxed%29.svg/1200px-BBC_News_2022_%28Alt%2C_boxed%29.svg.png",BBC News
+http://stream.cvmtv.site/BBCN?token=live

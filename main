@@ -1,11 +1,11 @@
 #EXTM3U
-#EXTINF:-1 group-title="VTV" tvg-logo="https://raw.githubusercontent.com/chivy141206/cvmedia/main/vtv1.png",VTV1 HD
+#EXTINF:-1 group-title="VIỆT NAM" tvg-logo="https://raw.githubusercontent.com/chivy141206/cvmedia/main/vtv1.png",VTV1 HD
 http://stream.cvmtv.site/vtv1?token=live
-#EXTINF:-1 group-title="VTV" tvg-logo="https://raw.githubusercontent.com/chivy141206/cvmedia/main/vtv3.png",VTV3 HD
+#EXTINF:-1 group-title="VIỆT NAM" tvg-logo="https://raw.githubusercontent.com/chivy141206/cvmedia/main/vtv3.png",VTV3 HD
 http://stream.cvmtv.site/vtv3?token=live
-#EXTINF:-1 group-title="VTV" tvg-logo="https://raw.githubusercontent.com/chivy141206/cvmedia/main/vtv5.png",VTV5 HD
+#EXTINF:-1 group-title="VIỆT NAM" tvg-logo="https://raw.githubusercontent.com/chivy141206/cvmedia/main/vtv5.png",VTV5 HD
 http://stream.cvmtv.site/vtv5?token=live
-#EXTINF:-1 group-title="VTV" tvg-logo="https://raw.githubusercontent.com/chivy141206/cvmedia/main/htvtt.png",HTV Thể thao HD
+#EXTINF:-1 group-title="VIỆT NAM" tvg-logo="https://raw.githubusercontent.com/chivy141206/cvmedia/main/htvtt.png",HTV Thể thao HD
 http://stream.cvmtv.site/htvtt?token=live
 
 #EXTINF:-1 group-title="THỂ THAO TỔNG HỢP" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Sky_Sport_Austria_1_AT_Logo_2020.svg/1280px-Sky_Sport_Austria_1_AT_Logo_2020.svg.png",UEL FINAL - Sky Sport Austria 1

@@ -9,7 +9,7 @@ http://stream.cvmtv.site/vtv5?token=live
 http://stream.cvmtv.site/htvtt?token=live
 
 #EXTINF:-1 group-title="THỂ THAO TỔNG HỢP" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Sky_Sport_Austria_1_AT_Logo_2020.svg/1280px-Sky_Sport_Austria_1_AT_Logo_2020.svg.png",UEL FINAL - Sky Sport Austria 1
-http://stream.cvmtv.site/SkyA1?token=live
+
 #EXTINF:-1 group-title="THỂ THAO TỔNG HỢP" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/BBC_Red_Button_2021.svg/2560px-BBC_Red_Button_2021.svg.png",UEFA U17 - BBC Red Button
 http://stream.cvmtv.site/BBC_RB?token=live
 #EXTINF:-1 group-title="THỂ THAO TỔNG HỢP" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d8/9Gem_logo.png",ROLAND GARROS - 9Gem

@@ -31,9 +31,9 @@ http://stream.cvmtv.site/Diema2?token=live
 
 
 #EXTINF:-1 group-title="STAR SPORTS" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/37/Star-sports-select-1.png",Star Sports Select 1
-http://stream.cvmtv.site/SL1?token=live
+
 #EXTINF:-1 group-title="STAR SPORTS" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/3b/Star-sports-select-2.png",Star Sports Select 2
-http://stream.cvmtv.site/SL2?token=live
+
 
 #EXTINF:-1 group-title="EUROSPORT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Eurosport_1_Logo_2015.svg/2560px-Eurosport_1_Logo_2015.svg.png",Eurosport 1
 http://stream.cvmtv.site/ES1?token=live

@@ -9,7 +9,9 @@ http://stream.cvmtv.site/vtv5?token=live
 http://stream.cvmtv.site/htvtt?token=live
 
 #EXTINF:-1 group-title="THỂ THAO TỔNG HỢP" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Sky_Sport_Mix_Logo_2022.svg/1200px-Sky_Sport_Mix_Logo_2022.svg.png",CÚP QG ĐỨC - Sky Sport Mix
-
+http://stream.cvmtv.site/SkyMix?token=live
+#EXTINF:-1 group-title="THỂ THAO TỔNG HỢP" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3c/Viaplay_logo.png",CÚP QG ĐỨC - ViaplayXtra
+http://stream.cvmtv.site/ViaXtra?token=live
 #EXTINF:-1 group-title="THỂ THAO TỔNG HỢP" tvg-logo="https://raw.githubusercontent.com/chivy141206/cvmedia/main/select.png",FA CUP FINAL - Ziggo Sport Select
 http://stream.cvmtv.site/ZiggoS?token=live
 #EXTINF:-1 group-title="THỂ THAO TỔNG HỢP" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/BBC_Red_Button_2021.svg/2560px-BBC_Red_Button_2021.svg.png",UEFA U17 - BBC Red Button

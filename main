@@ -10,8 +10,10 @@ http://stream.cvmtv.site/htvtt?token=live
 
 #EXTINF:-1 group-title="THỂ THAO TỔNG HỢP" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Sky_Sport_Austria_1_AT_Logo_2020.svg/1280px-Sky_Sport_Austria_1_AT_Logo_2020.svg.png",UEL FINAL - Sky Sport Austria 1
 
+#EXTINF:-1 group-title="THỂ THAO TỔNG HỢP" tvg-logo="https://raw.githubusercontent.com/chivy141206/cvmedia/main/select.png",FA CUP FINAL - Ziggo Sport Select
+http://stream.cvmtv.site/ZiggoS?token=live
 #EXTINF:-1 group-title="THỂ THAO TỔNG HỢP" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/BBC_Red_Button_2021.svg/2560px-BBC_Red_Button_2021.svg.png",UEFA U17 - BBC Red Button
-http://stream.cvmtv.site/BBC_RB?token=live
+
 #EXTINF:-1 group-title="THỂ THAO TỔNG HỢP" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d8/9Gem_logo.png",ROLAND GARROS - 9Gem
 http://stream.cvmtv.site/NineGem?token=live
 #EXTINF:-1 group-title="THỂ THAO TỔNG HỢP" tvg-logo="https://p4.img.cctvpic.com/photoAlbum/templet/common/DEPA1606289678173765/2020_0412_index_08.png",CCTV-5
@@ -40,18 +42,16 @@ http://stream.cvmtv.site/ES1?token=live
 #EXTINF:-1 group-title="EUROSPORT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Eurosport_2_Logo_2015.svg/2560px-Eurosport_2_Logo_2015.svg.png",Eurosport 2
 http://stream.cvmtv.site/ES2?token=live
 
-#EXTINF:-1 group-title="ZIGGO SPORT" tvg-logo="https://raw.githubusercontent.com/chivy141206/cvmedia/main/select.png",Ziggo Sport Select
-http://stream.cvmtv.site/ZiggoS?token=live
 #EXTINF:-1 group-title="ZIGGO SPORT" tvg-logo="https://raw.githubusercontent.com/chivy141206/cvmedia/main/voetbal.png",Ziggo Sport Voetbal
-http://stream.cvmtv.site/ZiggoV?token=live
+
 #EXTINF:-1 group-title="ZIGGO SPORT" tvg-logo="https://raw.githubusercontent.com/chivy141206/cvmedia/main/tennis.png",Ziggo Sport Tennis
-http://stream.cvmtv.site/ZiggoT?token=live
+
 #EXTINF:-1 group-title="ZIGGO SPORT" tvg-logo="https://raw.githubusercontent.com/chivy141206/cvmedia/main/golf.png",Ziggo Sport Golf
-http://stream.cvmtv.site/ZiggoG?token=live
+
 #EXTINF:-1 group-title="ZIGGO SPORT" tvg-logo="https://raw.githubusercontent.com/chivy141206/cvmedia/main/racing.png",Ziggo Sport Racing
-http://stream.cvmtv.site/ZiggoR?token=live
+
 #EXTINF:-1 group-title="ZIGGO SPORT" tvg-logo="https://raw.githubusercontent.com/chivy141206/cvmedia/main/docu.png",Ziggo Sport Docu
-http://stream.cvmtv.site/ZiggoD?token=live
+
 
 #EXTINF:-1 group-title="CANAL+ SPORT" tvg-logo="https://n-4-3.dcs.redcdn.pl/file/o2/n/edytorEPG/logo/logotype_66245.png",Canal+ Sport 1
 http://stream.cvmtv.site/canal1?token=live

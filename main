@@ -9,9 +9,7 @@ http://stream.cvmtv.site/vtv5?token=live
 http://stream.cvmtv.site/htvtt?token=live
 
 #EXTINF:-1 group-title="THỂ THAO TỔNG HỢP" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Sky_Sport_Mix_Logo_2022.svg/1200px-Sky_Sport_Mix_Logo_2022.svg.png",CÚP QG ĐỨC - Sky Sport Mix
-http://stream.cvmtv.site/SkyMix?token=live
-#EXTINF:-1 group-title="THỂ THAO TỔNG HỢP" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3c/Viaplay_logo.png",CÚP QG ĐỨC - ViaplayXtra
-http://stream.cvmtv.site/ViaXtra?token=live
+
 #EXTINF:-1 group-title="THỂ THAO TỔNG HỢP" tvg-logo="https://raw.githubusercontent.com/chivy141206/cvmedia/main/select.png",FA CUP FINAL - Ziggo Sport Select
 http://stream.cvmtv.site/ZiggoS?token=live
 #EXTINF:-1 group-title="THỂ THAO TỔNG HỢP" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/BBC_Red_Button_2021.svg/2560px-BBC_Red_Button_2021.svg.png",UEFA U17 - BBC Red Button
@@ -26,6 +24,8 @@ http://stream.cvmtv.site/CCTV5p?token=live
 http://stream.cvmtv.site/CCTV16?token=live
 #EXTINF:-1 group-title="THỂ THAO TỔNG HỢP" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/M4_Sport%2B_logo.png/1200px-M4_Sport%2B_logo.png",M4 Sport
 http://stream.cvmtv.site/M4?token=live
+#EXTINF:-1 group-title="THỂ THAO TỔNG HỢP" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3c/Viaplay_logo.png",ViaplayXtra
+http://stream.cvmtv.site/ViaXtra?token=live
 
 #EXTINF:-1 group-title="DIEMA SPORT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c8/Diema_Sport_HD_logo.png",Diema Sport 1
 http://stream.cvmtv.site/Diema1?token=live
@@ -80,12 +80,14 @@ http://stream.cvmtv.site/MF2?token=live
 #EXTINF:-1 group-title="MATCH TV" tvg-logo="https://new.matchtv.ru/assets/2305181729/images/channels/140.jpg",Match Futbol 3
 http://stream.cvmtv.site/MF3?token=live
 
-#EXTINF:-1 group-title="POLSAT SPORT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Polsat_Sport_2021_gradient.svg/1200px-Polsat_Sport_2021_gradient.svg.png",Polsat Sport
+#EXTINF:-1 group-title="POLSAT - TVP SPORT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Polsat_Sport_2021_gradient.svg/1200px-Polsat_Sport_2021_gradient.svg.png",Polsat Sport
 http://stream.cvmtv.site/Polsat?token=live
-#EXTINF:-1 group-title="POLSAT SPORT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Polsat_Sport_Extra_2021_gradient.svg/1280px-Polsat_Sport_Extra_2021_gradient.svg.png",Polsat Sport Extra
+#EXTINF:-1 group-title="POLSAT - TVP SPORT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Polsat_Sport_Extra_2021_gradient.svg/1280px-Polsat_Sport_Extra_2021_gradient.svg.png",Polsat Sport Extra
 http://stream.cvmtv.site/PolsatE?token=live
-#EXTINF:-1 group-title="POLSAT SPORT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Polsat_Sport_News_2021_horizontal_gradient.svg/1920px-Polsat_Sport_News_2021_horizontal_gradient.svg.png",Polsat Sport News
+#EXTINF:-1 group-title="POLSAT - TVP SPORT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Polsat_Sport_News_2021_horizontal_gradient.svg/1920px-Polsat_Sport_News_2021_horizontal_gradient.svg.png",Polsat Sport News
 http://stream.cvmtv.site/PolsatN?token=live
+#EXTINF:-1 group-title="POLSAT - TVP SPORT" tvg-logo="https://raw.githubusercontent.com/chivy141206/cvmedia/main/tvpsport.png",TVP Sport
+http://stream.cvmtv.site/TVPS?token=live
 
 #EXTINF:-1 group-title="CCTV" tvg-logo="https://p1.img.cctvpic.com/photoAlbum/templet/common/DEPA1532314258547503/cctv-1_180817.png",CCTV-1
 http://stream.cvmtv.site/CCTV1?token=live

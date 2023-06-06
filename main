@@ -86,6 +86,10 @@ http://stream.cvmtv.site/Polsat?token=live
 http://stream.cvmtv.site/PolsatE?token=live
 #EXTINF:-1 group-title="POLSAT - TVP SPORT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Polsat_Sport_News_2021_horizontal_gradient.svg/1920px-Polsat_Sport_News_2021_horizontal_gradient.svg.png",Polsat Sport News
 http://stream.cvmtv.site/PolsatN?token=live
+#EXTINF:-1 group-title="POLSAT - TVP SPORT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Polsat_Sport_Premium_1_2021_gradient.svg/768px-Polsat_Sport_Premium_1_2021_gradient.svg.png",Polsat Sport Premium 1
+http://stream.cvmtv.site/PPV1?token=live
+#EXTINF:-1 group-title="POLSAT - TVP SPORT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Polsat_Sport_Premium_2_2021_gradient.svg/768px-Polsat_Sport_Premium_2_2021_gradient.svg.png",Polsat Sport Premium 2
+http://stream.cvmtv.site/PPV2?token=live
 #EXTINF:-1 group-title="POLSAT - TVP SPORT" tvg-logo="https://raw.githubusercontent.com/chivy141206/cvmedia/main/tvpsport.png",TVP Sport
 http://stream.cvmtv.site/TVPS?token=live
 

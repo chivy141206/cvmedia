@@ -32,7 +32,7 @@ http://stream.cvmtv.site/Diema1?token=live
 #EXTINF:-1 group-title="DIEMA SPORT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/47/DS2_logo.png",Diema Sport 2
 http://stream.cvmtv.site/Diema2?token=live
 #EXTINF:-1 group-title="DIEMA SPORT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/DiemaSport3logo.png/1200px-DiemaSport3logo.png",Diema Sport 3
-http://stream.cvmtv.site/Diema3?token=live
+
 
 #EXTINF:-1 group-title="STAR SPORTS" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/37/Star-sports-select-1.png",Star Sports Select 1
 
@@ -88,6 +88,15 @@ http://stream.cvmtv.site/PolsatE?token=live
 http://stream.cvmtv.site/PolsatN?token=live
 #EXTINF:-1 group-title="POLSAT - TVP SPORT" tvg-logo="https://raw.githubusercontent.com/chivy141206/cvmedia/main/tvpsport.png",TVP Sport
 http://stream.cvmtv.site/TVPS?token=live
+
+#EXTINF:-1 group-title="ESPN MX" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/768px-ESPN_wordmark.svg.png",ESPN
+http://stream.cvmtv.site/ESPN?token=live
+#EXTINF:-1 group-title="ESPN MX" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/ESPN2_logo.svg/768px-ESPN2_logo.svg.png",ESPN2
+http://stream.cvmtv.site/ESPN2?token=live
+#EXTINF:-1 group-title="ESPN MX" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/ESPN3_logo.svg/768px-ESPN3_logo.svg.png",ESPN3
+http://stream.cvmtv.site/ESPN3?token=live
+#EXTINF:-1 group-title="ESPN MX" tvg-logo="https://raw.githubusercontent.com/chivy141206/cvmedia/main/espn_extra.png",ESPN Extra
+http://stream.cvmtv.site/ESPNE?token=live
 
 #EXTINF:-1 group-title="CCTV" tvg-logo="https://p1.img.cctvpic.com/photoAlbum/templet/common/DEPA1532314258547503/cctv-1_180817.png",CCTV-1
 http://stream.cvmtv.site/CCTV1?token=live

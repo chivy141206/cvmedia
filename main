@@ -11,6 +11,7 @@ http://stream.cvmtv.site/htvtt?token=live
 #EXTINF:-1 group-title="SPORTS 4K - TIVIMATE/OTT NAVIGATOR ONLY" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/308_144.png",UCL FINAL 4K UHD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://cvmtv.site/mpd/?id=bein4k&key=1
+#EXTVLCOPT:http-referrer=https://astrogo.astro.com.my
 https://cvmtv.site/mpd/?id=bein4k&key=0
 
 #EXTINF:-1 group-title="THỂ THAO TỔNG HỢP" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Sky_Sport_Austria_1_AT_Logo_2020.svg/768px-Sky_Sport_Austria_1_AT_Logo_2020.svg.png",UCL FINAL - Sky Sport Austria 1

@@ -12,7 +12,7 @@ http://stream.cvmtv.site/htvtt?token=live
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://cvmtv.site/mpd/?id=bein4k&key=1
 #EXTVLCOPT:http-referrer=https://astrogo.astro.com.my
-https://cvmtv.site/mpd/?id=bein4k&key=0
+https://malay.yurendtv.biz.id/dash-wv/linear/1601/default_primary.mpd
 
 #EXTINF:-1 group-title="THỂ THAO TỔNG HỢP" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Sky_Sport_Austria_1_AT_Logo_2020.svg/768px-Sky_Sport_Austria_1_AT_Logo_2020.svg.png",UCL FINAL - Sky Sport Austria 1
 http://stream.cvmtv.site/SkyA1?token=live

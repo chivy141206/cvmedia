@@ -15,7 +15,7 @@ http://stream.cvmtv.site/htvtt?token=live
 https://malay.yurendtv.biz.id/dash-wv/linear/1601/default_primary.mpd
 
 #EXTINF:-1 group-title="UCL FINAL SPECIAL" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/f5/UEFA_Champions_League.svg/1200px-UEFA_Champions_League.svg.png",FEED GỐC CHUNG KẾT C1
-http://stream.cvmtv.site/special?token=live
+
 
 #EXTINF:-1 group-title="THỂ THAO TỔNG HỢP" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Sky_Sport_Austria_1_AT_Logo_2020.svg/768px-Sky_Sport_Austria_1_AT_Logo_2020.svg.png",UCL FINAL - Sky Sport Austria 1
 http://stream.cvmtv.site/SkyA1?token=live

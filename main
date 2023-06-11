@@ -104,21 +104,24 @@ http://stream.cvmtv.site/ESPN3?token=live
 #EXTINF:-1 group-title="ESPN MX" tvg-logo="https://raw.githubusercontent.com/chivy141206/cvmedia/main/espn_extra.png",ESPN Extra
 http://stream.cvmtv.site/ESPNE?token=live
 
-#EXTINF:-1 group-title="CCTV" tvg-logo="https://p1.img.cctvpic.com/photoAlbum/templet/common/DEPA1532314258547503/cctv-1_180817.png",CCTV-1
+#EXTINF:-1 group-title="CHINA TV" tvg-logo="https://p1.img.cctvpic.com/photoAlbum/templet/common/DEPA1532314258547503/cctv-1_180817.png",CCTV-1
 http://stream.cvmtv.site/CCTV1?token=live
-#EXTINF:-1 group-title="CCTV" tvg-logo="https://p1.img.cctvpic.com/photoAlbum/templet/common/DEPA1532314258547503/cctv-3_180817.png",CCTV-3
+#EXTINF:-1 group-title="CHINA TV" tvg-logo="https://p1.img.cctvpic.com/photoAlbum/templet/common/DEPA1532314258547503/cctv-3_180817.png",CCTV-3
 http://stream.cvmtv.site/CCTV3?token=live
-#EXTINF:-1 group-title="CCTV" tvg-logo="https://p1.img.cctvpic.com/photoAlbum/templet/common/DEPA1532314258547503/cctv-4_180817.png",CCTV-4
+#EXTINF:-1 group-title="CHINA TV" tvg-logo="https://p1.img.cctvpic.com/photoAlbum/templet/common/DEPA1532314258547503/cctv-4_180817.png",CCTV-4
 http://stream.cvmtv.site/CCTV4?token=live
-#EXTINF:-1 group-title="CCTV" tvg-logo="https://p1.img.cctvpic.com/photoAlbum/templet/common/DEPA1532314258547503/cctv-13_180817.png",CCTV-13
+#EXTINF:-1 group-title="CHINA TV" tvg-logo="https://p1.img.cctvpic.com/photoAlbum/templet/common/DEPA1532314258547503/cctv-13_180817.png",CCTV-13
 http://stream.cvmtv.site/CCTV13?token=live
-
-#EXTINF:-1 group-title="HONG KONG" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/TVB_Jade_logo.svg/1200px-TVB_Jade_logo.svg.png",TVB Jade
+#EXTINF:-1 group-title="CHINA TV" tvg-logo="https://upload.wikimedia.org/wikipedia/vi/7/77/H%E1%BB%93_Nam_TV.png",Hunan TV
+http://stream.cvmtv.site/hunan?token=live
+#EXTINF:-1 group-title="CHINA TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/TVB_Jade_logo.svg/1200px-TVB_Jade_logo.svg.png",TVB Jade
 http://stream.cvmtv.site/Jade?token=live
-#EXTINF:-1 group-title="HONG KONG" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/ViuTV_logo.svg/1920px-ViuTV_logo.svg.png",ViuTV
+#EXTINF:-1 group-title="CHINA TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/ViuTV_logo.svg/1920px-ViuTV_logo.svg.png",ViuTV
 http://stream.cvmtv.site/Viu?token=live
-#EXTINF:-1 group-title="HONG KONG" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/ViuTVsix-logo.svg/1024px-ViuTVsix-logo.svg.png",ViuTVsix
+#EXTINF:-1 group-title="CHINA TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/ViuTVsix-logo.svg/1024px-ViuTVsix-logo.svg.png",ViuTVsix
 http://stream.cvmtv.site/Viu6?token=live
+#EXTINF:-1 group-title="CHINA TV" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/thumb/1/16/Phoenix_InfoNews.svg/1200px-Phoenix_InfoNews.svg.png",Phoenix Infonews
+http://stream.cvmtv.site/PhxInfo?token=live
 
 #EXTINF:-1 group-title="FREEVIEW UK" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/BBC_One_logo_2021.svg/800px-BBC_One_logo_2021.svg.png",BBC One
 http://stream.cvmtv.site/BBC1?token=live

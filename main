@@ -8,15 +8,6 @@ http://103.56.160.133:8081/vtv5
 #EXTINF:-1 group-title="VIỆT NAM" tvg-logo="https://raw.githubusercontent.com/chivy141206/cvmedia/main/htvtt.png",HTV Thể thao HD
 http://stream.cvmtv.site/htvtt?token=live
 
-#EXTINF:-1 group-title="SPORTS 4K - TIVIMATE/OTT NAVIGATOR ONLY" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/308_144.png",UCL FINAL 4K UHD
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://cvmtv.site/mpd/?id=bein4k&key=1
-#EXTVLCOPT:http-referrer=https://astrogo.astro.com.my
-https://malay.yurendtv.biz.id/dash-wv/linear/1601/default_primary.mpd
-
-#EXTINF:-1 group-title="UCL FINAL SPECIAL" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/f5/UEFA_Champions_League.svg/1200px-UEFA_Champions_League.svg.png",FEED GỐC CHUNG KẾT C1
-
-
 #EXTINF:-1 group-title="THỂ THAO TỔNG HỢP" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Sky_Sport_Austria_1_AT_Logo_2020.svg/768px-Sky_Sport_Austria_1_AT_Logo_2020.svg.png",UCL FINAL - Sky Sport Austria 1
 http://stream.cvmtv.site/SkyA1?token=live
 #EXTINF:-1 group-title="THỂ THAO TỔNG HỢP" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/BBC_Red_Button_2021.svg/2560px-BBC_Red_Button_2021.svg.png",UEFA U17 - BBC Red Button

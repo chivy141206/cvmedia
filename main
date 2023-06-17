@@ -26,6 +26,8 @@ http://stream.cvmtv.site/CCTV16?token=live
 http://stream.cvmtv.site/M4?token=live
 #EXTINF:-1 group-title="THỂ THAO TỔNG HỢP" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3c/Viaplay_logo.png",ViaplayXtra
 http://stream.cvmtv.site/ViaXtra?token=live
+#EXTINF:-1 group-title="THỂ THAO TỔNG HỢP" tvg-logo="https://raw.githubusercontent.com/chivy141206/cvmedia/main/select.png",Ziggo Sport Select
+http://stream.cvmtv.site/ZiggoS?token=live
 
 #EXTINF:-1 group-title="DIEMA SPORT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c8/Diema_Sport_HD_logo.png",Diema Sport 1
 http://stream.cvmtv.site/Diema1?token=live
@@ -44,18 +46,16 @@ http://stream.cvmtv.site/ES1?token=live
 #EXTINF:-1 group-title="EUROSPORT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Eurosport_2_Logo_2015.svg/2560px-Eurosport_2_Logo_2015.svg.png",Eurosport 2
 http://stream.cvmtv.site/ES2?token=live
 
-#EXTINF:-1 group-title="THỂ THAO TỔNG HỢP" tvg-logo="https://raw.githubusercontent.com/chivy141206/cvmedia/main/select.png",Ziggo Sport Select
-http://stream.cvmtv.site/ZiggoS?token=live
 #EXTINF:-1 group-title="ZIGGO SPORT" tvg-logo="https://raw.githubusercontent.com/chivy141206/cvmedia/main/voetbal.png",Ziggo Sport Voetbal
-http://stream.cvmtv.site/ZiggoV?token=live
+
 #EXTINF:-1 group-title="ZIGGO SPORT" tvg-logo="https://raw.githubusercontent.com/chivy141206/cvmedia/main/tennis.png",Ziggo Sport Tennis
-http://stream.cvmtv.site/ZiggoT?token=live
+
 #EXTINF:-1 group-title="ZIGGO SPORT" tvg-logo="https://raw.githubusercontent.com/chivy141206/cvmedia/main/golf.png",Ziggo Sport Golf
-http://stream.cvmtv.site/ZiggoG?token=live
+
 #EXTINF:-1 group-title="ZIGGO SPORT" tvg-logo="https://raw.githubusercontent.com/chivy141206/cvmedia/main/racing.png",Ziggo Sport Racing
-http://stream.cvmtv.site/ZiggoR?token=live
+
 #EXTINF:-1 group-title="ZIGGO SPORT" tvg-logo="https://raw.githubusercontent.com/chivy141206/cvmedia/main/docu.png",Ziggo Sport Docu
-http://stream.cvmtv.site/ZiggoD?token=live
+
 
 #EXTINF:-1 group-title="CANAL+ SPORT" tvg-logo="https://n-4-3.dcs.redcdn.pl/file/o2/n/edytorEPG/logo/logotype_66245.png",Canal+ Sport 1
 http://stream.cvmtv.site/canal1?token=live

@@ -7,7 +7,7 @@ http://stream.cvmtv.site/vtv3?token=live
 http://stream.cvmtv.site/vtv5?token=live
 #EXTINF:-1 group-title="VIỆT NAM" tvg-logo="https://raw.githubusercontent.com/chivy141206/cvmedia/main/htvtt.png",HTV Thể thao HD
 http://stream.cvmtv.site/htvtt?token=live
-#EXTINF:-1 group-title="VIỆT NAM" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Logo_Qu%E1%BB%91c_H%E1%BB%99i_%28Truy%E1%BB%81n_h%C3%ACnh%29_from_3.6.2022.svg/1200px-Logo_Qu%E1%BB%91c_H%E1%BB%99i_%28Truy%E1%BB%81n_h%C3%ACnh%29_from_3.6.2022.svg.png",Quốc Hội TV
+#EXTINF:-1 group-title="VIỆT NAM" tvg-logo="https://quochoitv.vn/themes/quochoitv/images/logo-qhtv-new.png",Quốc Hội TV
 http://103.56.160.133:8081/quochoi
 
 #EXTINF:-1 group-title="THỂ THAO TỔNG HỢP" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Sky_Sport_Austria_1_AT_Logo_2020.svg/768px-Sky_Sport_Austria_1_AT_Logo_2020.svg.png",UCL FINAL - Sky Sport Austria 1

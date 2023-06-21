@@ -32,11 +32,11 @@ http://stream.cvmtv.site/M4Plus?token=live
 http://stream.cvmtv.site/ViaXtra?token=live
 
 #EXTINF:-1 group-title="DIEMA SPORT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c8/Diema_Sport_HD_logo.png",Diema Sport 1
-http://stream.cvmtv.site/Diema1?token=live
+
 #EXTINF:-1 group-title="DIEMA SPORT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/47/DS2_logo.png",Diema Sport 2
-http://stream.cvmtv.site/Diema2?token=live
+
 #EXTINF:-1 group-title="DIEMA SPORT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/DiemaSport3logo.png/1200px-DiemaSport3logo.png",Diema Sport 3
-http://stream.cvmtv.site/Diema3?token=live
+
 
 #EXTINF:-1 group-title="STAR SPORTS" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/37/Star-sports-select-1.png",Star Sports Select 1
 

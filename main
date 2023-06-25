@@ -5,6 +5,8 @@ http://stream.cvmtv.site/vtv1?token=live
 http://stream.cvmtv.site/vtv3?token=live
 #EXTINF:-1 group-title="VIỆT NAM" tvg-logo="https://raw.githubusercontent.com/chivy141206/cvmedia/main/img/vtv5.png",VTV5 HD
 http://stream.cvmtv.site/vtv5?token=live
+#EXTINF:-1 group-title="VIỆT NAM" tvg-logo="https://raw.githubusercontent.com/chivy141206/cvmedia/main/img/vtv5tnb.png",VTV5 Tây Nam Bộ HD
+http://stream.cvmtv.site/vtv5tnb?token=live
 #EXTINF:-1 group-title="VIỆT NAM" tvg-logo="https://raw.githubusercontent.com/chivy141206/cvmedia/main/img/htvtt.png",HTV Thể thao HD
 http://stream.cvmtv.site/htvtt?token=live
 #EXTINF:-1 group-title="VIỆT NAM" tvg-logo="https://quochoitv.vn/themes/quochoitv/images/logo-qhtv-new.png",Quốc Hội TV

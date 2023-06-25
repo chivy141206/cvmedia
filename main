@@ -18,8 +18,6 @@ http://stream.cvmtv.site/thpplus?token=live
 
 #EXTINF:-1 group-title="THỂ THAO TỔNG HỢP" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/86/Network_10_logo_2018.svg/1200px-Network_10_logo_2018.svg.png",ARG vs AUS - 10 HD
 
-#EXTINF:-1 group-title="THỂ THAO TỔNG HỢP" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/ZDF_HD_Logo.svg/2560px-ZDF_HD_Logo.svg.png",GER vs VIE (Women's Friendly) - ZDF HD
-http://stream.cvmtv.site/ZDF?token=live
 #EXTINF:-1 group-title="THỂ THAO TỔNG HỢP" tvg-logo="https://p4.img.cctvpic.com/photoAlbum/templet/common/DEPA1606289678173765/2020_0412_index_08.png",CCTV-5
 http://stream.cvmtv.site/CCTV5?token=live
 #EXTINF:-1 group-title="THỂ THAO TỔNG HỢP" tvg-logo="https://p4.img.cctvpic.com/photoAlbum/templet/common/DEPA1606289678173765/2020_0412_index_03.png",CCTV-5+
@@ -143,6 +141,11 @@ http://stream.cvmtv.site/Channel4?token=live
 http://stream.cvmtv.site/BBCN?token=live
 #EXTINF:-1 group-title="FREEVIEW UK" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/S4C_logo_2014.svg/1200px-S4C_logo_2014.svg.png",S4C
 http://stream.cvmtv.site/S4C?token=live
+
+#EXTINF:-1 group-title="GERMANY TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Das_Erste-Logo_klein.svg/1200px-Das_Erste-Logo_klein.svg.png",Das Erste
+http://stream.cvmtv.site/DasErste?token=live
+#EXTINF:-1 group-title="GERMANY TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/ZDF_HD_Logo.svg/2560px-ZDF_HD_Logo.svg.png",ZDF
+http://stream.cvmtv.site/ZDF?token=live
 
 #EXTINF:-1 group-title="US FREE TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/NBC_logo.svg/800px-NBC_logo.svg.png",NBC
 http://stream.cvmtv.site/NBC?token=live

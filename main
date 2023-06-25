@@ -161,6 +161,6 @@ http://stream.cvmtv.site/Russia1?token=live
 http://stream.cvmtv.site/Russia24?token=live
 
 #EXTINF:-1 group-title="RADIO" tvg-logo="https://raw.githubusercontent.com/chivy141206/cvmedia/main/img/vovgt.png",VOV Giao thông Hà Nội
-https://radio.vovgiaothong.vn/vovgthn/playlist.m3u8
+http://stream.cvmtv.site:9981/stream/channelid/989722757
 #EXTINF:-1 group-title="RADIO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/BBC_Radio_1_2021.svg/800px-BBC_Radio_1_2021.svg.png",BBC Radio 1
-http://a.files.bbci.co.uk/media/live/manifesto/audio/simulcast/hls/nonuk/sbr_low/ak/bbc_radio_one.m3u8
+http://stream.cvmtv.site:9981/stream/channelid/1034865472

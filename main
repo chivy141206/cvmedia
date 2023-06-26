@@ -165,7 +165,21 @@ http://stream.cvmtv.site/Russia1?token=live
 #EXTINF:-1 group-title="RUSSIA TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Rossiya-24_Logo.svg/1024px-Rossiya-24_Logo.svg.png",Russia 24
 http://stream.cvmtv.site/Russia24?token=live
 
-#EXTINF:-1 group-title="RADIO" tvg-logo="https://raw.githubusercontent.com/chivy141206/cvmedia/main/img/vovgt.png",VOV Giao thông Hà Nội
+#EXTINF:-1 group-title="RADIO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Logo_VOV.svg/800px-Logo_VOV.svg.png",VOV Giao thông Hà Nội
 http://stream.cvmtv.site:9981/stream/channelid/989722757
+#EXTINF:-1 group-title="RADIO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Logo_VOV.svg/800px-Logo_VOV.svg.png",VOV English
+http://stream.cvmtv.site:9981/stream/channelid/1609877432
+#EXTINF:-1 group-title="RADIO" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/b/b8/Capital_2022.svg/1200px-Capital_2022.svg.png",CapitalFM
+http://stream.cvmtv.site:9981/stream/channelid/1407569405
+#EXTINF:-1 group-title="RADIO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/WDR_1LIVE_Logo_2016.svg/1200px-WDR_1LIVE_Logo_2016.svg.png",1LIVE
+http://stream.cvmtv.site:9981/stream/channelid/735389137
 #EXTINF:-1 group-title="RADIO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/BBC_Radio_1_2021.svg/800px-BBC_Radio_1_2021.svg.png",BBC Radio 1
 http://stream.cvmtv.site:9981/stream/channelid/1034865472
+#EXTINF:-1 group-title="RADIO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/BBC_Radio_1Xtra_2021.svg/1200px-BBC_Radio_1Xtra_2021.svg.png",BBC Radio 1Xtra
+http://stream.cvmtv.site:9981/stream/channelid/33198049
+#EXTINF:-1 group-title="RADIO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/BBC_Radio_4_2022.svg/1200px-BBC_Radio_4_2022.svg.png",BBC Radio 4
+http://stream.cvmtv.site:9981/stream/channelid/656419328
+#EXTINF:-1 group-title="RADIO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/BBC_Radio_5_Live_2022.svg/2560px-BBC_Radio_5_Live_2022.svg.png",BBC Radio 5 Live
+http://stream.cvmtv.site:9981/stream/channelid/83589507
+#EXTINF:-1 group-title="RADIO" tvg-logo="https://s3-eu-west-1.amazonaws.com/static.media.info/l/o/4/417.1648307295.png",BBC Radio 5 Live Sports Extra
+http://stream.cvmtv.site:9981/stream/channelid/1448402297

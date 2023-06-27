@@ -174,12 +174,15 @@ http://stream.cvmtv.site:9981/stream/channelid/1407569405
 #EXTINF:-1 group-title="RADIO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/WDR_1LIVE_Logo_2016.svg/1200px-WDR_1LIVE_Logo_2016.svg.png",1LIVE
 http://stream.cvmtv.site:9981/stream/channelid/735389137
 #EXTINF:-1 group-title="RADIO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/BBC_Radio_1_2021.svg/800px-BBC_Radio_1_2021.svg.png",BBC Radio 1
-http://stream.cvmtv.site:9981/stream/channelid/1034865472
+http://a.files.bbci.co.uk/media/live/manifesto/audio/simulcast/hls/nonuk/sbr_low/ak/bbc_radio_one.m3u8
 #EXTINF:-1 group-title="RADIO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/BBC_Radio_1Xtra_2021.svg/1200px-BBC_Radio_1Xtra_2021.svg.png",BBC Radio 1Xtra
-http://stream.cvmtv.site:9981/stream/channelid/33198049
+http://a.files.bbci.co.uk/media/live/manifesto/audio/simulcast/hls/nonuk/sbr_low/ak/bbc_1xtra.m3u8
+#EXTINF:-1 group-title="RADIO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/BBC_Radio_1Xtra_2021.svg/1200px-BBC_Radio_1Xtra_2021.svg.png",BBC Radio 1 Dance
+http://a.files.bbci.co.uk/media/live/manifesto/audio/simulcast/hls/nonuk/sbr_low/ak/bbc_radio_one_dance.m3u8
+#EXTINF:-1 group-title="RADIO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/BBC_Radio_1Xtra_2021.svg/1200px-BBC_Radio_1Xtra_2021.svg.png",BBC Radio 1 Relax
+http://a.files.bbci.co.uk/media/live/manifesto/audio/simulcast/hls/nonuk/sbr_low/ak/bbc_radio_one_relax.m3u8
 #EXTINF:-1 group-title="RADIO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/BBC_Radio_4_2022.svg/1200px-BBC_Radio_4_2022.svg.png",BBC Radio 4
-http://stream.cvmtv.site:9981/stream/channelid/656419328
+http://a.files.bbci.co.uk/media/live/manifesto/audio/simulcast/hls/nonuk/sbr_low/ak/bbc_radio_fourfm.m3u8
 #EXTINF:-1 group-title="RADIO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/BBC_Radio_5_Live_2022.svg/2560px-BBC_Radio_5_Live_2022.svg.png",BBC Radio 5 Live
-http://stream.cvmtv.site:9981/stream/channelid/83589507
+http://a.files.bbci.co.uk/media/live/manifesto/audio/simulcast/hls/nonuk/sbr_low/ak/bbc_radio_five_live.m3u8
 #EXTINF:-1 group-title="RADIO" tvg-logo="https://s3-eu-west-1.amazonaws.com/static.media.info/l/o/4/417.1648307295.png",BBC Radio 5 Live Sports Extra
-http://stream.cvmtv.site:9981/stream/channelid/1448402297

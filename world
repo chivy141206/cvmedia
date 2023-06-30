@@ -88,15 +88,15 @@ http://stream.cvmtv.site/tvN?token=live
 http://stream.cvmtv.site/Mnet?token=live
 
 #EXTINF:-1 group-title="AUSTRALIA FREEVIEW" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/86/Network_10_logo_2018.svg/1200px-Network_10_logo_2018.svg.png",10 HD
-http://stream.cvmtv.site/10HD
-#EXTINF:-1 group-title="AUSTRALIA FREEVIEW" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/10_Bold_2018.svg/1920px-10_Bold_2018.svg.png",10 Bold
-http://stream.cvmtv.site/10B
+http://stream.cvmtv.site/10HD?token=live
+#EXTINF:-1 group-title="AUSTRALIA FREEVIEW" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/e7/10_Bold_2018.svg/800px-10_Bold_2018.svg.png",10 Bold
+http://stream.cvmtv.site/10B?token=live
 #EXTINF:-1 group-title="AUSTRALIA FREEVIEW" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Seven_Network_logo.svg/1200px-Seven_Network_logo.svg.png",7HD
-http://stream.cvmtv.site/7HD
-#EXTINF:-1 group-title="AUSTRALIA FREEVIEW" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Nine2008.svg/1200px-Nine2008.svg.png",9HD
-http://stream.cvmtv.site/9HD
+http://stream.cvmtv.site/7HD?token=live
+#EXTINF:-1 group-title="AUSTRALIA FREEVIEW" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Nine_Network_logo_%282008%29.svg/640px-Nine_Network_logo_%282008%29.svg.png",9HD
+http://stream.cvmtv.site/9HD?token=live
 #EXTINF:-1 group-title="AUSTRALIA FREEVIEW" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d8/9Gem_logo.png",9Gem
-http://stream.cvmtv.site/9G
+http://stream.cvmtv.site/9G?token=live
 
 #EXTINF:-1 group-title="NEWS CHANNELS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/BBC_News_2022_%28Alt%2C_boxed%29.svg/1200px-BBC_News_2022_%28Alt%2C_boxed%29.svg.png",BBC News
 http://stream.cvmtv.site/BBCN?token=live

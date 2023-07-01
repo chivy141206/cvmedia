@@ -33,7 +33,7 @@ http://stream.cvmtv.site/M4Plus?token=live
 #EXTINF:-1 group-title="THỂ THAO TỔNG HỢP" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3c/Viaplay_logo.png",ViaplayXtra
 http://stream.cvmtv.site/ViaXtra?token=live
 #EXTINF:-1 group-title="THỂ THAO TỔNG HỢP" tvg-logo="https://upload.wikimedia.org/wikipedia/it/thumb/6/6a/SuperTennis_-_Logo_2016.svg/2560px-SuperTennis_-_Logo_2016.svg.png",SuperTennis
-http://stream.cvmtv.site/SPTennis?token=live
+
 
 #EXTINF:-1 group-title="DIEMA SPORT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c8/Diema_Sport_HD_logo.png",Diema Sport 1
 

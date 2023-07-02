@@ -21,11 +21,11 @@ http://stream.cvmtv.site/thpplus?token=live
 #EXTINF:-1 group-title="THỂ THAO TỔNG HỢP" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/86/Network_10_logo_2018.svg/1200px-Network_10_logo_2018.svg.png",ARG vs AUS - 10 HD
 
 #EXTINF:-1 group-title="THỂ THAO TỔNG HỢP" tvg-logo="https://p4.img.cctvpic.com/photoAlbum/templet/common/DEPA1606289678173765/2020_0412_index_08.png",CCTV-5
-http://stream.cvmtv.site/CCTV5?token=live
+#http://stream.cvmtv.site/CCTV5?token=live
 #EXTINF:-1 group-title="THỂ THAO TỔNG HỢP" tvg-logo="https://p4.img.cctvpic.com/photoAlbum/templet/common/DEPA1606289678173765/2020_0412_index_03.png",CCTV-5+
-http://stream.cvmtv.site/CCTV5p?token=live
+#http://stream.cvmtv.site/CCTV5p?token=live
 #EXTINF:-1 group-title="THỂ THAO TỔNG HỢP" tvg-logo="https://p1.img.cctvpic.com/photoAlbum/templet/common/DEPA1532314258547503/cctv-16_180817.png",CCTV-16
-http://stream.cvmtv.site/CCTV16?token=live
+#http://stream.cvmtv.site/CCTV16?token=live
 #EXTINF:-1 group-title="THỂ THAO TỔNG HỢP" tvg-logo="https://upload.wikimedia.org/wikipedia/hu/thumb/f/fd/M4_logo.png/1200px-M4_logo.png",M4 Sport
 http://stream.cvmtv.site/M4?token=live
 #EXTINF:-1 group-title="THỂ THAO TỔNG HỢP" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5b/M4_Sport%2B_logo.png",M4 Sport+
@@ -145,23 +145,23 @@ http://stream.cvmtv.site/BBC_Par?token=live
 http://stream.cvmtv.site/BBC_RB?token=live
 
 #EXTINF:-1 group-title="CHINA TV" tvg-logo="https://p1.img.cctvpic.com/photoAlbum/templet/common/DEPA1532314258547503/cctv-1_180817.png",CCTV-1
-http://stream.cvmtv.site/CCTV1?token=live
+#http://stream.cvmtv.site/CCTV1?token=live
 #EXTINF:-1 group-title="CHINA TV" tvg-logo="https://p1.img.cctvpic.com/photoAlbum/templet/common/DEPA1532314258547503/cctv-3_180817.png",CCTV-3
-http://stream.cvmtv.site/CCTV3?token=live
+#http://stream.cvmtv.site/CCTV3?token=live
 #EXTINF:-1 group-title="CHINA TV" tvg-logo="https://p1.img.cctvpic.com/photoAlbum/templet/common/DEPA1532314258547503/cctv-4_180817.png",CCTV-4
-http://stream.cvmtv.site/CCTV4?token=live
+#http://stream.cvmtv.site/CCTV4?token=live
 #EXTINF:-1 group-title="CHINA TV" tvg-logo="https://p1.img.cctvpic.com/photoAlbum/templet/common/DEPA1532314258547503/cctv-13_180817.png",CCTV-13
-http://stream.cvmtv.site/CCTV13?token=live
+#http://stream.cvmtv.site/CCTV13?token=live
 #EXTINF:-1 group-title="CHINA TV" tvg-logo="https://upload.wikimedia.org/wikipedia/vi/7/77/H%E1%BB%93_Nam_TV.png",Hunan TV
-http://stream.cvmtv.site/hunan?token=live
+#http://stream.cvmtv.site/hunan?token=live
 #EXTINF:-1 group-title="CHINA TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/TVB_Jade_logo.svg/1200px-TVB_Jade_logo.svg.png",TVB Jade
-http://stream.cvmtv.site/Jade?token=live
+#http://stream.cvmtv.site/Jade?token=live
 #EXTINF:-1 group-title="CHINA TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/ViuTV_logo.svg/1920px-ViuTV_logo.svg.png",ViuTV
-http://stream.cvmtv.site/Viu?token=live
+#http://stream.cvmtv.site/Viu?token=live
 #EXTINF:-1 group-title="CHINA TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/ViuTVsix-logo.svg/1024px-ViuTVsix-logo.svg.png",ViuTVsix
-http://stream.cvmtv.site/Viu6?token=live
+#http://stream.cvmtv.site/Viu6?token=live
 #EXTINF:-1 group-title="CHINA TV" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/thumb/1/16/Phoenix_InfoNews.svg/1200px-Phoenix_InfoNews.svg.png",Phoenix Infonews
-http://stream.cvmtv.site/PhxInfo?token=live
+#http://stream.cvmtv.site/PhxInfo?token=live
 
 #EXTINF:-1 group-title="GERMANY TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Das_Erste-Logo_klein.svg/1200px-Das_Erste-Logo_klein.svg.png",Das Erste
 http://stream.cvmtv.site/DasErste?token=live
@@ -210,15 +210,15 @@ http://stream.cvmtv.site/tvN?token=live
 http://stream.cvmtv.site/Mnet?token=live
 
 #EXTINF:-1 group-title="AUSTRALIA FREEVIEW" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/86/Network_10_logo_2018.svg/1200px-Network_10_logo_2018.svg.png",10 HD
-http://stream.cvmtv.site/10HD?token=live
+#http://stream.cvmtv.site/10HD?token=live
 #EXTINF:-1 group-title="AUSTRALIA FREEVIEW" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/e7/10_Bold_2018.svg/800px-10_Bold_2018.svg.png",10 Bold
-http://stream.cvmtv.site/10B?token=live
+#http://stream.cvmtv.site/10B?token=live
 #EXTINF:-1 group-title="AUSTRALIA FREEVIEW" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Seven_Network_logo.svg/1200px-Seven_Network_logo.svg.png",7HD
-http://stream.cvmtv.site/7HD?token=live
+#http://stream.cvmtv.site/7HD?token=live
 #EXTINF:-1 group-title="AUSTRALIA FREEVIEW" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Nine_Network_logo_%282008%29.svg/640px-Nine_Network_logo_%282008%29.svg.png",9HD
-http://stream.cvmtv.site/9HD?token=live
+#http://stream.cvmtv.site/9HD?token=live
 #EXTINF:-1 group-title="AUSTRALIA FREEVIEW" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d8/9Gem_logo.png",9Gem
-http://stream.cvmtv.site/9G?token=live
+#http://stream.cvmtv.site/9G?token=live
 
 #EXTINF:-1 group-title="NEWS CHANNELS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/BBC_News_2022_%28Alt%2C_boxed%29.svg/1200px-BBC_News_2022_%28Alt%2C_boxed%29.svg.png",BBC News
 http://stream.cvmtv.site/BBCN?token=live

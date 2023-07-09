@@ -1,4 +1,4 @@
-#EXTM3U url-tvg="http://stream.cvmtv.site:5000/epg.xml,http://trada.info/epg.xml"
+#EXTM3U url-tvg="http://stream.cvmtv.site:5000/epg.xml,http://trada.info/epg.xml,http://stream.cvmtv.site:9981/xmltv/channels"
 #EXTINF:-1 group-title="VIỆT NAM" tvg-id="vtv1hd" tvg-logo="https://raw.githubusercontent.com/chivy141206/cvmedia/main/img/vtv1.png",VTV1 HD
 http://stream.cvmtv.site/vtv1?token=live
 #EXTINF:-1 group-title="VIỆT NAM" tvg-id="vtv3hd" tvg-logo="https://raw.githubusercontent.com/chivy141206/cvmedia/main/img/vtv3.png",VTV3 HD
@@ -232,6 +232,23 @@ http://stream.cvmtv.site/SkyNews?token=live
 http://stream.cvmtv.site/Bloomberg?token=live
 #EXTINF:-1 group-title="NEWS CHANNELS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/CNBC_logo.svg/2560px-CNBC_logo.svg.png",CNBC
 http://stream.cvmtv.site/CNBC?token=live
+
+#EXTINF:-1 group-title="RADIO" tvg-logo="https://raw.githubusercontent.com/chivy141206/cvmedia/main/img/vovgt.png",VOV Giao thông Hà Nội
+http://stream.cvmtv.site:9981/stream/channelid/989722757
+#EXTINF:-1 group-title="RADIO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/BBC_Radio_1_2021.svg/800px-BBC_Radio_1_2021.svg.png" tvg-id="40cbaebd2689fdc448a2a27641aa0c60",BBC Radio 1
+http://stream.cvmtv.site:9981/stream/channelid/1034865472
+#EXTINF:-1 group-title="RADIO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/BBC_Radio_1Xtra_2021.svg/1200px-BBC_Radio_1Xtra_2021.svg.png" tvg-id="e18ffa01e33d50afa088cef6f9588067",BBC Radio 1Xtra
+http://stream.cvmtv.site:9981/stream/channelid/33198049
+#EXTINF:-1 group-title="RADIO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/BBC_Radio_4_2022.svg/1200px-BBC_Radio_4_2022.svg.png" tvg-id="002a20a7a0d414166b4e1de8562ad867",BBC Radio 4
+http://stream.cvmtv.site:9981/stream/channelid/656419328
+#EXTINF:-1 group-title="RADIO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/BBC_Radio_5_Live_2022.svg/2560px-BBC_Radio_5_Live_2022.svg.png" tvg-id="8379fb84b1fa66ef9b3acb1f869afa56",BBC Radio 5 Live
+http://stream.cvmtv.site:9981/stream/channelid/83589507
+#EXTINF:-1 group-title="RADIO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/BBC_Radio_5_Sports_Extra_2022.svg/1200px-BBC_Radio_5_Sports_Extra_2022.svg.png" tvg-id="79dd54565b14a09e1cb39859993cdf7b",BBC Radio 5 Live Sports Extra
+http://stream.cvmtv.site:9981/stream/channelid/1448402297
+#EXTINF:-1 group-title="RADIO" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/b/b8/Capital_2022.svg/1200px-Capital_2022.svg.png" tvg-id="fdcde5d3079258f9c9b1ae3a3ea3ed6f",CapitalFM
+http://stream.cvmtv.site:9981/stream/channelid/1407569405
+#EXTINF:-1 group-title="RADIO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/WDR_1LIVE_Logo_2016.svg/1200px-WDR_1LIVE_Logo_2016.svg.png",1LIVE
+http://stream.cvmtv.site:9981/stream/channelid/735389137
 
 #-------------------------MPD-------------------------
 

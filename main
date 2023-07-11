@@ -233,8 +233,6 @@ http://stream.cvmtv.site/Bloomberg?token=live
 #EXTINF:-1 group-title="NEWS CHANNELS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/CNBC_logo.svg/2560px-CNBC_logo.svg.png",CNBC
 http://stream.cvmtv.site/CNBC?token=live
 
-#EXTINF:-1 group-title="RADIO" tvg-logo="https://raw.githubusercontent.com/chivy141206/cvmedia/main/img/vovgt.png",VOV Giao thông Hà Nội
-http://stream.cvmtv.site:9981/stream/channelid/989722757
 #EXTINF:-1 group-title="RADIO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/BBC_Radio_1_2021.svg/800px-BBC_Radio_1_2021.svg.png" tvg-id="40cbaebd2689fdc448a2a27641aa0c60",BBC Radio 1
 http://stream.cvmtv.site:9981/stream/channelid/1034865472
 #EXTINF:-1 group-title="RADIO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/BBC_Radio_1Xtra_2021.svg/1200px-BBC_Radio_1Xtra_2021.svg.png" tvg-id="e18ffa01e33d50afa088cef6f9588067",BBC Radio 1Xtra
@@ -249,6 +247,18 @@ http://stream.cvmtv.site:9981/stream/channelid/1448402297
 http://stream.cvmtv.site:9981/stream/channelid/1407569405
 #EXTINF:-1 group-title="RADIO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/WDR_1LIVE_Logo_2016.svg/1200px-WDR_1LIVE_Logo_2016.svg.png",1LIVE
 http://stream.cvmtv.site:9981/stream/channelid/735389137
+#EXTINF:-1 group-title="RADIO" tvg-logo="https://assets.planetradio.co.uk/img/ConfigStraplineImageUrl/26.png" tvg-id="a650e6d2a6aa1edb74b198cfbd4da636",KISS FM
+http://stream.cvmtv.site:9981/stream/channelid/1390825638
+#EXTINF:-1 group-title="RADIO" tvg-logo="https://raw.githubusercontent.com/chivy141206/cvmedia/main/img/vovgt.png",VOV Giao thông Hà Nội
+http://stream.cvmtv.site:9981/stream/channelid/989722757
+#EXTINF:-1 group-title="RADIO" tvg-logo="https://raw.githubusercontent.com/chivy141206/cvmedia/main/img/voven.png", VOV English
+http://stream.cvmtv.site:9981/stream/channelid/1609877432
+#EXTINF:-1 group-title="RADIO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Logo_of_VOH.svg/1280px-Logo_of_VOH.svg.png", VOH 95.6 (Giao thông TP.HCM)
+https://strm.voh.com.vn/radio/channel1/playlist.m3u8
+#EXTINF:-1 group-title="RADIO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Logo_of_VOH.svg/1280px-Logo_of_VOH.svg.png", VOH 99.9 (Làn Sóng Xanh)
+https://strm.voh.com.vn/radio/channel3/playlist.m3u8
+#EXTINF:-1 group-title="RADIO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Logo_of_VOH.svg/1280px-Logo_of_VOH.svg.png", VOH 87.7 (Pladio)
+https://strm.voh.com.vn/radio/channel5/playlist.m3u8
 
 #-------------------------MPD-------------------------
 

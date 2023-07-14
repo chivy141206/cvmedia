@@ -206,11 +206,13 @@ http://stream.cvmtv.site/TVP_Info?token=live
 #http://stream.cvmtv.site/Mnet?token=live
 
 #EXTINF:-1 group-title="AUSTRALIA FREEVIEW" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/86/Network_10_logo_2018.svg/1200px-Network_10_logo_2018.svg.png",10 HD
-#http://stream.cvmtv.site/10HD?token=live
+http://stream.cvmtv.site/10HD?token=live
 #EXTINF:-1 group-title="AUSTRALIA FREEVIEW" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/e7/10_Bold_2018.svg/800px-10_Bold_2018.svg.png",10 Bold
-#http://stream.cvmtv.site/10B?token=live
+http://stream.cvmtv.site/10B?token=live
 #EXTINF:-1 group-title="AUSTRALIA FREEVIEW" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Seven_Network_logo.svg/1200px-Seven_Network_logo.svg.png",7HD
-#http://stream.cvmtv.site/7HD?token=live
+http://stream.cvmtv.site/7HD?token=live
+#EXTINF:-1 group-title="AUSTRALIA FREEVIEW" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/7mate_logo_2020.svg/1200px-7mate_logo_2020.svg.png",7mate
+http://stream.cvmtv.site/7M?token=live
 #EXTINF:-1 group-title="AUSTRALIA FREEVIEW" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Nine_Network_logo_%282008%29.svg/640px-Nine_Network_logo_%282008%29.svg.png",9HD
 #http://stream.cvmtv.site/9HD?token=live
 #EXTINF:-1 group-title="AUSTRALIA FREEVIEW" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d8/9Gem_logo.png",9Gem

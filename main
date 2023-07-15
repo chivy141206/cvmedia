@@ -15,7 +15,7 @@ http://stream.cvmtv.site/qhtv?token=live
 http://stream.cvmtv.site/thpplus?token=live
 
 #EXTINF:-1 group-title="THỂ THAO TỔNG HỢP" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Moji_blue.svg/1200px-Moji_blue.svg.png",AVC - MOJI
-http://stream.cvmtv.site/moji?token=live
+
 #EXTINF:-1 group-title="THỂ THAO TỔNG HỢP" tvg-logo="https://p4.img.cctvpic.com/photoAlbum/templet/common/DEPA1606289678173765/2020_0412_index_08.png",CCTV-5
 #http://stream.cvmtv.site/CCTV5?token=live
 #EXTINF:-1 group-title="THỂ THAO TỔNG HỢP" tvg-logo="https://p4.img.cctvpic.com/photoAlbum/templet/common/DEPA1606289678173765/2020_0412_index_03.png",CCTV-5+
@@ -136,7 +136,7 @@ http://stream.cvmtv.site/CBBC?token=live
 #EXTINF:-1 group-title="FREEVIEW UK" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/S4C_logo_2014.svg/1200px-S4C_logo_2014.svg.png",S4C
 http://stream.cvmtv.site/S4C?token=live
 #EXTINF:-1 group-title="FREEVIEW UK" tvg-logo="https://static.wikia.nocookie.net/bbc/images/7/73/BBCP.png",BBC Parliament
-http://stream.cvmtv.site/BBC_Par?token=live
+#http://stream.cvmtv.site/BBC_Par?token=live
 #EXTINF:-1 group-title="FREEVIEW UK" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/BBC_Red_Button_2021.svg/2560px-BBC_Red_Button_2021.svg.png",BBC RB 1
 http://stream.cvmtv.site/BBC_RB?token=live
 
@@ -150,14 +150,15 @@ http://stream.cvmtv.site/BBC_RB?token=live
 #http://stream.cvmtv.site/CCTV13?token=live
 #EXTINF:-1 group-title="CHINA TV" tvg-logo="https://upload.wikimedia.org/wikipedia/vi/7/77/H%E1%BB%93_Nam_TV.png",Hunan TV
 #http://stream.cvmtv.site/hunan?token=live
-#EXTINF:-1 group-title="CHINA TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/TVB_Jade_logo.svg/1200px-TVB_Jade_logo.svg.png",TVB Jade
-#http://stream.cvmtv.site/Jade?token=live
-#EXTINF:-1 group-title="CHINA TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/ViuTV_logo.svg/1920px-ViuTV_logo.svg.png",ViuTV
-#http://stream.cvmtv.site/Viu?token=live
-#EXTINF:-1 group-title="CHINA TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/ViuTVsix-logo.svg/1024px-ViuTVsix-logo.svg.png",ViuTVsix
-#http://stream.cvmtv.site/Viu6?token=live
 #EXTINF:-1 group-title="CHINA TV" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/thumb/1/16/Phoenix_InfoNews.svg/1200px-Phoenix_InfoNews.svg.png",Phoenix Infonews
 #http://stream.cvmtv.site/PhxInfo?token=live
+
+#EXTINF:-1 group-title="HKG DVB-T2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/TVB_Jade_logo.svg/1200px-TVB_Jade_logo.svg.png",TVB Jade
+http://stream.cvmtv.site/Jade?token=live
+#EXTINF:-1 group-title="HKG DVB-T2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/ViuTV_logo.svg/1920px-ViuTV_logo.svg.png",ViuTV
+http://stream.cvmtv.site/Viu?token=live
+#EXTINF:-1 group-title="HKG DVB-T2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/ViuTVsix-logo.svg/1024px-ViuTVsix-logo.svg.png",ViuTVsix
+http://stream.cvmtv.site/Viu6?token=live
 
 #EXTINF:-1 group-title="GERMANY TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Das_Erste-Logo_klein.svg/1200px-Das_Erste-Logo_klein.svg.png",Das Erste
 http://stream.cvmtv.site/DasErste?token=live

@@ -28,6 +28,8 @@ http://stream.cvmtv.site/M4?token=live
 http://stream.cvmtv.site/M4Plus?token=live
 #EXTINF:-1 group-title="THỂ THAO TỔNG HỢP" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3c/Viaplay_logo.png",ViaplayXtra
 http://stream.cvmtv.site/ViaXtra?token=live
+#EXTINF:-1 group-title="THỂ THAO TỔNG HỢP" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/TRT_Spor_logo_%282022%29.svg/1280px-TRT_Spor_logo_%282022%29.svg.png",ViaplayXtra
+http://stream.cvmtv.site/TRTSpor?token=live
 #EXTINF:-1 group-title="THỂ THAO TỔNG HỢP" tvg-logo="https://upload.wikimedia.org/wikipedia/it/thumb/6/6a/SuperTennis_-_Logo_2016.svg/2560px-SuperTennis_-_Logo_2016.svg.png",SuperTennis
 
 
@@ -76,6 +78,17 @@ http://stream.cvmtv.site/E2?token=live
 http://stream.cvmtv.site/E3?token=live
 #EXTINF:-1 group-title="ELEVEN SPORTS" tvg-id="eleven4" tvg-logo="https://r.dcs.redcdn.pl/https/o2/n/edytorEPG/logo/logotype_391302.png",Eleven Sports 4
 http://stream.cvmtv.site/E4?token=live
+
+#EXTINF:-1 group-title="SPORT TV" tvg-id="sptv1" tvg-logo="https://raw.githubusercontent.com/chivy141206/cvmedia/main/img/sporttv-1.png",Sport TV 1
+http://stream.cvmtv.site/SportTV1?token=live
+#EXTINF:-1 group-title="SPORT TV" tvg-id="sptv2" tvg-logo="https://raw.githubusercontent.com/chivy141206/cvmedia/main/img/sporttv-2.png",Sport TV 2
+http://stream.cvmtv.site/SportTV2?token=live
+#EXTINF:-1 group-title="SPORT TV" tvg-id="sptv3" tvg-logo="https://raw.githubusercontent.com/chivy141206/cvmedia/main/img/sporttv-3.png",Sport TV 3
+http://stream.cvmtv.site/SportTV3?token=live
+#EXTINF:-1 group-title="SPORT TV" tvg-id="sptv4" tvg-logo="https://raw.githubusercontent.com/chivy141206/cvmedia/main/img/sporttv-4.png",Sport TV 4
+http://stream.cvmtv.site/SportTV4?token=live
+#EXTINF:-1 group-title="SPORT TV" tvg-id="sptv5" tvg-logo="https://raw.githubusercontent.com/chivy141206/cvmedia/main/img/sporttv-5.png",Sport TV 5
+http://stream.cvmtv.site/SportTV5?token=live
 
 #EXTINF:-1 group-title="MATCH TV" tvg-id="match" tvg-logo="https://new.matchtv.ru/assets/2305181729/images/channels/130.jpg",Match TV
 http://stream.cvmtv.site/Match?token=live
@@ -139,6 +152,19 @@ http://stream.cvmtv.site/S4C?token=live
 #http://stream.cvmtv.site/BBC_Par?token=live
 #EXTINF:-1 group-title="FREEVIEW UK" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/BBC_Red_Button_2021.svg/2560px-BBC_Red_Button_2021.svg.png",BBC RB 1
 http://stream.cvmtv.site/BBC_RB?token=live
+
+#EXTINF:-1 group-title="FREEVIEW AUSTRALIA" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/86/Network_10_logo_2018.svg/1200px-Network_10_logo_2018.svg.png",10 HD
+http://stream.cvmtv.site/10HD?token=live
+#EXTINF:-1 group-title="FREEVIEW AUSTRALIA" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/e7/10_Bold_2018.svg/800px-10_Bold_2018.svg.png",10 Bold
+http://stream.cvmtv.site/10B?token=live
+#EXTINF:-1 group-title="FREEVIEW AUSTRALIA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Seven_Network_logo.svg/1200px-Seven_Network_logo.svg.png",7HD
+http://stream.cvmtv.site/7HD?token=live
+#EXTINF:-1 group-title="FREEVIEW AUSTRALIA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/7mate_logo_2020.svg/1200px-7mate_logo_2020.svg.png",7mate
+http://stream.cvmtv.site/7M?token=live
+#EXTINF:-1 group-title="FREEVIEW AUSTRALIA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Nine_Network_logo_%282008%29.svg/640px-Nine_Network_logo_%282008%29.svg.png",9HD
+#http://stream.cvmtv.site/9HD?token=live
+#EXTINF:-1 group-title="FREEVIEW AUSTRALIA" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d8/9Gem_logo.png",9Gem
+#http://stream.cvmtv.site/9G?token=live
 
 #EXTINF:-1 group-title="CHINA TV" tvg-logo="https://p1.img.cctvpic.com/photoAlbum/templet/common/DEPA1532314258547503/cctv-1_180817.png",CCTV-1
 #http://stream.cvmtv.site/CCTV1?token=live
@@ -205,19 +231,6 @@ http://stream.cvmtv.site/TVP_Info?token=live
 #http://stream.cvmtv.site/tvN?token=live
 #EXTINF:-1 group-title="KOREA TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Music_Makes_One_Mnet_Logo.png/799px-Music_Makes_One_Mnet_Logo.png",Mnet
 #http://stream.cvmtv.site/Mnet?token=live
-
-#EXTINF:-1 group-title="AUSTRALIA FREEVIEW" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/86/Network_10_logo_2018.svg/1200px-Network_10_logo_2018.svg.png",10 HD
-http://stream.cvmtv.site/10HD?token=live
-#EXTINF:-1 group-title="AUSTRALIA FREEVIEW" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/e7/10_Bold_2018.svg/800px-10_Bold_2018.svg.png",10 Bold
-http://stream.cvmtv.site/10B?token=live
-#EXTINF:-1 group-title="AUSTRALIA FREEVIEW" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Seven_Network_logo.svg/1200px-Seven_Network_logo.svg.png",7HD
-http://stream.cvmtv.site/7HD?token=live
-#EXTINF:-1 group-title="AUSTRALIA FREEVIEW" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/7mate_logo_2020.svg/1200px-7mate_logo_2020.svg.png",7mate
-http://stream.cvmtv.site/7M?token=live
-#EXTINF:-1 group-title="AUSTRALIA FREEVIEW" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Nine_Network_logo_%282008%29.svg/640px-Nine_Network_logo_%282008%29.svg.png",9HD
-#http://stream.cvmtv.site/9HD?token=live
-#EXTINF:-1 group-title="AUSTRALIA FREEVIEW" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d8/9Gem_logo.png",9Gem
-#http://stream.cvmtv.site/9G?token=live
 
 #EXTINF:-1 group-title="NEWS CHANNELS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/BBC_News_2022_%28Alt%2C_boxed%29.svg/1200px-BBC_News_2022_%28Alt%2C_boxed%29.svg.png",BBC News
 http://stream.cvmtv.site/BBCN?token=live

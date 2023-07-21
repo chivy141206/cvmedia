@@ -14,7 +14,7 @@ http://stream.cvmtv.site/qhtv?token=live
 #EXTINF:-1 group-title="VIỆT NAM" tvg-logo="https://raw.githubusercontent.com/chivy141206/cvmedia/main/img/thpplus.png",THP+
 http://stream.cvmtv.site/thpplus?token=live
 
-#EXTINF:-1 group-title="THỂ THAO TỔNG HỢP" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/RSI_La_2_2012.svg/1200px-RSI_La_2_2012.svg.png",FWWC2023 - RSI La2
+#EXTINF:-1 group-title="THỂ THAO TỔNG HỢP" tvg-id="la2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/RSI_La_2_2012.svg/1200px-RSI_La_2_2012.svg.png",FWWC2023 - RSI La2
 http://stream.cvmtv.site/LA2?token=live
 #EXTINF:-1 group-title="THỂ THAO TỔNG HỢP" tvg-logo="https://static.wikia.nocookie.net/indotv/images/4/46/Trans_7_2013.png",FRIENDLY TOUR - TRANS7
 http://stream.cvmtv.site/Trans7?token=live
@@ -28,9 +28,9 @@ http://stream.cvmtv.site/Trans7?token=live
 http://stream.cvmtv.site/M4?token=live
 #EXTINF:-1 group-title="THỂ THAO TỔNG HỢP" tvg-id="m4plus" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5b/M4_Sport%2B_logo.png",M4 Sport+
 http://stream.cvmtv.site/M4Plus?token=live
-#EXTINF:-1 group-title="THỂ THAO TỔNG HỢP" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/TRT_Spor_logo_%282022%29.svg/1280px-TRT_Spor_logo_%282022%29.svg.png",TRT Spor
+#EXTINF:-1 group-title="THỂ THAO TỔNG HỢP" tvg-id="trtspor" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/TRT_Spor_logo_%282022%29.svg/1280px-TRT_Spor_logo_%282022%29.svg.png",TRT Spor
 http://stream.cvmtv.site/TRTSpor?token=live
-#EXTINF:-1 group-title="THỂ THAO TỔNG HỢP" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/TRT_Spor_Y%C4%B1ld%C4%B1z_Logo.svg/2560px-TRT_Spor_Y%C4%B1ld%C4%B1z_Logo.svg.png",TRT Spor Yildiz
+#EXTINF:-1 group-title="THỂ THAO TỔNG HỢP" tvg-id="trtsy" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/TRT_Spor_Y%C4%B1ld%C4%B1z_Logo.svg/2560px-TRT_Spor_Y%C4%B1ld%C4%B1z_Logo.svg.png",TRT Spor Yildiz
 http://stream.cvmtv.site/TRT_SY?token=live
 #EXTINF:-1 group-title="THỂ THAO TỔNG HỢP" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3c/Viaplay_logo.png",ViaplayXtra
 http://stream.cvmtv.site/ViaXtra?token=live

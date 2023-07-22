@@ -14,8 +14,6 @@ http://stream.cvmtv.site/qhtv?token=live
 #EXTINF:-1 group-title="VIỆT NAM" tvg-logo="https://raw.githubusercontent.com/chivy141206/cvmedia/main/img/thpplus.png",THP+
 http://stream.cvmtv.site/thpplus?token=live
 
-#EXTINF:-1 group-title="THỂ THAO TỔNG HỢP" tvg-id="la2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/RSI_La_2_2012.svg/1200px-RSI_La_2_2012.svg.png",FWWC2023 - RSI La2
-http://stream.cvmtv.site/LA2?token=live
 #EXTINF:-1 group-title="THỂ THAO TỔNG HỢP" tvg-id="trans7" tvg-logo="https://static.wikia.nocookie.net/indotv/images/4/46/Trans_7_2013.png",FRIENDLY TOUR - TRANS7
 http://stream.cvmtv.site/Trans7?token=live
 #EXTINF:-1 group-title="THỂ THAO TỔNG HỢP" tvg-id="one31" tvg-logo="https://upload.wikimedia.org/wikipedia/en/a/a8/One_31_Logo.png",SEA VLEAGUE - One31
@@ -26,18 +24,38 @@ http://stream.cvmtv.site/One31?token=live
 #http://stream.cvmtv.site/CCTV5p?token=live
 #EXTINF:-1 group-title="THỂ THAO TỔNG HỢP" tvg-logo="https://p1.img.cctvpic.com/photoAlbum/templet/common/DEPA1532314258547503/cctv-16_180817.png",CCTV-16
 #http://stream.cvmtv.site/CCTV16?token=live
-#EXTINF:-1 group-title="THỂ THAO TỔNG HỢP" tvg-id="m4" tvg-logo="https://upload.wikimedia.org/wikipedia/hu/thumb/f/fd/M4_logo.png/1200px-M4_logo.png",M4 Sport
-http://stream.cvmtv.site/M4?token=live
-#EXTINF:-1 group-title="THỂ THAO TỔNG HỢP" tvg-id="m4plus" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5b/M4_Sport%2B_logo.png",M4 Sport+
-http://stream.cvmtv.site/M4Plus?token=live
-#EXTINF:-1 group-title="THỂ THAO TỔNG HỢP" tvg-id="trtspor" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/TRT_Spor_logo_%282022%29.svg/1280px-TRT_Spor_logo_%282022%29.svg.png",TRT Spor
-http://stream.cvmtv.site/TRTSpor?token=live
 #EXTINF:-1 group-title="THỂ THAO TỔNG HỢP" tvg-id="trtsy" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/TRT_Spor_Y%C4%B1ld%C4%B1z_Logo.svg/2560px-TRT_Spor_Y%C4%B1ld%C4%B1z_Logo.svg.png",TRT Spor Yildiz
 http://stream.cvmtv.site/TRT_SY?token=live
 #EXTINF:-1 group-title="THỂ THAO TỔNG HỢP" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3c/Viaplay_logo.png",ViaplayXtra
 http://stream.cvmtv.site/ViaXtra?token=live
 #EXTINF:-1 group-title="THỂ THAO TỔNG HỢP" tvg-logo="https://upload.wikimedia.org/wikipedia/it/thumb/6/6a/SuperTennis_-_Logo_2016.svg/2560px-SuperTennis_-_Logo_2016.svg.png",SuperTennis
 
+#EXTINF:-1 group-title="FIFA WOMEN'S WORLD CUP 2023" tvg-id="la2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/RSI_La_2_2012.svg/1200px-RSI_La_2_2012.svg.png",RSI LA2
+http://stream.cvmtv.site/LA2?token=live
+#EXTINF:-1 group-title="FIFA WOMEN'S WORLD CUP 2023" tvg-id="la2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/RSI_La_2_2012.svg/1200px-RSI_La_2_2012.svg.png",RSI LA2
+http://stream2.cvmtv.site:8000/LA2?token=live
+#EXTINF:-1 group-title="FIFA WOMEN'S WORLD CUP 2023" tvg-id="m4" tvg-logo="https://upload.wikimedia.org/wikipedia/hu/thumb/f/fd/M4_logo.png/1200px-M4_logo.png",M4 Sport
+http://stream.cvmtv.site/M4?token=live
+#EXTINF:-1 group-title="FIFA WOMEN'S WORLD CUP 2023" tvg-id="m4" tvg-logo="https://upload.wikimedia.org/wikipedia/hu/thumb/f/fd/M4_logo.png/1200px-M4_logo.png",M4 Sport
+http://stream2.cvmtv.site:8000/M4?token=live
+#EXTINF:-1 group-title="FIFA WOMEN'S WORLD CUP 2023" tvg-id="m4plus" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5b/M4_Sport%2B_logo.png",M4 Sport+
+http://stream.cvmtv.site/M4Plus?token=live
+#EXTINF:-1 group-title="FIFA WOMEN'S WORLD CUP 2023" tvg-id="m4plus" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5b/M4_Sport%2B_logo.png",M4 Sport+
+http://stream2.cvmtv.site:8000/M4Plus?token=live
+#EXTINF:-1 group-title="FIFA WOMEN'S WORLD CUP 2023" tvg-id="trtspor" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/TRT_Spor_logo_%282022%29.svg/1280px-TRT_Spor_logo_%282022%29.svg.png",TRT Spor
+http://stream.cvmtv.site/TRTSpor?token=live
+#EXTINF:-1 group-title="FIFA WOMEN'S WORLD CUP 2023" tvg-id="trtspor" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/TRT_Spor_logo_%282022%29.svg/1280px-TRT_Spor_logo_%282022%29.svg.png",TRT Spor
+http://stream2.cvmtv.site:8000/TRTSpor?token=live
+#EXTINF:-1 group-title="FIFA WOMEN'S WORLD CUP 2023" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/BBC_One_logo_2021.svg/800px-BBC_One_logo_2021.svg.png",BBC One
+http://stream2.cvmtv.site:8000/BBC1?token=live
+#EXTINF:-1 group-title="FIFA WOMEN'S WORLD CUP 2023" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/BBC_Two_logo_2021.svg/640px-BBC_Two_logo_2021.svg.png",BBC Two
+http://stream2.cvmtv.site:8000/BBC2?token=live
+#EXTINF:-1 group-title="FIFA WOMEN'S WORLD CUP 2023" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/1f/ITV1_logo_%282022%29.svg/1920px-ITV1_logo_%282022%29.svg.png",ITV1
+http://stream2.cvmtv.site:8000/ITV?token=live
+#EXTINF:-1 group-title="FIFA WOMEN'S WORLD CUP 2023" tvg-id="sptv1" tvg-logo="https://raw.githubusercontent.com/chivy141206/cvmedia/main/img/sporttv-1.png",Sport TV 1
+http://stream2.cvmtv.site:8000/SportTV1?token=live
+#EXTINF:-1 group-title="FIFA WOMEN'S WORLD CUP 2023" tvg-id="mf1" tvg-logo="https://new.matchtv.ru/assets/2305181729/images/channels/8.jpg",Match Futbol 1
+http://stream2.cvmtv.site:8000/MF1?token=live
 
 #EXTINF:-1 group-title="DIEMA SPORT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c8/Diema_Sport_HD_logo.png",Diema Sport 1
 

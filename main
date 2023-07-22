@@ -218,9 +218,9 @@ http://stream.cvmtv.site/FOX?token=live
 #http://stream.cvmtv.site/Russia24?token=live
 
 #EXTINF:-1 group-title="RAI ITALIA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Rai_1_-_Logo_2016.svg/1200px-Rai_1_-_Logo_2016.svg.png",Rai 1
-http://stream.cvmtv.site/Rai1?token=live
+#http://stream.cvmtv.site/Rai1?token=live
 #EXTINF:-1 group-title="RAI ITALIA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Rai_2_-_Logo_2016.svg/1200px-Rai_2_-_Logo_2016.svg.png",Rai 2
-http://stream.cvmtv.site/Rai2?token=live
+#http://stream.cvmtv.site/Rai2?token=live
 #EXTINF:-1 group-title="RAI ITALIA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Rai_3_-_Logo_2016.svg/1200px-Rai_3_-_Logo_2016.svg.png",Rai 3
 #http://stream.cvmtv.site/Rai3?token=live
 

@@ -16,8 +16,10 @@ http://stream.cvmtv.site/thpplus?token=live
 
 #EXTINF:-1 group-title="THỂ THAO TỔNG HỢP" tvg-id="la2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/RSI_La_2_2012.svg/1200px-RSI_La_2_2012.svg.png",FWWC2023 - RSI La2
 http://stream.cvmtv.site/LA2?token=live
-#EXTINF:-1 group-title="THỂ THAO TỔNG HỢP" tvg-logo="https://static.wikia.nocookie.net/indotv/images/4/46/Trans_7_2013.png",FRIENDLY TOUR - TRANS7
+#EXTINF:-1 group-title="THỂ THAO TỔNG HỢP" tvg-id="trans7" tvg-logo="https://static.wikia.nocookie.net/indotv/images/4/46/Trans_7_2013.png",FRIENDLY TOUR - TRANS7
 http://stream.cvmtv.site/Trans7?token=live
+#EXTINF:-1 group-title="THỂ THAO TỔNG HỢP" tvg-id="one31" tvg-logo="https://upload.wikimedia.org/wikipedia/en/a/a8/One_31_Logo.png",SEA VLEAGUE - One31
+http://stream.cvmtv.site/One31?token=live
 #EXTINF:-1 group-title="THỂ THAO TỔNG HỢP" tvg-logo="https://p4.img.cctvpic.com/photoAlbum/templet/common/DEPA1606289678173765/2020_0412_index_08.png",CCTV-5
 #http://stream.cvmtv.site/CCTV5?token=live
 #EXTINF:-1 group-title="THỂ THAO TỔNG HỢP" tvg-logo="https://p4.img.cctvpic.com/photoAlbum/templet/common/DEPA1606289678173765/2020_0412_index_03.png",CCTV-5+

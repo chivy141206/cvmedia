@@ -33,29 +33,29 @@ http://stream.cvmtv.site/ViaXtra?token=live
 #EXTINF:-1 group-title="FIFA WOMEN'S WORLD CUP 2023" tvg-id="la2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/RSI_La_2_2012.svg/1200px-RSI_La_2_2012.svg.png",RSI LA2
 http://stream.cvmtv.site/LA2?token=live
 #EXTINF:-1 group-title="FIFA WOMEN'S WORLD CUP 2023" tvg-id="la2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/RSI_La_2_2012.svg/1200px-RSI_La_2_2012.svg.png",RSI LA2
-http://stream2.cvmtv.site:8000/LA2?token=live
+#http://stream2.cvmtv.site:8000/LA2?token=live
 #EXTINF:-1 group-title="FIFA WOMEN'S WORLD CUP 2023" tvg-id="m4" tvg-logo="https://upload.wikimedia.org/wikipedia/hu/thumb/f/fd/M4_logo.png/1200px-M4_logo.png",M4 Sport
 http://stream.cvmtv.site/M4?token=live
 #EXTINF:-1 group-title="FIFA WOMEN'S WORLD CUP 2023" tvg-id="m4" tvg-logo="https://upload.wikimedia.org/wikipedia/hu/thumb/f/fd/M4_logo.png/1200px-M4_logo.png",M4 Sport
-http://stream2.cvmtv.site:8000/M4?token=live
+#http://stream2.cvmtv.site:8000/M4?token=live
 #EXTINF:-1 group-title="FIFA WOMEN'S WORLD CUP 2023" tvg-id="m4plus" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5b/M4_Sport%2B_logo.png",M4 Sport+
 http://stream.cvmtv.site/M4Plus?token=live
 #EXTINF:-1 group-title="FIFA WOMEN'S WORLD CUP 2023" tvg-id="m4plus" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5b/M4_Sport%2B_logo.png",M4 Sport+
-http://stream2.cvmtv.site:8000/M4Plus?token=live
+#http://stream2.cvmtv.site:8000/M4Plus?token=live
 #EXTINF:-1 group-title="FIFA WOMEN'S WORLD CUP 2023" tvg-id="trtspor" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/TRT_Spor_logo_%282022%29.svg/1280px-TRT_Spor_logo_%282022%29.svg.png",TRT Spor
 http://stream.cvmtv.site/TRTSpor?token=live
 #EXTINF:-1 group-title="FIFA WOMEN'S WORLD CUP 2023" tvg-id="trtspor" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/TRT_Spor_logo_%282022%29.svg/1280px-TRT_Spor_logo_%282022%29.svg.png",TRT Spor
-http://stream2.cvmtv.site:8000/TRTSpor?token=live
+#http://stream2.cvmtv.site:8000/TRTSpor?token=live
 #EXTINF:-1 group-title="FIFA WOMEN'S WORLD CUP 2023" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/BBC_One_logo_2021.svg/800px-BBC_One_logo_2021.svg.png",BBC One
-http://stream2.cvmtv.site:8000/BBC1?token=live
+#http://stream2.cvmtv.site:8000/BBC1?token=live
 #EXTINF:-1 group-title="FIFA WOMEN'S WORLD CUP 2023" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/BBC_Two_logo_2021.svg/640px-BBC_Two_logo_2021.svg.png",BBC Two
-http://stream2.cvmtv.site:8000/BBC2?token=live
+#http://stream2.cvmtv.site:8000/BBC2?token=live
 #EXTINF:-1 group-title="FIFA WOMEN'S WORLD CUP 2023" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/1f/ITV1_logo_%282022%29.svg/1920px-ITV1_logo_%282022%29.svg.png",ITV1
-http://stream2.cvmtv.site:8000/ITV?token=live
+#http://stream2.cvmtv.site:8000/ITV?token=live
 #EXTINF:-1 group-title="FIFA WOMEN'S WORLD CUP 2023" tvg-id="sptv1" tvg-logo="https://raw.githubusercontent.com/chivy141206/cvmedia/main/img/sporttv-1.png",Sport TV 1
-http://stream2.cvmtv.site:8000/SportTV1?token=live
+#http://stream2.cvmtv.site:8000/SportTV1?token=live
 #EXTINF:-1 group-title="FIFA WOMEN'S WORLD CUP 2023" tvg-id="mf1" tvg-logo="https://new.matchtv.ru/assets/2305181729/images/channels/8.jpg",Match Futbol 1
-http://stream2.cvmtv.site:8000/MF1?token=live
+#http://stream2.cvmtv.site:8000/MF1?token=live
 
 #EXTINF:-1 group-title="DIEMA SPORT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c8/Diema_Sport_HD_logo.png",Diema Sport 1
 

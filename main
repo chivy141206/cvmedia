@@ -140,8 +140,6 @@ http://stream.cvmtv.site/TVPS?token=live
 #http://stream.cvmtv.site/ESPN_US?token=live
 #EXTINF:-1 group-title="ESPN - FOX SPORTS US" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/ESPN2_logo.svg/768px-ESPN2_logo.svg.png",ESPN2 US
 #http://stream.cvmtv.site/ESPN2_US?token=live
-#EXTINF:-1 group-title="ESPN - FOX SPORTS US" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/2015_Fox_Sports_1_logo.svg/1200px-2015_Fox_Sports_1_logo.svg.png",FS1
-#http://stream.cvmtv.site/FS1?token=live
 #EXTINF:-1 group-title="ESPN - FOX SPORTS US" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/FS2_logo_2015.svg/1200px-FS2_logo_2015.svg.png",FS2
 #http://stream.cvmtv.site/FS2?token=live
 
@@ -219,14 +217,17 @@ http://stream.cvmtv.site/DasErste?token=live
 #EXTINF:-1 group-title="GERMANY TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/ZDF_HD_Logo.svg/2560px-ZDF_HD_Logo.svg.png",ZDF
 http://stream.cvmtv.site/ZDF?token=live
 
-#EXTINF:-1 group-title="US FREE TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/NBC_logo.svg/800px-NBC_logo.svg.png",NBC
+#EXTINF:-1 group-title="US TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/NBC_logo.svg/800px-NBC_logo.svg.png",NBC
 http://stream.cvmtv.site/NBC?token=live
-#EXTINF:-1 group-title="US FREE TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/CBS_logo.svg/2560px-CBS_logo.svg.png",CBS
+#EXTINF:-1 group-title="US TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/CBS_logo.svg/2560px-CBS_logo.svg.png",CBS
 http://stream.cvmtv.site/CBS?token=live
-#EXTINF:-1 group-title="US FREE TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/ABC_%282013%29_Dark_Grey.svg/1200px-ABC_%282013%29_Dark_Grey.svg.png",ABC
+#EXTINF:-1 group-title="US TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/ABC_%282013%29_Dark_Grey.svg/1200px-ABC_%282013%29_Dark_Grey.svg.png",ABC
 http://stream.cvmtv.site/ABC?token=live
-#EXTINF:-1 group-title="US FREE TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/FOX_wordmark-red_2.svg/1200px-FOX_wordmark-red_2.svg.png",FOX
+#EXTINF:-1 group-title="US TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/FOX_wordmark-red_2.svg/1200px-FOX_wordmark-red_2.svg.png",FOX
 http://stream.cvmtv.site/FOX?token=live
+#EXTINF:-1 group-title="US TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/2015_Fox_Sports_1_logo.svg/1200px-2015_Fox_Sports_1_logo.svg.png",FS1
+http://stream.cvmtv.site/FS1?token=live
+
 
 #EXTINF:-1 group-title="RUSSIA TV" tvg-logo="https://static.wikia.nocookie.net/logos/images/2/25/1tv_Russia_logo.png/revision/latest/scale-to-width-down/512?cb=20220217141930&path-prefix=vi",OPT1
 #http://stream.cvmtv.site/OPT1?token=live

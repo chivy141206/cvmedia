@@ -18,6 +18,8 @@ http://stream.cvmtv.site/qhtv?token=live
 http://stream.cvmtv.site/Trans7?token=live
 #EXTINF:-1 group-title="THỂ THAO TỔNG HỢP" tvg-id="one31" tvg-logo="https://upload.wikimedia.org/wikipedia/en/a/a8/One_31_Logo.png",SEA VLEAGUE - One31
 http://stream.cvmtv.site/One31?token=live
+#EXTINF:-1 group-title="THỂ THAO TỔNG HỢP" tvg-logo="https://www.alkass.net/alkass/assets/images/one.png",Alkass One
+http://stream.cvmtv.site/AK1?token=live
 #EXTINF:-1 group-title="THỂ THAO TỔNG HỢP" tvg-logo="https://p4.img.cctvpic.com/photoAlbum/templet/common/DEPA1606289678173765/2020_0412_index_08.png",CCTV-5
 #http://stream.cvmtv.site/CCTV5?token=live
 #EXTINF:-1 group-title="THỂ THAO TỔNG HỢP" tvg-logo="https://p4.img.cctvpic.com/photoAlbum/templet/common/DEPA1606289678173765/2020_0412_index_03.png",CCTV-5+

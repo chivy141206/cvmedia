@@ -124,10 +124,6 @@ http://stream.cvmtv.site/BBC_RB?token=live
 
 #EXTINF:-1 group-title="HKG DVB-T2" tvg-id="jade" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/TVB_Jade_logo.svg/1200px-TVB_Jade_logo.svg.png",TVB Jade
 http://stream.cvmtv.site/Jade?token=live
-#EXTINF:-1 group-title="HKG DVB-T2" tvg-id="pearl" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/12/Free-Pearl.png",TVB Pearl
-http://stream.cvmtv.site/Pearl?token=live
-#EXTINF:-1 group-title="HKG DVB-T2" tvg-id="j2" tvg-logo="https://raw.githubusercontent.com/chivy141206/cvmedia/main/img/j2.png",TVB J2
-http://stream.cvmtv.site/J2?token=live
 #EXTINF:-1 group-title="HKG DVB-T2" tvg-id="viu" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/ViuTV_logo.svg/1920px-ViuTV_logo.svg.png",ViuTV
 http://stream.cvmtv.site/Viu?token=live
 #EXTINF:-1 group-title="HKG DVB-T2" tvg-id="viu6" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/ViuTVsix-logo.svg/1024px-ViuTVsix-logo.svg.png",ViuTVsix
@@ -156,10 +152,18 @@ http://stream.cvmtv.site/TVP2?token=live
 #EXTINF:-1 group-title="TVP POLAND" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/TVP_logo.svg/1280px-TVP_logo.svg.png",TVP Info
 http://stream.cvmtv.site/TVP_Info?token=live
 
+#EXTINF:-1 group-title="KOREA TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/KBS_1_logo.svg/440px-KBS_1_logo.svg.png",KBS1
+http://stream.cvmtv.site/KBS1?token=live
+#EXTINF:-1 group-title="KOREA TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/KBS_2_logo.svg/1200px-KBS_2_logo.svg.png",KBS2
+http://stream.cvmtv.site/KBS2?token=live
 #EXTINF:-1 group-title="KOREA TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Munhwa_Broadcasting_Company.svg/2560px-Munhwa_Broadcasting_Company.svg.png",MBC
 http://stream.cvmtv.site/MBC?token=live
 #EXTINF:-1 group-title="KOREA TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/SBS_Korea_Logo_%28Word_Only%29.svg/1200px-SBS_Korea_Logo_%28Word_Only%29.svg.png",SBS
 http://stream.cvmtv.site/SBS?token=live
+#EXTINF:-1 group-title="KOREA TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Logo_tvN.svg/1200px-Logo_tvN.svg.png",tvN
+http://stream.cvmtv.site/tvN?token=live
+#EXTINF:-1 group-title="KOREA TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/JTBC_logo.svg/640px-JTBC_logo.svg.png",JTBC
+http://stream.cvmtv.site/JTBC?token=live
 #EXTINF:-1 group-title="KOREA TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Music_Makes_One_Mnet_Logo.png/799px-Music_Makes_One_Mnet_Logo.png",Mnet
 http://stream.cvmtv.site/Mnet?token=live
 

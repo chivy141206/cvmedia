@@ -144,6 +144,8 @@ http://stream.cvmtv.site/TVA?token=live
 http://stream.cvmtv.site/DasErste?token=live
 #EXTINF:-1 group-title="GERMANY TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/ZDF_HD_Logo.svg/2560px-ZDF_HD_Logo.svg.png",ZDF
 http://stream.cvmtv.site/ZDF?token=live
+#EXTINF:-1 group-title="GERMANY TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/RTL_Logo_2021.svg/1280px-RTL_Logo_2021.svg.png",RTL
+http://stream.cvmtv.site/RTL?token=live
 
 #EXTINF:-1 group-title="US TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/NBC_logo.svg/800px-NBC_logo.svg.png",NBC
 http://stream.cvmtv.site/NBC?token=live

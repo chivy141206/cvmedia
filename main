@@ -173,6 +173,8 @@ http://stream.cvmtv.site/Bloomberg?token=live
 #EXTINF:-1 group-title="NEWS CHANNELS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/CNBC_logo.svg/2560px-CNBC_logo.svg.png",CNBC
 http://stream.cvmtv.site/CNBC?token=live
 
+#EXTINF:-1 group-title="RADIO" tvg-logo="https://cdn2.talksport.com/tscdn/talksport/brand/talkSPORT.png" tvg-id="47ec7446b8456da5416071b15d2d711f",talkSPORT
+http://stream.cvmtv.site:9981/stream/channelid/1182067783
 #EXTINF:-1 group-title="RADIO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/BBC_Radio_1_2021.svg/800px-BBC_Radio_1_2021.svg.png" tvg-id="40cbaebd2689fdc448a2a27641aa0c60",BBC Radio 1
 http://stream.cvmtv.site:9981/stream/channelid/1034865472
 #EXTINF:-1 group-title="RADIO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/BBC_Radio_1Xtra_2021.svg/1200px-BBC_Radio_1Xtra_2021.svg.png" tvg-id="e18ffa01e33d50afa088cef6f9588067",BBC Radio 1Xtra

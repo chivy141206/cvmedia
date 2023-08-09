@@ -39,13 +39,13 @@ http://stream.cvmtv.site/ZiggoS?token=live
 #EXTINF:-1 group-title="ZIGGO SPORT" tvg-id="zvoetbal" tvg-logo="https://raw.githubusercontent.com/chivy141206/cvmedia/main/img/voetbal.png",Ziggo Sport Voetbal
 http://stream.cvmtv.site/ZiggoV?token=live
 #EXTINF:-1 group-title="ZIGGO SPORT" tvg-id="ztennis" tvg-logo="https://raw.githubusercontent.com/chivy141206/cvmedia/main/img/tennis.png",Ziggo Sport Tennis
-#http://stream.cvmtv.site/ZiggoT?token=live
+http://stream.cvmtv.site/ZiggoT?token=live
 #EXTINF:-1 group-title="ZIGGO SPORT" tvg-id="zgolf" tvg-logo="https://raw.githubusercontent.com/chivy141206/cvmedia/main/img/golf.png",Ziggo Sport Golf
 http://stream.cvmtv.site/ZiggoG?token=live
 #EXTINF:-1 group-title="ZIGGO SPORT" tvg-id="zracing" tvg-logo="https://raw.githubusercontent.com/chivy141206/cvmedia/main/img/racing.png",Ziggo Sport Racing
-#http://stream.cvmtv.site/ZiggoR?token=live
+http://stream.cvmtv.site/ZiggoR?token=live
 #EXTINF:-1 group-title="ZIGGO SPORT" tvg-id="zdocu" tvg-logo="https://raw.githubusercontent.com/chivy141206/cvmedia/main/img/docu.png",Ziggo Sport Docu
-#http://stream.cvmtv.site/ZiggoD?token=live
+http://stream.cvmtv.site/ZiggoD?token=live
 
 #EXTINF:-1 group-title="CANAL+ SPORT" tvg-id="canalsp1" tvg-logo="https://n-4-3.dcs.redcdn.pl/file/o2/n/edytorEPG/logo/logotype_66245.png",Canal+ Sport 1
 http://stream.cvmtv.site/canal1?token=live
@@ -62,17 +62,6 @@ http://stream.cvmtv.site/E2?token=live
 http://stream.cvmtv.site/E3?token=live
 #EXTINF:-1 group-title="ELEVEN SPORTS" tvg-id="eleven4" tvg-logo="https://r.dcs.redcdn.pl/https/o2/n/edytorEPG/logo/logotype_391302.png",Eleven Sports 4
 http://stream.cvmtv.site/E4?token=live
-
-#EXTINF:-1 group-title="SPORT TV" tvg-id="sptv1" tvg-logo="https://raw.githubusercontent.com/chivy141206/cvmedia/main/img/sporttv-1.png",Sport TV 1
-http://stream.cvmtv.site/SportTV1?token=live
-#EXTINF:-1 group-title="SPORT TV" tvg-id="sptv2" tvg-logo="https://raw.githubusercontent.com/chivy141206/cvmedia/main/img/sporttv-2.png",Sport TV 2
-http://stream.cvmtv.site/SportTV2?token=live
-#EXTINF:-1 group-title="SPORT TV" tvg-id="sptv3" tvg-logo="https://raw.githubusercontent.com/chivy141206/cvmedia/main/img/sporttv-3.png",Sport TV 3
-http://stream.cvmtv.site/SportTV3?token=live
-#EXTINF:-1 group-title="SPORT TV" tvg-id="sptv4" tvg-logo="https://raw.githubusercontent.com/chivy141206/cvmedia/main/img/sporttv-4.png",Sport TV 4
-http://stream.cvmtv.site/SportTV4?token=live
-#EXTINF:-1 group-title="SPORT TV" tvg-id="sptv5" tvg-logo="https://raw.githubusercontent.com/chivy141206/cvmedia/main/img/sporttv-5.png",Sport TV 5
-http://stream.cvmtv.site/SportTV5?token=live
 
 #EXTINF:-1 group-title="MATCH TV" tvg-id="match" tvg-logo="https://new.matchtv.ru/assets/2305181729/images/channels/130.jpg",Match TV
 http://stream.cvmtv.site/Match?token=live

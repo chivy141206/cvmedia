@@ -12,8 +12,6 @@ http://stream.cvmtv.site/htvtt?token=live
 #EXTINF:-1 group-title="VIỆT NAM" tvg-id="quochoi" tvg-logo="https://quochoitv.vn/themes/quochoitv/images/logo-qhtv-new.png",Quốc Hội TV
 http://stream.cvmtv.site/qhtv?token=live
 
-#EXTINF:-1 group-title="THỂ THAO TỔNG HỢP" tvg-id="trans7" tvg-logo="https://static.wikia.nocookie.net/indotv/images/4/46/Trans_7_2013.png",FRIENDLY TOUR - TRANS7
-http://stream.cvmtv.site/Trans7?token=live
 #EXTINF:-1 group-title="THỂ THAO TỔNG HỢP" tvg-id="one31" tvg-logo="https://upload.wikimedia.org/wikipedia/en/a/a8/One_31_Logo.png",SEA VLEAGUE - One31
 http://stream.cvmtv.site/One31?token=live
 #EXTINF:-1 group-title="THỂ THAO TỔNG HỢP" tvg-logo="https://www.alkass.net/alkass/assets/images/one.png",Alkass One
@@ -38,6 +36,8 @@ http://stream.cvmtv.site/TRTSpor?token=live
 http://stream.cvmtv.site/Setanta?token=live
 #EXTINF:-1 group-title="PREMIER LEAGUE" tvg-logo="https://img.usanetwork.com/sites/nbcunbc/files/USA-Logo-White-450x198.png",USA Network
 http://stream.cvmtv.site/USA?token=live
+#EXTINF:-1 group-title="PREMIER LEAGUE" tvg-id="sctv" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/SCTV_Logo.svg/2560px-SCTV_Logo.svg.png",SCTV Indonesia
+http://stream.cvmtv.site/SCTV?token=live
 
 #EXTINF:-1 group-title="ZIGGO SPORT" tvg-id="zselect" tvg-logo="https://raw.githubusercontent.com/chivy141206/cvmedia/main/img/select.png",Ziggo Sport Select
 http://stream.cvmtv.site/ZiggoS?token=live

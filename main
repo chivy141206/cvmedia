@@ -58,6 +58,8 @@ http://stream.cvmtv.site/ZiggoG?token=live
 http://stream.cvmtv.site/canal1?token=live
 #EXTINF:-1 group-title="CANAL+ SPORT" tvg-id="canalsp2" tvg-logo="https://r.dcs.redcdn.pl/https/o2/n/edytorEPG/logo/logotype_66249.png",Canal+ Sport 2
 http://stream.cvmtv.site/canal2?token=live
+#EXTINF:-1 group-title="CANAL+ SPORT" tvg-id="canalsp5" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ef/CANAL%2B_Sport_5.png",Canal+ Sport 5
+http://stream.cvmtv.site/canal5?token=live
 #EXTINF:-1 group-title="CANAL+ SPORT" tvg-id="canalpre" tvg-logo="https://r.dcs.redcdn.pl/http/o2/n/edytorEPG/logo/logotype_815958.png",Canal+ Premium
 http://stream.cvmtv.site/canalpre?token=live
 

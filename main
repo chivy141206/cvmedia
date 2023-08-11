@@ -24,9 +24,9 @@ http://stream.cvmtv.site/ViaXtra?token=live
 #EXTINF:-1 group-title="PREMIER LEAGUE" tvg-logo="https://upload.wikimedia.org/wikipedia/vi/thumb/f/f2/Premier_League_Logo.svg/1200px-Premier_League_Logo.svg.png",EPL LIVE 4K
 http://stream.cvmtv.site/event?token=live
 #EXTINF:-1 group-title="PREMIER LEAGUE" tvg-id="digi1" tvg-logo="https://static.wikia.nocookie.net/tvfanon6528/images/2/20/Digi_Sport_1_%282012-.n.v.%29.png",Digi Sport 1
-http://stream.cvmtv.site/Digi1?token=live
+http://stream.cvmtv.site/DigiS1?token=live
 #EXTINF:-1 group-title="PREMIER LEAGUE" tvg-id="digi2" tvg-logo="https://static.wikia.nocookie.net/tvfanon6528/images/2/20/Digi_Sport_1_%282012-.n.v.%29.png",Digi Sport 1
-http://stream.cvmtv.site/Digi2?token=live
+http://stream.cvmtv.site/DigiS2?token=live
 #EXTINF:-1 group-title="PREMIER LEAGUE" tvg-logo="https://cms.dmpcdn.com/livetv/2023/05/03/ba4c4510-e966-11ed-896e-69ce273284a6_webp_original.png",True Premier Football 2
 http://stream.cvmtv.site/TPF2?token=live
 #EXTINF:-1 group-title="PREMIER LEAGUE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Setanta-logo.jpg/640px-Setanta-logo.jpg",Setanta Sports + Ukraine

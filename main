@@ -21,6 +21,21 @@ http://stream.cvmtv.site/TRT_SY?token=live
 #EXTINF:-1 group-title="THỂ THAO TỔNG HỢP" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3c/Viaplay_logo.png",ViaplayXtra
 http://stream.cvmtv.site/ViaXtra?token=live
 
+#EXTINF:-1 group-title="PREMIER LEAGUE" tvg-logo="https://upload.wikimedia.org/wikipedia/vi/thumb/f/f2/Premier_League_Logo.svg/1200px-Premier_League_Logo.svg.png",EPL LIVE 4K
+http://stream.cvmtv.site/event?token=live
+#EXTINF:-1 group-title="PREMIER LEAGUE" tvg-id="digi1" tvg-logo="https://static.wikia.nocookie.net/tvfanon6528/images/2/20/Digi_Sport_1_%282012-.n.v.%29.png",Digi Sport 1
+http://stream.cvmtv.site/Digi1?token=live
+#EXTINF:-1 group-title="PREMIER LEAGUE" tvg-id="digi2" tvg-logo="https://static.wikia.nocookie.net/tvfanon6528/images/2/20/Digi_Sport_1_%282012-.n.v.%29.png",Digi Sport 1
+http://stream.cvmtv.site/Digi2?token=live
+#EXTINF:-1 group-title="PREMIER LEAGUE" tvg-logo="https://cms.dmpcdn.com/livetv/2023/05/03/ba4c4510-e966-11ed-896e-69ce273284a6_webp_original.png",True Premier Football 2
+http://stream.cvmtv.site/TPF2?token=live
+#EXTINF:-1 group-title="PREMIER LEAGUE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Setanta-logo.jpg/640px-Setanta-logo.jpg",Setanta Sports + Ukraine
+http://stream.cvmtv.site/Setanta?token=live
+#EXTINF:-1 group-title="PREMIER LEAGUE" tvg-logo="https://img.usanetwork.com/sites/nbcunbc/files/USA-Logo-White-450x198.png",USA Network
+http://stream.cvmtv.site/USA?token=live
+#EXTINF:-1 group-title="PREMIER LEAGUE" tvg-id="sctv" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/SCTV_Logo.svg/2560px-SCTV_Logo.svg.png",SCTV Indonesia
+http://stream.cvmtv.site/SCTV?token=live
+
 #EXTINF:-1 group-title="FIFA WOMEN'S WORLD CUP 2023" tvg-id="skynz" tvg-logo="https://static.sky.co.nz/sky/channel-logos/051_sky_sport_1_logo_stack_rgb.png",TEST - Sky Sport 1 NZ
 http://stream.cvmtv.site/SkyNZ?token=live
 #EXTINF:-1 group-title="FIFA WOMEN'S WORLD CUP 2023" tvg-id="la2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/RSI_La_2_2012.svg/1200px-RSI_La_2_2012.svg.png",RSI LA2
@@ -31,13 +46,6 @@ http://stream.cvmtv.site/M4?token=live
 http://stream.cvmtv.site/M4Plus?token=live
 #EXTINF:-1 group-title="FIFA WOMEN'S WORLD CUP 2023" tvg-id="trtspor" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/TRT_Spor_logo_%282022%29.svg/1280px-TRT_Spor_logo_%282022%29.svg.png",TRT Spor
 http://stream.cvmtv.site/TRTSpor?token=live
-
-#EXTINF:-1 group-title="PREMIER LEAGUE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Setanta-logo.jpg/640px-Setanta-logo.jpg",Setanta Sports + Ukraine
-http://stream.cvmtv.site/Setanta?token=live
-#EXTINF:-1 group-title="PREMIER LEAGUE" tvg-logo="https://img.usanetwork.com/sites/nbcunbc/files/USA-Logo-White-450x198.png",USA Network
-http://stream.cvmtv.site/USA?token=live
-#EXTINF:-1 group-title="PREMIER LEAGUE" tvg-id="sctv" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/SCTV_Logo.svg/2560px-SCTV_Logo.svg.png",SCTV Indonesia
-http://stream.cvmtv.site/SCTV?token=live
 
 #EXTINF:-1 group-title="ZIGGO SPORT" tvg-id="zselect" tvg-logo="https://raw.githubusercontent.com/chivy141206/cvmedia/main/img/select.png",Ziggo Sport Select
 http://stream.cvmtv.site/ZiggoS?token=live

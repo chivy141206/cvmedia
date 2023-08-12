@@ -46,6 +46,10 @@ http://stream.cvmtv.site/M4?token=live
 http://stream.cvmtv.site/M4Plus?token=live
 #EXTINF:-1 group-title="FIFA WOMEN'S WORLD CUP 2023" tvg-id="trtspor" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/TRT_Spor_logo_%282022%29.svg/1280px-TRT_Spor_logo_%282022%29.svg.png",TRT Spor
 http://stream.cvmtv.site/TRTSpor?token=live
+#EXTINF:-1 group-title="FIFA WOMEN'S WORLD CUP 2023" tvg-id="7hd" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Seven_Network_logo.svg/1200px-Seven_Network_logo.svg.png",7HD
+http://stream.cvmtv.site/7HD?token=live
+#EXTINF:-1 group-title="FIFA WOMEN'S WORLD CUP 2023" tvg-id="7mate" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/7mate_logo_2020.svg/1200px-7mate_logo_2020.svg.png",7mate
+http://stream.cvmtv.site/7M?token=live
 
 #EXTINF:-1 group-title="ZIGGO SPORT" tvg-id="zselect" tvg-logo="https://raw.githubusercontent.com/chivy141206/cvmedia/main/img/select.png",Ziggo Sport Select
 http://stream.cvmtv.site/ZiggoS?token=live

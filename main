@@ -23,6 +23,8 @@ http://stream.cvmtv.site/ViaXtra?token=live
 
 #EXTINF:-1 group-title="PREMIER LEAGUE" tvg-logo="https://upload.wikimedia.org/wikipedia/vi/thumb/f/f2/Premier_League_Logo.svg/1200px-Premier_League_Logo.svg.png",EPL LIVE 4K
 http://stream.cvmtv.site/event?token=live
+#EXTINF:-1 group-title="PREMIER LEAGUE" https://www.sky.de/static/img/senderlogos_dark/1000_sky_logo_sky-sport-pl-hd_tvguide.png",Sky Sport Premier League
+http://stream.cvmtv.site/skypl?token=live
 #EXTINF:-1 group-title="PREMIER LEAGUE" tvg-id="digi1" tvg-logo="https://static.wikia.nocookie.net/tvfanon6528/images/2/20/Digi_Sport_1_%282012-.n.v.%29.png",Digi Sport 1
 http://stream.cvmtv.site/DigiS1?token=live
 #EXTINF:-1 group-title="PREMIER LEAGUE" tvg-id="digi2" tvg-logo="https://static.wikia.nocookie.net/tvfanon6528/images/2/25/Digi_Sport_2_%282012-.n.v.%29.png",Digi Sport 2

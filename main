@@ -133,17 +133,6 @@ http://stream.cvmtv.site/Viu?token=live
 #EXTINF:-1 group-title="HKG DVB-T2" tvg-id="viu6" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/ViuTVsix-logo.svg/1024px-ViuTVsix-logo.svg.png",ViuTVsix
 http://stream.cvmtv.site/Viu6?token=live
 
-#EXTINF:-1 group-title="JAPAN TV" tvg-id="nhkg" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/NHK_General_TV_logo.svg/1000px-NHK_General_TV_logo.svg.png",NHK G
-http://stream.cvmtv.site/NHKG?token=live
-#EXTINF:-1 group-title="JAPAN TV" tvg-id="nhke" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/NHK_Educational_TV_logo.svg/1000px-NHK_Educational_TV_logo.svg.png",NHK E
-http://stream.cvmtv.site/NHKE?token=live
-#EXTINF:-1 group-title="JAPAN TV" tvg-id="tbs" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Tokyo_Broadcasting_System_logo_2020.svg/1000px-Tokyo_Broadcasting_System_logo_2020.svg.png",TBS
-http://stream.cvmtv.site/TBS?token=live
-#EXTINF:-1 group-title="JAPAN TV" tvg-id="tokyo" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/TV_Tokyo_logo_20110629.svg/1000px-TV_Tokyo_logo_20110629.svg.png",TV Tokyo
-http://stream.cvmtv.site/TVT?token=live
-#EXTINF:-1 group-title="JAPAN TV" tvg-id="asahi" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/TV_Asahi_Logo.svg/1000px-TV_Asahi_Logo.svg.png",TV Asahi
-http://stream.cvmtv.site/TVA?token=live
-
 #EXTINF:-1 group-title="GERMANY TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Das_Erste-Logo_klein.svg/1200px-Das_Erste-Logo_klein.svg.png",Das Erste
 http://stream.cvmtv.site/DasErste?token=live
 #EXTINF:-1 group-title="GERMANY TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/ZDF_HD_Logo.svg/2560px-ZDF_HD_Logo.svg.png",ZDF

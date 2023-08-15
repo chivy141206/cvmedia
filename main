@@ -5,15 +5,17 @@ http://stream.cvmtv.site/vtv1?token=live
 http://stream.cvmtv.site/vtv3?token=live
 #EXTINF:-1 group-title="VIỆT NAM" tvg-id="vtv5hd" tvg-logo="https://raw.githubusercontent.com/chivy141206/cvmedia/main/img/vtv5.png",VTV5 HD
 http://stream.cvmtv.site/vtv5?token=live
-#EXTINF:-1 group-title="VIỆT NAM" tvg-id="vtv5hdtnb" tvg-logo="https://raw.githubusercontent.com/chivy141206/cvmedia/main/img/vtv5tnb.png",VTV5 Tây Nam Bộ HD
+#EXTINF:-1 group-title="VIỆT NAM" tvg-id="vtv5hdtnb" tvg-logo="https://raw.githubusercontent.com/chivy141206/cvmedia/main/img/vtv5tnb.png",VTV5 Tây Nam Bộ
 http://stream.cvmtv.site/vtv5tnb?token=live
-#EXTINF:-1 group-title="VIỆT NAM" tvg-id="htvthethaohd" tvg-logo="https://raw.githubusercontent.com/chivy141206/cvmedia/main/img/htvtt.png",HTV Thể thao HD
+#EXTINF:-1 group-title="VIỆT NAM" tvg-id="vtv6hd" tvg-logo="https://raw.githubusercontent.com/chivy141206/cvmedia/main/img/vtvct.png",VTV Cần Thơ
+http://stream.cvmtv.site/vtvct?token=live
+#EXTINF:-1 group-title="VIỆT NAM" tvg-id="htvthethaohd" tvg-logo="https://raw.githubusercontent.com/chivy141206/cvmedia/main/img/htvtt.png",HTV Thể thao
 http://stream.cvmtv.site/htvtt?token=live
 #EXTINF:-1 group-title="VIỆT NAM" tvg-id="quochoi" tvg-logo="https://quochoitv.vn/themes/quochoitv/images/logo-qhtv-new.png",Quốc Hội TV
 http://stream.cvmtv.site/qhtv?token=live
 
-#EXTINF:-1 group-title="THỂ THAO TỔNG HỢP" tvg-id="one31" tvg-logo="https://upload.wikimedia.org/wikipedia/en/a/a8/One_31_Logo.png",SEA VLEAGUE - One31
-http://stream.cvmtv.site/One31?token=live
+#EXTINF:-1 group-title="THỂ THAO TỔNG HỢP" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/ff/AFC_Champions_League_logo.svg/1200px-AFC_Champions_League_logo.svg.png",HẢI PHÒNG vs RANGERS - EVENTS
+http://stream.cvmtv.site/ACLPO?token=live
 #EXTINF:-1 group-title="THỂ THAO TỔNG HỢP" tvg-logo="https://www.alkass.net/alkass/assets/images/one.png",Alkass One
 http://stream.cvmtv.site/AK1?token=live
 #EXTINF:-1 group-title="THỂ THAO TỔNG HỢP" tvg-id="trtsy" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/TRT_Spor_Y%C4%B1ld%C4%B1z_Logo.svg/2560px-TRT_Spor_Y%C4%B1ld%C4%B1z_Logo.svg.png",TRT Spor Yildiz

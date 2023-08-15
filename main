@@ -15,7 +15,7 @@ http://stream.cvmtv.site/htvtt?token=live
 http://stream.cvmtv.site/qhtv?token=live
 
 #EXTINF:-1 group-title="THỂ THAO TỔNG HỢP" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/ff/AFC_Champions_League_logo.svg/1200px-AFC_Champions_League_logo.svg.png",HẢI PHÒNG vs RANGERS - EVENTS
-http://stream.cvmtv.site/ACLPO?token=live
+
 #EXTINF:-1 group-title="THỂ THAO TỔNG HỢP" tvg-logo="https://www.alkass.net/alkass/assets/images/one.png",Alkass One
 http://stream.cvmtv.site/AK1?token=live
 #EXTINF:-1 group-title="THỂ THAO TỔNG HỢP" tvg-id="trtsy" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/TRT_Spor_Y%C4%B1ld%C4%B1z_Logo.svg/2560px-TRT_Spor_Y%C4%B1ld%C4%B1z_Logo.svg.png",TRT Spor Yildiz

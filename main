@@ -14,10 +14,6 @@ http://stream.cvmtv.site/htvtt?token=live
 #EXTINF:-1 group-title="VIỆT NAM" tvg-id="quochoi" tvg-logo="https://quochoitv.vn/themes/quochoitv/images/logo-qhtv-new.png",Quốc Hội TV
 http://stream.cvmtv.site/qhtv?token=live
 
-#EXTINF:-1 group-title="THỂ THAO TỔNG HỢP" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/ff/AFC_Champions_League_logo.svg/1200px-AFC_Champions_League_logo.svg.png",HẢI PHÒNG vs RANGERS - EVENTS
-
-#EXTINF:-1 group-title="THỂ THAO TỔNG HỢP" tvg-logo="https://www.alkass.net/alkass/assets/images/one.png",Alkass One
-
 #EXTINF:-1 group-title="PREMIER LEAGUE" tvg-logo="https://upload.wikimedia.org/wikipedia/vi/thumb/f/f2/Premier_League_Logo.svg/1200px-Premier_League_Logo.svg.png",EPL LIVE 4K
 http://stream.cvmtv.site/event?token=live
 #EXTINF:-1 group-title="PREMIER LEAGUE" tvg-logo="https://www.sky.de/static/img/senderlogos_dark/1000_sky_logo_sky-sport-pl-hd_tvguide.png",Sky Sport Premier League
@@ -102,11 +98,6 @@ http://stream.cvmtv.site/ESPN3?token=live
 #EXTINF:-1 group-title="ESPN MX" tvg-id="espnextra" tvg-logo="https://raw.githubusercontent.com/chivy141206/cvmedia/main/img/espn_extra.png",ESPN Extra
 http://stream.cvmtv.site/ESPNE?token=live
 
-#EXTINF:-1 group-title="THỂ THAO TỔNG HỢP" tvg-id="trtsy" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/TRT_Spor_Y%C4%B1ld%C4%B1z_Logo.svg/2560px-TRT_Spor_Y%C4%B1ld%C4%B1z_Logo.svg.png",TRT Spor Yildiz
-http://stream.cvmtv.site/TRT_SY?token=live
-#EXTINF:-1 group-title="THỂ THAO TỔNG HỢP" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3c/Viaplay_logo.png",ViaplayXtra
-http://stream.cvmtv.site/ViaXtra?token=live
-
 #EXTINF:-1 group-title="FREEVIEW UK" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/BBC_One_logo_2021.svg/800px-BBC_One_logo_2021.svg.png",BBC One
 http://stream.cvmtv.site/BBC1?token=live
 #EXTINF:-1 group-title="FREEVIEW UK" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/BBC_Two_logo_2021.svg/640px-BBC_Two_logo_2021.svg.png",BBC Two
@@ -127,6 +118,8 @@ http://stream.cvmtv.site/CBBC?token=live
 http://stream.cvmtv.site/S4C?token=live
 #EXTINF:-1 group-title="FREEVIEW UK" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/BBC_Red_Button_2021.svg/2560px-BBC_Red_Button_2021.svg.png",BBC RB 1
 http://stream.cvmtv.site/BBC_RB?token=live
+#EXTINF:-1 group-title="FREEVIEW UK" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3c/Viaplay_logo.png",ViaplayXtra
+http://stream.cvmtv.site/ViaXtra?token=live
 
 #EXTINF:-1 group-title="HKG DVB-T2" tvg-id="jade" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/TVB_Jade_logo.svg/1200px-TVB_Jade_logo.svg.png",TVB Jade
 http://stream.cvmtv.site/Jade?token=live

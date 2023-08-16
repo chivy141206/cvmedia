@@ -41,7 +41,7 @@ http://stream.cvmtv.site/USA?token=live
 http://stream.cvmtv.site/SCTV?token=live
 
 #EXTINF:-1 group-title="FIFA WOMEN'S WORLD CUP 2023" tvg-id="skynz" tvg-logo="https://static.sky.co.nz/sky/channel-logos/051_sky_sport_1_logo_stack_rgb.png",TEST - Sky Sport 1 NZ
-http://stream.cvmtv.site/SkyNZ?token=live
+
 #EXTINF:-1 group-title="FIFA WOMEN'S WORLD CUP 2023" tvg-id="la2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/RSI_La_2_2012.svg/1200px-RSI_La_2_2012.svg.png",RSI LA2
 http://stream.cvmtv.site/LA2?token=live
 #EXTINF:-1 group-title="FIFA WOMEN'S WORLD CUP 2023" tvg-id="m4" tvg-logo="https://upload.wikimedia.org/wikipedia/hu/thumb/f/fd/M4_logo.png/1200px-M4_logo.png",M4 Sport

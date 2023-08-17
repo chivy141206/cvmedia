@@ -144,7 +144,7 @@ http://stream.cvmtv.site/CCTV14?token=live
 http://stream.cvmtv.site/Jade?token=live
 #EXTINF:-1 group-title="CHINA TV" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/12/Free-Pearl.png",TVB Pearl
 http://stream.cvmtv.site/Pearl?token=live
-#EXTINF:-1 group-title="CHINA TV" tvg-logo="https://raw.githubusercontent.com/chivy141206/cvmedia/main/img/vtvct.png",TVB J2
+#EXTINF:-1 group-title="CHINA TV" tvg-logo="https://raw.githubusercontent.com/chivy141206/cvmedia/main/img/j2.png",TVB J2
 http://stream.cvmtv.site/J2?token=live
 #EXTINF:-1 group-title="CHINA TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/ViuTV_logo.svg/1920px-ViuTV_logo.svg.png",ViuTV
 http://stream.cvmtv.site/Viu?token=live

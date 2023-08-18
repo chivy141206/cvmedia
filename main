@@ -29,7 +29,7 @@ http://stream.cvmtv.site/Setanta?token=live
 #EXTINF:-1 group-title="PREMIER LEAGUE" tvg-logo="https://img.usanetwork.com/sites/nbcunbc/files/USA-Logo-White-450x198.png",USA Network
 http://stream.cvmtv.site/USA?token=live
 #EXTINF:-1 group-title="PREMIER LEAGUE" tvg-id="sctv" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/SCTV_Logo.svg/2560px-SCTV_Logo.svg.png",SCTV Indonesia
-http://stream.cvmtv.site/SCTV?token=live
+
 
 #EXTINF:-1 group-title="FIFA WOMEN'S WORLD CUP 2023" tvg-id="skynz" tvg-logo="https://static.sky.co.nz/sky/channel-logos/051_sky_sport_1_logo_stack_rgb.png",TEST - Sky Sport 1 NZ
 

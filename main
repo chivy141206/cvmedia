@@ -7,6 +7,8 @@ http://stream.cvmtv.site/vtv3?token=live
 http://stream.cvmtv.site/vtv5?token=live
 #EXTINF:-1 group-title="VIỆT NAM" tvg-id="vtv5hdtnb" tvg-logo="https://raw.githubusercontent.com/chivy141206/cvmedia/main/img/vtv5tnb.png",VTV5 Tây Nam Bộ
 http://stream.cvmtv.site/vtv5tnb?token=live
+#EXTINF:-1 group-title="VIỆT NAM" tvg-id="vtv5hdtn" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Vtv5taynguyen_logo.svg/794px-Vtv5taynguyen_logo.svg.png",VTV5 Tây Nguyên
+http://stream.cvmtv.site/vtv5tn?token=live
 #EXTINF:-1 group-title="VIỆT NAM" tvg-id="vtv6hd" tvg-logo="https://raw.githubusercontent.com/chivy141206/cvmedia/main/img/vtvct.png",VTV Cần Thơ
 http://stream.cvmtv.site/vtvct?token=live
 #EXTINF:-1 group-title="VIỆT NAM" tvg-id="htvthethaohd" tvg-logo="https://raw.githubusercontent.com/chivy141206/cvmedia/main/img/htvtt.png",HTV Thể thao
@@ -102,6 +104,9 @@ http://stream.cvmtv.site/ESPN2?token=live
 http://stream.cvmtv.site/ESPN3?token=live
 #EXTINF:-1 group-title="ESPN MX" tvg-id="espnextra" tvg-logo="https://raw.githubusercontent.com/chivy141206/cvmedia/main/img/espn_extra.png",ESPN Extra
 http://stream.cvmtv.site/ESPNE?token=live
+
+#EXTINF:-1 tvg-id="pptv36" tvg-logo="https://raw.githubusercontent.com/chivy141206/cvmedia/main/img/pptv36.png",PPTV36
+http://stream.cvmtv.site/PPTV?token=live
 
 #EXTINF:-1 group-title="FREEVIEW UK" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/BBC_One_logo_2021.svg/800px-BBC_One_logo_2021.svg.png",BBC One
 http://stream.cvmtv.site/BBC1?token=live

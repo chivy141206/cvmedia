@@ -1,6 +1,8 @@
 #EXTM3U url-tvg="http://stream.cvmtv.site:5000/epg.xml,http://trada.info/epg.xml,http://stream.cvmtv.site:9981/xmltv/channels"
 #EXTINF:-1 group-title="VIỆT NAM" tvg-id="vtv1hd" tvg-logo="https://raw.githubusercontent.com/chivy141206/cvmedia/main/img/vtv1.png",VTV1 HD
 http://stream.cvmtv.site/vtv1?token=live
+#EXTINF:-1 group-title="VIỆT NAM" tvg-id="vtv2hd" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/VTV2_logo_2013_final.svg/1200px-VTV2_logo_2013_final.svg.png",VTV2 HD
+http://stream.cvmtv.site/vtv2?token=live
 #EXTINF:-1 group-title="VIỆT NAM" tvg-id="vtv3hd" tvg-logo="https://raw.githubusercontent.com/chivy141206/cvmedia/main/img/vtv3.png",VTV3 HD
 http://stream.cvmtv.site/vtv3?token=live
 #EXTINF:-1 group-title="VIỆT NAM" tvg-id="vtv5hd" tvg-logo="https://raw.githubusercontent.com/chivy141206/cvmedia/main/img/vtv5.png",VTV5 HD
@@ -43,9 +45,9 @@ http://stream.cvmtv.site/M4?token=live
 http://stream.cvmtv.site/M4Plus?token=live
 #EXTINF:-1 group-title="FIFA WOMEN'S WORLD CUP 2023" tvg-id="trtspor" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/TRT_Spor_logo_%282022%29.svg/1280px-TRT_Spor_logo_%282022%29.svg.png",TRT Spor
 http://stream.cvmtv.site/TRTSpor?token=live
-#EXTINF:-1 group-title="FIFA WOMEN'S WORLD CUP 2023" tvg-id="7hd" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Seven_Network_logo.svg/1200px-Seven_Network_logo.svg.png",7HD
+#EXTINF:-1 group-title="FIFA WOMEN'S WORLD CUP 2023" tvg-id="7hd" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Seven_Network_logo.svg/1200px-Seven_Network_logo.svg.png",7HD (Matches Only)
 http://stream.cvmtv.site/7HD?token=live
-#EXTINF:-1 group-title="FIFA WOMEN'S WORLD CUP 2023" tvg-id="7mate" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/7mate_logo_2020.svg/1200px-7mate_logo_2020.svg.png",7mate
+#EXTINF:-1 group-title="FIFA WOMEN'S WORLD CUP 2023" tvg-id="7mate" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/7mate_logo_2020.svg/1200px-7mate_logo_2020.svg.png",7mate (Matches Only)
 http://stream.cvmtv.site/7M?token=live
 
 #EXTINF:-1 group-title="ZIGGO SPORT" tvg-id="zselect" tvg-logo="https://raw.githubusercontent.com/chivy141206/cvmedia/main/img/select.png",Ziggo Sport Select
@@ -137,6 +139,8 @@ http://stream.cvmtv.site/CCTV1?token=live
 http://stream.cvmtv.site/CCTV3?token=live
 #EXTINF:-1 group-title="CHINA TV" tvg-logo="https://p1.img.cctvpic.com/photoAlbum/templet/common/DEPA1532314258547503/cctv-5_180817.png",CCTV-5
 http://stream.cvmtv.site/CCTV5?token=live
+#EXTINF:-1 group-title="CHINA TV" tvg-logo="https://p1.img.cctvpic.com/photoAlbum/templet/common/DEPA1532314258547503/cctv-5_180817.png",CCTV-5+
+http://stream.cvmtv.site/CCTV5p?token=live
 #EXTINF:-1 group-title="CHINA TV" tvg-logo="https://p1.img.cctvpic.com/photoAlbum/templet/common/DEPA1532314258547503/cctv-6_180817.png",CCTV-6
 http://stream.cvmtv.site/CCTV6?token=live
 #EXTINF:-1 group-title="CHINA TV" tvg-logo="https://p1.img.cctvpic.com/photoAlbum/templet/common/DEPA1532314258547503/cctv-8_180817.png",CCTV-8

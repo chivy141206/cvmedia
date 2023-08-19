@@ -1,4 +1,4 @@
-#EXTM3U url-tvg="http://stream.cvmtv.site:5000/epg.xml,http://trada.info/epg.xml,http://stream.cvmtv.site:9981/xmltv/channels"
+#EXTM3U url-tvg="http://stream.cvmtv.site:5000/epg.xml,lichphatsong.xyz/schedule/vthanhtivi_epg.xml,http://stream.cvmtv.site:9981/xmltv/channels"
 #EXTINF:-1 group-title="VIỆT NAM" tvg-id="vtv1hd" tvg-logo="https://raw.githubusercontent.com/chivy141206/cvmedia/main/img/vtv1.png",VTV1 HD
 http://stream.cvmtv.site/vtv1?token=live
 #EXTINF:-1 group-title="VIỆT NAM" tvg-id="vtv2hd" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/VTV2_logo_2013_final.svg/1200px-VTV2_logo_2013_final.svg.png",VTV2 HD
@@ -139,7 +139,7 @@ http://stream.cvmtv.site/CCTV1?token=live
 http://stream.cvmtv.site/CCTV3?token=live
 #EXTINF:-1 group-title="CHINA TV" tvg-logo="https://p1.img.cctvpic.com/photoAlbum/templet/common/DEPA1532314258547503/cctv-5_180817.png",CCTV-5
 http://stream.cvmtv.site/CCTV5?token=live
-#EXTINF:-1 group-title="CHINA TV" tvg-logo="https://p1.img.cctvpic.com/photoAlbum/templet/common/DEPA1532314258547503/cctv-5_180817.png",CCTV-5+
+#EXTINF:-1 group-title="CHINA TV" tvg-logo="https://p1.img.cctvpic.com/photoAlbum/templet/common/DEPA1536890041758372/cctv5plus_20180904.png",CCTV-5+
 http://stream.cvmtv.site/CCTV5p?token=live
 #EXTINF:-1 group-title="CHINA TV" tvg-logo="https://p1.img.cctvpic.com/photoAlbum/templet/common/DEPA1532314258547503/cctv-6_180817.png",CCTV-6
 http://stream.cvmtv.site/CCTV6?token=live

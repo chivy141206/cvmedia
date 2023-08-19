@@ -34,6 +34,14 @@ http://stream.cvmtv.site/Setanta?token=live
 http://stream.cvmtv.site/USA?token=live
 #EXTINF:-1 group-title="PREMIER LEAGUE" tvg-id="sctv" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/SCTV_Logo.svg/2560px-SCTV_Logo.svg.png",SCTV Indonesia
 
+#EXTINF:-1 group-title="PREMIER LEAGUE" tvg-id="prima1" tvg-logo="https://raw.githubusercontent.com/chivy141206/cvmedia/main/img/prima1.png",Prima Sport 1
+http://stream.cvmtv.site/PRS1?token=live
+#EXTINF:-1 group-title="PREMIER LEAGUE" tvg-id="prima2" tvg-logo="https://raw.githubusercontent.com/chivy141206/cvmedia/main/img/prima2.png",Prima Sport 2
+http://stream.cvmtv.site/PRS2?token=live
+#EXTINF:-1 group-title="PREMIER LEAGUE" tvg-id="prima3" tvg-logo="https://raw.githubusercontent.com/chivy141206/cvmedia/main/img/prima1.png",Prima Sport 3
+http://stream.cvmtv.site/PRS3?token=live
+#EXTINF:-1 group-title="PREMIER LEAGUE" tvg-id="prima1" tvg-logo="https://raw.githubusercontent.com/chivy141206/cvmedia/main/img/orange4.png",Orange Sport 4
+http://stream.cvmtv.site/ORS4?token=live
 
 #EXTINF:-1 group-title="FIFA WOMEN'S WORLD CUP 2023" tvg-id="skynz" tvg-logo="https://static.sky.co.nz/sky/channel-logos/051_sky_sport_1_logo_stack_rgb.png",TEST - Sky Sport 1 NZ
 

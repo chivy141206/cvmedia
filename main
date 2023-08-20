@@ -10,7 +10,7 @@ http://stream.cvmtv.site/vtv5?token=live
 #EXTINF:-1 group-title="VIỆT NAM" tvg-id="vtv5hdtnb" tvg-logo="https://raw.githubusercontent.com/chivy141206/cvmedia/main/img/vtv5tnb.png",VTV5 Tây Nam Bộ
 http://stream.cvmtv.site/vtv5tnb?token=live
 #EXTINF:-1 group-title="VIỆT NAM" tvg-id="vtv5hdtn" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Vtv5taynguyen_logo.svg/794px-Vtv5taynguyen_logo.svg.png",VTV5 Tây Nguyên
-http://stream.cvmtv.site/vtv5tn?token=live
+#http://stream.cvmtv.site/vtv5tn?token=live
 #EXTINF:-1 group-title="VIỆT NAM" tvg-id="vtv6hd" tvg-logo="https://raw.githubusercontent.com/chivy141206/cvmedia/main/img/vtvct.png",VTV Cần Thơ
 http://stream.cvmtv.site/vtvct?token=live
 #EXTINF:-1 group-title="VIỆT NAM" tvg-id="htvthethaohd" tvg-logo="https://raw.githubusercontent.com/chivy141206/cvmedia/main/img/htvtt.png",HTV Thể thao

@@ -16,6 +16,11 @@ http://stream.cvmtv.site/vtvct?token=live
 #EXTINF:-1 group-title="VIỆT NAM" tvg-id="htvthethaohd" tvg-logo="https://raw.githubusercontent.com/chivy141206/cvmedia/main/img/htvtt.png",HTV Thể thao
 http://stream.cvmtv.site/htvtt?token=live
 
+#EXTINF:-1 group-title="GENERAL" tvg-id="la2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/RSI_La_2_2012.svg/1200px-RSI_La_2_2012.svg.png",RSI LA2
+http://stream.cvmtv.site/LA2?token=live
+#EXTINF:-1 group-title="GENERAL" tvg-id="m4" tvg-logo="https://upload.wikimedia.org/wikipedia/hu/thumb/f/fd/M4_logo.png/1200px-M4_logo.png",M4 Sport
+http://stream.cvmtv.site/M4?token=live
+
 #EXTINF:-1 group-title="PREMIER LEAGUE" tvg-logo="https://upload.wikimedia.org/wikipedia/vi/thumb/f/f2/Premier_League_Logo.svg/1200px-Premier_League_Logo.svg.png",EPL LIVE 4K
 http://stream.cvmtv.site/event?token=live
 #EXTINF:-1 group-title="PREMIER LEAGUE" tvg-logo="https://www.sky.de/static/img/senderlogos_dark/1000_sky_logo_sky-sport-pl-hd_tvguide.png",Sky Sport Premier League
@@ -101,13 +106,6 @@ http://stream.cvmtv.site/ESPN2?token=live
 http://stream.cvmtv.site/ESPN3?token=live
 #EXTINF:-1 group-title="ESPN MX" tvg-id="espnextra" tvg-logo="https://raw.githubusercontent.com/chivy141206/cvmedia/main/img/espn_extra.png",ESPN Extra
 http://stream.cvmtv.site/ESPNE?token=live
-
-#EXTINF:-1 group-title="GENERAL" tvg-id="la2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/RSI_La_2_2012.svg/1200px-RSI_La_2_2012.svg.png",RSI LA2
-http://stream.cvmtv.site/LA2?token=live
-#EXTINF:-1 group-title="GENERAL" tvg-id="m4" tvg-logo="https://upload.wikimedia.org/wikipedia/hu/thumb/f/fd/M4_logo.png/1200px-M4_logo.png",M4 Sport
-http://stream.cvmtv.site/M4?token=live
-#EXTINF:-1 group-title="GENERAL" tvg-id="pptv36" tvg-logo="https://raw.githubusercontent.com/chivy141206/cvmedia/main/img/pptv36.png",PPTV36
-http://stream.cvmtv.site/PPTV?token=live
 
 #EXTINF:-1 group-title="FREEVIEW UK" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/BBC_One_logo_2021.svg/800px-BBC_One_logo_2021.svg.png",BBC One
 http://stream.cvmtv.site/BBC1?token=live

@@ -26,19 +26,19 @@ http://stream.cvmtv.site/event?token=live
 #EXTINF:-1 group-title="PREMIER LEAGUE" tvg-logo="https://www.sky.de/static/img/senderlogos_dark/1000_sky_logo_sky-sport-pl-hd_tvguide.png",Sky Sport Premier League
 #http://stream.cvmtv.site/skypl?token=live
 #EXTINF:-1 group-title="STAR SPORTS" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/37/Star-sports-select-1.png",Star Sports Select 1
-http://stream.cvmtv.site/StarSL1?token=live
+http://128.199.214.24:8080/StarSL1?token=live
 #EXTINF:-1 group-title="STAR SPORTS" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/3b/Star-sports-select-2.png",Star Sports Select 2
-http://stream.cvmtv.site/StarSL2?token=live
+http://128.199.214.24:8080/StarSL2?token=live
 #EXTINF:-1 group-title="PREMIER LEAGUE" tvg-id="digi1" tvg-logo="https://static.wikia.nocookie.net/tvfanon6528/images/2/20/Digi_Sport_1_%282012-.n.v.%29.png",Digi Sport 1
-http://stream.cvmtv.site/DigiS1?token=live
+http://128.199.214.24:8080/DigiS1?token=live
 #EXTINF:-1 group-title="PREMIER LEAGUE" tvg-id="digi2" tvg-logo="https://static.wikia.nocookie.net/tvfanon6528/images/2/25/Digi_Sport_2_%282012-.n.v.%29.png",Digi Sport 2
-http://stream.cvmtv.site/DigiS2?token=live
+http://128.199.214.24:8080/DigiS2?token=live
 #EXTINF:-1 group-title="PREMIER LEAGUE" tvg-logo="https://cms.dmpcdn.com/livetv/2023/05/03/ba4c4510-e966-11ed-896e-69ce273284a6_webp_original.png",True Premier Football 2
 #http://stream.cvmtv.site/TPF2?token=live
 #EXTINF:-1 group-title="PREMIER LEAGUE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Setanta-logo.jpg/640px-Setanta-logo.jpg",Setanta Sports + Ukraine
 http://stream.cvmtv.site/Setanta?token=live
 #EXTINF:-1 group-title="PREMIER LEAGUE" tvg-logo="https://img.usanetwork.com/sites/nbcunbc/files/USA-Logo-White-450x198.png",USA Network
-http://stream.cvmtv.site/USA?token=live
+http://128.199.214.24:8080/USA?token=live
 #EXTINF:-1 group-title="PREMIER LEAGUE" tvg-id="sctv" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/SCTV_Logo.svg/2560px-SCTV_Logo.svg.png",SCTV Indonesia
 
 #EXTINF:-1 group-title="PREMIER LEAGUE" tvg-id="prima1" tvg-logo="https://raw.githubusercontent.com/chivy141206/cvmedia/main/img/prima1.png",Prima Sport 1
@@ -51,52 +51,52 @@ http://stream.cvmtv.site/USA?token=live
 #http://stream.cvmtv.site/ORS4?token=live
 
 #EXTINF:-1 group-title="ZIGGO SPORT" tvg-id="zselect" tvg-logo="https://raw.githubusercontent.com/chivy141206/cvmedia/main/img/select.png",Ziggo Sport Select
-http://stream.cvmtv.site/ZiggoS?token=live
+http://128.199.214.24:8080/ZiggoS?token=live
 #EXTINF:-1 group-title="ZIGGO SPORT" tvg-id="zvoetbal" tvg-logo="https://raw.githubusercontent.com/chivy141206/cvmedia/main/img/voetbal.png",Ziggo Sport Voetbal
-http://stream.cvmtv.site/ZiggoV?token=live
+http://128.199.214.24:8080/ZiggoV?token=live
 #EXTINF:-1 group-title="ZIGGO SPORT" tvg-id="zgolf" tvg-logo="https://raw.githubusercontent.com/chivy141206/cvmedia/main/img/golf.png",Ziggo Sport Golf
-http://stream.cvmtv.site/ZiggoG?token=live
+http://128.199.214.24:8080/ZiggoG?token=live
 
 #EXTINF:-1 group-title="CANAL+ SPORT" tvg-id="canalsp1" tvg-logo="https://n-4-3.dcs.redcdn.pl/file/o2/n/edytorEPG/logo/logotype_66245.png",Canal+ Sport 1
-http://stream.cvmtv.site/canal1?token=live
+http://128.199.214.24:8080/canal1?token=live
 #EXTINF:-1 group-title="CANAL+ SPORT" tvg-id="canalsp2" tvg-logo="https://r.dcs.redcdn.pl/https/o2/n/edytorEPG/logo/logotype_66249.png",Canal+ Sport 2
-http://stream.cvmtv.site/canal2?token=live
+http://128.199.214.24:8080/canal2?token=live
 #EXTINF:-1 group-title="CANAL+ SPORT" tvg-id="canalsp5" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ef/CANAL%2B_Sport_5.png",Canal+ Sport 5
-http://stream.cvmtv.site/canal5?token=live
+http://128.199.214.24:8080/canal5?token=live
 #EXTINF:-1 group-title="CANAL+ SPORT" tvg-id="canalpre" tvg-logo="https://r.dcs.redcdn.pl/http/o2/n/edytorEPG/logo/logotype_815958.png",Canal+ Premium
-http://stream.cvmtv.site/canalpre?token=live
+http://128.199.214.24:8080/canalpre?token=live
 
 #EXTINF:-1 group-title="ELEVEN SPORTS" tvg-id="eleven1" tvg-logo="https://r.dcs.redcdn.pl/https/o2/n/edytorEPG/logo/logotype_391293.png",Eleven Sports 1
-http://stream.cvmtv.site/E1?token=live
+http://128.199.214.24:8080/E1?token=live
 #EXTINF:-1 group-title="ELEVEN SPORTS" tvg-id="eleven2" tvg-logo="https://r.dcs.redcdn.pl/https/o2/n/edytorEPG/logo/logotype_391296.png",Eleven Sports 2
-http://stream.cvmtv.site/E2?token=live
+http://128.199.214.24:8080/E2?token=live
 #EXTINF:-1 group-title="ELEVEN SPORTS" tvg-id="eleven3" tvg-logo="https://r.dcs.redcdn.pl/https/o2/n/edytorEPG/logo/logotype_391299.png",Eleven Sports 3
-http://stream.cvmtv.site/E3?token=live
+http://128.199.214.24:8080/E3?token=live
 #EXTINF:-1 group-title="ELEVEN SPORTS" tvg-id="eleven4" tvg-logo="https://r.dcs.redcdn.pl/https/o2/n/edytorEPG/logo/logotype_391302.png",Eleven Sports 4
-http://stream.cvmtv.site/E4?token=live
+http://128.199.214.24:8080/E4?token=live
 
 #EXTINF:-1 group-title="MATCH TV" tvg-id="match" tvg-logo="https://new.matchtv.ru/assets/2305181729/images/channels/130.jpg",Match TV
-http://stream.cvmtv.site/Match?token=live
+http://128.199.214.24:8080/Match?token=live
 #EXTINF:-1 group-title="MATCH TV" tvg-id="mf1" tvg-logo="https://new.matchtv.ru/assets/2305181729/images/channels/8.jpg",Match Futbol 1
-http://stream.cvmtv.site/MF1?token=live
+http://128.199.214.24:8080/MF1?token=live
 #EXTINF:-1 group-title="MATCH TV" tvg-id="mf2" tvg-logo="https://new.matchtv.ru/assets/2305181729/images/channels/14.jpg",Match Futbol 2
-http://stream.cvmtv.site/MF2?token=live
+http://128.199.214.24:8080/MF2?token=live
 #EXTINF:-1 group-title="MATCH TV" tvg-id="mf3" tvg-logo="https://new.matchtv.ru/assets/2305181729/images/channels/140.jpg",Match Futbol 3
-http://stream.cvmtv.site/MF3?token=live
+http://128.199.214.24:8080/MF3?token=live
 
 #EXTINF:-1 group-title="EUROSPORT" tvg-id="es1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Eurosport_1_Logo_2015.svg/2560px-Eurosport_1_Logo_2015.svg.png",Eurosport 1
-http://stream.cvmtv.site/ES1?token=live
+http://128.199.214.24:8080/ES1?token=live
 #EXTINF:-1 group-title="EUROSPORT" tvg-id="es2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Eurosport_2_Logo_2015.svg/2560px-Eurosport_2_Logo_2015.svg.png",Eurosport 2
-http://stream.cvmtv.site/ES2?token=live
+http://128.199.214.24:8080/ES2?token=live
 
 #EXTINF:-1 group-title="POLSAT - TVP SPORT" tvg-id="polsatsp" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Polsat_Sport_2021_gradient.svg/1200px-Polsat_Sport_2021_gradient.svg.png",Polsat Sport
-http://stream.cvmtv.site/Polsat?token=live
+http://128.199.214.24:8080/Polsat?token=live
 #EXTINF:-1 group-title="POLSAT - TVP SPORT" tvg-id="polsatspex" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Polsat_Sport_Extra_2021_gradient.svg/1280px-Polsat_Sport_Extra_2021_gradient.svg.png",Polsat Sport Extra
-http://stream.cvmtv.site/PolsatE?token=live
+http://128.199.214.24:8080/PolsatE?token=live
 #EXTINF:-1 group-title="POLSAT - TVP SPORT" tvg-id="polsatspn" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Polsat_Sport_News_2021_horizontal_gradient.svg/1920px-Polsat_Sport_News_2021_horizontal_gradient.svg.png",Polsat Sport News
-http://stream.cvmtv.site/PolsatN?token=live
+http://128.199.214.24:8080/PolsatN?token=live
 #EXTINF:-1 group-title="POLSAT - TVP SPORT" tvg-id="tvpsport" tvg-logo="https://raw.githubusercontent.com/chivy141206/cvmedia/main/img/tvpsport.png",TVP Sport
-http://stream.cvmtv.site/TVPS?token=live
+http://128.199.214.24:8080/TVPS?token=live
 
 #EXTINF:-1 group-title="ESPN MX" tvg-id="espnmx" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/768px-ESPN_wordmark.svg.png",ESPN
 http://stream.cvmtv.site/ESPN?token=live

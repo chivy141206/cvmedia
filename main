@@ -17,7 +17,7 @@ http://stream.cvmtv.site/vtvct?token=live
 http://stream.cvmtv.site/htvtt?token=live
 
 #EXTINF:-1 group-title="THỂ THAO TỔNG HỢP" tvg-logo="https://upload.wikimedia.org/wikipedia/vi/0/0b/AFC_Champions_League_2008_logo.png",ACL Playoffs Event
-http://stream.cvmtv.site/ACLPO2?token=live
+
 #EXTINF:-1 group-title="THỂ THAO TỔNG HỢP" tvg-id="la2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/RSI_La_2_2012.svg/1200px-RSI_La_2_2012.svg.png",RSI LA2
 http://stream.cvmtv.site/LA2?token=live
 #EXTINF:-1 group-title="THỂ THAO TỔNG HỢP" tvg-id="m4" tvg-logo="https://upload.wikimedia.org/wikipedia/hu/thumb/f/fd/M4_logo.png/1200px-M4_logo.png",M4 Sport

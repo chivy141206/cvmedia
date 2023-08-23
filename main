@@ -16,7 +16,7 @@ http://stream.cvmtv.site:8000/vtvct?token=live
 #EXTINF:-1 group-title="VIỆT NAM" tvg-id="htvthethaohd" tvg-logo="https://raw.githubusercontent.com/chivy141206/cvmedia/main/img/htvtt.png",HTV Thể thao
 http://stream.cvmtv.site:8000/htvtt?token=live
 
-#EXTINF:-1 group-title="THỂ THAO TỔNG HỢP" tvg-logo="https://upload.wikimedia.org/wikipedia/vi/0/0b/AFC_Champions_League_2008_logo.png",Alkass One
+#EXTINF:-1 group-title="THỂ THAO TỔNG HỢP" tvg-logo="https://raw.githubusercontent.com/chivy141206/cvmedia/main/img/alkass.png",Alkass One
 http://stream2.cvmtv.site:8080/AK1?token=live
 #EXTINF:-1 group-title="THỂ THAO TỔNG HỢP" tvg-id="la2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/RSI_La_2_2012.svg/1200px-RSI_La_2_2012.svg.png",RSI LA2
 http://stream2.cvmtv.site:8080/LA2?token=live

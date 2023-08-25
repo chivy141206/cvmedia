@@ -85,6 +85,13 @@ http://stream.cvmtv.site/MF1?token=live
 http://stream.cvmtv.site/MF2?token=live
 #EXTINF:-1 group-title="MATCH TV" tvg-id="mf3" tvg-logo="https://new.matchtv.ru/assets/2305181729/images/channels/140.jpg",Match Futbol 3
 http://stream.cvmtv.site/MF3?token=live
+#EXTINF:-1 group-title="MATCH TV" tvg-id="" tvg-logo="https://new.matchtv.ru/assets/2307251725/images/channels/138.jpg",Match Igra
+http://stream.cvmtv.site/MIgra?token=live
+
+#EXTINF:-1 group-title="SPORT KLUB" tvg-id="" tvg-logo="https://images-web.ug-be.cdn.united.cloud/2020/05/28/13/02/26/sk1hd_logo_16_9_light_160x90_0e2f3e64_327f_4e23_bdc0_1109dec1113a.png",Sport Klub 1
+http://stream.cvmtv.site/SK1?token=live
+#EXTINF:-1 group-title="SPORT KLUB" tvg-id="" tvg-logo="https://images-web.ug-be.cdn.united.cloud/2020/05/28/13/02/52/sk2hd_logo_16_9_light_160x90_b8e00d92_1743_4d96_b9e2_73e09c30fdd2.png",Sport Klub 2
+http://stream.cvmtv.site/SK2?token=live
 
 #EXTINF:-1 group-title="EUROSPORT" tvg-id="es1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Eurosport_1_Logo_2015.svg/2560px-Eurosport_1_Logo_2015.svg.png",Eurosport 1
 http://stream.cvmtv.site/ES1?token=live

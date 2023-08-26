@@ -24,7 +24,7 @@ http://stream.cvmtv.site/LA2?token=live
 http://stream.cvmtv.site/M4?token=live
 
 #EXTINF:-1 group-title="PREMIER LEAGUE" tvg-logo="https://upload.wikimedia.org/wikipedia/vi/thumb/f/f2/Premier_League_Logo.svg/1200px-Premier_League_Logo.svg.png",EPL LIVE 4K
-http://uhd.cvmtv.site/event?token=live
+http://stream.cvmtv.site/event?token=live
 #EXTINF:-1 group-title="PREMIER LEAGUE" tvg-logo="https://www.sky.de/static/img/senderlogos_dark/1000_sky_logo_sky-sport-pl-hd_tvguide.png",Sky Sport Premier League
 
 #EXTINF:-1 group-title="STAR SPORTS" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/37/Star-sports-select-1.png",Star Sports Select 1
@@ -43,11 +43,11 @@ http://stream.cvmtv.site/Setanta?token=live
 http://stream.cvmtv.site/USA?token=live
 #EXTINF:-1 group-title="PREMIER LEAGUE" tvg-id="sctv" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/SCTV_Logo.svg/2560px-SCTV_Logo.svg.png",SCTV Indonesia
 
-#EXTINF:-1 group-title="PREMIER LEAGUE" tvg-id="" tvg-logo="https://raw.githubusercontent.com/chivy141206/cvmedia/main/img/orange4.png",Orange Sport 1
-http://stream.cvmtv.site/ORS1?token=live
-#EXTINF:-1 group-title="PREMIER LEAGUE" tvg-id="" tvg-logo="https://raw.githubusercontent.com/chivy141206/cvmedia/main/img/orange4.png",Orange Sport 2
-http://stream.cvmtv.site/ORS2?token=live
-#EXTINF:-1 group-title="PREMIER LEAGUE" tvg-id="" tvg-logo="https://raw.githubusercontent.com/chivy141206/cvmedia/main/img/orange4.png",Orange Sport 3
+#EXTINF:-1 group-title="PREMIER LEAGUE" tvg-id="" tvg-logo="https://raw.githubusercontent.com/chivy141206/cvmedia/main/img/prima1.png",Prima Sport 1
+http://stream.cvmtv.site/PRS1?token=live
+#EXTINF:-1 group-title="PREMIER LEAGUE" tvg-id="" tvg-logo="https://raw.githubusercontent.com/chivy141206/cvmedia/main/img/prima2.png",Orange Sport 2
+http://stream.cvmtv.site/PRS2?token=live
+#EXTINF:-1 group-title="PREMIER LEAGUE" tvg-id="" tvg-logo="https://raw.githubusercontent.com/chivy141206/cvmedia/main/img/orange3.png",Orange Sport 3
 http://stream.cvmtv.site/ORS3?token=live
 #EXTINF:-1 group-title="PREMIER LEAGUE" tvg-id="" tvg-logo="https://raw.githubusercontent.com/chivy141206/cvmedia/main/img/orange4.png",Orange Sport 4
 http://stream.cvmtv.site/ORS4?token=live

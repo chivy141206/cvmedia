@@ -45,7 +45,7 @@ http://stream.cvmtv.site/USA?token=live
 
 #EXTINF:-1 group-title="PREMIER LEAGUE" tvg-id="" tvg-logo="https://raw.githubusercontent.com/chivy141206/cvmedia/main/img/prima1.png",Prima Sport 1
 http://stream.cvmtv.site/PRS1?token=live
-#EXTINF:-1 group-title="PREMIER LEAGUE" tvg-id="" tvg-logo="https://raw.githubusercontent.com/chivy141206/cvmedia/main/img/prima2.png",Orange Sport 2
+#EXTINF:-1 group-title="PREMIER LEAGUE" tvg-id="" tvg-logo="https://raw.githubusercontent.com/chivy141206/cvmedia/main/img/prima2.png",Prima Sport 2
 http://stream.cvmtv.site/PRS2?token=live
 #EXTINF:-1 group-title="PREMIER LEAGUE" tvg-id="" tvg-logo="https://raw.githubusercontent.com/chivy141206/cvmedia/main/img/orange3.png",Orange Sport 3
 http://stream.cvmtv.site/ORS3?token=live

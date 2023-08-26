@@ -48,9 +48,9 @@ http://stream.cvmtv.site/PRS1?token=live
 #EXTINF:-1 group-title="PREMIER LEAGUE" tvg-id="" tvg-logo="https://raw.githubusercontent.com/chivy141206/cvmedia/main/img/prima2.png",Prima Sport 2
 http://stream.cvmtv.site/PRS2?token=live
 #EXTINF:-1 group-title="PREMIER LEAGUE" tvg-id="" tvg-logo="https://raw.githubusercontent.com/chivy141206/cvmedia/main/img/orange3.png",Orange Sport 3
-http://stream.cvmtv.site/ORS3?token=live
+#http://stream.cvmtv.site/ORS3?token=live
 #EXTINF:-1 group-title="PREMIER LEAGUE" tvg-id="" tvg-logo="https://raw.githubusercontent.com/chivy141206/cvmedia/main/img/orange4.png",Orange Sport 4
-http://stream.cvmtv.site/ORS4?token=live
+#http://stream.cvmtv.site/ORS4?token=live
 
 #EXTINF:-1 group-title="ZIGGO SPORT" tvg-id="zselect" tvg-logo="https://raw.githubusercontent.com/chivy141206/cvmedia/main/img/select.png",Ziggo Sport Select
 http://stream.cvmtv.site/ZiggoS?token=live

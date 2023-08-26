@@ -53,11 +53,11 @@ http://stream.cvmtv.site/PRS2?token=live
 #http://stream.cvmtv.site/ORS4?token=live
 
 #EXTINF:-1 group-title="ZIGGO SPORT" tvg-id="zselect" tvg-logo="https://raw.githubusercontent.com/chivy141206/cvmedia/main/img/select.png",Ziggo Sport Select
-http://stream.cvmtv.site/ZiggoS?token=live
+#http://stream.cvmtv.site/ZiggoS?token=live
 #EXTINF:-1 group-title="ZIGGO SPORT" tvg-id="zvoetbal" tvg-logo="https://raw.githubusercontent.com/chivy141206/cvmedia/main/img/voetbal.png",Ziggo Sport Voetbal
-http://stream.cvmtv.site/ZiggoV?token=live
+#http://stream.cvmtv.site/ZiggoV?token=live
 #EXTINF:-1 group-title="ZIGGO SPORT" tvg-id="zgolf" tvg-logo="https://raw.githubusercontent.com/chivy141206/cvmedia/main/img/golf.png",Ziggo Sport Golf
-http://stream.cvmtv.site/ZiggoG?token=live
+#http://stream.cvmtv.site/ZiggoG?token=live
 
 #EXTINF:-1 group-title="CANAL+ SPORT" tvg-id="canalsp1" tvg-logo="https://n-4-3.dcs.redcdn.pl/file/o2/n/edytorEPG/logo/logotype_66245.png",Canal+ Sport 1
 http://stream.cvmtv.site/canal1?token=live

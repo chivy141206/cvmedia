@@ -109,6 +109,11 @@ http://stream.cvmtv.site/PolsatN?token=live
 #EXTINF:-1 group-title="POLSAT - TVP SPORT" tvg-id="tvpsport" tvg-logo="https://raw.githubusercontent.com/chivy141206/cvmedia/main/img/tvpsport.png",TVP Sport
 http://stream.cvmtv.site/TVPS?token=live
 
+#EXTINF:-1 group-title="SPOTV - KOREA SPORTS" tvg-id="" tvg-logo="https://www.spotv.net/images/calendar_spotvgolf&health.png",SPOTV Golf&Health
+http://stream.cvmtv.site/SpoGolf?token=live
+#EXTINF:-1 group-title="SPOTV - KOREA SPORTS" tvg-id="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/99/Jtbcgolf_logo.png",JTBC Golf
+http://stream.cvmtv.site/JTBCG?token=live
+
 #EXTINF:-1 group-title="ESPN MX" tvg-id="espnmx" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/768px-ESPN_wordmark.svg.png",ESPN
 
 #EXTINF:-1 group-title="ESPN MX" tvg-id="espn2mx" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/ESPN2_logo.svg/768px-ESPN2_logo.svg.png",ESPN2

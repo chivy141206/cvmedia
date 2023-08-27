@@ -82,7 +82,7 @@ http://stream.cvmtv.site/E3?token=live
 #EXTINF:-1 group-title="Eleven Sports - Ba Lan" tvg-id="eleven4" tvg-logo="https://r.dcs.redcdn.pl/https/o2/n/edytorEPG/logo/logotype_391302.png",Eleven Sports - Ba Lan 4
 http://stream.cvmtv.site/E4?token=live
 
-#EXTINF:-1 group-title="Match - Nga" tvg-id="match" tvg-logo="https://new.matchtv.ru/assets/2305181729/images/channels/130.jpg",Match - Nga
+#EXTINF:-1 group-title="Match - Nga" tvg-id="match" tvg-logo="https://new.matchtv.ru/assets/2305181729/images/channels/130.jpg",Match TV
 http://stream.cvmtv.site/Match?token=live
 #EXTINF:-1 group-title="Match - Nga" tvg-id="mf1" tvg-logo="https://new.matchtv.ru/assets/2305181729/images/channels/8.jpg",Match Futbol 1
 http://stream.cvmtv.site/MF1?token=live
@@ -93,14 +93,14 @@ http://stream.cvmtv.site/MF3?token=live
 #EXTINF:-1 group-title="Match - Nga" tvg-id="" tvg-logo="https://new.matchtv.ru/assets/2307251725/images/channels/138.jpg",Match Igra
 http://stream.cvmtv.site/MIgra?token=live
 
-#EXTINF:-1 group-title="Sport Klub" tvg-id="" tvg-logo="https://images-web.ug-be.cdn.united.cloud/2020/05/28/13/02/26/sk1hd_logo_16_9_light_160x90_0e2f3e64_327f_4e23_bdc0_1109dec1113a.png",Nhóm Nhóm Sport Klub 1
+#EXTINF:-1 group-title="Sport Klub" tvg-id="" tvg-logo="https://images-web.ug-be.cdn.united.cloud/2020/05/28/13/02/26/sk1hd_logo_16_9_light_160x90_0e2f3e64_327f_4e23_bdc0_1109dec1113a.png",Sport Klub 1
 http://stream.cvmtv.site/SK1?token=live
-#EXTINF:-1 group-title="Sport Klub" tvg-id="" tvg-logo="https://images-web.ug-be.cdn.united.cloud/2020/05/28/13/02/52/sk2hd_logo_16_9_light_160x90_b8e00d92_1743_4d96_b9e2_73e09c30fdd2.png",Nhóm Nhóm Sport Klub 2
+#EXTINF:-1 group-title="Sport Klub" tvg-id="" tvg-logo="https://images-web.ug-be.cdn.united.cloud/2020/05/28/13/02/52/sk2hd_logo_16_9_light_160x90_b8e00d92_1743_4d96_b9e2_73e09c30fdd2.png",Sport Klub 2
 http://stream.cvmtv.site/SK2?token=live
 
-#EXTINF:-1 group-title="Eurosport" tvg-id="es1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Nhóm Eurosport_1_Logo_2015.svg/2560px-Nhóm Eurosport_1_Logo_2015.svg.png",Nhóm Eurosport 1
+#EXTINF:-1 group-title="Eurosport" tvg-id="es1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Eurosport_1_Logo_2015.svg/2560px-Eurosport_1_Logo_2015.svg.png",Eurosport 1
 http://stream.cvmtv.site/ES1?token=live
-#EXTINF:-1 group-title="Eurosport" tvg-id="es2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Nhóm Eurosport_2_Logo_2015.svg/2560px-Nhóm Eurosport_2_Logo_2015.svg.png",Nhóm Eurosport 2
+#EXTINF:-1 group-title="Eurosport" tvg-id="es2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Eurosport_2_Logo_2015.svg/2560px-Eurosport_2_Logo_2015.svg.png",Eurosport 2
 http://stream.cvmtv.site/ES2?token=live
 
 #EXTINF:-1 group-title="Thể thao Ba Lan" tvg-id="polsatsp" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Polsat_Sport_2021_gradient.svg/1200px-Polsat_Sport_2021_gradient.svg.png",Polsat Sport

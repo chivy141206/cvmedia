@@ -28,11 +28,11 @@ http://stream.cvmtv.site/M4?token=live
 #EXTINF:-1 group-title="Thể thao tổng hợp" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3c/Viaplay_logo.png",ViaplayXtra
 http://stream.cvmtv.site/ViaXtra?token=live
 
-#EXTINF:-1 group-title="Premier League - Ngoại hạng Anh" tvg-logo="https://www.sky.de/static/img/senderlogos_dark/1000_sky_logo_sky-sport-pl-hd_tvguide.png",Sky Sport Premier League - Ngoại hạng Anh
+#EXTINF:-1 group-title="Premier League - Ngoại hạng Anh" tvg-logo="https://www.sky.de/static/img/senderlogos_dark/1000_sky_logo_sky-sport-pl-hd_tvguide.png",Sky Sport Premier League
 
-#EXTINF:-1 group-title="Premier League - Ngoại hạng Anh" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/37/Star-sports-select-1.png",Premier League - Ngoại hạng Anh Select 1
+#EXTINF:-1 group-title="Premier League - Ngoại hạng Anh" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/37/Star-sports-select-1.png",Star Sports Select 1
 http://stream.cvmtv.site/StarSL1?token=live
-#EXTINF:-1 group-title="Premier League - Ngoại hạng Anh" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/3b/Star-sports-select-2.png",Premier League - Ngoại hạng Anh Select 2
+#EXTINF:-1 group-title="Premier League - Ngoại hạng Anh" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/3b/Star-sports-select-2.png",Star Sports Select 2
 http://stream.cvmtv.site/StarSL2?token=live
 #EXTINF:-1 group-title="Premier League - Ngoại hạng Anh" tvg-id="digi1" tvg-logo="https://static.wikia.nocookie.net/tvfanon6528/images/2/20/Digi_Sport_1_%282012-.n.v.%29.png",Digi Sport 1
 http://stream.cvmtv.site/DigiS1?token=live
@@ -57,29 +57,29 @@ http://stream.cvmtv.site/PRS2?token=live
 #EXTINF:-1 group-title="Premier League - Ngoại hạng Anh" tvg-id="" tvg-logo="https://raw.githubusercontent.com/chivy141206/cvmedia/main/img/orange4.png",Orange Sport 4
 #http://stream.cvmtv.site/ORS4?token=live
 
-#EXTINF:-1 group-title="Ziggo Sport - Hà Lan" tvg-id="zselect" tvg-logo="https://raw.githubusercontent.com/chivy141206/cvmedia/main/img/select.png",Ziggo Sport - Hà Lan Select
+#EXTINF:-1 group-title="Ziggo Sport - Hà Lan" tvg-id="zselect" tvg-logo="https://raw.githubusercontent.com/chivy141206/cvmedia/main/img/select.png",Ziggo Sport Select
 #http://stream.cvmtv.site/ZiggoS?token=live
-#EXTINF:-1 group-title="Ziggo Sport - Hà Lan" tvg-id="zvoetbal" tvg-logo="https://raw.githubusercontent.com/chivy141206/cvmedia/main/img/voetbal.png",Ziggo Sport - Hà Lan Voetbal
+#EXTINF:-1 group-title="Ziggo Sport - Hà Lan" tvg-id="zvoetbal" tvg-logo="https://raw.githubusercontent.com/chivy141206/cvmedia/main/img/voetbal.png",Ziggo Sport  Voetbal
 #http://stream.cvmtv.site/ZiggoV?token=live
-#EXTINF:-1 group-title="Ziggo Sport - Hà Lan" tvg-id="zgolf" tvg-logo="https://raw.githubusercontent.com/chivy141206/cvmedia/main/img/golf.png",Ziggo Sport - Hà Lan Golf
+#EXTINF:-1 group-title="Ziggo Sport - Hà Lan" tvg-id="zgolf" tvg-logo="https://raw.githubusercontent.com/chivy141206/cvmedia/main/img/golf.png",Ziggo Sport  Golf
 #http://stream.cvmtv.site/ZiggoG?token=live
 
-#EXTINF:-1 group-title="Canal+ Ba Lan" tvg-id="canalsp1" tvg-logo="https://n-4-3.dcs.redcdn.pl/file/o2/n/edytorEPG/logo/logotype_66245.png",Canal+ Ba Lan 1
+#EXTINF:-1 group-title="Canal+ Ba Lan" tvg-id="canalsp1" tvg-logo="https://n-4-3.dcs.redcdn.pl/file/o2/n/edytorEPG/logo/logotype_66245.png",Canal+ Sport 1
 http://stream.cvmtv.site/canal1?token=live
-#EXTINF:-1 group-title="Canal+ Ba Lan" tvg-id="canalsp2" tvg-logo="https://r.dcs.redcdn.pl/https/o2/n/edytorEPG/logo/logotype_66249.png",Canal+ Ba Lan 2
+#EXTINF:-1 group-title="Canal+ Ba Lan" tvg-id="canalsp2" tvg-logo="https://r.dcs.redcdn.pl/https/o2/n/edytorEPG/logo/logotype_66249.png",Canal+ Sport 2
 http://stream.cvmtv.site/canal2?token=live
-#EXTINF:-1 group-title="Canal+ Ba Lan" tvg-id="canalsp5" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ef/CANAL%2B_Sport_5.png",Canal+ Ba Lan 5
+#EXTINF:-1 group-title="Canal+ Ba Lan" tvg-id="canalsp5" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ef/CANAL%2B_Sport_5.png",Canal+ Sport 5
 http://stream.cvmtv.site/canal5?token=live
 #EXTINF:-1 group-title="Canal+ Ba Lan" tvg-id="canalpre" tvg-logo="https://r.dcs.redcdn.pl/http/o2/n/edytorEPG/logo/logotype_815958.png",Canal+ Premium
 http://stream.cvmtv.site/canalpre?token=live
 
-#EXTINF:-1 group-title="Eleven Sports - Ba Lan" tvg-id="eleven1" tvg-logo="https://r.dcs.redcdn.pl/https/o2/n/edytorEPG/logo/logotype_391293.png",Eleven Sports - Ba Lan 1
+#EXTINF:-1 group-title="Eleven Sports - Ba Lan" tvg-id="eleven1" tvg-logo="https://r.dcs.redcdn.pl/https/o2/n/edytorEPG/logo/logotype_391293.png",Eleven Sports 1
 http://stream.cvmtv.site/E1?token=live
-#EXTINF:-1 group-title="Eleven Sports - Ba Lan" tvg-id="eleven2" tvg-logo="https://r.dcs.redcdn.pl/https/o2/n/edytorEPG/logo/logotype_391296.png",Eleven Sports - Ba Lan 2
+#EXTINF:-1 group-title="Eleven Sports - Ba Lan" tvg-id="eleven2" tvg-logo="https://r.dcs.redcdn.pl/https/o2/n/edytorEPG/logo/logotype_391296.png",Eleven Sports 2
 http://stream.cvmtv.site/E2?token=live
-#EXTINF:-1 group-title="Eleven Sports - Ba Lan" tvg-id="eleven3" tvg-logo="https://r.dcs.redcdn.pl/https/o2/n/edytorEPG/logo/logotype_391299.png",Eleven Sports - Ba Lan 3
+#EXTINF:-1 group-title="Eleven Sports - Ba Lan" tvg-id="eleven3" tvg-logo="https://r.dcs.redcdn.pl/https/o2/n/edytorEPG/logo/logotype_391299.png",Eleven Sports 3
 http://stream.cvmtv.site/E3?token=live
-#EXTINF:-1 group-title="Eleven Sports - Ba Lan" tvg-id="eleven4" tvg-logo="https://r.dcs.redcdn.pl/https/o2/n/edytorEPG/logo/logotype_391302.png",Eleven Sports - Ba Lan 4
+#EXTINF:-1 group-title="Eleven Sports - Ba Lan" tvg-id="eleven4" tvg-logo="https://r.dcs.redcdn.pl/https/o2/n/edytorEPG/logo/logotype_391302.png",Eleven Sports 4
 http://stream.cvmtv.site/E4?token=live
 
 #EXTINF:-1 group-title="Match - Nga" tvg-id="match" tvg-logo="https://new.matchtv.ru/assets/2305181729/images/channels/130.jpg",Match TV

@@ -103,19 +103,28 @@ http://stream.cvmtv.site/ES1?token=live
 #EXTINF:-1 group-title="Eurosport" tvg-id="es2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Eurosport_2_Logo_2015.svg/2560px-Eurosport_2_Logo_2015.svg.png",Eurosport 2
 http://stream.cvmtv.site/ES2?token=live
 
-#EXTINF:-1 group-title="Thể thao Ba Lan" tvg-id="polsatsp" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Polsat_Sport_2021_gradient.svg/1200px-Polsat_Sport_2021_gradient.svg.png",Polsat Sport
+#EXTINF:-1 group-title="Kênh thể thao Ba Lan" tvg-id="polsatsp" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Polsat_Sport_2021_gradient.svg/1200px-Polsat_Sport_2021_gradient.svg.png",Polsat Sport
 http://stream.cvmtv.site/Polsat?token=live
-#EXTINF:-1 group-title="Thể thao Ba Lan" tvg-id="polsatspex" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Polsat_Sport_Extra_2021_gradient.svg/1280px-Polsat_Sport_Extra_2021_gradient.svg.png",Polsat Sport Extra
+#EXTINF:-1 group-title="Kênh thể thao Ba Lan" tvg-id="polsatspex" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Polsat_Sport_Extra_2021_gradient.svg/1280px-Polsat_Sport_Extra_2021_gradient.svg.png",Polsat Sport Extra
 http://stream.cvmtv.site/PolsatE?token=live
-#EXTINF:-1 group-title="Thể thao Ba Lan" tvg-id="polsatspn" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Polsat_Sport_News_2021_horizontal_gradient.svg/1920px-Polsat_Sport_News_2021_horizontal_gradient.svg.png",Polsat Sport News
+#EXTINF:-1 group-title="Kênh thể thao Ba Lan" tvg-id="polsatspn" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Polsat_Sport_News_2021_horizontal_gradient.svg/1920px-Polsat_Sport_News_2021_horizontal_gradient.svg.png",Polsat Sport News
 http://stream.cvmtv.site/PolsatN?token=live
-#EXTINF:-1 group-title="Thể thao Ba Lan" tvg-id="tvpsport" tvg-logo="https://raw.githubusercontent.com/chivy141206/cvmedia/main/img/tvpsport.png",TVP Sport
+#EXTINF:-1 group-title="Kênh thể thao Ba Lan" tvg-id="tvpsport" tvg-logo="https://raw.githubusercontent.com/chivy141206/cvmedia/main/img/tvpsport.png",TVP Sport
 http://stream.cvmtv.site/TVPS?token=live
 
-#EXTINF:-1 group-title="Thể thao Hàn Quốc" tvg-id="" tvg-logo="https://www.spotv.net/images/calendar_spotvgolf&health.png",SPOTV Golf&Health
+#EXTINF:-1 group-title="Kênh thể thao Hàn Quốc" tvg-id="" tvg-logo="https://www.spotv.net/images/calendar_spotvgolf&health.png",SPOTV Golf&Health
 http://stream.cvmtv.site/SpoGolf?token=live
-#EXTINF:-1 group-title="Thể thao Hàn Quốc" tvg-id="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/99/Jtbcgolf_logo.png",JTBC Golf
+#EXTINF:-1 group-title="Kênh thể thao Hàn Quốc" tvg-id="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/99/Jtbcgolf_logo.png",JTBC Golf
 http://stream.cvmtv.site/JTBCG?token=live
+
+#EXTINF:-1 group-title="Kênh thể thao Trung Quốc" tvg-logo="https://p1.img.cctvpic.com/photoAlbum/templet/common/DEPA1532314258547503/cctv-5_180817.png",CCTV-5
+http://stream.cvmtv.site/CCTV5?token=live
+#EXTINF:-1 group-title="Kênh thể thao Trung Quốc" tvg-logo="https://p1.img.cctvpic.com/photoAlbum/templet/common/DEPA1536890041758372/cctv5plus_20180904.png",CCTV-5+
+http://stream.cvmtv.site/CCTV5p?token=live
+#EXTINF:-1 group-title="Kênh thể thao Trung Quốc" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/d/d4/Great_Sports.jpg",Great Sports
+http://stream.cvmtv.site/GrSpCN?token=live
+#EXTINF:-1 group-title="Kênh thể thao Trung Quốc" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/2/28/Guangdong_Sports_2019.png",Guangdong Sports
+http://stream.cvmtv.site/GDSp?token=live
 
 #EXTINF:-1 group-title="ESPN MX" tvg-id="espnmx" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/768px-ESPN_wordmark.svg.png",ESPN
 
@@ -151,24 +160,20 @@ http://stream.cvmtv.site/BBC_RB?token=live
 http://stream.cvmtv.site/CCTV1?token=live
 #EXTINF:-1 group-title="Kênh quảng bá - Trung Quốc" tvg-logo="https://p1.img.cctvpic.com/photoAlbum/templet/common/DEPA1532314258547503/cctv-3_180817.png",CCTV-3
 http://stream.cvmtv.site/CCTV3?token=live
-#EXTINF:-1 group-title="Kênh quảng bá - Trung Quốc" tvg-logo="https://p1.img.cctvpic.com/photoAlbum/templet/common/DEPA1532314258547503/cctv-5_180817.png",CCTV-5
-http://stream.cvmtv.site/CCTV5?token=live
-#EXTINF:-1 group-title="Kênh quảng bá - Trung Quốc" tvg-logo="https://p1.img.cctvpic.com/photoAlbum/templet/common/DEPA1536890041758372/cctv5plus_20180904.png",CCTV-5+
-http://stream.cvmtv.site/CCTV5p?token=live
 #EXTINF:-1 group-title="Kênh quảng bá - Trung Quốc" tvg-logo="https://p1.img.cctvpic.com/photoAlbum/templet/common/DEPA1532314258547503/cctv-6_180817.png",CCTV-6
-http://stream.cvmtv.site/CCTV6?token=live
+#http://stream.cvmtv.site/CCTV6?token=live
 #EXTINF:-1 group-title="Kênh quảng bá - Trung Quốc" tvg-logo="https://p1.img.cctvpic.com/photoAlbum/templet/common/DEPA1532314258547503/cctv-8_180817.png",CCTV-8
-http://stream.cvmtv.site/CCTV8?token=live
+#http://stream.cvmtv.site/CCTV8?token=live
 #EXTINF:-1 group-title="Kênh quảng bá - Trung Quốc" tvg-logo="https://p1.img.cctvpic.com/photoAlbum/templet/common/DEPA1532314258547503/cctv-13_180817.png",CCTV-13
 http://stream.cvmtv.site/CCTV13?token=live
 #EXTINF:-1 group-title="Kênh quảng bá - Trung Quốc" tvg-logo="https://p1.img.cctvpic.com/photoAlbum/templet/common/DEPA1532314258547503/cctv-14_180817.png",CCTV-14
-http://stream.cvmtv.site/CCTV14?token=live
+#http://stream.cvmtv.site/CCTV14?token=live
 #EXTINF:-1 group-title="Kênh quảng bá - Trung Quốc" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/TVB_Jade_logo.svg/1200px-TVB_Jade_logo.svg.png",TVB Jade
 http://stream.cvmtv.site/Jade?token=live
 #EXTINF:-1 group-title="Kênh quảng bá - Trung Quốc" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/12/Free-Pearl.png",TVB Pearl
-http://stream.cvmtv.site/Pearl?token=live
+#http://stream.cvmtv.site/Pearl?token=live
 #EXTINF:-1 group-title="Kênh quảng bá - Trung Quốc" tvg-logo="https://raw.githubusercontent.com/chivy141206/cvmedia/main/img/j2.png",TVB J2
-http://stream.cvmtv.site/J2?token=live
+#http://stream.cvmtv.site/J2?token=live
 #EXTINF:-1 group-title="Kênh quảng bá - Trung Quốc" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/ViuTV_logo.svg/1920px-ViuTV_logo.svg.png",ViuTV
 http://stream.cvmtv.site/Viu?token=live
 #EXTINF:-1 group-title="Kênh quảng bá - Trung Quốc" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/ViuTVsix-logo.svg/1024px-ViuTVsix-logo.svg.png",ViuTVsix

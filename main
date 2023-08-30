@@ -19,8 +19,8 @@ http://stream.cvmtv.site/htvtt?token=live
 #EXTINF:-1 group-title="CVmedia Live 4K" tvg-logo="https://raw.githubusercontent.com/chivy141206/cvmedia/main/img/4k.png",CVmedia Live 4K
 http://stream.cvmtv.site/event?token=live
 
-#EXTINF:-1 group-title="Thể thao tổng hợp" tvg-logo="https://raw.githubusercontent.com/chivy141206/cvmedia/main/img/alkass.png",Alkass One
-http://stream.cvmtv.site/AK1?token=live
+#EXTINF:-1 group-title="Thể thao tổng hợp" tvg-logo="https://raw.githubusercontent.com/chivy141206/cvmedia/main/img/pptv36.png",PPTV36
+http://stream.cvmtv.site/P36?token=live
 #EXTINF:-1 group-title="Thể thao tổng hợp" tvg-id="la2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/RSI_La_2_2012.svg/1200px-RSI_La_2_2012.svg.png",RSI LA2
 http://stream.cvmtv.site/LA2?token=live
 #EXTINF:-1 group-title="Thể thao tổng hợp" tvg-id="m4" tvg-logo="https://upload.wikimedia.org/wikipedia/hu/thumb/f/fd/M4_logo.png/1200px-M4_logo.png",M4 Sport

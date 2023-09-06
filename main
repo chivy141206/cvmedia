@@ -24,9 +24,9 @@ http://stream.cvmtv.site/event?token=live
 #EXTINF:-1 group-title="Thể thao tổng hợp" tvg-logo="https://upload.wikimedia.org/wikipedia/vi/8/8f/AFC_U23_Championship.png",U23 Singapore vs U23 Yemen
 #http://stream.cvmtv.site/U23?token=live
 #EXTINF:-1 group-title="Thể thao tổng hợp" tvg-logo="https://raw.githubusercontent.com/chivy141206/cvmedia/main/img/alkass.png",Alkass One
-http://stream.cvmtv.site/AK1?token=live
+#http://stream.cvmtv.site/AK1?token=live
 #EXTINF:-1 group-title="Thể thao tổng hợp" tvg-logo="https://p1.img.cctvpic.com/photoAlbum/templet/common/DEPA1536890041758372/cctv5plus_20180904.png",CCTV-5+
-http://stream.cvmtv.site/CCTV5p?token=live
+#http://stream.cvmtv.site/CCTV5p?token=live
 #EXTINF:-1 group-title="Thể thao tổng hợp" tvg-id="la2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/RSI_La_2_2012.svg/1200px-RSI_La_2_2012.svg.png",RSI LA2
 http://stream.cvmtv.site/LA2?token=live
 #EXTINF:-1 group-title="Thể thao tổng hợp" tvg-id="m4" tvg-logo="https://upload.wikimedia.org/wikipedia/hu/thumb/f/fd/M4_logo.png/1200px-M4_logo.png",M4 Sport

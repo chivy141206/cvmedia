@@ -21,12 +21,16 @@ http://stream.cvmtv.site/htvtt?token=live
 #EXTINF:-1 group-title="CVmedia Live 4K" tvg-logo="https://raw.githubusercontent.com/chivy141206/cvmedia/main/img/4k.png",CVmedia Live 4K
 http://stream.cvmtv.site/event?token=live
 
-#EXTINF:-1 group-title="Thể thao tổng hợp" tvg-logo="https://raw.githubusercontent.com/chivy141206/cvmedia/main/img/pptv36.png",PPTV36
-http://stream.cvmtv.site/P36?token=live
+#EXTINF:-1 group-title="Thể thao tổng hợp" tvg-logo="https://raw.githubusercontent.com/chivy141206/cvmedia/main/img/alkass.png",Alkass One
+http://stream.cvmtv.site/AK1?token=live
+#EXTINF:-1 group-title="Thể thao tổng hợp" tvg-logo="https://p1.img.cctvpic.com/photoAlbum/templet/common/DEPA1536890041758372/cctv5plus_20180904.png",CCTV-5+
+http://stream.cvmtv.site/CCTV5p?token=live
 #EXTINF:-1 group-title="Thể thao tổng hợp" tvg-id="la2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/RSI_La_2_2012.svg/1200px-RSI_La_2_2012.svg.png",RSI LA2
 http://stream.cvmtv.site/LA2?token=live
 #EXTINF:-1 group-title="Thể thao tổng hợp" tvg-id="m4" tvg-logo="https://upload.wikimedia.org/wikipedia/hu/thumb/f/fd/M4_logo.png/1200px-M4_logo.png",M4 Sport
 http://stream.cvmtv.site/M4?token=live
+#EXTINF:-1 group-title="Thể thao tổng hợp" tvg-logo="https://raw.githubusercontent.com/chivy141206/cvmedia/main/img/pptv36.png",PPTV36
+http://stream.cvmtv.site/P36?token=live
 #EXTINF:-1 group-title="Thể thao tổng hợp" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3c/Viaplay_logo.png",ViaplayXtra
 http://stream.cvmtv.site/ViaXtra?token=live
 
@@ -37,9 +41,9 @@ http://stream.cvmtv.site/StarSL1?token=live
 #EXTINF:-1 group-title="Premier League - Ngoại hạng Anh" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/3b/Star-sports-select-2.png",Star Sports Select 2
 http://stream.cvmtv.site/StarSL2?token=live
 #EXTINF:-1 group-title="Premier League - Ngoại hạng Anh" tvg-id="digi1" tvg-logo="https://static.wikia.nocookie.net/tvfanon6528/images/2/20/Digi_Sport_1_%282012-.n.v.%29.png",Digi Sport 1
-http://stream.cvmtv.site/DigiS1?token=live
+#http://stream.cvmtv.site/DigiS1?token=live
 #EXTINF:-1 group-title="Premier League - Ngoại hạng Anh" tvg-id="digi2" tvg-logo="https://static.wikia.nocookie.net/tvfanon6528/images/2/25/Digi_Sport_2_%282012-.n.v.%29.png",Digi Sport 2
-http://stream.cvmtv.site/DigiS2?token=live
+#http://stream.cvmtv.site/DigiS2?token=live
 #EXTINF:-1 group-title="Premier League - Ngoại hạng Anh" tvg-logo="https://cms.dmpcdn.com/livetv/2023/05/03/ba4c4510-e966-11ed-896e-69ce273284a6_webp_original.png",True Premier Football 2
 
 #EXTINF:-1 group-title="Premier League - Ngoại hạng Anh" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Setanta-logo.jpg/640px-Setanta-logo.jpg",Setanta Sports + Ukraine
@@ -121,8 +125,6 @@ http://stream.cvmtv.site/JTBCG?token=live
 
 #EXTINF:-1 group-title="Kênh thể thao Trung Quốc" tvg-logo="https://p1.img.cctvpic.com/photoAlbum/templet/common/DEPA1532314258547503/cctv-5_180817.png",CCTV-5
 #http://stream.cvmtv.site/CCTV5?token=live
-#EXTINF:-1 group-title="Kênh thể thao Trung Quốc" tvg-logo="https://p1.img.cctvpic.com/photoAlbum/templet/common/DEPA1536890041758372/cctv5plus_20180904.png",CCTV-5+
-#http://stream.cvmtv.site/CCTV5p?token=live
 #EXTINF:-1 group-title="Kênh thể thao Trung Quốc" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/d/d4/Great_Sports.jpg",Great Sports
 #http://stream.cvmtv.site/GrSpCN?token=live
 #EXTINF:-1 group-title="Kênh thể thao Trung Quốc" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/2/28/Guangdong_Sports_2019.png",Guangdong Sports

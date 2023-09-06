@@ -1,12 +1,12 @@
 #EXTM3U url-tvg="http://stream.cvmtv.site:5000/epg.xml,http://trada.info/epg.xml"
 #EXTINF:-1 group-title="Kênh trong nước" tvg-id="vtv1hd" tvg-logo="https://raw.githubusercontent.com/chivy141206/cvmedia/main/img/vtv1.png",VTV1 HD
 #EXTVLCOPT:http-user-agent=CVmedia
-http://stream.cvmtv.site:1001/VTV1HD?token=live
+http://stream.cvmtv.site:1000/VTV1HD?token=live
 #EXTINF:-1 group-title="Kênh trong nước" tvg-id="vtv2hd" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/VTV2_logo_2013_final.svg/1200px-VTV2_logo_2013_final.svg.png",VTV2 HD
 #http://stream.cvmtv.site/vtv2?token=live
 #EXTINF:-1 group-title="Kênh trong nước" tvg-id="vtv3hd" tvg-logo="https://raw.githubusercontent.com/chivy141206/cvmedia/main/img/vtv3.png",VTV3 HD
 #EXTVLCOPT:http-user-agent=CVmedia
-http://stream.cvmtv.site:1003/VTV3HD?token=live
+http://stream.cvmtv.site:1000/VTV3HD?token=live
 #EXTINF:-1 group-title="Kênh trong nước" tvg-id="vtv5hd" tvg-logo="https://raw.githubusercontent.com/chivy141206/cvmedia/main/img/vtv5.png",VTV5 HD
 http://stream.cvmtv.site/vtv5?token=live
 #EXTINF:-1 group-title="Kênh trong nước" tvg-id="vtv5hdtnb" tvg-logo="https://raw.githubusercontent.com/chivy141206/cvmedia/main/img/vtv5tnb.png",VTV5 Tây Nam Bộ

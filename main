@@ -22,7 +22,7 @@ http://stream.cvmtv.site/htvtt?token=live
 http://stream.cvmtv.site/event?token=live
 
 #EXTINF:-1 group-title="Thể thao tổng hợp" tvg-logo="https://upload.wikimedia.org/wikipedia/vi/8/8f/AFC_U23_Championship.png",U23 Guam vs U23 Singapore
-http://stream.cvmtv.site/U23?token=live
+#http://stream.cvmtv.site/U23?token=live
 #EXTINF:-1 group-title="Thể thao tổng hợp" tvg-logo="https://raw.githubusercontent.com/chivy141206/cvmedia/main/img/alkass.png",Alkass One
 http://stream.cvmtv.site/AK1?token=live
 #EXTINF:-1 group-title="Thể thao tổng hợp" tvg-logo="https://raw.githubusercontent.com/chivy141206/cvmedia/main/img/alkass.png",Alkass Two

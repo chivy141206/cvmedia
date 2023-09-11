@@ -18,9 +18,6 @@ http://stream.cvmtv.site/htv2?token=live
 #EXTINF:-1 group-title="Kênh trong nước" tvg-id="htvthethaohd" tvg-logo="https://raw.githubusercontent.com/chivy141206/cvmedia/main/img/htvtt.png",HTV Thể thao
 http://stream.cvmtv.site/htvtt?token=live
 
-#EXTINF:-1 group-title="CVmedia Live 4K" tvg-logo="https://raw.githubusercontent.com/chivy141206/cvmedia/main/img/4k.png",CVmedia Live 4K
-http://stream.cvmtv.site/event?token=live
-
 #EXTINF:-1 group-title="Thể thao tổng hợp" tvg-logo="https://upload.wikimedia.org/wikipedia/vi/8/8f/AFC_U23_Championship.png",U23 Guam vs U23 Singapore
 #http://stream.cvmtv.site/U23?token=live
 #EXTINF:-1 group-title="Thể thao tổng hợp" tvg-logo="https://raw.githubusercontent.com/chivy141206/cvmedia/main/img/alkass.png",Alkass One

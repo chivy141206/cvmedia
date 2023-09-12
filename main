@@ -18,8 +18,8 @@ http://stream.cvmtv.site/htv2?token=live
 #EXTINF:-1 group-title="Kênh trong nước" tvg-id="htvthethaohd" tvg-logo="https://raw.githubusercontent.com/chivy141206/cvmedia/main/img/htvtt.png",HTV Thể thao
 http://stream.cvmtv.site/htvtt?token=live
 
-#EXTINF:-1 group-title="Thể thao tổng hợp" tvg-logo="https://upload.wikimedia.org/wikipedia/vi/8/8f/AFC_U23_Championship.png",U23 Guam vs U23 Singapore
-#http://stream.cvmtv.site/U23?token=live
+#EXTINF:-1 group-title="Thể thao tổng hợp" tvg-logo="https://cdn.haitrieu.com/wp-content/uploads/2022/04/Logo-Doi-Tuyen-Argentina.png",3h 13/9 Bolivia vs Argentina
+http://stream.cvmtv.site/ARG26?token=live
 #EXTINF:-1 group-title="Thể thao tổng hợp" tvg-logo="https://raw.githubusercontent.com/chivy141206/cvmedia/main/img/alkass.png",Alkass One
 http://stream.cvmtv.site/AK1?token=live
 #EXTINF:-1 group-title="Thể thao tổng hợp" tvg-logo="https://raw.githubusercontent.com/chivy141206/cvmedia/main/img/alkass.png",Alkass Two
@@ -101,8 +101,8 @@ http://stream.cvmtv.site/MF1?token=live
 http://stream.cvmtv.site/MF2?token=live
 #EXTINF:-1 group-title="Match - Nga" tvg-id="mf3" tvg-logo="https://new.matchtv.ru/assets/2305181729/images/channels/140.jpg",Match Futbol 3
 http://stream.cvmtv.site/MF3?token=live
-#EXTINF:-1 group-title="Match - Nga" tvg-id="" tvg-logo="https://new.matchtv.ru/assets/2307251725/images/channels/138.jpg",Match Igra
-http://stream.cvmtv.site/MIgra?token=live
+#EXTINF:-1 group-title="Match - Nga" tvg-id="" tvg-logo="https://new.matchtv.ru/assets/202308281003/images/channels/7.jpg",Match Premier
+http://stream.cvmtv.site/MPre?token=live
 
 #EXTINF:-1 group-title="Sport Klub" tvg-id="" tvg-logo="https://images-web.ug-be.cdn.united.cloud/2020/05/28/13/02/26/sk1hd_logo_16_9_light_160x90_0e2f3e64_327f_4e23_bdc0_1109dec1113a.png",Sport Klub 1
 http://stream.cvmtv.site/SK1?token=live

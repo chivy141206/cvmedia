@@ -19,7 +19,7 @@ http://stream.cvmtv.site/htv2?token=live
 http://stream.cvmtv.site/htvtt?token=live
 
 #EXTINF:-1 group-title="Thể thao tổng hợp" tvg-logo="https://cdn.haitrieu.com/wp-content/uploads/2022/04/Logo-Doi-Tuyen-Argentina.png",3h 13/9 Bolivia vs Argentina
-http://stream.cvmtv.site/ARG26?token=live
+#http://stream.cvmtv.site/ARG26?token=live
 #EXTINF:-1 group-title="Thể thao tổng hợp" tvg-logo="https://raw.githubusercontent.com/chivy141206/cvmedia/main/img/alkass.png",Alkass One
 http://stream.cvmtv.site/AK1?token=live
 #EXTINF:-1 group-title="Thể thao tổng hợp" tvg-logo="https://raw.githubusercontent.com/chivy141206/cvmedia/main/img/alkass.png",Alkass Two
